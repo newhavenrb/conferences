@@ -77,4 +77,4 @@ Tools
 TODOs
 -----
 
-* coreyhaines is planning a Global Day of Code Retreat on 2011/12/3
+coreyhaines is planning a Global Day of Code Retreat on 2011/12/3
