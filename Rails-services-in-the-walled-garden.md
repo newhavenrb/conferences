@@ -18,22 +18,22 @@ Synopsis
 Context Rails + SOA + Walled garden
 -----------------------------------
 
-* Walled garden: services within a business, not used outside
+* Rails: What about Sinatra + Padrino?  Rails is popular, but talk extends to Sinatra
 * SOA: Sevice Oriented Architecture
-  * Advantages
-    * Map to biz verticals, self contained
-    * Few ripple effects besides API
-    * Indepentent evolution/deployment
-    * What's being used?
-    * Easier to understand/maintain with smaller codebase
-  * Disadvantages
-    * Authentication/authorization
-    * ACID transactions between databases
-    * Versioning
-    * Continuous integration
-* Rails
-  * What about Sinatra + Padrino?
-  * Rails is popular, but talk extends to Sinatra
+* Walled garden: services within a business, not used outside
+
+* Advantages
+  * Map to biz verticals, self contained
+  * Few ripple effects besides API
+  * Indepentent evolution/deployment
+  * What's being used?
+  * Easier to understand/maintain with smaller codebase
+* Disadvantages
+  * Authentication/authorization
+  * ACID transactions between databases
+  * Versioning
+  * Continuous integration
+
 * Walled Garden
   * Easier to have roadmap
   * HATEOAS is hard http://en.wikipedia.org/wiki/HATEOAS
@@ -59,17 +59,39 @@ Authorization
 * Fragmentation is a problem
 * Centralized roles and federated rules can be a good solution
 * The role is centrally stored, the meaning is up to the application to figure out
+
+Latency
+-------
+
 * No silver bullet to the HTTP communication problem
 * Keep performance in mind; monitor trends
-  * Small payloads
-  * Caching important
-    * Fragment caching
-    * Page cache if no auth important
-    * Etags
-    * ActiveResource doesn't have good support :(
-    * Maybe try Wrest http://github.com/c42/wrest
-    * Between networks?  Reverse proxy
-  * Pagination imporant for index actions
-    * ActiveResource + WillPaginate
-    * Do it over XML tag attributes
-    * Made PoxPaginate http://github.com/c42/pox_paginate
+* Small payloads
+* Caching important
+  * Fragment caching
+  * Page cache if no auth important
+  * Etags
+  * ActiveResource doesn't have good support :(
+  * Maybe try Wrest http://github.com/c42/wrest
+  * Between networks?  Reverse proxy
+* Pagination imporant for index actions
+  * ActiveResource + WillPaginate
+  * Do it over XML tag attributes
+  * Made PoxPaginate http://github.com/c42/pox_paginate
+
+Sharing Data
+------------
+
+* Shared database == evil
+  * Defeats the purpose of separating services
+  * Master/slave read-only is a little better
+* Observer pattern
+  * Callback URIs
+  * Callback hell
+  * Async makes it better
+* MQ (e.g. Rabbit MQ http://www.rabbitmq.com/)
+  * Centralized bus
+  * Register listeners
+  * Async out of the box
+* Local Resource Cache
+  * Store in DB, makes for cheaper joins
+  * But... it's still a cache (can't update, maybe out of date, etc...)
