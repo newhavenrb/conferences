@@ -1,6 +1,8 @@
 Synopsis
 --------
 
+Presenters: @niranjan_p, @ponnappa
+
 > In typical service oriented architectures, monolithic applications are sliced along domain verticals to create several independently evolving 'services' that can be used in combination to achieve various outcomes.
 >
 > Rails applications lend themselves to this architecture beautifully and are slowly making inroads in big organisations for this reason. One of the big problems with this approach is that analyzing and managing large quantities of data from multiple services to produce a result becomes very hard. What was originally a relatively simple task when all data sat in the same database as part of a monolithic application, becomes, when split into multiple services, a whole different beast.
@@ -95,3 +97,23 @@ Sharing Data
 * Local Resource Cache
   * Store in DB, makes for cheaper joins
   * But... it's still a cache (can't update, maybe out of date, etc...)
+
+Versioning
+----------
+
+* You can run version 1 and version 2 at the same time, under a frontend
+
+Engineering
+-----------
+
+* Standardize on versions as much as you can
+* Reduces surprises
+* Common code in gems -- treat it like any other library (you can run your own gem server)
+* People or machines:  segment your controllers
+* Configuration:  use something like Chef/Puppet
+
+Q&A
+---
+
+* Timeouts: track, possibly go async
+* Solution to failure: Lightweight + canonical
