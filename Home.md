@@ -5,3 +5,4 @@ Talks
 * [[Advanced EventMachine]]
 * [[LocalCommunity.Build]]
 * [[Keeping Ruby Reasonable]]
+* [[Rails services in the walled garden]]
