@@ -1,5 +1,5 @@
 Synopsis
-========
+--------
 
 > In typical service oriented architectures, monolithic applications are sliced along domain verticals to create several independently evolving 'services' that can be used in combination to achieve various outcomes.
 >
@@ -16,7 +16,7 @@ Synopsis
 >     * Propagating updates using a message queue and the pros and cons of integrating with them in Ruby
 
 Context Rails + SOA + Walled garden
-===================================
+-----------------------------------
 
 * Walled garden: services within a business, not used outside
 * SOA: Sevice Oriented Architecture
@@ -70,3 +70,6 @@ Authorization
     * Maybe try Wrest http://github.com/c42/wrest
     * Between networks?  Reverse proxy
   * Pagination imporant for index actions
+    * ActiveResource + WillPaginate
+    * Do it over XML tag attributes
+    * Made PoxPaginate http://github.com/c42/pox_paginate
