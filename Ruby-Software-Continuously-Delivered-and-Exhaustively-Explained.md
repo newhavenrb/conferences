@@ -69,10 +69,18 @@ The Right Stuff
 * Feature Toggles
   * Deploy the feature, not turned on.  Turn it on later.
   * Good for long-running stories
+  * `if feature?(:foo)`
 
 But!
 
 * Push for smaller features
+
+Branching
+---------
+
+* Them: people to master
+* Git flow-ish-ness
+  * They don't like gitflow too much though
 
 Takeaways
 ---------
