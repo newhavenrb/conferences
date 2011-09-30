@@ -14,5 +14,21 @@ JRuby
 * Engine Yard Cloud -- official JRuby
 * Book out: **Using JRuby**
 
+Polyglot?
+---------
+
+* Ruby's great, but some languages are better than Ruby at certain things
+
+    gem install mvn:rhino:js
+
+* Group ID: rhino
+* Artifact ID: js
+
+### Caveats
+
+* Rubygems.org disallows external deps
+* Bundler doesn't understand mvn gems
+* Help wanted
+
 Takeaways
 ---------
