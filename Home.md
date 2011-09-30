@@ -18,6 +18,7 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 * [[Message in a bottle]]
 * [[JRuby: Polyglot Heaven]]
 * [[Practical Metaprogramming]]
+* [[Getting Fancy on Rubinius]]
 
 Unattended
 
