@@ -1,6 +1,8 @@
 Synopsis
 --------
 
+Presenter: @sgharms
+
 > I have completed a second major release of a library that fully conjugates Classical Latin verbs in each of their 133 froms * 5 standard paradigms.
 >
 > Owing to the irregularity of human communication, modeling the provision of unambiguous answers (return values) to ambiguously asked things (flexible / incomplete method calls) might have required hundreds, if not thousands, of method definitions or static values entered in a database.
@@ -69,3 +71,4 @@ Takeaways
 ---------
 
 * Learn ancestor chain
+* Corey Haines: "Extraction into modules allow you to build super-fast tests!" (GoGaRuCo 2011)
