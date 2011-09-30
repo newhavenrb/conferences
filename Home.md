@@ -1,5 +1,9 @@
 ## Talks
 
+See http://rubyconfirmate.heroku.com/users/280
+
+Want to contribute?  Adding the synopses is a good thing.  :)
+
 ### Thursday
 
 * [[So you think you can code]]
