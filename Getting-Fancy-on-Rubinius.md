@@ -30,3 +30,19 @@ Ruby integration
 
 * It'd be a shame if it weren't there.  :)
 * Friendly coexistance with Ruby
+* First class Blocks -- you can pass multiples
+* Lots of cool parts, lispy bits
+* Takes advantage of how Rubinius is put together
+
+Implementation Details
+----------------------
+
+* The compiler is just a subclass of the main Rubinius compiler
+* Trying to reuse a lot of Rubinius internals
+
+Takeaways
+---------
+
+* Fancy is a cool, but simple Ruby-ish language
+* Rubinius is a great platform to play around with dynamic languages
+* Not the only "other" Rubinius language
