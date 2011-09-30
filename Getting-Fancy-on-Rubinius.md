@@ -15,3 +15,18 @@ Intro
 * Fancy was written in C++, but ported to the Rubinius VM and rewritten in Ruby.  It was shorter and faster!
 * Goals: easy, consistent, newbie friendly
 * Ruby influenced, along with Smalltalk, Io, Erlang
+* Objective-C and Python bits too
+
+Async
+-----
+
+* Futures
+* Actors: asynchronous message passing
+* Syntax for async and actors (e.g. `@@`)
+* Actor Ring example from Erlang
+
+Ruby integration
+----------------
+
+* It'd be a shame if it weren't there.  :)
+* Friendly coexistance with Ruby
