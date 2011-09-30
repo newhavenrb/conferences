@@ -19,6 +19,7 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 * [[JRuby: Polyglot Heaven]]
 * [[Practical Metaprogramming]]
 * [[Getting Fancy on Rubinius]]
+* [[Nikita: The Ruby Secret Agent]]
 
 Unattended
 
