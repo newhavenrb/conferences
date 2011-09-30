@@ -37,13 +37,31 @@ But really, most people say metaprogramming meaning as style.  You're metaprogra
 Terminology
 -----------
 
-Tier 1: advanced method redirection
+**Tier 1:** advanced method redirection
 
 * Open class
   * Kernel method
   * Monkeypatching
+  * Singleton method
   * `attr_*`
   * `alias`ing
+
+Overused?  They're power tools; you need to learn how to use them.  (The "table saw" rule.)
+
+**Tier 2:** inception and interpretation *as handled by you*
+
+* `Object#send`
+* `method_missing`
+* ...
+
+**Tier 3:** Dynamic Generation and inclusion of modules
+
+With great power comes great responsibility.
+
+* Dynamically generate namepaces
+* `class_eval`
+* `instance_eval`
+* ...
 
 Takeaways
 ---------
