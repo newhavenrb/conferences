@@ -16,3 +16,4 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 
 * [[Ruby Software Continuously Delivered and Exhaustively Explained]]
 * [[Message in a bottle]]
+* [[JRuby: Polyglot Heaven]]
