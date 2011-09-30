@@ -11,3 +11,4 @@
 ### Friday
 
 * [[Ruby Software Continuously Delivered and Exhaustively Explained]]
+* [[Message in a bottle]]
