@@ -17,3 +17,7 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 * [[Ruby Software Continuously Delivered and Exhaustively Explained]]
 * [[Message in a bottle]]
 * [[JRuby: Polyglot Heaven]]
+
+Unattended
+
+* ["Algorithm is not a 4-letter word"](http://www.jamisbuck.org/presentations/rubyconf2011/index.html)

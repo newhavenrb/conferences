@@ -17,12 +17,12 @@ JRuby
 Polyglot?
 ---------
 
-* Ruby's great, but some languages are better than Ruby at certain things
+Ruby's great, but some languages are better than Ruby at certain things
 
     gem install mvn:rhino:js
 
-* Group ID: rhino
-* Artifact ID: js
+Group ID: rhino
+Artifact ID: js
 
 ### Caveats
 
@@ -36,7 +36,17 @@ JVM
 * One family, one VM, one GC
 * Memory usage
   * Better tooling than just on MRI
+
 * Bidirectional communication
+* Stick to primitives
+* Use `interface`s rather than just straight method calls
+
+    require 'java'
+
+    java_import '...'
+
+* Neo4j
+* Rhino.js -- JavaScript on the JVM
 
 Takeaways
 ---------
