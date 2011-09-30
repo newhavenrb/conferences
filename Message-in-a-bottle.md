@@ -1,3 +1,6 @@
+Intro
+-----
+
 * Ruby 1.8 is slow because it's interpreted
 * Surprise!  Ruby 1.9 is too!
 * Something like 55 Ruby implementations! (Big ones: MRI, JRuby, Rubinius)
@@ -46,5 +49,13 @@ New: `invokedynamic`
   * CallSite is like Rubinius InlineCache
   * Replaces with your method lookup logic
   * Bootstrap doesn't look up anything, because it doesn't know what the method will be called on
-  * No lookup logic
+  * No lookup logic -- it only has classes
   * The Fallback is the actual lookup logic
+
+Takeaways
+---------
+
+* Moving to faster lookup logic across implementations
+* Fewer instructions == better
+  * MRI -- what could it do better?  It's adding super-instructions
+* Late binding
