@@ -30,5 +30,13 @@ Polyglot?
 * Bundler doesn't understand mvn gems
 * Help wanted
 
+JVM
+---
+
+* One family, one VM, one GC
+* Memory usage
+  * Better tooling than just on MRI
+* Bidirectional communication
+
 Takeaways
 ---------
