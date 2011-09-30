@@ -1,3 +1,10 @@
+Synopsis
+--------
+
+> The Ruby community has driven a lot of technical innovation in deployment and configuration management over the last few years, and so the idea of delivering high-quality software rapidly should be familiar to many of us. But although many of our tools are state-of-the-art, our practices could stand a bit of scrutiny. Your friendly neighborhood server admin probably isn’t thrilled with running RVM or compiling gems in production, and your nervous project manager is asking why deploying constantly is such a great idea anyway. Won’t you just stop coding for, like, five minutes and click around the app for a bit, just to make them feel better?
+> 
+> In this talk, the maintainers of two competing continuous integration servers at two competing shops lead you on a Socratic tour of the past, present, and future of continuous delivery as seen through an Agile Ruby lens. We'll talk about the changing deployment toolchain, the difficulty of evolving code as it’s deployed, and how to coach your developers, testers, and client to be "production-ready, any time."
+
 Continuous Integration
 ----------------------
 
