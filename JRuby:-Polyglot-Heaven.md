@@ -21,8 +21,8 @@ Ruby's great, but some languages are better than Ruby at certain things
 
     gem install mvn:rhino:js
 
-Group ID: rhino
-Artifact ID: js
+* Group ID: rhino
+* Artifact ID: js
 
 ### Caveats
 
@@ -41,12 +41,17 @@ JVM
 * Stick to primitives
 * Use `interface`s rather than just straight method calls
 
-    require 'java'
+Example:
 
+    require 'java'
     java_import '...'
+    # ...
+
+Stuff you can use:
 
 * Neo4j
 * Rhino.js -- JavaScript on the JVM
+* Clojure -- a LISP for the JVM
 
 Takeaways
 ---------
