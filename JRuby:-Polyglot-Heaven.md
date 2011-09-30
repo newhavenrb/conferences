@@ -52,6 +52,18 @@ Stuff you can use:
 * Neo4j
 * Rhino.js -- JavaScript on the JVM
 * Clojure -- a LISP for the JVM
+  * Immutable collections
+* Cloby -- Tiny JRuby extension
+  * PDS + STM + Ruby = transactional @vars
+* Scala: "Omni-paradigm Programming"
+  * Object-oriented
+  * Functional
+  * Etc.
+  * Mikka: wapper for Akka in Ruby
+* Mirah -- kind of a Ruby Syntax for the JVM.  NOT a Ruby
 
 Takeaways
 ---------
+
+* Lots of options
+* You have some interop between Java and other languages, but to do it right, you might have to do more work
