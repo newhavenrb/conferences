@@ -19,7 +19,31 @@ Goals:
 
 * Bold metaprogramming
 * Learn ancestor chain (for lookups)
-* Real worl example
+* Real-world example
+
+Definition
+----------
+
+**Writing code that redirects passed messages at runtime**
+
+or
+
+**that provides or alters the structures that do said passing**
+
+Message passing depends on your ancestor chain (e.g. `foo.ancestors`), as deterimined by classes, modules, and inheritance.
+
+But really, most people say metaprogramming meaning as style.  You're metaprogramming all the time.
+
+Terminology
+-----------
+
+Tier 1: advanced method redirection
+
+* Open class
+  * Kernel method
+  * Monkeypatching
+  * `attr_*`
+  * `alias`ing
 
 Takeaways
 ---------
