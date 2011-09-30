@@ -48,8 +48,37 @@ Deploying to Production
 * Continous Integration takes it to the next step and deploys to staging!
 * Execute your tests in parallel if possible
 
+Deployment
+----------
+
+* No separate deployment team
+* Automating deployment is good
+* Idea: Build artifacts are what you deploy
+  * Build a binary: `tgz`, `rpm`, `deb`, `gem`
+  * CI needs to be same env (in general)
+* `gcc`, `rvm`, `git`: not in production
+  * As little stuff on prod as you need!
+* Chef/Puppet
+  * Manage your server -- it's not a work of art
+
+The Right Stuff
+---------------
+
+* Feature Branches
+  * Unreleased stuff in a branch in VCS
+* Feature Toggles
+  * Deploy the feature, not turned on.  Turn it on later.
+  * Good for long-running stories
+
+But!
+
+* Push for smaller features
+
 Takeaways
 ---------
 
+* Software
+  * Goldberg
+  * Deployinator
 * Continous Integration takes it to the next step and deploys to staging!  Manual to production, then smoke test.
 * Bridge between Dev and Ops
