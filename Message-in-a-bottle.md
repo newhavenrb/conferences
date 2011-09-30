@@ -36,7 +36,15 @@ Rubinius
 JRuby
 -----
 
-* JVM bytecode
-  * Old: `invokevirtual`
-  * New: `invokedynamic`
+JVM bytecode
 
+Old: `invokevirtual` (uses custom runtime)
+
+New: `invokedynamic`
+
+* Linker
+  * CallSite is like Rubinius InlineCache
+  * Replaces with your method lookup logic
+  * Bootstrap doesn't look up anything, because it doesn't know what the method will be called on
+  * No lookup logic
+  * The Fallback is the actual lookup logic
