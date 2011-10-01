@@ -6,6 +6,7 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 
 ### Thursday
 
+* [[Exceptional Ruby]]
 * [[So you think you can code]]
 * [[Advanced EventMachine]]
 * [[LocalCommunity.Build]]
