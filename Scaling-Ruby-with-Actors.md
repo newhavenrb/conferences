@@ -1,3 +1,8 @@
+Synopsis
+--------
+
+> The last two years have been a personal tour of EventMachine, Fibers and Threads for me as I've toured the ecosystem looking for a developer-friendly, efficient solution for scaling Ruby. Historically Threads have performed poorly in Ruby but guess what? - recent events may change your mind. Now would be a good time to give them a second chance.
+
 Goal
 ----
 
