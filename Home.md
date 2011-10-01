@@ -24,3 +24,7 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 Unattended
 
 * ["Algorithm is not a 4-letter word"](http://www.jamisbuck.org/presentations/rubyconf2011/index.html)
+
+### Saturday
+
+* [[Scaling Ruby with Actors]]
