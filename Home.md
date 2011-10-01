@@ -31,3 +31,4 @@ Unattended
 ### Saturday
 
 * [[Scaling Ruby with Actors]]
+* [[Ruby in the browser with NativeClient (NaCl)]]
