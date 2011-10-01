@@ -44,6 +44,16 @@ Event Styles
 
 * **Lecture:**  Up front, presenting.  But not too interactive.  Need more.
 * **Social:**  Get together!  Creates bonds.
+* **Interactive:**  Hardest.  Hackfests, code retreats, discussion groups.
+
+Possible Ideas
+--------------
+
+* Co-op programming challenges
+* New programmer outreach (meet Ruby)
+* Charity training workshops
+* Meeting mashups
+* Volunteering at schools
 
 Takeaways
 ---------
@@ -52,3 +62,4 @@ Takeaways
 * Good to have a contingency plan in the case of the main organizer being gone
 * Larger consultancies -- not necessarily local!
 * Ruby Central
+* Ask speaker about giving back to the community at large
