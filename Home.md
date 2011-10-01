@@ -32,3 +32,4 @@ Unattended
 
 * [[Scaling Ruby with Actors]]
 * [[Ruby in the browser with NativeClient (NaCl)]]
+* [[Ruby Community: Awesome; Could Be Awesomer]]
