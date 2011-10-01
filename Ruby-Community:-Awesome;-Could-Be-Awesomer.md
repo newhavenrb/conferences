@@ -54,6 +54,7 @@ Possible Ideas
 * Charity training workshops
 * Meeting mashups
 * Volunteering at schools
+* Cross pollenation: e.g. Ruby + Android
 
 Takeaways
 ---------
@@ -62,4 +63,6 @@ Takeaways
 * Good to have a contingency plan in the case of the main organizer being gone
 * Larger consultancies -- not necessarily local!
 * Ruby Central
+* Cross pollenation: e.g. Ruby + Android meetup
+* Have fun!
 * Ask speaker about giving back to the community at large
