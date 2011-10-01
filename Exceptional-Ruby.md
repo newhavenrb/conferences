@@ -8,6 +8,8 @@ Presenter: @avdi
 * `begin` as a code smell... do outdent `rescue`/`ensure` instead
 * make a "contingency method" `with_io_handling { do it }`
 
+Maybe wrap your exceptions:
+
     module Mylib::Error; end
     rescue Eception => e
       e.extend Mylib::Error
