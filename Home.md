@@ -21,6 +21,7 @@ Want to contribute?  Adding the synopses is a good thing.  :)
 * [[Practical Metaprogramming]]
 * [[Getting Fancy on Rubinius]]
 * [[Nikita: The Ruby Secret Agent]]
+* [[Your tests are lying to you]]
 
 Unattended
 
