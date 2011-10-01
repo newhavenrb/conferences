@@ -65,3 +65,18 @@ Future of NaCl?
   * Netflix on the Chromebook
   * Google app engine
   * Exacycle -- for scientific computing
+
+PNaCl
+-----
+
+* Does LLVM bytecode!
+  * Fortran!
+  * PyPy
+  * Rubinius
+  * Objective-C
+
+EMScripten
+----------
+
+* LLVM to JavaScript
+* http://repl.it
