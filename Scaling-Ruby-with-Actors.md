@@ -72,3 +72,4 @@ To see
 * Kilim
 * Disruptor
 * Actors in Scala/Concurrency in Erlang
+* _Java Concurrency in Practice_ book
