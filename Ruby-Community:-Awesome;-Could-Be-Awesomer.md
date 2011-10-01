@@ -12,8 +12,43 @@ Spaces
 * Coffee shops
 * Bars
 
+Web presence
+------------
+
+* Website
+* Twitter
+* Mailing list
+
+Finding Sponsors
+----------------
+
+Do it on the cheap... but:
+
+* Local Ruby shops
+* Tech companies
+* Recruiting firms
+* Training companies
+* Larger consultancies -- not necessarily local!
+* Ruby Central -- maybe.  Doesn't hurt to ask
+
+Reaching out
+------------
+
+Invite continuously.  Local tech, local speakers, etc.
+
+* Other groups
+* Etc.
+
+Event Styles
+------------
+
+* **Lecture:**  Up front, presenting.  But not too interactive.  Need more.
+* **Social:**  Get together!  Creates bonds.
+
 Takeaways
 ---------
 
 * Networking important
 * Good to have a contingency plan in the case of the main organizer being gone
+* Larger consultancies -- not necessarily local!
+* Ruby Central
