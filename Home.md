@@ -14,7 +14,6 @@ These are just in alphabetical order:
 * [[Getting Started with JavaScript Testing]]
 * [[Home]]
 * [[Mining Rails]]
-* [[README]]
 * [[Rails 3 Refactoring]]
 * [[Rails on the Tracks]]
 * [[Securing Your Rails App]]
