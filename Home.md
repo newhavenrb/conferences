@@ -2,7 +2,7 @@
 
 ### Thursday
 
-* [[Exceptional Ruby]]
+* [[Exceptional Ruby]] ([notes and references from @avdi](http://avdi.org/devblog/exceptional-ruby/))
 * [[So you think you can code]]
 * [[Advanced EventMachine]]
 * [[LocalCommunity.Build]]
