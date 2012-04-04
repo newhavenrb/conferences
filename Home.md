@@ -1,0 +1,1 @@
+Welcome to the railsconf2012 wiki!
