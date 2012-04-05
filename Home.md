@@ -3,7 +3,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 ## The General Idea
 
 * Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
-* There's no reason to fork (actually, GitHub doesn't handle forking wikis all that well); just clone, make your changes, commit, and push like normal.
+* There's no reason to fork (actually, GitHub doesn't handle forking wikis all that well); just [clone](https://github.com/newhavenrb/railsconf2012/wiki/_access), make your changes, commit, and push like normal.
 * This is an index page.  It has a list of talks, each of which can have their own page(s).
 * You can add your name next to talks you're planning to attend
 
