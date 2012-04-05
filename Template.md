@@ -8,7 +8,7 @@
 
 * This layout is just a suggestion.
 * Bullet points might work well.
-* This section is probably enough, but just in case...
+* This section is probably enough, but just in case here are some other ideas...
 
 ## Summary
 
