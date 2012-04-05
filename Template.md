@@ -5,6 +5,7 @@
 ## Notes
 
 * This layout is just a suggestion.
+* It's kinda based on how Wikipedia works (e.g. an "External Links" section)
 * Bullet points might work well.  Paragraphs too.  Up to you.  :)
 * This section is probably enough, but just in case here are some other ideas...
 
