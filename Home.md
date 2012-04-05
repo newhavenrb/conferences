@@ -31,8 +31,8 @@ Recommended plugins and such.  Others are welcome.
 Just an example:
 
 * Foo
-  * @benjaminoakes
   * @jamesgary
+  * @benjaminoakes
 * Bar
   * @danbernier
   * @jamesgary
