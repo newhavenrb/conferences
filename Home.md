@@ -9,7 +9,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 
 ## Software
 
-Recommended plugins and such.  Others are welcome
+Recommended plugins and such.  Others are welcome.
 
 * `gollum`
     * [gollum](https://github.com/github/gollum): what GitHub made for `git`-based wikis.  (See also: [Fix `undefined method 'new' for Redcarpet:Module`](https://github.com/github/gollum/pull/271))
