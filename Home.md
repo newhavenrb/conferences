@@ -9,6 +9,8 @@ The general idea:
     * Commit
     * Push
 
+## Talks
+
 ### Monday 2012-04-23
 
 * [[David Heinemeier Hansson Keynote]]
