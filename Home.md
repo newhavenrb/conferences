@@ -27,8 +27,8 @@ The general idea:
 
 ## See Also
 
-* [RailsConf 2011 Notes](https://github.com/benjaminoakes/railsconf2011/wiki)
-* [RubyConf 2011 Notes](https://github.com/benjaminoakes/rubyconf2011/wiki)
+* [RailsConf 2011 Notes](https://github.com/benjaminoakes/railsconf2011/wiki) (from @benjaminoakes)
+* [RubyConf 2011 Notes](https://github.com/benjaminoakes/rubyconf2011/wiki) (from several people in @hedgeyedev)
 
 ## External Links
 
