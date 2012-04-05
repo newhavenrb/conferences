@@ -1,13 +1,21 @@
 Crowd-sourced RailsConf notes!  Working together is better.  :)
 
-The general idea:
+## The General Idea
 
-* This is an index page.  It will list titles of talks, each of which can have their own page(s).
-* Add your name next to talks you're planning to attend
 * Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
-    * Make changes to files in whatever editor, etc. you like
-    * Commit
-    * Push
+* There's no reason to fork (actually, GitHub doesn't handle forking wikis all that well); just clone, make your changes, commit, and push like normal.
+* This is an index page.  It has a list of talks, each of which can have their own page(s).
+* You can add your name next to talks you're planning to attend
+
+## Software
+
+Recommended plugins and such.  Others are welcome
+
+* `gollum`
+    * [gollum](https://github.com/github/gollum): what GitHub made for `git`-based wikis.  (See also: [Fix `undefined method 'new' for Redcarpet:Module`](https://github.com/github/gollum/pull/271))
+* `vim`
+    * [vim-markdown](https://github.com/tpope/vim-markdown): syntax, etc
+    * [wikilink](https://github.com/mmai/wikilink): wiki navigation in `vim`
 
 ## Talks
 
