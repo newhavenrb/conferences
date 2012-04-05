@@ -1,7 +1,5 @@
 **Presenter:** Twitter handle, real name, etc
 
-**Synopsis:**
-
 > What it says about this talk on the [RailsConf Program](http://railsconf2012.com/sessions)
 
 ## Notes
