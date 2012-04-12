@@ -7,16 +7,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 * This is an index page.  It has a list of talks, each of which can have their own page(s).
 * You can add your name below talks you're planning to attend.  (Separate lines are best to prevent merge conflicts.)
 * It's just a suggestion, but here's a [[template]] for notes
-
-## Software
-
-Recommended plugins and such.  Others are welcome.
-
-* `gollum`
-    * [gollum](https://github.com/github/gollum): what GitHub made for `git`-based wikis.  (See also: [Fix `undefined method 'new' for Redcarpet:Module`](https://github.com/github/gollum/pull/271))
-* `vim`
-    * [vim-markdown](https://github.com/tpope/vim-markdown): syntax, etc
-    * [wikilink](https://github.com/mmai/wikilink): wiki navigation in `vim`
+* Beyond `git` and a text editor, there's a [[software]] that might help you out.
 
 ## Talks
 
