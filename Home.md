@@ -7,7 +7,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 * This is an index page.  It has a list of talks, each of which can have their own page(s).
 * You can add your name below talks you're planning to attend.  (Separate lines are best to prevent merge conflicts.)
 * It's just a suggestion, but here's a [[template]] for notes
-* Beyond `git` and a text editor, there's a [[software]] that might help you out.
+* Beyond `git` and a text editor, there's a [[software]] list that might help you out.
 
 ## Talks
 
