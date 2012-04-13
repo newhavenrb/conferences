@@ -41,6 +41,7 @@ Just an example:
 
 ## External Links
 
+* [RailsConf on Twitter](http://twitter.com/railsconf)
 * [RailsConf 2012 Sessions](http://railsconf2012.com/sessions)
 * [RailsConf 2012 Community Events](http://railsconf.austinonrails.org/) ([source code](https://github.com/austinonrails/railsconf))
     * [Ignite RailsConf Registration](http://ignite-railsconf2012.eventbrite.com/)
