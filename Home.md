@@ -1,12 +1,14 @@
 Crowd-sourced RailsConf notes!  Working together is better.  :)
 
+Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and want to contribute?  Send us a message via GitHub or [Twitter](http://twitter.com/newhavenrb), or if you just want to make a small contribution, [fork and make a pull request](https://github.com/newhavenrb/railsconf2012).
+
 ## The Idea
 
 * Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
-* There's no reason to fork (actually, GitHub doesn't handle forking wikis all that well); just [clone](https://github.com/newhavenrb/railsconf2012/wiki/_access), make your changes, commit, and push like you would for code.
+* You don't have to fork (actually, GitHub doesn't handle forking wikis all that well); just [clone](https://github.com/newhavenrb/railsconf2012/wiki/_access), make your changes, commit, and push like you would for code.
 * This is an index page.  It has a list of talks, each of which can have their own page(s).
 * You can add your name below talks you're planning to attend.  (Separate lines are best to prevent merge conflicts.)
-* It's just a suggestion, but here's a [[template]] for notes
+* It's just a suggestion, but here's a [[template]] for notes.
 * Beyond `git` and a text editor, there's a [[software]] list that might help you out.
 
 ## Talks
