@@ -43,3 +43,4 @@ Just an example:
 
 * [RailsConf 2012 Sessions](http://railsconf2012.com/sessions)
 * [RailsConf 2012 Community Events](http://railsconf.austinonrails.org/)
+    * [Ignite RailsConf Registration](http://ignite-railsconf2012.eventbrite.com/)
