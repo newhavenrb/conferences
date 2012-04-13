@@ -24,5 +24,5 @@
 ## External Links
 
 * [Slides](http://www.example.com/)
-* [Video](http://www.example.com/) (more likely for keynotes)
+* [Video](http://www.example.com/)
 * [Some related website](http://www.example.com/)
