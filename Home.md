@@ -38,7 +38,9 @@ Just an example:
 
 ## See Also
 
-* [RailsConf 2011 Notes](https://github.com/benjaminoakes/railsconf2011/wiki) (from @benjaminoakes)
+* RailsConf 2011 Notes
+    * [benhamill](https://github.com/benhamill/railsconf_2011)
+    * [benjaminoakes](https://github.com/benjaminoakes/railsconf2011/wiki)
 * [RubyConf 2011 Notes](https://github.com/benjaminoakes/rubyconf2011/wiki) (from several people in @hedgeyedev)
 
 ## External Links
