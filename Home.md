@@ -41,6 +41,7 @@ Just an example:
 * RailsConf 2011 Notes
     * [benhamill](https://github.com/benhamill/railsconf_2011)
     * [benjaminoakes](https://github.com/benjaminoakes/railsconf2011/wiki)
+    * [trevmex](http://trevmex.com/post/5656565549/railsconf-notes-from-trevor-lalish-menagh-trevmex?ff286a60)
 * [RubyConf 2011 Notes](https://github.com/benjaminoakes/rubyconf2011/wiki) (from several people in @hedgeyedev)
 
 ## External Links
