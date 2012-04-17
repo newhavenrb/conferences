@@ -48,6 +48,7 @@ Just an example:
 
 * [RailsConf on Twitter](http://twitter.com/railsconf)
 * [RailsConf 2012 Sessions](http://railsconf2012.com/sessions)
+    * [As JSON](http://railsconf2012.com/sessions.json) (and the [related conversation on adding output in the wiki])(https://groups.google.com/forum/?fromgroups#!topic/newhavenrb/6LK72ZYLNoc)
 * [RailsConf 2012 Community Events](http://railsconf.austinonrails.org/) ([source code](https://github.com/austinonrails/railsconf))
     * [Ignite RailsConf Registration](http://ignite-railsconf2012.eventbrite.com/)
 * [Confreaks](http://confreaks.com/events) ([confirmation](http://blog.confreaks.net/2012/02/what-is-pending-in-the-queue/)) - RailsConf isn't typically included, but it's not an O'Reilly event this time.
