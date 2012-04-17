@@ -1,6 +1,6 @@
 Crowd-sourced RailsConf notes!  Working together is better.  :)
 
-Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and want to contribute?  You should be able to clone.  But if you run into a problem, send us a message via GitHub or [Twitter](http://twitter.com/newhavenrb), or if you just want to make a small contribution, [fork and make a pull request](https://github.com/newhavenrb/railsconf2012).
+Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and want to contribute?  You should be able to edit via the web interface and make a clone (but not push).  But if you run into a problem, send us a message via GitHub or [Twitter](http://twitter.com/newhavenrb), or if you just want to make a small contribution, [fork and make a pull request](https://github.com/newhavenrb/railsconf2012).
 
 ## The Idea
 
