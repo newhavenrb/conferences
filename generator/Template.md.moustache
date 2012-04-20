@@ -1,9 +1,12 @@
 **Presenter:** {{name}}
 
+**Bio:** {{bio}}
+
 > {{abstract}}
 
 ## Notes
 
+* This is a file generated from the RailsConf JSON.
 * This layout is just a suggestion.
 * Bullet points might work well.  Paragraphs too.  Up to you.  :)
 
