@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Set up build environment
+#
+# @see http://en.wikipedia.org/wiki/Configure_script
+set -o errexit
+
+# Bootstrap
+curl -so .roboconf.sh https://raw.github.com/hedgeyedev/roboconf/master/roboconf.sh
+source .roboconf.sh
+
+roboconf-bundler '~> 1.0.0'
