@@ -13,6 +13,10 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 
 ## Talks
 
+### Sunday 2012-04-22
+
+* [[Ignite RailsConf]]
+
 ### Monday 2012-04-23
 
 * [[David Heinemeier Hansson Keynote]]
