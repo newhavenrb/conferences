@@ -1,0 +1,6 @@
+[submodule "generator/doc/mustache"]
+	path = generator/doc/mustache
+	url = https://github.com/defunkt/mustache.git
+[submodule "generator/doc/json"]
+	path = generator/doc/json
+	url = https://github.com/flori/json.git
