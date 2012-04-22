@@ -4,3 +4,6 @@
 [submodule "generator/doc/json"]
 	path = generator/doc/json
 	url = https://github.com/flori/json.git
+[submodule "generator/doc/mustache.github.com"]
+	path = generator/doc/mustache.github.com
+	url = https://github.com/mustache/mustache.github.com.git
