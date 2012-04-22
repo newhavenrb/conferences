@@ -24,11 +24,15 @@ class SessionPresenter
   end
 
   def has_bio
-    !!@session.bio.match(/[a-z]/i)
+    content?(@session.bio)
   end
   
   def bio(prefix = '> ')
     prefixed(prefix, @session.bio)
+  end
+
+  def has_abstract
+    content?(@session.abstract)
   end
 
   def abstract(prefix = '> ')
@@ -36,6 +40,10 @@ class SessionPresenter
   end
 
   private
+
+  def content?(s)
+    !!s.match(/[a-z]/i)
+  end
 
   def prefixed(prefix, s)
     nl = "\n"

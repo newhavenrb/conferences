@@ -14,6 +14,17 @@ describe SessionPresenter do
     @presenter.abstract.should == "Rich Hickey, the author of <a href=\"http://clojure.org/\">Clojure</a> and designer of <a href=\"http://datomic.com/\">Datomic</a>\n> Foo"
   end
 
+  context 'with an empty abstract' do
+    before do
+      @data['abstract'] = '.'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'does not have a abstract' do
+      @presenter.has_abstract.should be_false
+    end
+  end
+
   it 'has a prefixed bio' do
     @presenter.bio.should == "Rich Hickey is a software developer with over 20 years of experience in various domains."
   end
