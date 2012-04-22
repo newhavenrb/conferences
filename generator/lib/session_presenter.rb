@@ -56,7 +56,13 @@ class SessionPresenter
     s.
       gsub(/\r\n/, nl).
       split(nl).
-      map.with_index { |l, i| i.zero? ? l : "#{prefix}#{l}" }.
+      map.with_index { |l, i|
+        if i.zero?
+          l
+        else
+          l.length.zero? ? prefix.strip : "#{prefix}#{l}"
+        end
+      }.
       join(nl)
   end
 end
