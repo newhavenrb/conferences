@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+gem 'json', '~> 1.6.6'
+gem 'mustache', '~> 0.99.4'
+
 # Bundle gems for the local environment. Make sure to
 # put test-only gems in this group so their generators
 # and rake tasks are available in development mode:
