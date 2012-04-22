@@ -4,7 +4,8 @@ require 'mustache'
 require_relative './session_presenter'
 
 class Generator
-  def initialize(sessions)
+  def initialize(directory, sessions)
+    @directory = directory
     @sessions = Array(sessions)
   end
 
@@ -12,7 +13,8 @@ class Generator
   def generate
     @sessions.each do |s|
       sp = SessionPresenter.new(s)
-      write(sp.filename, sp)
+      filename = File.join(@directory, sp.filename)
+      write(filename, sp)
     end
   end
 
