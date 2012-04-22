@@ -9,3 +9,6 @@ curl -so .roboconf.sh https://raw.github.com/hedgeyedev/roboconf/master/roboconf
 source .roboconf.sh
 
 roboconf-bundler '~> 1.0.0'
+cd ..
+roboconf-git-modules
+cd -
