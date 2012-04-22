@@ -28,7 +28,7 @@ class SessionPresenter
 
     [
       # Possible alternative: `.force_encoding('ascii').name.gsub(/[\x80-\xff]/, ''),`
-      base.gsub(/[^a-z0-9@():., ]/i, '').gsub(/\s+/, '-'),
+      base.gsub(/[^a-z0-9@():.', ]/i, '').gsub(/\s+/, '-'),
       '.md',
     ].join
   end
