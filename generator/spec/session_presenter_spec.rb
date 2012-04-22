@@ -14,7 +14,7 @@ describe SessionPresenter do
     @presenter.abstract.should == "Rich Hickey, the author of <a href=\"http://clojure.org/\">Clojure</a> and designer of <a href=\"http://datomic.com/\">Datomic</a>\n> Foo"
   end
 
-  it 'has a bio' do
+  it 'has a prefixed bio' do
     @presenter.bio.should == "Rich Hickey is a software developer with over 20 years of experience in various domains."
   end
 
