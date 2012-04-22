@@ -104,6 +104,17 @@ describe SessionPresenter do
     end
   end
 
+  context 'when exhibit hall' do
+    before do
+      @data['category'] = 'exhibit hall'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'is excluded' do
+      @presenter.exclude?.should be_true
+    end
+  end
+
   # Yes, it's its own thing.
   context 'when bohconf' do
     before do

@@ -11,7 +11,7 @@ class SessionPresenter
 
   def exclude?
     case @session.category
-    when 'bohconf', 'break', 'products'
+    when 'bohconf', 'break', 'exhibit hall', 'products'
       true
     end
   end
