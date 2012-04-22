@@ -13,6 +13,7 @@ Check `rake --tasks`.  At least these two are of interest:
 
     rake clean     # Clean up generated files
     rake generate  # Generate Markdown files in "output"
+    rake index     # Generate Markdown index in "output"
 
 ## License
 
