@@ -6,28 +6,6 @@ def get(key)
   lambda { |s| s[key].empty? ? nil : s[key] }
 end
 
-class SessionPresenter
-  def initialize(session)
-    @session = session
-  end
-
-  def filename
-    [
-      @session['title'].gsub(/\s+/, '-'),
-      ('keynote' == @session['category']) ? 'Keynote' : '',
-      '.md',
-    ].join
-  end
-
-  def name
-    @session['name']
-  end
-
-  def abstract
-    @session['abstract']
-  end
-end
-
 # ["title", "abstract", "name", "bio", "starts_at", "ends_at", "category", "room"] 
 title = get('title')
 author = get('name')
