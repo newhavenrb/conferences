@@ -45,9 +45,7 @@ class Indexer
       end.compact.join(', ')
     }
     
-    sessions = open('http://railsconf2012.com/sessions.json') { |f| JSON.parse(f.read) }
-    
-    sessions.group_by(&time).sort_by(&:first).each do |time, ss|
+    @sessions.group_by(&time).sort_by(&:first).each do |time, ss|
       puts
       puts Time.parse(time).strftime('%Y-%m-%d %H:%M')
       puts list[ss.map(&summary)]
