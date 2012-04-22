@@ -10,8 +10,10 @@ class SessionPresenter
   end
 
   def exclude?
-    ('break' == @session.category) ||
-      ('bohconf' == @session.category)
+    case @session.category
+    when 'bohconf', 'break', 'products'
+      true
+    end
   end
 
   def title

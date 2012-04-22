@@ -57,7 +57,6 @@ describe SessionPresenter do
     end
   end
 
-
   context 'when a keynote' do
     it 'has a title ending with "Keynote"' do
       @presenter.title.should == 'Rich Hickey Keynote'
@@ -86,6 +85,17 @@ describe SessionPresenter do
   context 'when a break' do
     before do
       @data['category'] = 'break'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'is excluded' do
+      @presenter.exclude?.should be_true
+    end
+  end
+
+  context 'when a product' do
+    before do
+      @data['category'] = 'products'
       @presenter = SessionPresenter.new(@data)
     end
 
