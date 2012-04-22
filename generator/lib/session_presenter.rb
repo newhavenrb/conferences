@@ -18,7 +18,7 @@ class SessionPresenter
 
   def title
     [
-      @session.title,
+      @session.title.gsub(/[^a-z0-9@():., ]/i, ''), # TODO .force_encoding('ascii').name.gsub(/[\x80-\xff]/, ''),
       ('keynote' == @session.category) ? ' Keynote' : '',
     ].join
   end

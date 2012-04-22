@@ -82,6 +82,17 @@ describe SessionPresenter do
     end
   end
 
+  context 'when the title contains unicode' do
+    before do
+      @data['title'] = "Foo \u2014 bar"
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'is removed' do
+      @presenter.filename.should == 'Foo-bar-Keynote.md'
+    end
+  end
+
   context 'when a break' do
     before do
       @data['category'] = 'break'
