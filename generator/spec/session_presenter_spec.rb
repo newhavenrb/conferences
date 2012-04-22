@@ -101,7 +101,7 @@ describe SessionPresenter do
     end
 
     it 'uses the name instead' do
-      @presenter.filename.should == "Lorem-Ipsum.md"
+      @presenter.filename.should == "Lorem-Ipsum-Keynote.md"
     end
   end
 

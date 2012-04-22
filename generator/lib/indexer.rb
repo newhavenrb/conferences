@@ -1,5 +1,10 @@
 require 'time'
 
+require 'rubygems'
+require 'mustache'
+
+require_relative './session_presenter'
+
 # Original author: @danbernier
 #
 # Contributors:
@@ -14,6 +19,28 @@ class Indexer
 
   # Write an index file
   def generate
+    data = { session_groups: session_groups }
+    s = content(data)
+    puts s
+  end
+
+  private
+
+  # Template the session into Markdown.
+  def content(data)
+    Mustache.to_html(template, data)
+  end
+
+  def template
+    @template ||= File.read('Index.md.mustache')
+  end
+
+  def get(key)
+    lambda { |s| s[key].empty? ? nil : s[key] }
+  end
+
+  # Organize sessions into groups by day, ordered by time.
+  def session_groups
     # ["title", "abstract", "name", "bio", "starts_at", "ends_at", "category", "room"] 
     title = get('title')
     author = get('name')
@@ -46,17 +73,18 @@ class Indexer
         [title[sess]]
       end.compact.join(', ')
     }
-    
-    @sessions.group_by(&time).sort_by(&:first).each do |time, ss|
-      puts
-      puts Time.parse(time).strftime('%Y-%m-%d %H:%M')
-      puts list[ss.map(&summary)]
-    end
-  end
 
-  private
+    groups = @sessions.group_by(&time).sort_by(&:first).map { |time, s|
+      sp = SessionPresenter.new(s.first)
 
-  def get(key)
-    lambda { |s| s[key].empty? ? nil : s[key] }
+      unless sp.exclude?
+        {
+          date: Time.parse(time).strftime('%Y-%m-%d %H:%M'),
+          sessions: [sp],
+        }
+      end
+    }
+
+    groups.reject { |g| g.nil? }
   end
 end
