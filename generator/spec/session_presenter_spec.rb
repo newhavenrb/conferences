@@ -93,6 +93,18 @@ describe SessionPresenter do
     end
   end
 
+  context 'when the title is empty' do
+    before do
+      @data['title'] = ""
+      @data['name'] = "Lorem Ipsum"
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'uses the name instead' do
+      @presenter.filename.should == "Lorem-Ipsum.md"
+    end
+  end
+
   context 'when a break' do
     before do
       @data['category'] = 'break'

@@ -18,14 +18,17 @@ class SessionPresenter
 
   def title
     [
-      @session.title.gsub(/[^a-z0-9@():., ]/i, ''), # TODO .force_encoding('ascii').name.gsub(/[\x80-\xff]/, ''),
+      @session.title,
       ('keynote' == @session.category) ? ' Keynote' : '',
     ].join
   end
 
   def filename
+    base = @session.title.empty? ? name : title
+
     [
-      title.gsub(/\s+/, '-'),
+      # Possible alternative: `.force_encoding('ascii').name.gsub(/[\x80-\xff]/, ''),`
+      base.gsub(/[^a-z0-9@():., ]/i, '').gsub(/\s+/, '-'),
       '.md',
     ].join
   end
