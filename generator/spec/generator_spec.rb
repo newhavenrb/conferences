@@ -13,6 +13,7 @@ describe Generator do
 
   it 'writes templated Markdown for its sessions to files' do
     io = StringIO.new
+    FileUtils.should_receive(:mkdir_p).with('output')
     File.should_receive(:open).with('output/Rich-Hickey-Keynote.md', 'w').and_return(io)
     @generator.generate
     s = io.string

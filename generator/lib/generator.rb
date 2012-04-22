@@ -1,3 +1,4 @@
+require 'fileutils'
 require 'rubygems'
 require 'mustache'
 
@@ -11,6 +12,8 @@ class Generator
 
   # Write all sessions to files.
   def generate
+    FileUtils.mkdir_p('output')
+
     @sessions.each do |s|
       sp = SessionPresenter.new(s)
       filename = File.join(@directory, sp.filename)
