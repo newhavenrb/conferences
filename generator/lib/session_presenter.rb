@@ -24,9 +24,15 @@ class SessionPresenter
   end
 
   def abstract(prefix = '> ')
+    prefixed(prefix, @session.abstract)
+  end
+
+  private
+
+  def prefixed(prefix, s)
     nl = "\n"
 
-    @session.abstract.
+    s.
       gsub(/\r\n/, nl).
       split(nl).
       map.with_index { |l, i| i.zero? ? l : "#{prefix}#{l}" }.
