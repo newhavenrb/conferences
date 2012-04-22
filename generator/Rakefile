@@ -38,3 +38,9 @@ task :generate do
   g = Generator.new(output_dir, data)
   g.generate
 end
+
+desc "Generate index file in #{output_dir.inspect}"
+task :index do
+  # TODO: see indexer.rb
+  STDERR.puts "Not yet implemented"
+end
