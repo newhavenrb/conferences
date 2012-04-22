@@ -23,7 +23,13 @@ class SessionPresenter
     ].join
   end
 
-  def abstract
-    @session.abstract.gsub(/\r\n/, "\n")
+  def abstract(prefix = '> ')
+    nl = "\n"
+
+    @session.abstract.
+      gsub(/\r\n/, nl).
+      split(nl).
+      map.with_index { |l, i| i.zero? ? l : "#{prefix}#{l}" }.
+      join(nl)
   end
 end
