@@ -1,0 +1,18 @@
+require 'rake'
+require 'rspec/core/rake_task'
+
+task :default => :spec
+
+RSpec::Core::RakeTask.new(:spec) do |t|
+  t.rspec_opts = %w(-fs --color)
+end
+
+desc 'Open a console for interactive development'
+task :console do
+  system 'irb -I lib -r generator'
+end
+
+desc 'Stats (LOC, etc)'
+task :stats do
+  system 'wc -l `find . -name *.rb`'  
+end
