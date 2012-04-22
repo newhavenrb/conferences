@@ -12,10 +12,16 @@ class SessionPresenter
     @session = OpenStruct.new(session)
   end
 
+  def title
+    [
+      @session.title,
+      ('keynote' == @session.category) ? ' Keynote' : '',
+    ].join
+  end
+
   def filename
     [
-      @session.title.gsub(/\s+/, '-'),
-      ('keynote' == @session.category) ? '-Keynote' : '',
+      title.gsub(/\s+/, '-'),
       '.md',
     ].join
   end

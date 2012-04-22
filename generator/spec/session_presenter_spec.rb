@@ -19,6 +19,10 @@ describe SessionPresenter do
   end
 
   context 'when a keynote' do
+    it 'has a title ending with "Keynote"' do
+      @presenter.title.should == 'Rich Hickey Keynote'
+    end
+
     it 'has a filename including the title and "Keynote"' do
       @presenter.filename.should == 'Rich-Hickey-Keynote.md'
     end
@@ -28,6 +32,10 @@ describe SessionPresenter do
     before do
       @data['category'] = 'standard'
       @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'has a title' do
+      @presenter.title.should == 'Rich Hickey'
     end
 
     it 'has a filename with just the title' do
