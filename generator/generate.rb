@@ -12,7 +12,11 @@ class SessionPresenter
   end
 
   def filename
-    @session['title'].gsub(/\s+/, '-') + '.md'
+    [
+      @session['title'].gsub(/\s+/, '-'),
+      ('keynote' == @session['category']) ? 'Keynote' : '',
+      '.md',
+    ].join
   end
 
   def name
