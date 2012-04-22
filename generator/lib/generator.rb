@@ -16,8 +16,11 @@ class Generator
 
     @sessions.each do |s|
       sp = SessionPresenter.new(s)
-      filename = File.join(@directory, sp.filename)
-      write(filename, sp)
+
+      unless sp.exclude?
+        filename = File.join(@directory, sp.filename)
+        write(filename, sp)
+      end
     end
   end
 

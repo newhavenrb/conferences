@@ -64,4 +64,21 @@ describe SessionPresenter do
       @presenter.filename.should == 'Rich-Hickey.md'
     end
   end
+
+  context 'when a break' do
+    before do
+      @data['category'] = 'break'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'is excluded' do
+      @presenter.exclude?.should be_true
+    end
+  end
+
+  context 'when not a break' do
+    it 'is not excluded' do
+      @presenter.exclude?.should be_false
+    end
+  end
 end

@@ -9,6 +9,10 @@ class SessionPresenter
     @session = OpenStruct.new(session)
   end
 
+  def exclude?
+    ('break' == @session.category)
+  end
+
   def title
     [
       @session.title,
