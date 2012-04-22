@@ -35,6 +35,6 @@ task :generate do
 
   raw = File.read('data/sessions.json')
   data = JSON.parse(raw)
-  g = Generator.new('output', data)
+  g = Generator.new(output_dir, data)
   g.generate
 end
