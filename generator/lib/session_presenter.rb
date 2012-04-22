@@ -3,7 +3,7 @@ require 'ostruct'
 
 class SessionPresenter
   extend Forwardable
-  def_delegators :@session, :name, :abstract, :bio
+  def_delegators :@session, :name, :bio
 
   def initialize(session)
     @session = OpenStruct.new(session)
@@ -21,5 +21,9 @@ class SessionPresenter
       title.gsub(/\s+/, '-'),
       '.md',
     ].join
+  end
+
+  def abstract
+    @session.abstract.gsub(/\r\n/, "\n")
   end
 end
