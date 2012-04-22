@@ -40,6 +40,24 @@ describe SessionPresenter do
     end
   end
 
+  context 'when the abstract and the bio are the same' do
+    before do
+      @data['abstract'] = 'lorem ipsum'
+      @data['bio'] = 'lorem ipsum'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'does not have a bio' do
+      @presenter.has_bio.should be_false
+    end
+
+    it 'has an abstract' do
+      @presenter.has_abstract.should be_true
+      @presenter.abstract.should == 'lorem ipsum'
+    end
+  end
+
+
   context 'when a keynote' do
     it 'has a title ending with "Keynote"' do
       @presenter.title.should == 'Rich Hickey Keynote'

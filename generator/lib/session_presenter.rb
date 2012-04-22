@@ -29,7 +29,9 @@ class SessionPresenter
   end
 
   def has_bio
-    content?(@session.bio)
+    unless @session.bio == @session.abstract
+      content?(@session.bio)
+    end
   end
   
   def bio(prefix = '> ')
