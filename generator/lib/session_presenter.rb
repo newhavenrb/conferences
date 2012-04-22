@@ -22,6 +22,10 @@ class SessionPresenter
       '.md',
     ].join
   end
+
+  def has_bio
+    !!@session.bio.match(/[a-z]/i)
+  end
   
   def bio(prefix = '> ')
     prefixed(prefix, @session.bio)

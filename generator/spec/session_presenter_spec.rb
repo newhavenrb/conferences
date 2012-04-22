@@ -18,6 +18,17 @@ describe SessionPresenter do
     @presenter.bio.should == "Rich Hickey is a software developer with over 20 years of experience in various domains."
   end
 
+  context 'with an empty bio' do
+    before do
+      @data['bio'] = '.'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'does not have a bio' do
+      @presenter.has_bio.should be_false
+    end
+  end
+
   context 'when a keynote' do
     it 'has a title ending with "Keynote"' do
       @presenter.title.should == 'Rich Hickey Keynote'
