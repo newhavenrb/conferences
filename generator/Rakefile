@@ -9,6 +9,11 @@ def fileutils_opts
   { verbose: true }
 end
 
+def data
+  raw = File.read('data/sessions.json')
+  data = JSON.parse(raw)
+end
+
 def output_dir
   'output'
 end
@@ -33,14 +38,14 @@ desc "Generate Markdown files in #{output_dir.inspect}"
 task :generate do
   require_relative './lib/generator'
 
-  raw = File.read('data/sessions.json')
-  data = JSON.parse(raw)
   g = Generator.new(output_dir, data)
   g.generate
 end
 
 desc "Generate index file in #{output_dir.inspect}"
 task :index do
-  # TODO: see indexer.rb
-  STDERR.puts "Not yet implemented"
+  require_relative './lib/indexer'
+
+  i = Indexer.new(output_dir, data)
+  i.generate
 end

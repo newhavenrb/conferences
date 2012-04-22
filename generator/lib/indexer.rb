@@ -1,3 +1,5 @@
+require 'time'
+
 # Original author: @danbernier
 #
 # Contributors:
