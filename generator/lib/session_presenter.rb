@@ -10,7 +10,8 @@ class SessionPresenter
   end
 
   def exclude?
-    ('break' == @session.category)
+    ('break' == @session.category) ||
+      ('bohconf' == @session.category)
   end
 
   def title

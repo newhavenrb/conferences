@@ -76,6 +76,18 @@ describe SessionPresenter do
     end
   end
 
+  # Yes, it's its own thing.
+  context 'when bohconf' do
+    before do
+      @data['category'] = 'bohconf'
+      @presenter = SessionPresenter.new(@data)
+    end
+
+    it 'is excluded' do
+      @presenter.exclude?.should be_true
+    end
+  end
+
   context 'when not a break' do
     it 'is not excluded' do
       @presenter.exclude?.should be_false
