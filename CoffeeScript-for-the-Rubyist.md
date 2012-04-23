@@ -18,11 +18,20 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* Wrote Programming in CoffeeScript
+* JavaScript history
+    * Brendan Eich
+    * Lisp like, turned into Java like
+    * Jeremy Ashkenas: made Backbone.js, made CoffeeScript to make that easier
+* Not magic; can't do what JavaScript can already do (e.g., `method_missing`)
+* Think of it like assembly
+
+## Discussion
+
+* But what about all the JS you already have?  @benjaminoakes
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Mark Bates' site](http://www.markbates.com/)
