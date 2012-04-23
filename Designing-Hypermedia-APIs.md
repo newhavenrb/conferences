@@ -63,11 +63,11 @@ HATEOAS.
 
 Five Steps:
 
-# Evaluate business processes
-# create state machine
-# evaluate media types
-# create media types
-# implement!
+1. Evaluate business processes
+2. create state machine
+3. evaluate media types
+4. create media types
+5. implement!
 
 (What are media types?) (Oh, like application/foo, in the HTTP
 headers.)
