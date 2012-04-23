@@ -1,4 +1,4 @@
-**Presenter:** Brad Gessler
+**Presenter:** Brad Gessler [@bradgessler](http://twitter.com/bradgessler)
 
 ## Bio
 
@@ -71,6 +71,10 @@ New structure:
         * Android has to long poll when not supporting WebSockets
         * IE6 uses Flash WebSockets
     * Not very invasive
+    * Authorization proxy with Goliath
+    * Not coupled to RabbitMQ as backend
+        * He wants to try Redis, Erlang, node.js, etc
+    * You can help!
 
 ### External Links
 
