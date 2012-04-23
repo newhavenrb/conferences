@@ -13,6 +13,8 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 
 ## Talks
 
+NOTE: we're working on a [generator](https://github.com/newhavenrb/railsconf2012/tree/master/generator) to fill out template wiki pages with data from the [RailsConf JSON](http://railsconf2012.com/sessions.json).
+
 ### Sunday 2012-04-22
 
 * [[Ignite RailsConf]]
