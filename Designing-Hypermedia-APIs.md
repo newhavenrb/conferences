@@ -1,4 +1,4 @@
-**Presenter:** Steve Klabnik
+**Presenter:** [Steve Klabnik](http://twitter.com/steveklabnik)
 
 ## Bio
 
@@ -91,9 +91,80 @@ works." But it seems there still must be some knowledged of the
 server, so how does the knowledge of the CHANGE get into there? I
 don't understand something here, but it's very interesting.
 
-## External Links
+### From @benjaminoakes
 
+
+* Steve works on:
+    * Hackety Hack
+    * Jumpstart Lab
+* "Rails' REST isn't real rest"
+* Is working on a book on "real" REST (lean startup style)
+* Don't be agressive when telling someone they're wrong
+* Who knows what REST means?
+* Better to come up with a productive discussion
+* We're talking about Rails REST
+* Better than SOAP
+* Let's talk about hypermedia APIs instead
+    * "Beyond just media"
+    * Links that connect
+    * Give links to other media in your JSON, etc.
+* Too much ("X-rated level") coupling in our current APIs
+    * Microseconds matter?  REST isn't for you
+    * Caching can help
+* "People are fairly good at short-term design and usually awful at long-term design" - Fielding
+    * Software built on a scale of decades (e.g. HTML)
+    * "Release!" as a short term goal
+    * 'longevity and independent evolution'
+    * Change code easily == good code
+    * The web has design choices that allow decoupling and indepentent parties working together
+* Hypermedia APIs
+    * Use HTTP correctly (but you don't *have* to use HTTP)
+    * Business processes exposed via hypermedia
+* W3C love example
+* JSON/XML can't drive your API
+    * Not semantics
+    * Just serialization
+    * (No standards for links)
+    * Build semantics on top of it
+    * Type: `application/vnd.w3clove.validation+json` (let's you know you can handle as JSON)
+* Take steps out.  Make it easier to order, sign up, etc.
+    * Writing out the connections help
+
+
+
+
+### From @galtenberg
+
+* REST APIs -> Hypermedia APIs, just a rebranding, equivalent (because who knows what REST means?)
+
+* Hyper = links
+
+* We currently have an XXX level of API coupling
+
+* REST: "Many of the constraints are directly opposed to short-term efficiency." "REST is software design on the scale of decades." -Fielding
+
+* Hypermedia APIs: 1) Use HTTP Properly 2) Use Hypermedia to guide clients through business processes
+
+* Thinking in APIs = thinking in state machines
+
+* json can't drive a hypermedia api - so build hypermedia semantics on top of json
+
+
+## Discussion
+
+* But if you do "Rails REST", does that make things harder for not-Rails projects?  @benjaminoakes
+
+### External Links
+
+* [Slides](http://steveklabnik.github.com/hypermedia-presentation/)
+* [Book site](http://designinghypermediapis.com/) (has forum)
+* [Some People Understand REST and HTTP](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
+* [w3clove.com](http://w3clove.com/) - crawls your site and checks validity
+    * See also tarantula gem
+* [Example microblog app](http://alps-microblog.herokuapp.com/)
 * [Roy Fielding's dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
+
 
 ## Quotable Klabnik
 
