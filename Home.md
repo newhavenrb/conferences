@@ -13,34 +13,46 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 
 ## Talks
 
-NOTE: we're working on a [generator](https://github.com/newhavenrb/railsconf2012/tree/master/generator) to fill out template wiki pages with data from the [RailsConf JSON](http://railsconf2012.com/sessions.json).
+## Sunday 2012-04-22
 
-### Sunday 2012-04-22
+* [[KidsRuby]] (KidsRuby, 10:30 am, Room 616)
+* [[Ignite RailsConf]] (Ignite RailsConf, 6:00 pm, Salon J)
 
-* [[Ignite RailsConf]]
+## Monday 2012-04-23
 
-### Monday 2012-04-23
+* [[Welcome Keynote]] (Welcome, 9:00 am, Salon HJK)
+* [[David Heinemeier Hansson Keynote]] (David Heinemeier Hansson, 9:15 am, Salon HJK)
+* [[Rails for Zombies (AKA Intro to Rails  Part 1)]] (Gregg Pollack, 10:30 am, Room 616)
+* [[Practical Machine Learning and Rails]] (Andrew Cantino & Ryan Stout, 11:30 am, Salon K)
+* [[Rails Engines Patterns]] (Andy Maleh, 1:30 pm, Salon J)
+* [[Progressive Enhancement on the Mobile Web]] (John Bender, 2:30 pm, Salon H)
+* [[Railsflavored Ruby]] (Michael Hartl, 3:00 pm, Room 616)
+* [[Securing your site]] (Thomas Pomfret, 4:00 pm, Salon J)
+* [[ActiveRecord Scopes and Arel]] (Jacob Swanner, 4:30 pm, Room 616)
+* [[Rich Hickey Keynote]] (Rich Hickey, 5:30 pm, Salon HJK)
 
-* [[David Heinemeier Hansson Keynote]]
-* [[Rich Hickey Keynote]]
-* [[Aaron Patterson Keynote]]
+## Tuesday 2012-04-24
 
-### Tuesday 2012-04-24
+* [[Aaron Patterson Keynote]] (Aaron Patterson, 9:00 am, Salon HJK)
+* [[Ruby Hero Awards Keynote]] (Ruby Hero Awards, 9:30 am, Salon HJK)
+* [[Taming the Kraken  How Operations enables developer productivity]] (Nathen Harvey, 10:30 am, Salon H)
+* [[Semi Automatic Code Review]] (Richard Huang, 11:30 am, Salon K)
+* [[Ten Things You Didn't Know Rails Could Do]] (James Edward Gray II, 1:30 pm, Salon H)
+* [[Basic Rake]] (Jim Weirich, 2:30 pm, Room 616)
+* [[How to Find Valuable Gems]] (Nathaniel Bibler, 3:00 pm, Room 616)
+* [[Stack Smashing]] (David Czarnecki, 4:00 pm, Salon H)
+* [[Powerful Interfaces]] (Caike Souza, 4:30 pm, Room 616)
+* [[David Cohen Keynote]] (David Cohen, 7:00 pm, Salon HJK)
 
-Just an example:
+## Wednesday 2012-04-25
 
-* Foo
-  * @jamesgary
-  * @benjaminoakes
-* Bar
-  * @danbernier
-  * @jamesgary
-* Baz
-  * @benjaminoakes
-
-### Wednesday 2012-04-25
-
-* Foo
+* [[Ruby Rogues Live Keynote]] (Ruby Rogues Live, 9:00 am, Salon HJK)
+* [[COOKPAD Keynote]] (COOKPAD, 9:50 am, Salon HJK)
+* [[Rails: The Next Five Years]] (Yehuda Katz, 10:30 am, Salon J)
+* [[What a long Strange Trip it has been.]] (Ezra Zygmuntowicz, 11:30 am, Salon K)
+* [[Complex Made Simple: Sleep Better with TorqueBox]] (Lance Ball, 1:30 pm, Salon H)
+* [[Testing Best Practices, or The Five Habits of Highly Effective Tests]] (Noel Rappin, 2:30 pm, Room 616)
+* [[Introduction to RSpec]] (Jon "Lark" Larkowski, 3:00 pm, Room 616)
 
 ## See Also
 
