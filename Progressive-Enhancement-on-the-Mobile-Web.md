@@ -59,6 +59,10 @@
     * weinre and Adobe Shadow
         * Work using the Chrome debugger
 
+* The situation is getting better
+* Chrome any better?  Yes, but could be better.
+* IE Mobile (IE9-based one is better)
+
 ## External Links
 
 * [Slides](http://johnbender.github.com/presentation-jqm-rails)
