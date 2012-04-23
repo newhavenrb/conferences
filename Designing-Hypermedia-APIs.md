@@ -17,11 +17,22 @@
 *  Works on:
     * Hackety Hack
     * Jumpstart Lab
+* "Rails' REST isn't real rest"
+* Is working on a book on "real" REST (lean startup style)
+* Don't be agressive when telling someone they're wrong
+* Who knows what REST means?
+* Better to come up with a productive discussion
+* We're talking about Rails REST
+* Better than SOAP
+* Let's talk about hypermedia APIs instead
+    * "Beyond just media"
+    * Links that connect
 
 ## Discussion
 
-* TODO
+* But if you do "Rails REST", does that make things harder for not-Rails projects?  @benjaminoakes
 
 ### External Links
 
 * [Slides](http://steveklabnik.github.com/hypermedia-presentation/)
+* [Some People Understand REST and HTTP](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
