@@ -19,6 +19,14 @@
 >
 > \*not included, perhaps
 
+## Summary
+
+* Awesome; he actually has it doing a lot (demo of Star Wars music and moving around)
+* A little difficult to get set up
+* Bluetooth and WiFi are options; Bluetooth seems easier
+* Used Arduino
+* He made a nice Rails app that can get stats and control the Roomba
+
 ## Notes
 
 ### From @benjaminoakes
@@ -44,6 +52,18 @@
 * Demo
 * Binary and Signed Integers unusual/difficult with Ruby
 * "WiFly" (sp?)
+    * "Holding" (requests are blocking)
+    * WiFly can forard any serial data resfully
+    * Concurrent request are a problem
+    * Not going to try that at RailsConf :)
+* Nice Rails app (using Twitter bootstrap
+    * "Roombots" :)
+    * Lots of nice info
+    * Works over Bluetooth or WiFi
+    * Scheduling
+    * Can give commands remotely, of course :)
+* Make a simulator
+* Challenges
 
 ## External Links
 
