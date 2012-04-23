@@ -51,3 +51,7 @@
     * "Won't somebody please think of the newbies?"
     * Want to change it into a easy-bake oven
     * A real oven teaches you real skills, even though it's more dangerous
+
+## Discussion
+
+* What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
