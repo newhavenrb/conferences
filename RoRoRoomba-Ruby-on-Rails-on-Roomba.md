@@ -64,6 +64,9 @@
     * Can give commands remotely, of course :)
 * Make a simulator
 * Challenges
+* iRobot Create is another option; cheaper
+* Why?
+    * "Invest Regularly in Your Knowledge Portfolio" (physical stuff)
 
 ## External Links
 
