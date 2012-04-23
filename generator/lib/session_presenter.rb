@@ -1,5 +1,6 @@
 require 'forwardable'
 require 'ostruct'
+require 'time'
 
 class SessionPresenter
   extend Forwardable
@@ -14,6 +15,14 @@ class SessionPresenter
     when 'bohconf', 'break', 'exhibit hall', 'products'
       true
     end
+  end
+
+  def start_time
+    starts_at.strftime('%l:%M %P').strip
+  end
+
+  def start_date
+    starts_at.to_date.strftime('%A %Y-%m-%d')
   end
 
   def title
@@ -52,6 +61,10 @@ class SessionPresenter
   end
 
   private
+
+  def starts_at
+    Time.parse(@session.starts_at)
+  end
 
   def content?(s)
     !!s.match(/[a-z]/i)

@@ -6,6 +6,14 @@ describe SessionPresenter do
     @presenter = SessionPresenter.new(@data)
   end
 
+  it 'has a start time' do
+    @presenter.start_time.should == '5:30 pm'
+  end
+
+  it 'has a start date' do
+    @presenter.start_date.should == 'Monday 2012-04-23'
+  end
+
   it 'has a name' do
     @presenter.name.should == 'Rich Hickey'
   end
