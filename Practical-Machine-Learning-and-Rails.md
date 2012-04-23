@@ -84,6 +84,42 @@
 
 * I could see this being really useful for metrics demanded by a lean startup model - @jamesgary
 
+### @jeffblasius' Notes
+
+#### Andrew
+
+* An introduction to machine learning, not a Ph.D
+* What is machine learning? Taking data to learn and produce more data.
+* Web data. Classification (spam or ham?)
+* Gmail's importance filter (sort), aardvark (route), amazon's reviews (classify).
+* Algorithms
+    * Decision tree learning - presence of words, routing classification of content.
+    * Support Vector Machines - Accurate with small amounts of data. libsvm
+    * Naive Bayes - Very accurate for its simplicity. Works well with a lot of data.
+    * Neural Nets - Modeled after human brain. Hard to understand. Have a lot of caveats. Not obvious how they work. Black magic.
+* Curse of Dimensionality - The more features or labels you have, the more data you need.
+* Overfitting - generalize your data, don't have the algorithm memorize it. Question what your algorithm is learning?
+
+#### Ryan
+
+* Sentiment Classification/Analysis - Positive or negative learning.
+* Features - Bag of words model. Convert text into word dictionary & count vector.
+* Classifier
+* Weka - open source java app. GUI. Many common ML algorithms. JRuby compatible.
+* Evaluation - How well did we do? 
+    * mean squared error is useful here.
+    * Confution Matrix - looks at false positives and false negatives.
+* How do we improve?
+    * Bigger dictionary.
+    * bi-grams and tri-grams - taking words in pairs or triplets. Picks up on negatives "I don't like" vs "I like".
+    * Speech training (determinig nouns & adj. etc.)
+* Feature Generation
+    * What information would be valuable?
+    * How would you do it?
+    * Examples... Pricing a domain.
+        * Google adword search.
+        * Size of other similar domains.
+
 ### @danbernier's notes
 
 This will be a survey/intro talk: make you Machine-Learning-aware
@@ -203,13 +239,15 @@ weka, libsvm
 vowpal wabbit
 recommendify
 
-
 ## External Links
 
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Stamford's Machine Learning Class](http://ml-class.org)
 * [Ryan Stout's example, on github](https://github.com/ryanstout/mlexample)
-* [Standford machine learning class](mi-class.org)
-* weka
-* libsvm, liblinear
-* vowpal wabbit (big dictionaries)
 * [Recommendify](https://github.com/paulasmuth/recommendify)
+
+## Other Tools
+
+* libsvm
+* liblinear
+* vowpal wabbit (big dictionaries)
