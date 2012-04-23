@@ -28,6 +28,7 @@
 
 ### From @benjaminoakes
 
+* (I got here late :( )
 * For realtime apps
 * Long polling
     * The simplest solution is a variation on `setInterval`
