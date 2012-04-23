@@ -178,8 +178,6 @@ post on his personal site, a "REST reading list." TODO find it.
 * [Example microblog app](http://alps-microblog.herokuapp.com/)
 * [Roy Fielding's dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 
-
-
 ## Quotable Klabnik
 
 "The last thing you want to do is tell everyone you're an expert, and
