@@ -12,11 +12,23 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### @danbernier notes
+
+Fowler: "Capture all changes to an application state as a sequence of
+events."
+
+Events are serialized & stored - can be played back later
+Snapshots of application state represent a point-in-time
+
+(Often comes up w/ Domain-driven design)
+
+Events are applied to domain models - it's the history of the data.
+It _can_ be a big data set. Example: account history, knowing what
+something looked like as of some billing date.
+
+Bug fixes: fix a bug, replay events, bug is fixed. Interesting.
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Martin Fowler on Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
+* [Speaker's blog](http://karmajunkie.com/)
