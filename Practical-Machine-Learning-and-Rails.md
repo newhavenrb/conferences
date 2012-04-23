@@ -12,11 +12,82 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* ML is many different algorithms that predict data from other data using applied statistics
+* It's not magic
+* We get data (usually from web) and classify it
+  * Spam/Ham
+  * Appropriate/Inappropriate
+  * Happy/Sad
+  * Documents (gmail's importance filter)
+  * Users (expertise, interests, likelihood of paying
+* Algorithms
+  * Decision Tree Learning
+  * Support Vector Machines (SVMs)
+    * Good for any classification with fewer than ~2000 features
+    * 2d graph, find vector that best separates ham from spam
+  * Naive Bayes
+    * Break documents into words and treat each word as an independent feature
+    * Easy to implement
+  * Neural Nets
+    * (actually not so great)
+    * Input lyaer (features), Hidden layer, Output layer (classification)
+    * Very hard to understand, hard to interpret
+    * Basically, runs input through bunch of algorthims (layers) to give a final score
+    * 'Black magic'
+* Curse of dimensionality
+  * The more features and labels that you have, the more data that you need
+* Overfitting
+  * With enough parameters, anything is possible
+  * We want our algorithms to generalize and infer, not memorize specific training examples
+  * We test on different data than we train on
+  * Average away any bias (cross-validation)
+* Sentiment Classification
+  * Companies search their product on twitter and see happy vs dissatisfied tweets
+  * Training data
+    * Tweets
+    * Positive/negative
+      * Use emoticons from twitter as labels
+  * Features: Bag of words model
+    * Ignores sentence structure, grammar
+    * Just looks at words
+    * Split text into words, create dictionary, and replace text with word counts
+  * WEKA - Java app, open source, has common ML algs, gui interface, can access it from jruby
+    * helps with converting words into vectors, training, cross-validation, buncha metrics
+  * ARFF File: Kinda like a CSV file, with more header/annotation
+  * Improving:
+    * Bigger dictionary
+    * Big-grams/tri-grams
+      * Using more than one word at a time
+      * Phrases, not words (so it catches combinations like "don't like")
+      * Part of speech tagging (nouns, verbs, etc)
+      * More data
+  * Domain Price Prediction
+    * Training data
+      * domains
+      * historical sale prices for domains
+      * Features
+        * split domain by words
+        * generate feature for weach word
+          * how common the word is
+          * number of google results for each word
+          * cpc for the word
+      * Algorithm
+        * support vector regression
+          * functions > SMOreg in weka
+* What we didn't cover
+  * Collaborative filtering
+  * Clustering
+  * Theorem proving (classic AI)
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Sentiment Classification Example](http://github.com/ryanstout/mlexample)
+* [Standford machine learning class](mi-class.org)
+* weka
+* libsvm, liblinear
+* vowpal wabbit (big dictionaries)
+* recommendify
+
+## Discussion
+
+* I could see this being really useful for metrics demanded by a lean startup model

@@ -12,11 +12,16 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
 
-## External Links
+*  Works on:
+    * Hackety Hack
+    * Jumpstart Lab
 
-* [Some related website](http://www.example.com/)
+## Discussion
+
+* TODO
+
+### External Links
+
+* [Slides](http://steveklabnik.github.com/hypermedia-presentation/)

@@ -1,6 +1,16 @@
 **Presenter:** Twitter handle, real name, etc
 
+## Bio
+
+## Abstract
+
 > What it says about this talk on the [RailsConf Program](http://railsconf2012.com/sessions)
+
+## Summary
+
+* Don't have time to read the whole thing?
+* Here are the takeaways.
+* "This page in a nutshell."
 
 ## Notes
 
@@ -8,12 +18,6 @@
 * It's kinda based on how Wikipedia is organized (e.g. an "External Links" section)
 * Bullet points might work well.  Paragraphs too.  Up to you.  :)
 * This section is probably enough, but just in case here are some other ideas...
-
-## Summary
-
-* Don't have time to read the whole thing?
-* Here are the takeaways.
-* "This page in a nutshell."
 
 ## Discussion
 
