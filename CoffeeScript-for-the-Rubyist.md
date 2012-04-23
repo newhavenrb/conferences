@@ -39,6 +39,11 @@
 
 * `console?.log` for IE :)
 
+* Scoping issues (local variables inherit scope of the closure)
+* Transitioning to CoffeeScript
+    * `js2coffee`
+    * or over time
+
 ## Discussion
 
 * But what about all the JS you already have?  @benjaminoakes
