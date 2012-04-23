@@ -6,7 +6,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 * This is like Wikipedia, but for RailsConf notes.
 * We want to share.  All contributions are welcome (notes, summaries, discussions, slide links, related links, etc).
 * Miss a talk?  We've got your back.
-* Please pass the word along!  More eyes and contributors == better.
+* Please pass the word along!  More eyes and contributors == more better.
 
 ## Other Stuff
 

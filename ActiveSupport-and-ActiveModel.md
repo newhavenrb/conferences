@@ -6,11 +6,12 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* ActiveSupport gives us pluralization and more, makes ruby better
+* Use pry instead of IRB
+* include ActiveSupport::Benchmarks, Rails uses benchmark for asset times
+* include ActiveSupport::Callbacks 
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Pry (github)](http://pry.github.com/)
+

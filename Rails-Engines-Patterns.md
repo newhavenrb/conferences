@@ -105,6 +105,13 @@
     * Need to scale up feature performance independently of the application
   * To keep an easier to maintain Agile code base, start simple and then move incremntally towards a more complex architecture
 
+* Example problem: Multiple sites supporting a college search map
+* High School Recruiting / Public Profiles / Athlete Recruiting
+* Copied over logic, but different presentation
+* What is a rails engine: Ruby Gem + MVC stack elements
+* Load order and monkeypatching (code in slides)
+* Defining common models / views / controllers / helpers to reuse
+
 ## External Links
 
 * [Some related website](http://www.example.com/)
