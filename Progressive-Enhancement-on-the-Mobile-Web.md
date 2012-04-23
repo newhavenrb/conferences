@@ -8,6 +8,13 @@
 
 > Progressive Enhancement isn't important on the mobile web because it's all Webkit right? Not so fast. Even among Webkit implementations events, css, and performance vary widely. We'll talk about the darker corners of the mobile web and show how jQuery Mobile can help you build Rails applications that are reliable, accessible, and support more devices.
 
+## Summary
+
+* He works on jQuery Mobile at Adobe
+* Two main topics:
+    * A discussion of Android, iOS, etc mobile browser quirks
+    * Problems they've had to solve when making jQuery Mobile
+
 ## Notes
 
 ### From @benjaminoakes
@@ -62,6 +69,7 @@
 * The situation is getting better
 * Chrome any better?  Yes, but could be better.
 * IE Mobile (IE9-based one is better)
+    * IE tends to wait and make it work right, in his opinion
 
 ## External Links
 
