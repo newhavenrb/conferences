@@ -12,10 +12,28 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* Rubyists may not be so hot at js
+* Backbone is _not_ MVC (different definition than Rails)
+* Set of cubbies to put different stuff
+* MTV: Models, Templates, Views
+* Pre-Backbone
+  * Page objects are pretty cool, but still devolves into spaghetti code
+  * Client-side rendering (mustache, handlebars) still demands a lot, like tracking events
+* Backbone gives you
+  * Model mirroring
+  * Views that handle events
+    * and maybe DOM
+* Patterns 1: Greenfield
+  * Rails === API
+  * Pivotal builds server that serves just json
+  * Backbone does all the html
+  * (lots of code, look at posted slides)
+  * Easy to create mobile app
+* Patterns 2: Backbone as Frosting
+  * Rails, with just some Backbone on top
+  * Faster to implement if you're already familiar with Rails
+* Check out alternatives if you're starting a Greenfield app
+* Backbone's sweet spot is when you're converting an exisitng rails app to have more client side behavior
 
 ## External Links
 

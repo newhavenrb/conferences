@@ -1,4 +1,4 @@
-**Presenter:** Lori M Olson
+**Presenter:** Lori M Olson (@wndxlori)
 
 ## Bio
 

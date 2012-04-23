@@ -16,13 +16,41 @@
 >
 > In this talk we start with the basic concepts of CoffeeScript and move on to the more powerful and fun features of the language. While we're looking at CoffeeScript we'll see how it relates to the Ruby code we write everyday. What do Ruby 1.9 lambdas and CoffeeScript functions have in common? Which of the two languages supports splats, default arguments, and ranges? The answers may surprise you.
 
+## Summary
+
+* Pretty basic; good overview of the history leading up to CoffeeScript and its syntax.
+* If you're already pretty familiar with CoffeeScript, this session might not be for you.
+
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* Wrote Programming in CoffeeScript
+* JavaScript history
+    * Brendan Eich
+    * Lisp like, turned into Java like
+    * Jeremy Ashkenas: made Backbone.js, made CoffeeScript to make that easier
+* Not magic; can't do what JavaScript can already do (e.g., `method_missing`)
+* Think of it like assembly
+
+* Overview of syntax rules (see the main CoffeeScript site)
+    * He always uses parens
+    * C'mon, use indentation
+
+* `console?.log` for IE :)
+
+* Scoping issues (local variables inherit scope of the closure)
+* Transitioning to CoffeeScript
+    * `js2coffee`
+    * or over time
+
+## Discussion
+
+* But what about all the JS you already have?  @benjaminoakes
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* Slides (TODO, but he said he'd post them)
+* [Mark Bates' site](http://www.markbates.com/)
+    * [Books](http://metabates.com/books.html)
+* [CoffeeScript site](http://coffeescript.org/)
