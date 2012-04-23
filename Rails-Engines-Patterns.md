@@ -21,10 +21,12 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* Example problem: Multiple sites supporting a college search map
+* High School Recruiting / Public Profiles / Athlete Recruiting
+* Copied over logic, but different presentation
+* What is a rails engine: Ruby Gem + MVC stack elements
+* Load order and monkeypatching (code in slides)
+* Defining common models / views / controllers / helpers to reuse
 
 ## External Links
 
