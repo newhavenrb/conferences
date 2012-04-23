@@ -4,7 +4,7 @@
 
 > Andrew Cantino (@tectonic) has been building web applications for over fifteen years.  Andrew has a Masters in Computer Science from Georgia Tech, where he focused on machine learning and artificial intelligence.  He has worked on Gmail at Google, on video search at CastTV, and recently spent two years practicing Agile software development at Pivotal Labs.  Andrew is currently VP of Engineering at Mavenlink.
 
-> Ryan Stout has also been doing web development for fifteen years and has been working with Rails for the last six.  He runs a small web-consulting agency and has been involved in startups ranging from social gaming to online dating and domain search.  He spent the last year developing a stealth startup that uses both natural language processing systems and modern machine learning techniques.
+> Ryan Stout (@ryanstout) has also been doing web development for fifteen years and has been working with Rails for the last six.  He runs a small web-consulting agency and has been involved in startups ranging from social gaming to online dating and domain search.  He spent the last year developing a stealth startup that uses both natural language processing systems and modern machine learning techniques.
 
 ## Abstract
 
@@ -97,9 +97,44 @@ Evaluating your ML:
 Confusion Matrix: measures false positives & false negatives
 
 
+#### How do we improve?
+
+MOAR DATA: bigger dictionaries
+
+Use bi-grams/tri-grams for features: picks up on negations.
+["don't like"] is more accurate than ["don't", "like"].
+
+
+#### Feature Generation
+
+If you don't know what to look for, ask yourself (or an expert), what
+info would be useful to an expert?
+
+Remove data that isn't useful (attribute selection)
+
+
+#### Example: Predict a Domain name's value
+
+# Gather domains, & historical sale prices
+# split the domain into words
+# generate a feature for each word: how common, # of google results for each word...
+
+
+#### What we didn't cover:
+
+* Collaborative filtering (how Netflix & Amazon recommend)
+* clustering: grouping items by similarity (how is this different from classification?)
+
+#### Tools
+
+weka, libsvm
+vowpal wabbit
+recommendify
 
 
 ## External Links
 
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 * [Ryan Stout's example, on github](https://github.com/ryanstout/mlexample)
+* [Stanford ML class](http://ml-class.org)
+* [Recommendify](https://github.com/paulasmuth/recommendify)
