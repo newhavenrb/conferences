@@ -6,9 +6,9 @@
 
 ## Abstract
 
-> Backbone.js is a flexible, lightweight tool for structuring the JavaScript in a modern web application. It goes great with Rails! But beware - "flexible and lightweight" are code words for "you build your own plumbing." Backbone is new enough that we haven't established strong patterns for that plumbing yet, so different Backbone codebases look very different, and when you're new to the idea of structuring your JavaScript, it can be tough to tell where the win is. 
+> Backbone.js is a flexible, lightweight tool for structuring the JavaScript in a modern web application. It goes great with Rails! But beware - "flexible and lightweight" are code words for "you build your own plumbing." Backbone is new enough that we haven't established strong patterns for that plumbing yet, so different Backbone codebases look very different, and when you're new to the idea of structuring your JavaScript, it can be tough to tell where the win is.
 >
-> So in this talk I'll demystify Backbone. I'll show several very different ways I've used it on real Rails apps. You'll get a feel for the circumstances when Backbone makes sense, and moreover, when each of the different approaches to Backbone make sense. 
+> So in this talk I'll demystify Backbone. I'll show several very different ways I've used it on real Rails apps. You'll get a feel for the circumstances when Backbone makes sense, and moreover, when each of the different approaches to Backbone make sense.
 
 ## Notes
 
