@@ -1,4 +1,4 @@
-**Presenter:** Brad Gessler
+**Presenter:** Brad Gessler [@bradgessler](http://twitter.com/bradgessler)
 
 ## Bio
 
@@ -20,13 +20,62 @@
 > - Securing streams with existing application authorization logic
 > - Considerations for streaming in a production environment
 
+## Memorable Quotes
+
+* "If you build something for the web that doesn't work with `curl`, it's too complicated"
+
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
 
-## External Links
+* (I got here late :( )
+* For realtime apps
+* Long polling
+    * The simplest solution is a variation on `setInterval`
+    * Caching can help a lot ("throw a lot of RAM at the problem")
+    * You'll get a bunch of "exceeded the rate limit" errors from Airbrake
+    * Doesn't work at scale (large systems/streams)
+* Monolithic apps
+      * For larger development teams, monolithic apss can slow things down
+      * "Rails App Maximus"
+      * Makes it hard to do realtime streaming
+      * Break app down into smaller pieces (e.g. all talk to JSON API)
+      * Cache the hell out of the client apps (and even the JSON API)
+      * Still not streaming yet...
 
-* [Some related website](http://www.example.com/)
+New structure:
+
+    Mobile Web App | Desktop App | SMS App
+    --------------------------------------
+                  JSON API
+    --------------------------------------
+         App        |       Stream
+
+* Socket.IO didn't feel right (was a really early version)
+    * Pushing data up becomes a problem
+    * Too much / too little on API focus he was interested in
+    * Mutiplexing is good though; but they don't have that need
+* Another option:  Meteor
+* They built their own
+    * "What problem are we trying to solve?" Pushing data!
+    * Sockets aren't the problem
+    * Sending data *to/from* (requests)
+    * Really just need requests + push data
+    * Firehose.io (his) + Backbone.js
+    * Uses WebSockets (I think?)
+    * Firehose distributes to connected clients
+    * Thin + RabbitMQ (have to use Thin)
+    * Rather than flaky connection, RabbitMQ keeps the connection
+    * Kind of like a mailbox
+    * Two transports: long polling and WebSockets
+        * Android has to long poll when not supporting WebSockets
+        * IE6 uses Flash WebSockets
+    * Not very invasive
+    * Authorization proxy with Goliath
+    * Not coupled to RabbitMQ as backend
+        * He wants to try Redis, Erlang, node.js, etc
+    * You can help!
+
+### External Links
+
+* [firehose.io](http://firehose.io/)
