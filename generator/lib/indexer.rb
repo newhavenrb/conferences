@@ -76,12 +76,14 @@ class Indexer
 
     groups = Hash.new do [] end
     
-    @sessions.group_by(&time).sort_by(&:first).map { |time, s|
-      sp = SessionPresenter.new(s.first)
+    @sessions.group_by(&time).sort_by(&:first).each { |time, ss|
+      ss.each { |s|
+        sp = SessionPresenter.new(s)
 
-      unless sp.exclude?
-        groups[sp.start_date] += [sp]
-      end
+        unless sp.exclude?
+          groups[sp.start_date] += [sp]
+        end
+      }
     }
 
     groups.keys.map { |k|
