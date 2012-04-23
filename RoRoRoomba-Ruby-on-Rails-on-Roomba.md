@@ -38,6 +38,11 @@
     * Was out of date
     * Decided to just do the C himself
     * Hard to debug
+* Wrote his own wrapper
+    * Writing out opcodes
+    * Some gets more complex and has multiple args, in effect
+* Demo
+* Binary and Signed Integers unusual/difficult with Ruby
 
 ## External Links
 
