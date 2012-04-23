@@ -66,6 +66,10 @@ New structure:
     * Thin + RabbitMQ (have to use Thin)
     * Rather than flaky connection, RabbitMQ keeps the connection
     * Kind of like a mailbox
+    * Two transports: long polling and WebSockets
+        * Android has to long poll when not supporting WebSockets
+        * IE6 uses Flash WebSockets
+    * Not very invasive
 
 ### External Links
 
