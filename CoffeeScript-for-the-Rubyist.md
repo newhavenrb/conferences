@@ -28,7 +28,9 @@
 * Not magic; can't do what JavaScript can already do (e.g., `method_missing`)
 * Think of it like assembly
 
-* Overview of syntax rules
+* Overview of syntax rules (see the main CoffeeScript site)
+    * He always uses parens
+    * C'mon, use indentation
 
 ## Discussion
 
