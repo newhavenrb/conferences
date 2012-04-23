@@ -10,11 +10,30 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### @benjaminoakes
 
-## External Links
-
-* [Some related website](http://www.example.com/)
+* Almost 10 years of Ruby
+* Constant progress
+* Is all progress good?
+    * REST (Rails 1.2) was seen as bad by some: Added `routes.rb`
+    * Ruby 1.9: we're not there yet
+    * Bundler: some people didn't like it
+    * Rails 3: harder upgrade
+    * Asset pipeline: cool, but took reorganization
+    * CoffeeScript: different than JS, but what does it provide?
+* In specific cases, "progress" can be hard to say whether "good" or "bad"
+* "The old one was better"
+    * e.g., OSX Lion
+* Not all forward movement isn't always progress
+* Measurements can be subjective and objective
+    * Does it make the car go faster?
+    * e.g., less code
+* Skepticism is OK
+* What's your default mode?  Curious or suspicious?
+    * When does a switch happen?
+    * "A conservative is a liberal who got mugged"
+    * Lost data, introduced bugs, took a long time to upgrade...
+    * "New stuff!"  -> "Ugh, new stuff..."
+    * Customer or boss says "if it ain't broke, don't fix it"
+    * Can turn to overreaction
+    * Fear
