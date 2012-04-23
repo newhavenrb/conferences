@@ -49,3 +49,5 @@
 
 * [Slides](http://steveklabnik.github.com/hypermedia-presentation/)
 * [Some People Understand REST and HTTP](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
+* [w3clove.com](http://w3clove.com/) - crawls your site and checks validity
+    * See also tarantula gem
