@@ -136,6 +136,7 @@ From [here](http://railsconf.austinonrails.org/ignite).
 
 > We use a lot of code analysis tools to find out what's bad in the current version of our code. But in addition Git commit logs contain a lot of analytical information about how our code has changed over time. Sometimes it can give us new valuable information but sometimes it is just fun to analyze also meaningless statistics. Therefore I created Git log import for eazyBI data analysis application (https://eazybi.com/help/git) which allows you to create reports and charts from your Git log in fast and easy way.  In this short presentation I will use Ruby on Rails commit log as a case study and will reveal new funny both meaningful and meaningless statistics about it.  
 
+* [Slides](http://www.slideshare.net/mobile/rsim/analyze-and-visualize-git-log-for-fun-and-profit)
 * We have a lot of metrics, but most only analyze snapshots
 * eazyBI: Multidimensional Analysis
 * Measuring by Dimensions, measures, Time
