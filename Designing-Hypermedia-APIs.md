@@ -54,8 +54,8 @@ sign, and worth looking at for designing your app.
 COUPLING IS THE ENEMY of code changeability.
 
 Two tips:
-# Use HTTP Properly*
-# Use hypermedia to guide clients through your business processes: HATEOAS
+* Use HTTP Properly*
+* Use hypermedia to guide clients through your business processes: HATEOAS
 
 HATEOAS is an application-level concern, though, so you have to do it
 yourself. @GET /photos/12/delete@ is valid HTTP, but not valid
@@ -63,11 +63,11 @@ HATEOAS.
 
 Five Steps:
 
-# Evaluate business processes
-# create state machine
-# evaluate media types
-# create media types
-# implement!
+1. Evaluate business processes
+2. create state machine
+3. evaluate media types
+4. create media types
+5. implement!
 
 (What are media types?) (Oh, like application/foo, in the HTTP
 headers.)
