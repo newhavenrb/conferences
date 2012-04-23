@@ -80,10 +80,6 @@
   * Clustering
   * Theorem proving (classic AI)
 
-## Discussion
-
-* I could see this being really useful for metrics demanded by a lean startup model - @jamesgary
-
 ### @jeffblasius' Notes
 
 #### Andrew
@@ -223,9 +219,9 @@ Remove data that isn't useful (attribute selection)
 
 #### Example: Predict a Domain name's value
 
-# Gather domains, & historical sale prices
-# split the domain into words
-# generate a feature for each word: how common, # of google results for each word...
+* Gather domains, & historical sale prices
+* split the domain into words
+* generate a feature for each word: how common, # of google results for each word...
 
 
 #### What we didn't cover:
@@ -251,3 +247,7 @@ recommendify
 * libsvm
 * liblinear
 * vowpal wabbit (big dictionaries)
+
+## Discussion
+
+* I could see this being really useful for metrics demanded by a lean startup model - @jamesgary
