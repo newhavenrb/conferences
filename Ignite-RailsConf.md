@@ -1,5 +1,7 @@
 **Presenter:** Ignite RailsConf
 
+(@jamesgary's notes: Got here a little late, my notes are in bullets)
+
 ## Bio
 
 > Five minutes, 20 slides. What would you say? Sixteen artists, technologists, thinkers, and personalities take the stage to answer this challenge. What is Ignite? Fast-paced, fun, thought-provoking, social, local, global - Ignite is all of these and more. It's a high-energy evening of 5-minute talks by people who have an idea - and the guts to get onstage and share it with the rest of the Rails community.
