@@ -47,12 +47,17 @@
     * 2.2 and 2.3.3 are 80% of Androids (wishes for more 4.0)
     * Little rendering artifcats with rounded corners / drop shadows
     * Had to use `&nbsp;` to fix a bug only on 2.2
+    * Back button support is important for Android
 * Transitions
     * Work well in toy examples
 * Rails
     * Recommends `<meta name="viewport" ...>` approach
     * Recommends CDN especially for mobile
     * Allows namespacing of `data-` attributes within the `mobileinit` hook
+    * In general:  use `on` instead of `bind`
+* Debugging
+    * weinre and Adobe Shadow
+        * Work using the Chrome debugger
 
 ## External Links
 
