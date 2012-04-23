@@ -251,6 +251,7 @@ post on his personal site, a "REST reading list."
 * [Slides](http://steveklabnik.github.com/hypermedia-presentation/)
 * [Book site](http://designinghypermediapis.com/) (has forum)
 * [Some People Understand REST and HTTP](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
+* [A hypermedia reading list](http://blog.steveklabnik.com/posts/2012-02-27-hypermedia-api-reading-list)
 * [w3clove.com](http://w3clove.com/) - crawls your site and checks validity
     * See also tarantula gem
 * [Example microblog app](http://alps-microblog.herokuapp.com/)
