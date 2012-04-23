@@ -2,7 +2,7 @@
 
 ## Bio
 
-> Hampton Catlin is the inventor of Sass, a CSS generating language, and the Haml markup language.
+> Hampton Catlin (@hcatlin) is the inventor of Sass, a CSS generating language, and the Haml markup language.
 > He is currently the Director of Engineering at Moovweb, a (bootstrapped!) startup focusing on transforming how we interact with the web. He is the original creator of Wikipedia Mobile (m.wikipedia.org) and is also the creator of several successful iPhone applications that have been downloaded by over 3 million people.
 
 ## Abstract
@@ -38,8 +38,22 @@ Coming up:
 * Control Directives @if
 * Callback API
 
-Executable: SassC
+SassC executable around libsass
+Then: SassRuby, SassPython, SassJS wrappers around libsass
+(Did he say SassGo?)
+
+What can you do?
+* Help with SassRuby
+* Color functions!
+* Evangelize
+* RT @hcatlin
+
+Discount code: RailsConfCatlinSASS2012
+
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* http://github.com/hcatlin/libsass
+* http://github.com/hcatlin/sassc
+* http://github.com/hcatlin/sassruby
+
