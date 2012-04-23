@@ -16,6 +16,11 @@
 >
 > In this talk we start with the basic concepts of CoffeeScript and move on to the more powerful and fun features of the language. While we're looking at CoffeeScript we'll see how it relates to the Ruby code we write everyday. What do Ruby 1.9 lambdas and CoffeeScript functions have in common? Which of the two languages supports splats, default arguments, and ranges? The answers may surprise you.
 
+## Summary
+
+* Pretty basic; good overview of the history leading up to CoffeeScript and its syntax.
+* If you're already pretty familiar with CoffeeScript, this session might not be for you.
+
 ## Notes
 
 ### From @benjaminoakes
