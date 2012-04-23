@@ -14,13 +14,54 @@
 >
 > We’ll also touch on getting the right balance of security without it getting in the way of the users.
 
-## Notes
+## Notes from @jamesgary
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* SafeBuffer
+  * Secure your cookies
+  * Ensure user submitted input is sanitized
+* Session mgt
+  * `rake secret`
+  * Rails.application.config.force\_ssl = true
+  * Allow logout
+  * Timeout
+    * In config.session\_store, :expire after
+    * In devise, :timeout\_in
+  * reset\_session
+  * No concurrent logins
+  * Account lockout
+  * Password complexity
+  * Destroy session on logout, not just `reset_session`
+  * Hash your passwords
+    * Use bcrypt
+  * No large objects, or critical data in sessions
+* MassAssignment
+  * attr\_protected # blacklist
+  * attr\_accessible # whitelist
+* Direct object reference
+  * Use scoping methods (:editable\_by)
+* CSRF
+  * Use authenticity\_token
+* Use correct http verbs
+* Redirection & file uploads
+  * Don't do redirect\_to params[:from]
+  * Instead, redirect\_to session[:from]
+  * Sanitize file names and types
+  * Paperclip has a lot of helper methods for this
+  * Process asynchronously
+* ssl\_ciphers and ssl\_protocols
+* Admin & intranet
+  * CSRF, XSS, injection, restrict access
+* Info leakage
+  * server\_tokens off;
+  * Don't give away anything
+* Server-side
+
+
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* Rails' security page
+* [rorsecurity.info](rorsecurity.info)
+* [brakemanscanner.org](brakemanscanner.org)
+* Tarantula gem
+* www.owasp.org
