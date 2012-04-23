@@ -10,6 +10,7 @@
 
 * "Simplicity is prerequisite for reliability."  - Dijsktra
 * "Programmers know the benefits of everything and the tradeoffs of nothing"
+* "You're complecting things right now"
 
 ## Notes
 
@@ -39,6 +40,13 @@
         * "Grand plans" isn't design
         * Taking things apart is the goal
         * Goal: simple compontents
+* The "Kazoo" Fighers
+    * Do you want to be in a band that consistently chooses the easiest thing?
+* Homogenaeity
+    * You're more replacable if there's homogenaeity
+    * Too much focus on ourselves rather than our programs
+* "Complect"
+    * Taking more than one thing and tying it together in a knot
 
 ## External Links
 
