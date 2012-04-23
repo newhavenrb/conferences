@@ -10,12 +10,36 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* Mobile web development is difficult to do on your own
+* He prefers jQuery Mobile
+* He works for Adobe working on jQuery Mobile, actually
+* He used to contribute to [Vagrant](http://vagrantup.com/)
+* Browser Support: lots (see http://jquerymobile.com/gbs)
+* Strong community:
+    * 6000+ watchers on GitHub, most bugs seem to be CSS
+    * 8+ books
+* Progressive Enhancement
+    * Providing features on top of other features when they are supported
+    * Especially important on mobile
+    * Examples:
+        * Uses hash for history
+            * Layered
+            * Sucks a little because of JovaScript reliance
+        * Toolbars (absolute -> fixed)
+            * Browser support was poor until recently
+* Webkit makes things better...
+    * ...but you can't rely on it being the only choice
+        * Opera
+        * Windows Phone
+    * Think twice about doing it yourself
+    * There are a ton of devices, getting bigger faster
+    * Lots of bugs in how history is implemented
 
 ## External Links
 
 * [Slides](http://johnbender.github.com/presentation-jqm-rails)
 * [His GitHub](http://github.com/johnbender)
+* [His Tiwtter](http://twitter.com/johnbender)
+* [His Blog](http://johnbender.us)

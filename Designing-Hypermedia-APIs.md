@@ -246,7 +246,7 @@ post on his personal site, a "REST reading list."
 
 * But if you do "Rails REST", does that make things harder for not-Rails projects?  @benjaminoakes
 
-### External Links
+## External Links
 
 * [Slides](http://steveklabnik.github.com/hypermedia-presentation/)
 * [Book site](http://designinghypermediapis.com/) (has forum)
