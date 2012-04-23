@@ -100,6 +100,7 @@ end
     * `$ ./script_worker /etc/config.yml`
     * can just do a gem upgrade & reload
 
+
 * Process Scaling
   * Staging systems
     * Originally, staging was heroku, which was different that prod
