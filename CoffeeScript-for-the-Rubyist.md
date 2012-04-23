@@ -37,6 +37,8 @@
     * He always uses parens
     * C'mon, use indentation
 
+* `console?.log` for IE :)
+
 ## Discussion
 
 * But what about all the JS you already have?  @benjaminoakes

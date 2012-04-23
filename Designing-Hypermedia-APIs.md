@@ -12,6 +12,15 @@
 >
 > In this talk, Steve will explain how to design your APIs so that they truly embrace the web and HTTP. Just as there's an impedance mismatch between our databases, our ORMs, and our models, there's an equal mismatch between our applications, our APIs, and our clients. Pros and cons of this approach will be discussed, as well as why we aren't building things this way yet.
 
+## Summary
+
+* Rails "doesn't do REST correctly", but don't worry about that too much
+* Worry more about coupling
+* Make it discoverable
+    * There's nothing built into XML, JSON, etc. that provides this level of semantics.
+    * Annotate with links and relations
+* Example of "W3Clove" and a microblogging service
+
 ## Notes
 
 ### @danbernier's notes
