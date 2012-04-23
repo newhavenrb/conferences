@@ -34,4 +34,6 @@
 
 ## External Links
 
+* Slides (TODO, but he said he'd post them)
 * [Mark Bates' site](http://www.markbates.com/)
+    * [Books](http://metabates.com/books.html)
