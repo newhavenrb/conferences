@@ -11,6 +11,7 @@
 * "Simplicity is prerequisite for reliability."  - Dijsktra
 * "Programmers know the benefits of everything and the tradeoffs of nothing"
 * "You're complecting things right now"
+* "I have a hairball now that does it"
 
 ## Notes
 
@@ -56,6 +57,10 @@
     * Simpler languages, techniques, approaches
     * Same programs!
     * What are some options? (see slides if posted; there's a table)
+    * Simplicity is hard work, but there's a huge payoff.
+    * Constatin Brancusi quote
+* Order is complex
+    * Makes every use more complex
 
 ## External Links
 
