@@ -2,8 +2,8 @@
 
 ## Bio
 
-> Andrew Cantino has been building web applications for over fifteen years.  Andrew has a Masters in Computer Science from Georgia Tech, where he focused on machine learning and artificial intelligence.  He has worked on Gmail at Google, on video search at CastTV, and recently spent two years practicing Agile software development at Pivotal Labs.  Andrew is currently VP of Engineering at Mavenlink.
->
+> Andrew Cantino (@tectonic) has been building web applications for over fifteen years.  Andrew has a Masters in Computer Science from Georgia Tech, where he focused on machine learning and artificial intelligence.  He has worked on Gmail at Google, on video search at CastTV, and recently spent two years practicing Agile software development at Pivotal Labs.  Andrew is currently VP of Engineering at Mavenlink.
+
 > Ryan Stout has also been doing web development for fifteen years and has been working with Rails for the last six.  He runs a small web-consulting agency and has been involved in startups ranging from social gaming to online dating and domain search.  He spent the last year developing a stealth startup that uses both natural language processing systems and modern machine learning techniques.
 
 ## Abstract
@@ -48,11 +48,97 @@
         * Google adword search.
         * Size of other similar domains.
 
+### @danbernier's notes
+
+This will be a survey/intro talk: make you Machine-Learning-aware
+
+ML: Predicting data from other data, using applied stats
+
+Classification: determining which category a thing belongs in.
+
+#### Decision tree learning
+
+Simple predicates, in a tree, created by a machine, from looking at a
+corpus of data. Leaf-nodes are probabilities of a certain outcome.
+(Can you re-balance a decision tree?)
+
+#### Support Vector Machines (SVMs)
+
+Find a vector between data points, to "clump" them.
+libsvm: a library w/ ruby bindings for doing this
+
+#### Naive Bayes
+
+Break a document into words - each is an "independent feature" (even
+though "viagra" always goes with "canadian pharmacy"). (It still works
+pretty well, despite that.)
+
+Each word has a count, & a probability, for occurring in spam, & in
+ham. Combine these with Bayes' formula. (The percentages are "spam
+with this word," and "ham with this word;" that's why they're not
+inverses of each other.)
+
+#### Neural Nets
+
+3 layers: input (features), hidden, output (classification)
+
+They're hard to understand: weights on hidden nodes you can't
+understand. They tend to over-fit the data. You have to pick HOW MANY
+hidden layers to have.
+
+####
+
+##### Curse of Dimensionality
+
+"The more featurs & labels you have, the more data you need." Ie, you
+have a bigger possibility-space to fill. It's not totally true, but
+it's close enough.
+
+##### Over-fitting
+
+"With enough parameters, anything is possible" - we want our
+algorithms to generalize, not memorize. THIS is why we test on a
+different corpus than we train on.
+
+(Cross-validation: split your corpus into testing & training slices.)
+
+Example: they wanted a camoflaged-tank classifier, but they got a
+cloudy-day classifier. (TODO fill that out.)
+
+
+#### Sentiment Classification
+
+Example: search for your company's name on twitter, & classify as
+positive/negative.
+
+Alternative to manual classification: use emoticons. :) -> positive,
+:( -> negative. Do this on generic tweets, not just ones in your
+corpus.
+
+"Bag of words" model: ignores sentence structure, word order, etc.
+Split text into words, create a dictionary (you only keep so many
+words; you remove some of them), replace text w/ word counts.
+
+Tweets: "I ran fast", "Bob ran far", "I ran to Bob"
+Dictionary: %w[I ran fast bob far to}
+word vectors: [111000]  (Basically, the counts, in binary)
+Pump those word vectors through ... (missed it, sorry)
+
+WEKA: open source java app w/ common ML algorithms
+
+Evaluating your ML:
+* correctly classified?
+* mean squared error: how far off was it?
+
+Confusion Matrix: measures false positives & false negatives
+
+
 
 ## External Links
 
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 * [Stamford's Machine Learning Class](http://ml-class.org)
+* [Ryan Stout's example, on github](https://github.com/ryanstout/mlexample)
 
 ## Other Tools
 
