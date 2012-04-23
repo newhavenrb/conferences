@@ -37,3 +37,11 @@
     * Customer or boss says "if it ain't broke, don't fix it"
     * Can turn to overreaction
     * Fear
+    * Getting older -> like change less
+    * Young -> easier to accept change
+    * (Kind of seems like Suzuki's "Beginner's Mind" concept)
+    * Not everyone keeps those old ideals (old hippies are rare)
+    * Turn into "Mr. Mature"
+    * Has something to lose
+    * Nice things -> instinctively don't want to lose them (e.g. lots of companies using Rails, etc.)
+    * Will suck the life and fun out of you
