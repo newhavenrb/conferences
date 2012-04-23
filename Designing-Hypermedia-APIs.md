@@ -40,6 +40,13 @@
 * Hypermedia APIs
     * Use HTTP correctly (but you don't *have* to use HTTP)
     * Business processes exposed via hypermedia
+* W3C love example
+* JSON/XML can't drive your API
+    * Not semantics
+    * Just serialization
+    * (No standards for links)
+    * Build semantics on top of it
+    * Type: `application/vnd.w3clove.validation+json` (let's you know you can handle as JSON)
 
 ## Discussion
 
