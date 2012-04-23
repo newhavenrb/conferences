@@ -28,6 +28,8 @@
 * Not magic; can't do what JavaScript can already do (e.g., `method_missing`)
 * Think of it like assembly
 
+* Overview of syntax rules
+
 ## Discussion
 
 * But what about all the JS you already have?  @benjaminoakes
@@ -37,3 +39,4 @@
 * Slides (TODO, but he said he'd post them)
 * [Mark Bates' site](http://www.markbates.com/)
     * [Books](http://metabates.com/books.html)
+* [CoffeeScript site](http://coffeescript.org/)
