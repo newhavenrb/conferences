@@ -13,19 +13,32 @@
 > - two-way communication with our robot friends over the web using Ruby on Rails and popular web services
 > - useful applications of robots controlled over the web
 > - 3 RoRoR pitfalls to watch-out for
-> - live performance of "Chiron Beta Prime" by Jonathan Coulton*
+> - live performance of "Chiron Beta Prime" by Jonathan Coulton\*
 >
 > The presentation will close with an argument for why hacking on fun, often eccentric, projects in your spare time is essential for staying motivated, habitual improvement, and tangential learning -- i.e., being a real pragmatic programmer.
 >
-> *not included, perhaps
+> \*not included, perhaps
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* He lives in Japan, works for CookPad
+* iRobot is pretty permissable about hacking.  They have an open interface
+* He wanted to do something with Ruby to hack his Roomba; everything else was in Java :(
+* There's a serial port under a handle (or cover on older models)
+* 8-pin old Mac printer cable helps for this
+* Arduino + cable
+* Two sources from iRobot: iRobot OI (newer, more accurate) or SCI (prettier)?
+    * Go for OI
+    * Wired up 8-pin cable to Arduino
+    * Roomba will light up when plugged in
+    * Not the easiest to pass to Roomba via Arduino (see Arduino Sketches)
+* RAD ("Ruby Arduino Development")
+    * Was out of date
+    * Decided to just do the C himself
+    * Hard to debug
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Ruby Arduino Development](http://rad.rubyforge.org/)
