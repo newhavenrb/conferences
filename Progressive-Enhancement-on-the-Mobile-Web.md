@@ -35,7 +35,24 @@
         * Windows Phone
     * Think twice about doing it yourself
     * There are a ton of devices, getting bigger faster
-    * Lots of bugs in how history is implemented
+* Lots of bugs in how history is implemented
+* Orientation support isn't great
+    * Don't know when it happens (when viewport resizes?)
+* Tap vs click
+    * Two events: tap (for scrolling too) -> click
+    * Hard to tell where the click is supposed to go
+* Android
+    * "The worst of all the browsers" for him
+    * "Android is the new IE"
+    * 2.2 and 2.3.3 are 80% of Androids (wishes for more 4.0)
+    * Little rendering artifcats with rounded corners / drop shadows
+    * Had to use `&nbsp;` to fix a bug only on 2.2
+* Transitions
+    * Work well in toy examples
+* Rails
+    * Recommends `<meta name="viewport" ...>` approach
+    * Recommends CDN especially for mobile
+    * Allows namespacing of `data-` attributes within the `mobileinit` hook
 
 ## External Links
 
