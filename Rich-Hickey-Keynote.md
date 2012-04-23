@@ -47,6 +47,15 @@
     * Too much focus on ourselves rather than our programs
 * "Complect"
     * Taking more than one thing and tying it together in a knot
+* Easy isn't bad
+    * You can become familiar
+    * Learning new things is good
+    * Getting smarter is hard
+    * Easy is best in all three senses
+* Simpler components
+    * Simpler languages, techniques, approaches
+    * Same programs!
+    * What are some options? (see slides if posted; there's a table)
 
 ## External Links
 
