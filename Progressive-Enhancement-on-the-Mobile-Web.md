@@ -23,8 +23,19 @@
 * Progressive Enhancement
     * Providing features on top of other features when they are supported
     * Especially important on mobile
-* Hash for history
-    * Sucks a little because of JovaScript reliance
+    * Examples:
+        * Uses hash for history
+            * Layered
+            * Sucks a little because of JovaScript reliance
+        * Toolbars (absolute -> fixed)
+            * Browser support was poor until recently
+* Webkit makes things better...
+    * ...but you can't rely on it being the only choice
+        * Opera
+        * Windows Phone
+    * Think twice about doing it yourself
+    * There are a ton of devices, getting bigger faster
+    * Lots of bugs in how history is implemented
 
 ## External Links
 
