@@ -17,4 +17,5 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://johnbender.github.com/presentation-jqm-rails)
+* [His GitHub](http://github.com/johnbender)

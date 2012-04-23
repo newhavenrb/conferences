@@ -1,4 +1,4 @@
-**Presenter:** Cameron Dutro
+**Presenter:** Cameron Dutro (@camertron)
 
 ## Bio
 
