@@ -48,3 +48,6 @@
     * 3-5 years: start growing suspicous
     * Not a whole lot of people go back
     * "Loss aversion is the pillar of conservatism" (as a mental frame of mind)
+    * "Won't somebody please think of the newbies?"
+    * Want to change it into a easy-bake oven
+    * A real oven teaches you real skills, even though it's more dangerous
