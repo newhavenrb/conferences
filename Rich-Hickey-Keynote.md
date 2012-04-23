@@ -61,6 +61,9 @@
     * Constatin Brancusi quote
 * Order is complex
     * Makes every use more complex
+    * Positional arguments vs named arguments (or a hashmap)
+    * This is "syntax vs data"!
+    * See table
 
 ## External Links
 
