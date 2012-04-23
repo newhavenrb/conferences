@@ -26,9 +26,43 @@ Events are applied to domain models - it's the history of the data.
 It _can_ be a big data set. Example: account history, knowing what
 something looked like as of some billing date.
 
+#### Benefits
+
 Bug fixes: fix a bug, replay events, bug is fixed. Interesting.
+
+Modeling:
+* ES pushes non-domain logic out of the domain models (how?)
+* system decoupling
+
+#### Drawbacks
+
+Forces you to really analyze your problem - if you're a start-up, you
+might not know the problem well enough.
+
+Agility trade-off
+
+Performance - large event logs. So store snapshots of domain
+models. (ActiveModel serialization is great for this.)
+
+#### Common Examples
+
+* Source control! It's a history of events.
+* Financial/accounting
+* complex domains (this point seems unclear to me - example?)
+* distributed systems, SOA
+
+
+#### Example: ordering system
+
 
 ## External Links
 
 * [Martin Fowler on Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Speaker's blog](http://karmajunkie.com/)
+
+
+## Discussion
+
+"Drawback: Forces you to really analyze your problem - if you're a
+start-up, you might not know the problem well enough." I think a lot
+of software practices are like that.
