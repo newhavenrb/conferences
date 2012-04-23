@@ -31,6 +31,7 @@ that you should return LINKS to other resources in your API responses,
 not just data.
 
 Hypermedia APIs:
+
 * scale better
 * are easier to change
 * promote decoupling & encapsulation
@@ -53,19 +54,20 @@ sign, and worth looking at for designing your app.
 COUPLING IS THE ENEMY of code changeability.
 
 Two tips:
-# Use HTTP Properly*
-# Use hypermedia to guide clients through your business processes: HATEOAS
+* Use HTTP Properly*
+* Use hypermedia to guide clients through your business processes: HATEOAS
 
 HATEOAS is an application-level concern, though, so you have to do it
 yourself. @GET /photos/12/delete@ is valid HTTP, but not valid
 HATEOAS.
 
 Five Steps:
-# Evaluate business processes
-# create state machine
-# evaluate media types
-# create media types
-# implement!
+
+1. Evaluate business processes
+2. create state machine
+3. evaluate media types
+4. create media types
+5. implement!
 
 (What are media types?) (Oh, like application/foo, in the HTTP
 headers.)
@@ -146,9 +148,6 @@ post on his personal site, a "REST reading list."
 * Take steps out.  Make it easier to order, sign up, etc.
     * Writing out the connections help
 
-
-
-
 ### From @galtenberg
 
 * REST APIs -> Hypermedia APIs, just a rebranding, equivalent (because who knows what REST means?)
@@ -166,6 +165,83 @@ post on his personal site, a "REST reading list."
 * json can't drive a hypermedia api - so build hypermedia semantics on top of json
 
 
+### From @skalnik
+
+* http://steveklabnik.github.com/hypermedia-presentation/
+* Started searching for the meaning of REST
+* Like an indian journey
+* Always like to be learning
+* When people you respect/know are smart say something you don't know, or
+  disagree with, make a mental note to learn more
+* Happened with "Rails REST is not real REST"
+* Decided to lean startup a book
+* Put up an email form to see if people care
+* Spent 8 months researching
+* REST is over. (SUPER DEEP Portlandia reference)
+* Can't just say "no YOUR WRONG"
+* REST isn't a great term either
+* When I say REST I mean 'Rails REST'
+* Rails REST is a good default, but we can do better. (Progress!)
+* ~~REST~~ Hypermedia APIs
+* Big difference is links to other parts of content in your responses
+* Hypermedia designs scale better, are more easily changed and promote
+  decoupling and encapsulation, with all the benefits those things bring.
+* We're good at saying things like "We love decompling. We love encapsulation."
+  and then write 1000 line models.
+* Current APIs have massive coupling between client/server.
+* On the downside, it is not necessarily the most latency-tolerant design, and
+  caches can get stale if you're not careful. It may not be as efficient on an
+  individual request level as other designs.
+* "REST is software design on the scale of decades: every details is intended to
+  promote software longevity and independent evolution. Many of the constraints
+  are directly opposed to short-term efficiency. Unfortunately, people are
+  fairly good at short-term design, and usually awful at long-term design." _
+  Fielding
+* People are good at thinking in short term not long term.
+* Coupling is the enemy!
+* "Webscale" is a thing. Google only encourages a few languages because they
+  account for 8% of the traffic
+* 1. Use HTTP Properly\*
+* 2. Use Hypermedia to Guide clients through business processes
+* Why HTTP?
+  * Fills all constraints except "hypermedia as the engine of application state"
+* Use links, use HTTP correctly.
+* "GET /photos/12/delete" is not using HTTP properly
+* 5 steps of Hypermedia API design
+  1. Evaluate business processes
+  2. Create state machine
+  3. Evaluate media types
+  4. Create media types
+  5. Implement!
+* W3Clove.com crawls your site and validates all HTML
+* JSON cannot drive your API. Custom format that uses JSON? Sure.
+  * How do you do a link in JSON? There's no standard.
+* Ideally you can use a type that already exist
+  * Collection+JSON
+  * HAL
+* HTTP is a happy accident
+* Fielding codified what was already around
+* 2 things need to be considered when desining type:
+  * data elements
+  * hypermedia controls
+* Custom type for w3clove: application/vnd.w3clove.validation+json
+* +json means you can parse as JSON.
+* Namespaced under vnd.w3clove.validation, but if other people made validations,
+  then perhaps people could make application/validation+json
+* Investigate how standards commities work
+* { links: [
+    {"rel":"website-form", "href":"..."},
+    {"rel":"sitemap-form", "href":"..."}]
+  }
+* Examining your API as a statemachine is valuable by itself (if it takes 30
+  steps to do something, no wonder you're not making money)
+* <Slides are over, lets talk about clients>
+* Sample twitter client
+* Only 1 URL is stored. DECOUPLING!
+* Allows changing of how the client works by altering the API.
+* Same model on client & server? NO, canonical source is server.
+* Server driven, client just reacts
+
 ## Discussion
 
 * But if you do "Rails REST", does that make things harder for not-Rails projects?  @benjaminoakes
@@ -179,6 +255,7 @@ post on his personal site, a "REST reading list."
     * See also tarantula gem
 * [Example microblog app](http://alps-microblog.herokuapp.com/)
 * [Roy Fielding's dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* [Microblog Client Example](https://gist.github.com/2187514)
 
 ## Quotable Klabnik
 
