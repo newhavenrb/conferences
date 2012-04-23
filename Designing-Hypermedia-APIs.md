@@ -103,7 +103,9 @@ don't understand something here, but it's very interesting.
 #### After
 
 I asked Steve about getting context around this, and he said there's a
-post on his personal site, a "REST reading list." TODO find it.
+post on his personal site, a "REST reading list."
+
+[Steve's Reading List](http://blog.steveklabnik.com/posts/2012-02-27-hypermedia-api-reading-list)
 
 ### From @benjaminoakes
 
