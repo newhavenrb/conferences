@@ -40,7 +40,7 @@ suspicious? When & why does this switch happen?
 and some Bad Thing happens to them. "Everyone likes the cutting edge,
 until they cut themselves." So people become suspicious out of fear:
 "This can never happen again!" (He makes a nice connection to the
-TSA.) (Dick Gabriel: "Fear of failure is fear of death.")
+TSA.)
 
 Getting old makes you afraid of change, because you have something to
 lose. In real life, maybe it takes 30 years, but in tech, it's only
@@ -49,11 +49,6 @@ lose. In real life, maybe it takes 30 years, but in tech, it's only
 And then: "Won't somebody please think of the newbies?" We don't want
 to make Easy-Bake tech for newbies: they have to learn the real thing,
 something valuable.
-
-(This is a pretty bland talk: of course we need real tech, and of
-course that can be dangerous, but OTOH, of course we need to encourage
-& welcome newbies, and it's a balance between the two, and we need to
-find the right dial setting.)
 
 There's an insidious idea that people are (Foo for) Dummies, and that
 we can only learn so fast. Learn at your own pace, as fast as you can:
@@ -124,3 +119,11 @@ less painful.
 * This kind of seems like Suzuki's "Beginner's Mind" concept @benjaminoakes
 * What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified ("made more safe")?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
 * It reminds me of decluttering/minimalizing.  It's hard to get rid of some things, but it can be worth it.  @benjaminoakes
+
+* Dick Gabriel: "Fear of failure is fear of death."
+  http://dreamsongs.com/MobSoftware.html
+
+* This is a pretty bland talk: of course we need real tech, and of
+course that can be dangerous, but OTOH, of course we need to encourage
+& welcome newbies, and it's a balance between the two, and we need to
+find the right dial setting.
