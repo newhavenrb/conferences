@@ -22,7 +22,7 @@ class SessionPresenter
   end
 
   def start_date
-    starts_at.to_date.strftime('%A %Y-%m-%d')
+    starts_at.strftime('%A %Y-%m-%d')
   end
 
   def title

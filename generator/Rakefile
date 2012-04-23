@@ -42,7 +42,7 @@ task :generate do
   g.generate
 end
 
-desc "Generate index file in #{output_dir.inspect}"
+desc "Output Markdown index to STDOUT"
 task :index do
   require_relative './lib/indexer'
 

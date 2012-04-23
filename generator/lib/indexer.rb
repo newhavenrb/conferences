@@ -74,17 +74,21 @@ class Indexer
       end.compact.join(', ')
     }
 
-    groups = @sessions.group_by(&time).sort_by(&:first).map { |time, s|
+    groups = Hash.new do [] end
+    
+    @sessions.group_by(&time).sort_by(&:first).map { |time, s|
       sp = SessionPresenter.new(s.first)
 
       unless sp.exclude?
-        {
-          date: Time.parse(time).strftime('%Y-%m-%d %H:%M'),
-          sessions: [sp],
-        }
+        groups[sp.start_date] += [sp]
       end
     }
 
-    groups.reject { |g| g.nil? }
+    groups.keys.map { |k|
+      {
+          start_date: k,
+          sessions: groups[k],
+      }
+    }
   end
 end
