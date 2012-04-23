@@ -12,10 +12,39 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### @jeffblasius' Notes
+
+#### Andrew
+
+* An introduction to machine learning, not a Ph.D
+* What is machine learning? Taking data to learn and produce more data.
+* Web data. Classification (spam or ham?)
+* Gmail's importance filter (sort), aardvark (route), amazon's reviews (classify).
+* Algorithms
+    * Decision tree learning - presence of words, routing classification of content.
+    * Support Vector Machines - Accurate with small amounts of data. libsvm
+    * Naive Bayes - Very accurate for its simplicity. Works well with a lot of data.
+    * Neural Nets - Modeled after human brain. Hard to understand. Have a lot of caveats. Not obvious how they work. Black magic.
+* Curse of Dimensionality - The more features or labels you have, the more data you need.
+* Overfitting - generalize your data, don't have the algorithm memorize it. Question what your algorithm is learning?
+
+#### Ryan
+
+* Sentiment Classification/Analysis - Positive or negative learning.
+* Features - Bag of words model. Convert text into word dictionary & count vector.
+* Classifier
+* Weka - open source java app. GUI. Many common ML algorithms. JRuby compatible.
+* Evaluation - How well did we do? 
+    * mean squared error is useful here.
+    * Confution Matrix - looks at false positives and false negatives.
+* How do we improve?
+    * Bigger dictionary.
+    * bi-grams and tri-grams - taking words in pairs or triplets. Picks up on negatives "I don't like" vs "I like".
+    * Speech training (determinig nouns & adj. etc.)
+* Feature Generation
+    * What information would be valuable?
+    * How would you do it?
+* Examples...
 
 ## External Links
 
