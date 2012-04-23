@@ -44,8 +44,19 @@
 * Feature Generation
     * What information would be valuable?
     * How would you do it?
-* Examples...
+    * Examples... Pricing a domain.
+        * Google adword search.
+        * Size of other similar domains.
+
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Stamford's Machine Learning Class](http://ml-class.org)
+
+## Other Tools
+
+* libsvm
+* liblinear
+* vowpal wabbit (big dictionaries)
+* recommendify
