@@ -16,8 +16,9 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * Intersectionality: How various categories interact on multiple levels
 * Racism/Sexism is discrimination + power
 * Impostor syndrome: The feeling you're faking expertise when talking
-* Don't assume gf/wife in conf
+* If you see a man and women together at conf, don't assume she's just a gf/wife who's only here because he brought her
 * This stuff is hard. Apologize honestly when you get it wrong. ("I' sorry you're offended" is BS)
+* **Don't be a typical sexist brogrammer. Put forth some effort to understand how what you say or how you act might be offensive.**
 
 ## [Ron Evans](http://twitter.com/deadprogram) - KidsCodeCamp: Hacking Minds By Hacking Code
 
@@ -38,6 +39,7 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * Divide: Those who can create digital info, those who just consume
 * kidsruby.com
 * kidscodecamp.com
+* **Sounds really cool and revolutionary. Making great progress, applying intelligent principles to make this a success (lean, open source, free).**
 
 ## [Jesse Wolgamott](http://twitter.com/jwo) - Velveeta and Active Record
 
@@ -53,13 +55,15 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * Alternatives Exist. Rules still apply.
 * Using NoSql can hurt... fancy is not always better, may have to change DB
 * Both VV and AR are delicious, just don't tell your whole app you're using it
+* **Reminiscent of Corey Haines' [Rails is Not Your Application](http://blog.firsthand.ca/2011/10/rails-is-not-your-application.html). Extract app from framework. Don't be so 'close to the metal' or you'll end up with a lot of work if you want to change tools**
 
 ## [Adam Keys](http://twitter.com/therealadam) - Yes, and
 
 > I've been taking improv classes, and two of the major principles are &quot;Happy, healthy, sexy&quot; and &quot;Yes, and...&quot; . The more performers are in a positive stance, the better the performance goes.  Likewise, we as developers can get more done when we're in a positive state of mind. Happy, healthy teammates work better together. Finding a way to respond to questions and requests with &quot;yes, and&quot; keeps teams on positive ground.  So, this is a five-minute tour through the elements of improv comedy and how to use them to work better with other developers
 
+* (Arrived here late, incomplete notes)
 * Respond in the positive
-* Delight everyone (not just in OOS, but with family, friend, strangers
+* **Delight everyone (not just in OOS, but with family, friend, strangers)**
 
 ## [Richard Schneeman](http://twitter.com/schneems) - Wicked Problems
 
@@ -77,6 +81,7 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * Rails Hotline (developers can talk with other devs and make impact)
 * OSS: Code for America, Kid's Ruby
 * If you're solving a problem, ask yourself: Is it worth solving?
+* **We'll all pretty smart and wield a lot of power. Don't spend your time building stupid shit. Build positive world-changing stuff**
 
 ## [Prakash Murthy](http://twitter.com/_prakash) - You should run a marathon
 
@@ -89,6 +94,7 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * It becomes easier after around 2 miles!
 * "Sports at Google: Jeff Galloway: 'Run Injury Free'"
 * Find an inspiration (80 year olds can run marathons)
+* **Running: It's easier than you think, and has lots of benefits. I'll see you at the 5k!**
 
 ## [Bryan Liles](http://twitter.com/bryanl) - A developer who lost his spark
 
@@ -105,11 +111,12 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * 3. Never forget #1
 * 4. It isn't that serious (except paychecks)
 * 5. Forge your own path
-* 6. Quit when it isn't fun (no...)
+* 6. Quit when it isn't fun (or rather...)
 * 7. ...Make it fun!
 * Ruby is a tool, use it to solve problems, but it won't solve problems itself
 * TATFT
 * If you wanna drink, drink, if not, don't
+* **Do what you wanna do, as long as you get paid.**
 
 ## [Noel Rappin](http://twitter.com/noelrap) - Manage Your Development Environment and Never Burn another Hamburger
 
@@ -123,13 +130,13 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * eazyBI: Multidimensional Analysis
 * Measuring by Dimensions, measures, Time
 * easyBI.com/help/git
-* Takeaway: kinda silly, fun look at how RoR commiters commit
+* **Kinda silly, fun look at how RoR commiters commit. Might be entertaining to check out**
 
 ## [Chris Holland](http://twitter.com/slamgauge) - Synth Geek
 
 > These days synthesizers are often though of as the soulless noise makers of repetitive dance music. But only recently has this notion become the norm. Originally synths make their mark on popular culture as the futuristic outer space noise of Sci-fi and the haunting tones of a new kind of classical music. The massive machines that were developed years ago (well before the ump-chick-ump chick of techno) were created by engineers out of transistors, resistors, capacitors and wires. Truly a geeks instrument if there ever was one.
 
-* Programming synthesizers: Fun way to waste time
+* **Programming synthesizers: Fun way to waste time**
 
 ## [Andy Maleh](http://twitter.com/AndyMaleh) - Software Craftsmanship vs Software Engineering
 
@@ -143,16 +150,11 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * Some apply best practices in EVERY situation
 * Craftsmen, however, believe an art emerges, and rely more on gut feeling and inutioon to suceed
 * "You cannot control what you cannot measure"
-* Engineering is about macro goal, but craftsmanship is about mastering the micro process
+* **Engineering is about macro goal, but craftsmanship is about mastering the micro process**
 
 ## [Kenichi Murahashi](http://twitter.com/sanemat) - Offline mobile app has great potential
 
 > Mobile has poor network and less powerful spec. Offline mobile app will solve this!  But I feel asset pipeline conflict with rack-offline.  aggregate all path's files to manifest file and detect its change. Do you have alternative way?  I need re-implementation asset pipelines parse //= jquery and aggregate several paths, don't I?  I don't have implement yet, but Let's hack together!
-
-* Gaps between asset pipeline and rack-offline
-* Meet html5 cache manifest
-* Meet rack-offline
-
 
 ## [Mando Escamilla](http://twitter.com/mandoescamilla) - Choose this day
 
