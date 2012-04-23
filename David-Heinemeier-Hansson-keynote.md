@@ -39,7 +39,6 @@
     * Fear
     * Getting older -> like change less
     * Young -> easier to accept change
-    * (Kind of seems like Suzuki's "Beginner's Mind" concept)
     * Not everyone keeps those old ideals (old hippies are rare)
     * Turn into "Mr. Mature"
     * Has something to lose
@@ -59,7 +58,15 @@
 * Great products are made by people who use them
     * You care about tools you can use
     * Don't dumb things down; is that what you want?
+    * Still doing Rails because he likes it, even after a decade
+* Progress is painful
+    * You have to throw some of it out
+    * Rails 4 will change things **and** break things
+    * "I will not fear change, I will not fight progress"
+    * "Stay young, stay curious, stay hippie"
 
 ## Discussion
 
+* This kind of seems like Suzuki's "Beginner's Mind" concept @benjaminoakes
 * What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified ("made more safe")?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
+* It reminds me of decluttering/minimalizing.  It's hard to get rid of some things, but it can be worth it.  @benjaminoakes
