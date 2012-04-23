@@ -52,5 +52,6 @@
 
 * Slides (TODO, but he said he'd post them)
 * [Mark Bates' site](http://www.markbates.com/)
+    * [His Twitter](http://twitter.com/markbates)
     * [Books](http://metabates.com/books.html)
 * [CoffeeScript site](http://coffeescript.org/)
