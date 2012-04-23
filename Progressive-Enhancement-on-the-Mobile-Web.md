@@ -14,8 +14,12 @@
 
 * Mobile web development is difficult to do on your own
 * He prefers jQuery Mobile
+* He works for Adobe working on jQuery Mobile, actually
+* He used to contribute to [Vagrant](http://vagrantup.com/)
 
 ## External Links
 
 * [Slides](http://johnbender.github.com/presentation-jqm-rails)
 * [His GitHub](http://github.com/johnbender)
+* [His Tiwtter](http://twitter.com/johnbender)
+* [His Blog](http://johnbender.us)
