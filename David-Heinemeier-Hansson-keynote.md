@@ -118,6 +118,7 @@ less painful.
 
 * This kind of seems like Suzuki's "Beginner's Mind" concept @benjaminoakes
 * What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified ("made more safe")?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
+    * I think this isn't a perfect equivalency, at least in the case of OSX: the basic things are simplified, but the more powerful operations are still available. If you make the 80% of work you do easy and let yourself focus on the 20% that's truly difficult, it strikes me that you'll be able to focus on the actual problems easier. @robyurkowski
 * It reminds me of decluttering/minimalizing.  It's hard to get rid of some things, but it can be worth it.  @benjaminoakes
 
 * Dick Gabriel: "Fear of failure is fear of death."
@@ -127,3 +128,7 @@ less painful.
 course that can be dangerous, but OTOH, of course we need to encourage
 & welcome newbies, and it's a balance between the two, and we need to
 find the right dial setting.
+
+* @robyurkowski: Particularly irritating to me was the equivalency presented between power and difficulty. 
+    * Per DHH's easybake example, the oven is not actually substantially more complicated to use—you still turn a knob, put food in, and take it out when it's done. You do have a depth of other options available to you with an oven, but using an easybake isn't much different from using an oven — it just has a limited instruction set. Just because we have a powerful tool doesn't mean it has to be hard to use or confusing to learn. That's not to say that we should impede progress for this reason, but we have to keep in mind that increasing the complexity of our patterns and utilities will push us in the much-maligned Java direction.
+    * It's also worth considering that the more time we waste on answering the same questions again and again, the less time we have to spend focusing on the real problems.
