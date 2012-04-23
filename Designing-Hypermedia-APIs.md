@@ -41,6 +41,23 @@
     * Use HTTP correctly (but you don't *have* to use HTTP)
     * Business processes exposed via hypermedia
 
+### From @galtenberg
+
+* REST APIs -> Hypermedia APIs, just a rebranding, equivalent (because who knows what REST means?)
+
+* Hyper = links
+
+* We currently have an XXX level of API coupling
+
+* REST: "Many of the constraints are directly opposed to short-term efficiency." "REST is software design on the scale of decades." -Fielding
+
+* Hypermedia APIs: 1) Use HTTP Properly 2) Use Hypermedia to guide clients through business processes
+
+* Thinking in APIs = thinking in state machines
+
+* json can't drive a hypermedia api - so build hypermedia semantics on top of json
+
+
 ## Discussion
 
 * But if you do "Rails REST", does that make things harder for not-Rails projects?  @benjaminoakes
