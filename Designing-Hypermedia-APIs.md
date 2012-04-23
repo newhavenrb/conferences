@@ -38,7 +38,7 @@
     * Change code easily == good code
     * The web has design choices that allow decoupling and indepentent parties working together
 * Hypermedia APIs
-    * Use HTTP (but you don't *have* to)
+    * Use HTTP correctly (but you don't *have* to use HTTP)
     * Business processes exposed via hypermedia
 
 ## Discussion
