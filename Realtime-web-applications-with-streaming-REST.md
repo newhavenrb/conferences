@@ -61,7 +61,11 @@ New structure:
     * Sending data *to/from* (requests)
     * Really just need requests + push data
     * Firehose.io (his) + Backbone.js
+    * Uses WebSockets (I think?)
     * Firehose distributes to connected clients
+    * Thin + RabbitMQ (have to use Thin)
+    * Rather than flaky connection, RabbitMQ keeps the connection
+    * Kind of like a mailbox
 
 ### External Links
 
