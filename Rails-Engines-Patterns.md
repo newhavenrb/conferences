@@ -111,4 +111,5 @@
 
 ## Discussion
 
-* We use submodules, and run into similar synchronization issues
+* We use submodules, and run into similar synchronization issues (small hassle) @jamesgary
+* I liked the Engine vs Services, good questions to have before building something @jamesgary
