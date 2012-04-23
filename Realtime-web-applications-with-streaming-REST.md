@@ -20,6 +20,10 @@
 > - Securing streams with existing application authorization logic
 > - Considerations for streaming in a production environment
 
+## Memorable Quotes
+
+* "If you build something for the web that doesn't work with `curl`, it's too complicated"
+
 ## Notes
 
 ### From @benjaminoakes
@@ -35,3 +39,30 @@
       * "Rails App Maximus"
       * Makes it hard to do realtime streaming
       * Break app down into smaller pieces (e.g. all talk to JSON API)
+      * Cache the hell out of the client apps (and even the JSON API)
+      * Still not streaming yet...
+
+New structure:
+
+    Mobile Web App | Desktop App | SMS App
+    --------------------------------------
+                  JSON API
+    --------------------------------------
+         App        |       Stream
+
+* Socket.IO didn't feel right (was a really early version)
+    * Pushing data up becomes a problem
+    * Too much / too little on API focus he was interested in
+    * Mutiplexing is good though; but they don't have that need
+* Another option:  Meteor
+* They built their own
+    * "What problem are we trying to solve?" Pushing data!
+    * Sockets aren't the problem
+    * Sending data *to/from* (requests)
+    * Really just need requests + push data
+    * Firehose.io (his) + Backbone.js
+    * Firehose distributes to connected clients
+
+### External Links
+
+* [firehose.io](http://firehose.io/)
