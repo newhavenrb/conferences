@@ -80,7 +80,7 @@ HOW in the world does your client "discover" the semantics of the
 state machine? Though, analyzing your app as a state machine is really
 useful.
 
-### On the client side
+#### On the client side
 
 (bonus!)
 
@@ -90,6 +90,11 @@ He built a micro-blogging client in Shoes.
 works." But it seems there still must be some knowledged of the
 server, so how does the knowledge of the CHANGE get into there? I
 don't understand something here, but it's very interesting.
+
+#### After
+
+I asked Steve about getting context around this, and he said there's a
+post on his personal site, a "REST reading list." TODO find it.
 
 ### From @benjaminoakes
 
