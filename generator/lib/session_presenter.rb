@@ -3,7 +3,7 @@ require 'ostruct'
 
 class SessionPresenter
   extend Forwardable
-  def_delegators :@session, :name
+  def_delegators :@session, :name, :room
 
   def initialize(session)
     @session = OpenStruct.new(session)

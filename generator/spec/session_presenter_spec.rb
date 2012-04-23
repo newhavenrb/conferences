@@ -10,6 +10,10 @@ describe SessionPresenter do
     @presenter.name.should == 'Rich Hickey'
   end
 
+  it 'has a room' do
+    @presenter.room.should == 'Salon HJK'
+  end
+
   it 'has a prefixed abstract with Unix newlines' do
     @presenter.abstract.should == "Rich Hickey, the author of <a href=\"http://clojure.org/\">Clojure</a> and designer of <a href=\"http://datomic.com/\">Datomic</a>\n>\n> Foo"
   end
