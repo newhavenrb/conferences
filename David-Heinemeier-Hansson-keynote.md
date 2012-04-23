@@ -55,6 +55,10 @@
     * People don't like losing stuff, even technology knowledge
     * You can get out of this (hack your brain)
     * Gambling: pretrend you're a trader and this is an investment
+    * Prime your brain to be curious; refocus and reframe
+* Great products are made by people who use them
+    * You care about tools you can use
+    * Don't dumb things down; is that what you want?
 
 ## Discussion
 
