@@ -72,9 +72,34 @@ cloudy-day classifier. (TODO fill that out.)
 
 #### Sentiment Classification
 
+Example: search for your company's name on twitter, & classify as
+positive/negative.
+
+Alternative to manual classification: use emoticons. :) -> positive,
+:( -> negative. Do this on generic tweets, not just ones in your
+corpus.
+
+"Bag of words" model: ignores sentence structure, word order, etc.
+Split text into words, create a dictionary (you only keep so many
+words; you remove some of them), replace text w/ word counts.
+
+Tweets: "I ran fast", "Bob ran far", "I ran to Bob"
+Dictionary: %w[I ran fast bob far to}
+word vectors: [111000]  (Basically, the counts, in binary)
+Pump those word vectors through ... (missed it, sorry)
+
+WEKA: open source java app w/ common ML algorithms
+
+Evaluating your ML:
+* correctly classified?
+* mean squared error: how far off was it?
+
+Confusion Matrix: measures false positives & false negatives
+
 
 
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Ryan Stout's example, on github](https://github.com/ryanstout/mlexample)
