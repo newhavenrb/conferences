@@ -22,11 +22,16 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
 
-## External Links
-
-* [Some related website](http://www.example.com/)
+* For realtime apps
+* Long polling
+    * The simplest solution is a variation on `setInterval`
+    * Caching can help a lot ("throw a lot of RAM at the problem")
+    * You'll get a bunch of "exceeded the rate limit" errors from Airbrake
+    * Doesn't work at scale (large systems/streams)
+* Monolithic apps
+      * For larger development teams, monolithic apss can slow things down
+      * "Rails App Maximus"
+      * Makes it hard to do realtime streaming
+      * Break app down into smaller pieces (e.g. all talk to JSON API)
