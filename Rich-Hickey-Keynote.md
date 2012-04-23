@@ -60,10 +60,17 @@
     * Simplicity is hard work, but there's a huge payoff.
     * Constatin Brancusi quote
 * Order is complex
+    * "The order problem"
     * Makes every use more complex
     * Positional arguments vs named arguments (or a hashmap)
     * This is "syntax vs data"!
     * See table
+    * Leverage hashes in your language; use them often
+* Information is simple
+    * Classes can make things more complex
+    * Makes generic manipulation harder
+    * Information **doesn't have** implementation
+    * Information **has** representation
 
 ## External Links
 
