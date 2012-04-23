@@ -8,6 +8,15 @@
 >
 > He is also the creator of Ruby on Rails.
 
+## Summary
+
+* Rails is almost 10 years old
+* There has been a lot of progress
+* Don't be afraid of change
+* Don't overreact to change
+* Life will change
+* Rails will change
+
 ## Notes
 
 Theme: Progress
