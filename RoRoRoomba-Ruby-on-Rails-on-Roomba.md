@@ -67,7 +67,10 @@
 * iRobot Create is another option; cheaper
 * Why?
     * "Invest Regularly in Your Knowledge Portfolio" (physical stuff)
+* Simon Stevin
 
 ## External Links
 
 * [Ruby Arduino Development](http://rad.rubyforge.org/)
+* [Simon Stevin](http://en.wikipedia.org/wiki/Simon_Stevin)
+* [tokyorails/rrroomba](http://github.com/tokyorails/rrroomba)
