@@ -6,9 +6,9 @@
 
 > Rich Hickey, the author of <a href="http://clojure.org/">Clojure</a> and designer of <a href="http://datomic.com/">Datomic</a>, is a software developer with over 20 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.
 
-* RubyConf 2012 will be in Denver, CO October 25th
-
 ## Notes
+
+* RubyConf 2012 will be in Denver, CO October 25th
 
 ### From @benjaminoakes
 
@@ -34,6 +34,7 @@
     * Is design demonized?
         * "Grand plans" isn't design
         * Taking things apart is the goal
+        * Goal: simple compontents
 
 ## External Links
 
