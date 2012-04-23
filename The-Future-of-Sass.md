@@ -11,10 +11,34 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### @danbernier's notes
+
+.scss is the extension to Sass files. Glad _that's_ cleared up.
+
+Pros of Sass: Mature, Advanced; units, functions, selector inheritance.
+
+Cons:
+* Accessibility (for designers)
+* Speed: 30 seconds to compile some projects
+
+So: libsass: Sass, in C
+* C interface, C++ internals
+* Statically linkable
+* Small(ish): ~600k, compiled on a mac
+* Simple interface
+* Fast
+* support up to Sass 3.1
+
+Covers:
+* mixins, variables, most unit conversions (like color math? talk to him)
+* simple interpolation, most functions
+
+Coming up:
+* Color functions
+* Control Directives @if
+* Callback API
+
+Executable: SassC
 
 ## External Links
 
