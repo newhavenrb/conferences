@@ -16,11 +16,16 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* Subdividing polygons to make table taller but thinner
+* Useful Gems:
+* rgeo
+* activerecord-postgis-adapter
+* activerecord-mysql2spatial-adapter
+* sqeel
+* Heatmap javascript libraries
+* GeoRails Summit BoF signup on whiteboards outside
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Link to presentation on Daniel's Blog](http://daniel-azuma.com/railsconf2012)
+
