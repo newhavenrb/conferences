@@ -14,7 +14,7 @@
 
 ### From @benjaminoakes
 
-*  Works on:
+* Steve works on:
     * Hackety Hack
     * Jumpstart Lab
 * "Rails' REST isn't real rest"
@@ -27,6 +27,19 @@
 * Let's talk about hypermedia APIs instead
     * "Beyond just media"
     * Links that connect
+    * Give links to other media in your JSON, etc.
+* Too much ("X-rated level") coupling in our current APIs
+    * Microseconds matter?  REST isn't for you
+    * Caching can help
+* "People are fairly good at short-term design and usually awful at long-term design" - Fielding
+    * Software built on a scale of decades (e.g. HTML)
+    * "Release!" as a short term goal
+    * 'longevity and independent evolution'
+    * Change code easily == good code
+    * The web has design choices that allow decoupling and indepentent parties working together
+* Hypermedia APIs
+    * Use HTTP (but you don't *have* to)
+    * Business processes exposed via hypermedia
 
 ## Discussion
 
