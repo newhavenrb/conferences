@@ -112,6 +112,7 @@ less painful.
 * It reminds me of decluttering/minimalizing.  It's hard to get rid of some things, but it can be worth it.  @benjaminoakes
 
 * Dick Gabriel: "Fear of failure is fear of death."
+  http://dreamsongs.com/MobSoftware.html
 
 * This is a pretty bland talk: of course we need real tech, and of
 course that can be dangerous, but OTOH, of course we need to encourage
