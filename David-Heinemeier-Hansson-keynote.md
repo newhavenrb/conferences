@@ -10,7 +10,7 @@
 
 ## Notes
 
-### @benjaminoakes
+### From @benjaminoakes
 
 * Almost 10 years of Ruby
 * Constant progress
@@ -45,3 +45,6 @@
     * Has something to lose
     * Nice things -> instinctively don't want to lose them (e.g. lots of companies using Rails, etc.)
     * Will suck the life and fun out of you
+    * 3-5 years: start growing suspicous
+    * Not a whole lot of people go back
+    * "Loss aversion is the pillar of conservatism" (as a mental frame of mind)
