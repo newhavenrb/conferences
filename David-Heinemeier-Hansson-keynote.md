@@ -132,3 +132,8 @@ find the right dial setting.
 * @robyurkowski: Particularly irritating to me was the equivalency presented between power and difficulty. 
     * Per DHH's easybake example, the oven is not actually substantially more complicated to use—you still turn a knob, put food in, and take it out when it's done. You do have a depth of other options available to you with an oven, but using an easybake isn't much different from using an oven — it just has a limited instruction set. Just because we have a powerful tool doesn't mean it has to be hard to use or confusing to learn. That's not to say that we should impede progress for this reason, but we have to keep in mind that increasing the complexity of our patterns and utilities will push us in the much-maligned Java direction.
     * It's also worth considering that the more time we waste on answering the same questions again and again, the less time we have to spend focusing on the real problems.
+
+## External Links
+
+* Notes elsewhere
+    * [TheRailsView](https://github.com/newhavenrb/railsconf2012/wiki/David-Heinemeier-Hansson-keynote)

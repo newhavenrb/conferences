@@ -28,10 +28,17 @@
 * Not magic; can't do what JavaScript can already do (e.g., `method_missing`)
 * Think of it like assembly
 
+* Overview of syntax rules (see the main CoffeeScript site)
+    * He always uses parens
+    * C'mon, use indentation
+
 ## Discussion
 
 * But what about all the JS you already have?  @benjaminoakes
 
 ## External Links
 
+* Slides (TODO, but he said he'd post them)
 * [Mark Bates' site](http://www.markbates.com/)
+    * [Books](http://metabates.com/books.html)
+* [CoffeeScript site](http://coffeescript.org/)
