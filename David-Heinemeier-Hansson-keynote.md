@@ -51,7 +51,11 @@
     * "Won't somebody please think of the newbies?"
     * Want to change it into a easy-bake oven
     * A real oven teaches you real skills, even though it's more dangerous
+    * Don't be "mister dummy"; you decide the rate at which you learn this stuff
+    * People don't like losing stuff, even technology knowledge
+    * You can get out of this (hack your brain)
+    * Gambling: pretrend you're a trader and this is an investment
 
 ## Discussion
 
-* What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
+* What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified ("made more safe")?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
