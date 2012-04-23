@@ -71,6 +71,15 @@
     * Makes generic manipulation harder
     * Information **doesn't have** implementation
     * Information **has** representation
+* A test: can you move it?
+    * Morphing from components to systems of systems...
+    * Subsytems must have:
+        * Well-defined boundaris
+        * Abstract verbs
+        * Take and return **data**
+* Simplicity requires vigilance
+    * Be aware of entanglement and how to be sensitive about it
+    * Tools don't do this (e.g., tests)
 
 ## External Links
 
