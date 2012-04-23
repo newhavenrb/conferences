@@ -12,7 +12,7 @@
 >
 > The journey will go through the mistakes we made, challenges faced and real world optimisations discovered, including some tricks we learnt along the way from concurrent index creation to using the ZeroMQ messaging framework with Rails
 
-## Notes
+## Notes from @jamesgary (and I don't know why nested bullets decided to stop working halfway)
 
 * How do you bootstrap a startup on the side?
 * From zero, to a lot more than zero
@@ -55,13 +55,11 @@
   * System Operation Alerts
     * We also use per minute internal cron checks
     * Cron is super reliable, too
-```ruby
-# check_system_status every 1 minute
-cron "check_system_status" do
-  command "/usrs/bin/curl /url-to-check"
-  action :create
-end
-```
+    * ` # check_system_status every 1 minute`
+    * ` cron "check\_system\_status" do`
+    * `   command "/usrs/bin/curl /url-to-check"`
+    * `   action :create`
+    * ` end`
     * many tools for this
       * PostgreSQL slow query logs
       * Rails log files, useful but only so much
@@ -99,8 +97,6 @@ end
     * `gem install script_worker & deps`
     * `$ ./script_worker /etc/config.yml`
     * can just do a gem upgrade & reload
-
-
 * Process Scaling
   * Staging systems
     * Originally, staging was heroku, which was different that prod
