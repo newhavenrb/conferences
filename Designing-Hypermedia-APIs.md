@@ -1,4 +1,4 @@
-**Presenter:** Steve Klabnik
+**Presenter:** [Steve Klabnik](http://twitter.com/steveklabnik)
 
 ## Bio
 
@@ -47,6 +47,8 @@
     * (No standards for links)
     * Build semantics on top of it
     * Type: `application/vnd.w3clove.validation+json` (let's you know you can handle as JSON)
+* Take steps out.  Make it easier to order, sign up, etc.
+    * Writing out the connections help
 
 ### From @galtenberg
 
@@ -72,6 +74,7 @@
 ### External Links
 
 * [Slides](http://steveklabnik.github.com/hypermedia-presentation/)
+* [Book site](http://designinghypermediapis.com/) (has forum)
 * [Some People Understand REST and HTTP](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
 * [w3clove.com](http://w3clove.com/) - crawls your site and checks validity
     * See also tarantula gem
