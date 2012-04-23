@@ -16,6 +16,15 @@
 * He prefers jQuery Mobile
 * He works for Adobe working on jQuery Mobile, actually
 * He used to contribute to [Vagrant](http://vagrantup.com/)
+* Browser Support: lots (see http://jquerymobile.com/gbs)
+* Strong community:
+    * 6000+ watchers on GitHub, most bugs seem to be CSS
+    * 8+ books
+* Progressive Enhancement
+    * Providing features on top of other features when they are supported
+    * Especially important on mobile
+* Hash for history
+    * Sucks a little because of JovaScript reliance
 
 ## External Links
 
