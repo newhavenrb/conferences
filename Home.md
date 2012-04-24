@@ -85,6 +85,7 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 * [[Using Rails without Rails]] (Piotr Sarnacki, 4:00 pm, Salon K)
 * (TODO needs notes/slides) [[Zero downtime deploys for Rails apps]] (Pedro Belo, 4:00 pm, Salon J)
 * (TODO needs notes/slides) [[Powerful Interfaces]] (Caike Souza, 4:30 pm, Room 616)
+* [[RailsCore panel]]
 * [[David Cohen Keynote]] (David Cohen, 7:00 pm, Salon HJK)
 
 ## Wednesday 2012-04-25
