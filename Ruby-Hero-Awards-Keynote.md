@@ -10,11 +10,40 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* RailsEnvy podcast -> Ruby 5 Podcast
+* Want to give back to people that give
+* Not well known when newly minted heroes
+* 6 people
+    * Konstantin Haase (rkh)
+        * Rack
+        * Rubinius
+        * Sinatra maintainer
+        * Sinatra book
+        * Travis CI team
+    * Tony Arcieri (tarcieri)
+        * Revactor
+        * http://cool.io
+        * Celloid::IO
+        * DCell
+        * Reia
+        * Unlimited Novelty blog
+    * Yoko Harada (yokolet)
+        * Nokogiri (JRuby)
+        * Misses some of this
+    * Sven Fuchs
+        * Internationalization
+        * Rails 2.2
+        * Wrote the RailsGuide for it
+        * Co-founder of Travis CI
+    * Frederick Cheung
+        * IRC / Google Group / Stack Overflow
+        * Lots of contribs (8641)
+        * Lots of OSS too
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Ruby Heroes](http://rubyheroes.com/)
+* [Rails Best Practices](http://railsbest.com/)
+* [rulu](http://rulu.eu/) (donated shirts)
