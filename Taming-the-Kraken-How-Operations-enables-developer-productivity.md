@@ -47,12 +47,29 @@
     * Small changes sat for days waiting to deployed
     * One problem rolled back a whole deploy
     * A lot more developers now...
-* A deploy is like a prom if it...
-    * ...happens infrequently
-    * ...build-up bigger than the result
-    * ...has a lot of ceremony
+* A deploy is like a prom if...
+    * ...it happens infrequently
+    * ...it build-up bigger than the result
+    * ...it has a lot of ceremony
+        * Hold on everybody, we're going to deploy a change!
+    * ...all hands are on deck
+    * ...pools for when rollback will happen
+* Deploy early, deploy often
+    * Ready to go?  It goes!
+    * Redefine "done"
+    * Kanban vs sprints
+    * Minimize work in progress
+    * Product managers prioritize queue
+    * Disposable servers; short lived staging instances
+    * Each topic branch gets a staging env
+    * Have to automate
+    * "Infrastructure as code"
 
 ### From @james_gary
+
+## Discussion
+
+* What about feature toggles?  @benjaminoakes
 
 ## External Links
 
