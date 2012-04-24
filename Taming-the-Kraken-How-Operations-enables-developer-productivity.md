@@ -38,6 +38,91 @@
 * "A deploy is like a prom if..."
 
 ## Notes
+### @ZachMorek Notes
+
+* Founded in 99
+* 40+mm requests
+
+### Past:
+One team, a few apps
+2 week sprints
+Operations deploys straight to production
+
+### Problems:
+* Committing directly to master
+* Merge conflicts
+* Deploys rolling back
+* Growing to 20 developers
+
+### Deploys as proms
+Build up is bigger than the result... anxiety, fear
+Infrequent
+Ceremony
+
+### Deploy Problems
+Office pools on when `cap deploy:rollback` emails would get sent
+You consider custom t shirts for a deploy
+
+### Fixes
+Deploy early, deploy often
+Deploy small independent changes
+Deploy when ready
+Redefine "done"
+Moved from sprints to Kanban
+
+### Changing the process
+Product managers prioritize the queue
+Disposable Servers
+Each topic branche must have its own staging environment
+Automating spinning up / tearing down staging environments
+
+### Infrastructure as Code
+Custom scripts
+Capistrano
+Chef
+Gathering vagrant files together
+"Hobo Jungle"
+`cap jenkins:create`
+
+### Greenscreen
+A big visible chart (BVC) to monitor
+A sinatra server
+https://github.com/customink/greenscreen
+
+How many sites does it take to make a shirt?  Around 9
+
+Share deploy logic across apps using CapHub
+
+
+### Build Process
+merge
+build
+deploy
+verify
+get out of the way
+
+Using the topic in an irc chat / campfire room
+Have a queue on who is merging to master and deploying
+Product manager to help with sequencing when necessary
+
+Announcing the Deploy
+Automating the ceremony: emails that go out
+
+What's changed
+Less time to change a site's copy
+Deploy one thing at a time
+
+There is no QA
+There is testing, but no team that's dedicated to it
+
+### How can you can get started
+look at process
+look at culture - may require going outside of engr org
+automate everything (chef puppet cfengine) automate the heck out of everything
+Enable everyone - development team to take ownership of getting their code into prod
+They need new relic impacts
+Use the right tools - listen, supporting culture, conversation, collaboration
+
 
 ### From @james\_gary
 
@@ -226,5 +311,9 @@ cap jenkins:delete
 
 * [Chef](http://www.opscode.com/chef)
 * [Vagrant](http://vagantup.com/)
+http://www.customink.com/
+https://github.com/customink
+https://github.com/railsware/caphub
+http://www.opscode.com/
 * [Jenkins](http://jenkins-ci.org)
-* GreenScreen TODO
+* [Greenscreen](https://github.com/customink/greenscreen)
