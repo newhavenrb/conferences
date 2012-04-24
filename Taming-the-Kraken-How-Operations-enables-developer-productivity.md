@@ -101,9 +101,15 @@
 * DevOps: a team
     * Listen
     * Culture + conversation + collaboration
-* Zero-downtime: approaching 100%
-* They prefer deploys during business hours
-* Their disposable servers are in EC2, but they have physical servers in a datacenter (since 1999)
+* Q&A
+    * Zero-downtime: approaching 100%
+    * They prefer deploys during business hours
+    * Their disposable servers are in EC2, but they have physical servers in a datacenter (since 1999)
+    * They aren't comfortable with total automation (CI deploying to production)
+    * How in depth are the staging environments?  Database has a copy of production data (shared DB).  Seems like they have the same infrastructure but in one VM.
+    * Overhead of developer time?  (Rather than building up a set of changes)
+    * Review via product managers... "fire teams".  Shared libs?  They don't have a good answer yet.
+    * How long it'd take to adopt this workflow?  1 yr or more
 
 ### From @james_gary
 
