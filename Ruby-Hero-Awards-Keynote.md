@@ -10,6 +10,8 @@
 
 ## Notes
 
+### From @benjaminoakes
+
 * RailsEnvy podcast -> Ruby 5 Podcast
 * Want to give back to people that give
 * Not well known when newly minted heroes
