@@ -19,6 +19,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 
 ## Other Stuff
 
+* Please add a section for your notes (e.g. `### From @yourname`) in the notes section to help reduce merge conflicts
 * You don't have to fork (actually, GitHub doesn't handle forking wikis all that well); just [clone](https://github.com/newhavenrb/railsconf2012/wiki/_access), make your changes, commit, and push like you would for code.
 * This is an index page.  It has a list of talks, each of which can have their own page(s).
 * You can add your name below talks you're planning to attend.  (Separate lines are best to prevent merge conflicts.)
