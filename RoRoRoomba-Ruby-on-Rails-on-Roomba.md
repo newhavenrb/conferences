@@ -37,8 +37,8 @@
 * There's a serial port under a handle (or cover on older models)
 * 8-pin old Mac printer cable helps for this
 * Arduino + cable
-* Two sources from iRobot: iRobot OI (newer, more accurate) or SCI (prettier)?
-    * Go for OI
+* Two sources from iRobot: iRobot OI (newer, more accurate) or SCI (prettier format but older, for 400 series and older Roombas)
+    * Go for OI (for any Roomba that is 500 series or newer -- built in last 3 or 4 years)
     * Wired up 8-pin cable to Arduino
     * Roomba will light up when plugged in
     * Not the easiest to pass to Roomba via Arduino (see Arduino Sketches)
@@ -51,12 +51,12 @@
     * Some gets more complex and has multiple args, in effect
 * Demo
 * Binary and Signed Integers unusual/difficult with Ruby
-* "WiFly" (sp?)
+* "WiFly" ([The Wifly GSX with breakout board](http://www.sparkfun.com/products/10050))
     * "Holding" (requests are blocking)
-    * WiFly can forard any serial data resfully
+    * WiFly can forward any serial data restfully
     * Concurrent request are a problem
     * Not going to try that at RailsConf :)
-* Nice Rails app (using Twitter bootstrap
+* Nice Rails app (using Twitter bootstrap)
     * "Roombots" :)
     * Lots of nice info
     * Works over Bluetooth or WiFi
@@ -64,8 +64,10 @@
     * Can give commands remotely, of course :)
 * Make a simulator
 * Challenges
+    * Testing physical computing devices is a challenge, have to consider physical environment compared to simulation
 * iRobot Create is another option; cheaper
 * Why?
+    * Control or monitoring of physical computing devices over the web is the next big thing
     * "Invest Regularly in Your Knowledge Portfolio" (physical stuff)
 * Simon Stevin
 
