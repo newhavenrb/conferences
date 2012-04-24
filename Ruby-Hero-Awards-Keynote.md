@@ -41,6 +41,12 @@
         * IRC / Google Group / Stack Overflow
         * Lots of contribs (8641)
         * Lots of OSS too
+    * Eric Hodel (DrBrain)
+        * Rdoc
+        * RubyGems (the Rubyforge one... and RubyGems.org?)
+        * Blog
+        * Ruby Documentation Project
+        * Ruby Mendicant University
 
 ## External Links
 
