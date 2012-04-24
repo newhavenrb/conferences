@@ -400,3 +400,4 @@ Fin!
 * [svenfuch's ruby-cldr gem](https://github.com/svenfuchs/ruby-cldr)
 * [blackwinter's unicode gem](https://github.com/blackwinter/unicode)
 * [xing's icu4r gem](https://github.com/xing/icu4r)
+* Just for fun, [Twitter.com in Arabic](http://twitter.com/?lang=ar).  Notice the layout is flipped for RTL languages :)
