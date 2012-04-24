@@ -20,7 +20,19 @@ TODO
 
 ### From @benjaminoakes
 
-TODO
+* Who
+    * He's on Ruby Rogues
+    * Rubyist for 8 years
+    * Ruby code/documentation
+    * CSV
+* Rails 3.2.3
+* Rails app in a single file
+* `rake notes` for `TODO`, `FIXME`, `OPTIMIZE`
+    * `rake notes:custom` ...
+    * TextMate bundle
+* Sanbox `rails console`
+    * DB changes reverted
+    * `rails c --sandbox`
 
 ### From @danbernier
 
@@ -28,4 +40,4 @@ TODO
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Friday hugs](http://fridayhug.com)
