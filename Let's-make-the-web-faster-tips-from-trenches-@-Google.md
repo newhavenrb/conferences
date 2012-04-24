@@ -14,7 +14,7 @@
 
 ## Notes
 
-@abelmartin's notes
+### @abelmartin's notes
 
 ### NOTE: My notes are really sparse because the slides are really good.  Make sure to check them out below.  
 * How Google analyzes pages for performance & speed.
