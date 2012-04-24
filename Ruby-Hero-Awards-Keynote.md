@@ -45,8 +45,8 @@
         * Rdoc
         * RubyGems (the Rubyforge one... and RubyGems.org?)
         * Blog
-        * Ruby Documentation Project
-        * Ruby Mendicant University
+        * [Ruby Documentation Project](http://documenting-ruby.org/)
+        * [Mendicant University](http://mendicantuniversity.org)
 
 ## External Links
 
