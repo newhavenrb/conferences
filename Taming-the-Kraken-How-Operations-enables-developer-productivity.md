@@ -33,6 +33,10 @@
 >   * Pair programing infrastructure automation
 >   * Keeping the process light and the communication flowing
 
+## Memorable Quotes
+
+* "A deploy is like a prom if..."
+
 ## Notes
 
 ### From @benjaminoakes
@@ -81,6 +85,13 @@
     * Lots of similar code
     * Needed to streamline
     * CapHub (TODO add link)
+    * Deploys queued up
+    * "merge build, deploy, verify, get out of the way"
+    * Has a topic in Campfire
+    * Product mangers for sequencing sometimes
+    * Announce deploy
+        * Blog, etc.  Try to automate
+    * Reducing friction is key
 
 ### From @james_gary
 
