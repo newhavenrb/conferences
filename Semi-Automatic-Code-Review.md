@@ -38,8 +38,9 @@
         * Configurble
         * Gives analysis in web UI
         * Configuration
-        * Cost: unclear (TODO check site)
+        * Cost: unclear (TODO check site; looks like donations)
         * Plugins are possible (e.g., for `try()`)
+        * Both the site and gem are OSSS
 
 ## External Links
 

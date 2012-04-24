@@ -15,7 +15,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 * Have notes for something we don't have?  We want them.
 * Have notes for something we **do** have?  We want those too.  Either add them in a separate section or integrate them with existing notes.
 * Write/improve a talk summary
-* Look for "TODO"
+* Look for "TODO" for (simple) tasks.
 * Anything else that you feel makes an improvement.  :)
 
 ## Other Stuff
