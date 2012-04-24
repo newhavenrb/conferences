@@ -14,12 +14,46 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### @abelmartin's notes
+
+### NOTE: My notes are really sparse because the slides are really good.  Make sure to check them out below.  
+* How Google analyzes pages for performance & speed.
+* [Rephrasing]: "Web pages/apps have 'no install' because we're always installing (JS, CSS, HTML, etc)"
+* You can use amazing tools like "performance" && "performance.timing" in the console in any modern browser
+  * Google is tracking that as part of analytics
+  * Also gives you server response time
+  * Use Segment Parsing
+    * Setup PDF reports than can email you whenever you want!
+* Averages lie so Histogram everything
+* Measure the perceived latency!
+* Check out chrome://tracing
+  * It can create a detailed view of exactly what the bowser is doing!
+  * helpful for game development
+* Dev Tools is actually a web app
+  * Android phones can have their DevTools running on a computer and analyze everything
+  * You can drive Chrome from CLI using a ruby script if you want!
+* WebpageTest.org for info other browsers
+  * IT EVEN SHOWS YOU FRAME BY FRAME HOW THE CONTENT LOADS IN
+  * FREE
+* PageSpeed Online
+  * Has an API
+  * Only requires an API key
+  * PageSpeed also has a SDK that you can install and run locally!
+  * Chrome & Firefox extensions
+  * mod_pagespeed
+    * Apache plugin
+    * AUTOMATIC resource cleanup & scrubbing!
+    * It's getting easier and easier to get this working
+    * has a TON of filters too
+   * PageSpeed Service beta
+      * set CName to a Google Server and it handles the optimization for you and serves it all via CDN
+
+Where to start  
+* Covered in the slides
+
+
 
 ## External Links
-
+* [Slides for the talk](bit.ly/faster-rails)
 * [WebPagetest](http://www.webpagetest.org/) - Free web page testing across different browsers and locations
 * [PageSpeed](https://developers.google.com/speed/pagespeed/) - Google web page performance tools
