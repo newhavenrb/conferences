@@ -2,7 +2,8 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
 
 ## Quotes
 
-* "Fuck you if you use `unless` / `else`"
+* "Fuck you if you use `unless` / `else`" - Evan
+* "GitHub needs an issue bankruptcy button." - Evan
 
 ## Notes
 
@@ -43,6 +44,8 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
     * move on...
 * Abel: abrupt ending?  No hugs?
     * Can't top last year.  Kept it real.  Critical of Rails because I care. - @tenderlove
+* So many open issues on GitHub?
+    * "GitHub needs an issue bankruptcy button." - Evan
 
 ## External Links
 
