@@ -11,6 +11,8 @@
 ## Summary
 
 * Basic overview of the Reactor pattern, registering callbacks, and blocking vs non-blocking IO.
+* It's ugly to nest callbacks.
+* Instead, we can use Fibers in Ruby.
 
 ## Notes
 
@@ -38,6 +40,8 @@
     * `response = Faraday.get('...')` looks procedural, but can be made to be non-blocking
     * Use fibers; pause and resume
     * Scheduling must be done by programmer
+    * One request per fiber
+    * Maybe have to use a different app server.
 
 ## External Links
 
