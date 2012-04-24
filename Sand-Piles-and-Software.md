@@ -20,7 +20,12 @@
 
 ## Notes
 
+
 ### @danbernier's notes
+
+### From @james\_gary
+
+TODO
 
 ## External Links
 

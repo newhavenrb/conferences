@@ -15,6 +15,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 * Have notes for something we don't have?  We want them.
 * Have notes for something we **do** have?  We want those too.  Either add them in a separate section or integrate them with existing notes.
 * Write/improve a talk summary
+* Look for "TODO"
 * Anything else that you feel makes an improvement.  :)
 
 ## Other Stuff
@@ -65,28 +66,23 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 * [[Aaron Patterson Keynote]] (Aaron Patterson, 9:00 am, Salon HJK)
 * [[Ruby Hero Awards Keynote]] (Ruby Hero Awards, 9:30 am, Salon HJK)
 * [[Taming the Kraken How Operations enables developer productivity]] (Nathen Harvey, 10:30 am, Salon H)
-    * @james_gary
 * [[Presenters and Decorators: A Code Tour]] (Mike Moore, 10:30 am, Salon K)
 * [[Rails for Zombies 2 (AKA Intro to Rails Part 2)]] (Gregg Pollack, 10:30 am, Room 616)
 * [[Patella: It's Memoization into Memcached calculated in the background with Resque.]] (Jeff Dwyer, 10:30 am, Salon J)
 * [[Semi Automatic Code Review]] (Richard Huang, 11:30 am, Salon K)
 * [[Sand Piles and Software]] (Zach Dennis, 11:30 am, Salon J)
-    * @james_gary
 * [[Let's make the web faster tips from trenches @ Google]] (Ilya Grigorik, 11:30 am, Salon H)
 * [[Ten Things You Didn't Know Rails Could Do]] (James Edward Gray II, 1:30 pm, Salon H)
-    * @james_gary
 * [[Keeping Rails Applications on Track with Brakeman]] (Justin Collins, 1:30 pm, Salon J)
 * [[Schemaless SQL The Best of Both Worlds]] (Will Leinweber, 1:30 pm, Salon K)
 * [[Basic Rake]] (Jim Weirich, 2:30 pm, Room 616)
 * [[Evented Ruby vs Node.js]] (Jerry Cheung, 2:30 pm, Salon K)
 * [[Digging Deep with ActiveSupport::Notifications]] (Matt Sanders, 2:30 pm, Salon H)
 * [[Sustainable Productivity with Rails]] (Xavier Shay, 2:30 pm, Salon J)
-    * @james_gary
 * [[How to Find Valuable Gems]] (Nathaniel Bibler, 3:00 pm, Room 616)
 * [[Stack Smashing]] (David Czarnecki, 4:00 pm, Salon H)
 * [[Securing the Rails]] (Aaron Bedra, 4:00 pm, Room 616)
 * [[Using Rails without Rails]] (Piotr Sarnacki, 4:00 pm, Salon K)
-    * @james_gary
 * [[Zero downtime deploys for Rails apps]] (Pedro Belo, 4:00 pm, Salon J)
 * [[Powerful Interfaces]] (Caike Souza, 4:30 pm, Room 616)
 * [[David Cohen Keynote]] (David Cohen, 7:00 pm, Salon HJK)

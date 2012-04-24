@@ -52,4 +52,4 @@
 
 * [Ruby Heroes](http://rubyheroes.com/)
 * [Rails Best Practices](http://railsbest.com/)
-* [rulu](http://rulu.eu/) (donated shirts)
+* [rulu](http://rulu.eu/) Donated shirts! Ruby Conference - 22 - 23 June, Lyon, France.
