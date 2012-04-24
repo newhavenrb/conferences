@@ -92,6 +92,11 @@ TODO
 * `match '/404', to: 'foo'`
 * Route to Sinatra.  Example:  Resque's interface.  `mount Foo, at: 'bar/baz'`
 * Stream CSV to users:  `format.csv` and `headers["Content-Disposition"]` for filename.  ANything that responds to `each` and `<<`.  Use something like `Foo.find_each` to prevent defeating the purpose.  :)
+* Background work: `Queue.new` (threadsafe) and `Thread.new`.  Then find the queue and then append something that has `run` (e.g., a lambda)
+* Publish a static site using Rails.  Page cache everything.  `cache_page(...)`
+    * Too fast FIXME fill in from slides
+    * Spiders and writes everything out
+    * Then `rsync`
 
 ### From @danbernier
 
