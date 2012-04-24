@@ -92,6 +92,7 @@
     * Announce deploy
         * Blog, etc.  Try to automate
     * Reducing friction is key
+    * Everyone deploys
 
 ### From @james_gary
 
@@ -99,6 +100,7 @@
 
 * What about feature toggles?  @benjaminoakes
 * Reasons for keeping vagrant files outside of app code?  @benjaminoakes
+* Should there be more configuration rather than hard-coding?  @benjaminoakes
 
 ## External Links
 
