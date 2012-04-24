@@ -1,4 +1,6 @@
-**Presenter:** Nathen Harvey
+**Presenter:** [Nathen Harvey](http://twitter.com/nathenharvey)
+
+[Slides on Speakerdeck](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity)
 
 ## Bio
 
