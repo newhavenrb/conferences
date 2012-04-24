@@ -8,7 +8,12 @@
 
 ### From @benjaminoakes
 
-TODO
+* He does OSS at ATT Interactive
+* Works at home; his annual review is online
+    * Goes through VPN
+    * Browser isn't supported
+    * Uses IE on a VM; still not supported
+    * Needs to be IE7
 
 ### From @danbernier
 
