@@ -15,7 +15,16 @@
 * RailsEnvy podcast -> Ruby 5 Podcast
 * Want to give back to people that give
 * Not well known when newly minted heroes
+* 6 people
+    * Konstantin Haase (rkh)
+        * Rack
+        * Rubinius
+        * Sinatra maintainer
+        * Sinatra book
+        * Travis CI team
 
 ## External Links
 
 * [Ruby Heroes](http://rubyheroes.com/)
+* [Rails Best Practices](http://railsbest.com/)
+* [rulu](http://rulu.eu/) (donated shirts)
