@@ -83,7 +83,14 @@ TODO
 * Multiple tags at once with `content_tag` FIXME I think this isn't quite right
 * Render any object using `Foo#to_partial_path` using `render partial: @foo`
 * Group menu entries: `select_tag(...)` FIXME missed option name
-* Make your own form builder (`ActionView::Helpers::FormBuilder`)
+* Make your own form builder (`ActionView::Helpers::FormBuilder`).  See also `default_form_builder` and `field_error_proc`
+* @tenderlove's theme song (on YouTube)  TODO link
+
+#### Actions
+
+* Route exceptions to any Rack app
+* `match '/404', to: 'foo'`
+* Route to Sinatra.  Example:  Resque's interface
 
 ### From @danbernier
 
