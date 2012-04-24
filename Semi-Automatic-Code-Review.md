@@ -10,6 +10,10 @@
 >
 > In this talk I will introduce you a way to build a semi automatic code review process, in this process a tool will analyze the source codes of your rails project, then give you some suggestions to refactor your codes according to  rails best practices. It can also check your codes according to your team's rails code guideline. So engineers can focus on implementation performance, scalability, etc. when they do code review.
 
+## Summary
+
+Automation of tasks is important.  This talk discussed the speaker's open-source `rails_best_practices` gem (similar to JSLint in concept) and its associated web service.  It can point out code smells, etc. as a GitHub hook.  If you already use GitHub and do pull requests for code review, this can automate simple detection.
+
 ## Notes
 
 ### From @benjaminoakes
