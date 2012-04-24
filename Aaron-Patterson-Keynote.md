@@ -157,4 +157,4 @@ TODO
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Tokaido railsapp kickstarter project](http://www.kickstarter.com/projects/1397300529/railsapp/posts)
