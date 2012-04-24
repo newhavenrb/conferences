@@ -47,6 +47,10 @@ This talk is about failure
         * `queue << Runnable.new`
     * `ActiveQueue` doesn't actually have an implementation ("0 lines")
     * Lots of other options, but different interfaces
+        * Interface is more important than implementation (e.g., Redis, AMQP, etc)
+        * We don't have a driving force for this common API
+        * Make it easy to switch
+        * "I'd like to see Rails 4 be the driving force"
 
 ### From @danbernier
 
