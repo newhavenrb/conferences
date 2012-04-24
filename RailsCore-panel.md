@@ -46,6 +46,11 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
     * Can't top last year.  Kept it real.  Critical of Rails because I care. - @tenderlove
 * So many open issues on GitHub?
     * "GitHub needs an issue bankruptcy button." - Evan
+    * Need bug busting days. (not sure who said)
+    * Need canned responses.  - @tenderlove
+    * Close and ask for more info.  - @wycats
+
+Coloring books!
 
 ## External Links
 
