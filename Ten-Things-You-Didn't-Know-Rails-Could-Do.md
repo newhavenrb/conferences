@@ -383,6 +383,33 @@ ensure EVERYONE learned something from the talk.)
 
 Slides are coming online, at http://speakerdeck.com/u/jeg2
 
+### @zachmorek
+
+42 things you didn't know
+
+On Rail 3.2.3
+
+1- Friday hugs
+
+Rails application in one File
+TODO / FIXME / OPTIMIZE - rake task
+Sandboxing console
+Non WEBrick Servers... `rails s thin`
+Tap into config
+
+rake db:migrate status
+User.uniq.pluck(:email)
+Event.group.count
+
+Full text search in postgres
+
+Different database for each user
+Atomic file writing - `file.atomic_write("#{id}.txt")`
+Deep merge of hashes
+someHash.except(:user\_id)
+Erb comments
+
+
 ## External Links
 
 * [Friday hugs](http://fridayhug.com)
