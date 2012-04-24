@@ -13,6 +13,8 @@
 * Basic overview of the Reactor pattern, registering callbacks, and blocking vs non-blocking IO.
 * It's ugly to nest callbacks.
 * Instead, we can use Fibers in Ruby.
+* Ruby can mix paradigms, which is nice.  But Node.js has better library support.
+* Avoid evented IO in your app code.  That belongs in a library.
 
 ## Notes
 
@@ -49,7 +51,11 @@
     * Best to be able to reuse existing code; harder to read if registering callbacks (reuse procedural syntax)
     * Ruby allows multi paradigm solutions
     * Node can be nice singe it's only a single paradigm; every Node libary is non-blocking.  The commnity is more active for evented programming.
+* "Evented programming for evented problems"
+* Avoid evented IO in your app code.  That belongs in a library.
 
 ## External Links
 
+* [Slides](https://github.com/jch/railsconf2012)
+* [His Twitter](http://www.twitter.com/whatcodecraves)
 * [node.js](http://nodejs.org/)
