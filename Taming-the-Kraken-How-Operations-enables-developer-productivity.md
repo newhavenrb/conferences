@@ -310,6 +310,7 @@ cap jenkins:delete
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity)
+* [Rate the talk](http://speakerrate.com/talks/9580-taming-the-kraken-how-operations-enables-developer-productivity)
 * [Chef](http://www.opscode.com/chef)
 * [Vagrant](http://vagantup.com/)
 * [CapHub](https://github.com/railsware/caphub)
