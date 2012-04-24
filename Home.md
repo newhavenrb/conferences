@@ -4,18 +4,18 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 
 * Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
 * This is like Wikipedia, but for RailsConf notes.
-* We want to share.  All contributions are welcome (notes, summaries, discussions, slide links, related links, etc).
+* We want to share.  All contributions are welcome (notes, summaries, discussions, slide links, related links, etc.).
 * Miss a talk?  We've got your back.
 
 ## What you can do
 
 * Please pass the word along!  More eyes and contributors == more better.
 * Read the notes; fix typos, awkward wording as necessary
-* Add links; links to slides, related sites, videos, etc. are very desireable.
+* Add links; links to slides, related sites, videos, etc. are very desirable.
 * Have notes for something we don't have?  We want them.
 * Have notes for something we **do** have?  We want those too.  Either add them in a separate section or integrate them with existing notes.
 * Write/improve a talk summary
-* Look for "TODO"
+* Look for "TODO" for (simple) tasks.
 * Anything else that you feel makes an improvement.  :)
 
 ## Other Stuff
