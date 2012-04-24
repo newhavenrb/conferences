@@ -59,6 +59,10 @@ TODO
 * Limitless strings in PostgeSQL (rather than a text field?  I'm confused)  FIXME
 * Full text search in PostgreSQL: `t.column :search, "tsvector"` SQL: `gin(search)` (same as what Sphinx uses)
     * Too quick; see slides  FIXME
+    * Does stemming, case insensitive
+* User in own database
+    * SQLite is good for this
+    * Uses `ActiveRecord.establish_connection` (he made a library... `user_database`?) TODO
 
 ### From @danbernier
 
