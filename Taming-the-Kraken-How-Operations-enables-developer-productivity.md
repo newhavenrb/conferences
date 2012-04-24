@@ -213,6 +213,7 @@ cap jenkins:delete
     * Why not use Chef for deploy?  Problem is shutting down multiple app servers.  But they do Chef searches in Capistrano.
     * New prod environment via VMs then DNS switch to deploy?  They'd like that, but physical hardware makes that difficult.
     * Server cruft happens.  They don't have a good answer yet.
+    * Centralized logging?  They made `central_logger` (OSS).  MongoDB.  Paper Trail too.  Otherwise, distributed logging.
 
 ## Discussion
 
