@@ -67,10 +67,13 @@
     * Scripting + Capistrano
     * Chef/Puppet, etc
 * Chef
-    * (Basics of chef here; going to leave that for someone else.  Links welcome!)
+    * (Basics of chef here; going to leave that for someone else.  Links welcome! TODO)
     * Runs continually against nodes
     * Can use locally with `vagrant`
     * They have a "Hobo Jungle" for vagrant files (instead of their app's code)
+* CI
+    * They use Jenkins
+    * Green Screen (see their github -- TODO add link)
 
 ### From @james_gary
 
