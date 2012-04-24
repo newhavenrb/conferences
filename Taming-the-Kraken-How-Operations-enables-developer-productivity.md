@@ -111,6 +111,8 @@
     * Review via product managers... "fire teams".  Shared libs?  They don't have a good answer yet.
     * How long it'd take to adopt this workflow?  1 yr or more, team grew, learned more Chef, etc.
     * Why not use Chef for deploy?  Problem is shutting down multiple app servers.  But they do Chef searches in Capistrano.
+    * New prod environment via VMs then DNS switch to deploy?  They'd like that, but physical hardware makes that difficult.
+    * Server cruft happens.  They don't have a good answer yet.
 
 ### From @james_gary
 
