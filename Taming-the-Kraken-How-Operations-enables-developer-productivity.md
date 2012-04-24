@@ -37,6 +37,21 @@
 
 ### From @benjaminoakes
 
+* Works for CustomInk
+    * Since 1999
+    * 40+ milion request to app servers each week
+* Used to
+    * Have one team
+    * Two-week sprints
+    * Worked well except
+    * Small changes sat for days waiting to deployed
+    * One problem rolled back a whole deploy
+    * A lot more developers now...
+* A deploy is like a prom if it...
+    * ...happens infrequently
+    * ...build-up bigger than the result
+    * ...has a lot of ceremony
+
 ### From @james_gary
 
 ## External Links
