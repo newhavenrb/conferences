@@ -17,6 +17,9 @@
 * He works on OpenFeint
 * Prefer automatic processes to manual processes (e.g., automatic testing)
 * Totally manual: code review
+    * Automatic tests / manual verification
+    * Automated deploy via Capistrano
+    * But can you automate code review?
 
 ## External Links
 

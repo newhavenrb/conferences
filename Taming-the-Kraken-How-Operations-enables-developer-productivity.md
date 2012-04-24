@@ -226,5 +226,5 @@ cap jenkins:delete
 
 * [Chef](http://www.opscode.com/chef)
 * [Vagrant](http://vagantup.com/)
-* [Jenins](http://jenkins-ci.org)
+* [Jenkins](http://jenkins-ci.org)
 * GreenScreen TODO
