@@ -71,7 +71,7 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 * (TODO needs notes/slides) [[Patella: It's Memoization into Memcached calculated in the background with Resque.]] (Jeff Dwyer, 10:30 am, Salon J)
 * [[Semi Automatic Code Review]] (Richard Huang, 11:30 am, Salon K)
 * [[Sand Piles and Software]] (Zach Dennis, 11:30 am, Salon J)
-* (TODO needs notes/slides) [[Let's make the web faster tips from trenches @ Google]] (Ilya Grigorik, 11:30 am, Salon H)
+* [[Let's make the web faster tips from trenches @ Google]] (Ilya Grigorik, 11:30 am, Salon H)
 * [[Ten Things You Didn't Know Rails Could Do]] (James Edward Gray II, 1:30 pm, Salon H)
 * (TODO needs notes/slides) [[Keeping Rails Applications on Track with Brakeman]] (Justin Collins, 1:30 pm, Salon J)
 * (TODO needs notes/slides) [[Schemaless SQL The Best of Both Worlds]] (Will Leinweber, 1:30 pm, Salon K)
