@@ -18,6 +18,14 @@
 
 TODO
 
+### From @benjaminoakes
+
+TODO
+
+### From @danbernier
+
+TODO
+
 ## External Links
 
 * [Some related website](http://www.example.com/)
