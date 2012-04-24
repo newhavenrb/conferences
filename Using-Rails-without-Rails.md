@@ -14,6 +14,22 @@
 
 ## Notes
 
+### From @benjaminoakes
+
+* Who
+    * Polish
+    * He works for Mixbook
+* Maybe not ready for production use? (Having a hard time understanding)
+* Rails is complicated
+    * 3.0 is more modular
+    * Take something small, extend to see possibilities
+* `ActionController::Base`
+    * Lots of `include`s
+    * `AbstractController` doesn't get you much
+    * ...but if you `include AbstractController::Rendering`...  you get `render`
+    * `include AbstractController::Layouts`... layout support
+    * http://gist.github.com/2482523
+
 ### From @james\_gary
 
 TODO
