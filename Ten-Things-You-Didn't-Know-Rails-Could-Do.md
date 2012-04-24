@@ -53,8 +53,12 @@ TODO
     * CSV in database (use `load` and `dump` for `serialize`)
 * Pluck
     * `Foo.select(;email).map(&:email)` same as `Foo.pluck(:email)`
-* Records in groups:
-    * `Foo.group(:bar).count`
+* Records in groups `Foo.group(:bar).count`
+* Override associations: `def foo=`
+* Instatiate records without a DB: tell its id, etc `Foo.instantiate('id' => 1)` #evil
+* Limitless strings in PostgeSQL (rather than a text field?  I'm confused)  FIXME
+* Full text search in PostgreSQL: `t.column :search, "tsvector"` SQL: `gin(search)` (same as what Sphinx uses)
+    * Too quick; see slides  FIXME
 
 ### From @danbernier
 
