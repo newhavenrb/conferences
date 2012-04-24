@@ -12,5 +12,13 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
     * `ActiveResource` "an anemic toolset" (Rick Olsen's) - @wycats
     * Scopes - use class methods.  Esp. with lambdas. - @spastorino
 * Thing you would add?
-    * Cornify - @tenderlove
+    * -Cornify- Rake - @tenderlove
     * Queuing - @wycats
+    * Identity maps (But hard for backwards compatibility, cache invalidation.  It's been removed in master.) - @jimweirich
+    * (missed it) - @spastorino
+
+* @tenderlove: Rewriting Rack?
+    * Decreasing stack depth
+    * Lotta work
+    * Hard
+    * Interface written
