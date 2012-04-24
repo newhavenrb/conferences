@@ -43,6 +43,12 @@
     * One request per fiber
     * Maybe have to use a different app server.
     * Not a lot of work, but doesn't make a huge difference up front; mixing paradigms
+    * Have to use slightly different libraries
+        * `EM.popen` and `EM.defer`
+        * Others
+    * Best to be able to reuse existing code; harder to read if registering callbacks (reuse procedural syntax)
+    * Ruby allows multi paradigm solutions
+    * Node can be nice singe it's only a single paradigm; every Node libary is non-blocking.  The commnity is more active for evented programming.
 
 ## External Links
 
