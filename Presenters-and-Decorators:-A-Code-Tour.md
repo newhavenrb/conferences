@@ -108,6 +108,7 @@ He's looking for work! @blowmage
 
 ## External Links
 
+* [Slides](http://speakerdeck.com/u/blowmage/p/presenters-and-decorators-a-code-tour)
 * [ActiveDecorator](github.com/amatsuda/active_decorator)
 * [Draper](https://github.com/jcasimir/draper)
 * [rabl](https://github.com/nesquena/rabl)

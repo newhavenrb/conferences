@@ -42,6 +42,7 @@
     * Scheduling must be done by programmer
     * One request per fiber
     * Maybe have to use a different app server.
+    * Not a lot of work, but doesn't make a huge difference up front; mixing paradigms
 
 ## External Links
 
