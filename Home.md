@@ -22,7 +22,6 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 * Please add a section for your notes (e.g. `### From @yourname`) in the notes section to help reduce merge conflicts
 * You don't have to fork (actually, GitHub doesn't handle forking wikis all that well); just [clone](https://github.com/newhavenrb/railsconf2012/wiki/_access), make your changes, commit, and push like you would for code.
 * This is an index page.  It has a list of talks, each of which can have their own page(s).
-* You can add your name below talks you're planning to attend.  (Separate lines are best to prevent merge conflicts.)
 * It's just a suggestion, but here's a [[template]] for notes.
 * Beyond `git` and a text editor, there's a [[software]] list that might help you out.
 
@@ -34,49 +33,32 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 
 * [[KidsRuby]] (KidsRuby, 10:30 am, Room 616)
 * [[Ignite RailsConf]] (Ignite RailsConf, 6:00 pm, Salon J)
-    * @james_gary
 
 ## Monday 2012-04-23
 
 * [[Welcome Keynote]] (Welcome, 9:00 am, Salon HJK)
-    * @benjaminoakes
-    * @james_gary
 * [[David Heinemeier Hansson Keynote]] (David Heinemeier Hansson, 9:15 am, Salon HJK)
-    * @benjaminoakes
-    * @james_gary
 * [[Rails for Zombies (AKA Intro to Rails Part 1)]] (Gregg Pollack, 10:30 am, Room 616)
 * [[Designing Hypermedia APIs]] (Steve Klabnik, 10:30 am, Salon K)
-    * @benjaminoakes
 * [[i18n on Rails: A Twitter Approach]] (Cameron Dutro, 10:30 am, Salon H)
 * [[Using Backbone.js with Rails: Patterns from the Wild]] (Sarah Mei, 10:30 am, Salon J)
-    * @james_gary
 * [[Practical Machine Learning and Rails]] (Andrew Cantino & Ryan Stout, 11:30 am, Salon K)
-    * @james_gary
 * [[Getting Down To Earth: Geospatial Analysis With Rails]] (Daniel Azuma, 11:30 am, Salon H)
 * [[CoffeeScript for the Rubyist]] (Mark Bates, 11:30 am, Salon J)
-    * @benjaminoakes
 * [[Rails Engines Patterns]] (Andy Maleh, 1:30 pm, Salon J)
-    * @james_gary
 * [[Mobile Rage What causes it how to fix it]] (Lori M Olson, 1:30 pm, Salon H)
 * [[RoRoRoomba Ruby on Rails on Roomba]] (Charles Abbot, 1:30 pm, Salon K)
-    * @benjaminoakes
 * [[Progressive Enhancement on the Mobile Web]] (John Bender, 2:30 pm, Salon H)
-    * @benjaminoakes
 * [[From Rails Rumble to 50,000,000 results]] (Mikel Lindsaar, 2:30 pm, Salon J)
-    * @james_gary
 * [[ActiveSupport and ActiveModel]] (Bryan Liles, 2:30 pm, Room 616)
 * [[Use the Source, Luke: High fidelity data with event sourcing]] (Keith Gaddis, 2:30 pm, Salon K)
 * [[Railsflavored Ruby]] (Michael Hartl, 3:00 pm, Room 616)
 * [[Securing your site]] (Thomas Pomfret, 4:00 pm, Salon J)
-    * @james_gary
 * [[Realtime web applications with streaming REST]] (Brad Gessler, 4:00 pm, Salon K)
-    * @benjaminoakes
 * [[RVM Essential Rails Development Tools]] (Olivier Lacan, 4:00 pm, Room 616)
 * [[The Future of Sass]] (Hampton Catlin, 4:00 pm, Salon H)
 * [[ActiveRecord Scopes and Arel]] (Jacob Swanner, 4:30 pm, Room 616)
 * [[Rich Hickey Keynote]] (Rich Hickey, 5:30 pm, Salon HJK)
-    * @benjaminoakes
-    * @james_gary
 
 ## Tuesday 2012-04-24
 
