@@ -19,6 +19,14 @@
     * "Rube Goldberg Network Architecture"
 * Aaron Patterson's title is now "Corey Haines" :)
 
+This talk is about failure
+
+* Tokaido ("Lampshade" -- I think)
+    * Binary distro of Ruby + gems for Rails
+    * Good for students; don't have to worry about dependencies
+    * Good for teachers too; he used to teach Ruby at U. Washington
+    * Good for all developers
+
 ### From @danbernier
 
 TODO
