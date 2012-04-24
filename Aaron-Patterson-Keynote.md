@@ -35,6 +35,11 @@ This talk is about failure
     * Alternative: "RailsBridge" project
 
 * Failure to evolve
+    * Concurrency is important
+    * Not enough
+    * Why do we have **ActionMailer**?  Sending emails, obviously...
+    * Done synchronously (blocking; bad if slow)
+    * Could get exception
 
 ### From @danbernier
 
