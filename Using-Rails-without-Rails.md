@@ -47,6 +47,10 @@ A discussion of Rails internals;  specifically, a look at how ActionController a
     * Recommends José Valim's _Crafting Rails Applications_
 * `Journey`
     * Rails routing layer  FIXME I'm confused on this.  It might be for Rack.
+    * Seperable router.  Can use with bare Rack or Sinatra (I assume)
+* Summary
+    * Knowing how it works is good
+    * Might lead to improvements in Rails
 
 ### From @james\_gary
 
@@ -54,4 +58,4 @@ TODO
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://bit.ly/using-rails-without-rails)
