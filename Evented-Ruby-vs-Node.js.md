@@ -36,6 +36,8 @@
     * Passenger can be evented too
     * `x = EM::HttpRequest.new(...).get; x.callback { }` has a smell
     * `response = Faraday.get('...')` looks procedural, but can be made to be non-blocking
+    * Use fibers; pause and resume
+    * Scheduling must be done by programmer
 
 ## External Links
 
