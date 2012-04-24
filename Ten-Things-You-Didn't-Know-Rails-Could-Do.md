@@ -51,6 +51,10 @@ TODO
 * CSV
     * Import CSV data (see slide).  @jeg2 gets this all the time
     * CSV in database (use `load` and `dump` for `serialize`)
+* Pluck
+    * `Foo.select(;email).map(&:email)` same as `Foo.pluck(:email)`
+* Records in groups:
+    * `Foo.group(:bar).count`
 
 ### From @danbernier
 
