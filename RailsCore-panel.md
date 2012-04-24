@@ -4,6 +4,7 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
 
 * "Fuck you if you use `unless` / `else`" - Evan
 * "GitHub needs an issue bankruptcy button." - Evan
+* "Failure of leadership"
 
 ## Notes
 
@@ -52,6 +53,10 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
     * Community triage.  - @tenderlove
     * Everybody triage 3 tickets.  - Evan
     * (We'd need rules)
+    * Tag with version of Rails it's for. - @spastorino
+* Evan: Rubinius? - @tenderlove
+    * More project management.
+    * 2.0
 
 Coloring books!
 
