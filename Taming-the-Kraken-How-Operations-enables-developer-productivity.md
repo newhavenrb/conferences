@@ -93,6 +93,7 @@
         * Blog, etc.  Try to automate
     * Reducing friction is key
     * Everyone deploys
+    * Developer -> QA (by the developer) -> deploy
 
 ### From @james_gary
 
