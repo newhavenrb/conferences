@@ -142,3 +142,11 @@ gardener with their garden.
 * [Sand Piles & Software in April PragPub](http://pragprog.com/magazines/2012-04/sand-piles-and-software)
 * http://continuousthinking.com
 * http://mutuallyhuman.com
+
+
+
+## Discussion
+
+This reminds me (@danbernier) quite a bit of the "Abstraction Descant"
+chapter in "Patterns of Software"
+(http://dreamsongs.net/Files/PatternsOfSoftware.pdf), by Dick Gabriel.
