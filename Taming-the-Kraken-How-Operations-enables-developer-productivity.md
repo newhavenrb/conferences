@@ -95,15 +95,21 @@
     * Everyone deploys
     * Developer -> QA (by the developer) -> deploy
 * How to get started
-    * Look at your process
+    * Look at your process/culture
     * Automate
     * More tools (and the right tool for the job)
+* DevOps: a team
+    * Listen
+    * Culture + conversation + collaboration
+* Zero-downtime: approaching 100%
+* They prefer deploys during business hours
 
 ### From @james_gary
 
 ## Discussion
 
 * What about feature toggles?  @benjaminoakes
+    * He loves them; they use them a lot
 * Reasons for keeping vagrant files outside of app code?  @benjaminoakes
 * Should there be more configuration rather than hard-coding?  @benjaminoakes
 
@@ -111,3 +117,5 @@
 
 * [Chef](http://www.opscode.com/chef)
 * [Vagrant](http://vagantup.com/)
+* [Jenins](http://jenkins-ci.org)
+* GreenScreen TODO
