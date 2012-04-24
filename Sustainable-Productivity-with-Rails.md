@@ -12,8 +12,57 @@
 
 ### From @james\_gary
 
-TODO
+### @ZachMorek
+
+* How do we keep being productive, after the project begins aging
+* Rails is not optimized for sustainable productivity
+* Prototype - first few iterations, rails is perfect for this
+* Your application - many many iterations
+* Easy 
+* Simple
+* Rails is easy, not simple. Complexity of interleaving parts
+
+### Data
+
+* Data that lacks integrity are harder to understand
+* `validates_uniqueness_of`
+* Rails provides no solid way of uniqueness exceptions
+* `has_one`
+* Exceptions in this race condition
+* Stranded records on create/delete at the same time
+* High risk of data corruption
+* Rails does not suport database constraints
+
+### Code in the small
+
+* Reification, make something abstrat0 more onccrete or real
+* How classes fit in should be documented, that code can't speak for itself
+* Answer important questions, should it be restarted, does it have any downstream impacts, is that important
+* Consistency is a form of documentation. Multiple implementations of the same thing mean developers start asking quesitons instead of doing something more useful
+* Stupidity multiplies (99% effective developers, 10 developers...)
+* github/square/cane forces you to look at ugliness of code before commits
+
+### Code in the large
+
+* Define the relationship between our app and the rest of the world
+
+* Dependency on 3rd party code should go thru an interface that is shared
+* Thin layer in between.  Ex: `user_cache` instead of `REDIS`
+
+* Article, Draft, Published 
+* Using an aggregate
+
+* Integration test - controllers
+* Functional test - controller
+* Unit test - model
+
+* Suggestion...
+* Acceptance - whole system
+* Integraiton - code against code
+* Unit - do our objects do the right thing and are they conveninet to work with
+
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Cane](https://github.com/square/cane)
+
