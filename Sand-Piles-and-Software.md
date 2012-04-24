@@ -20,6 +20,9 @@
 
 ## Notes
 
+
+### @danbernier's notes
+
 ### From @james\_gary
 
 * Past habits often predict future behavior
