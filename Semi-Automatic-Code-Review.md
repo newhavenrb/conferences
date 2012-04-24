@@ -32,6 +32,10 @@
     * Gem: `rails_best_practices`
         * Can suggest things like "use scope access", "use model association", or "use query attribute")
     * A code review service?
+        * railsbp.com
+        * Integrates with GitHub (service hook)
+        * Tracks history
+        * Configurble
 
 ## External Links
 
@@ -39,5 +43,6 @@
 * Twitter (TODO links)
     * @flyerhzm
     * @railsbp
-* [Guard integration](https://github.com/logankoester/guard-rails_best_practices)
+* [`guard-rails_best_practices`](https://github.com/logankoester/guard-rails_best_practices) - Guard integration
 * Jenkins integration TODO link
+* [railsbp.com](http://railsbp.com) - online code review service, integrates with GitHub
