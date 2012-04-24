@@ -64,6 +64,10 @@
     * Each topic branch gets a staging env
     * Have to automate
     * "Infrastructure as code"
+    * Scripting + Capistrano
+    * Chef/Puppet, etc
+* Chef
+    * (Basics of chef here; going to leave that for someone else.  Links welcome!)
 
 ### From @james_gary
 
