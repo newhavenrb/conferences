@@ -22,6 +22,13 @@
         * Sinatra maintainer
         * Sinatra book
         * Travis CI team
+    * Tony Arcieri (tarcieri)
+        * Revactor
+        * http://cool.io
+        * Celloid::IO
+        * DCell
+        * Reia
+        * Unlimited Novelty blog
 
 ## External Links
 
