@@ -20,10 +20,24 @@
     * Automatic tests / manual verification
     * Automated deploy via Capistrano
     * But can you automate code review?
+* What is review?
+    * Easy 
+        * Coding guidelines
+        * Syntax
+        * Remove unused methods
+    * Difficult
+        * Performant
+        * Scalable
+    * Automate "easy"
+    * Gem: `rails_best_practices`
+        * Can suggest things like "use scope access", "use model association", or "use query attribute")
+    * A code review service?
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [`rails_best_practices` gem](http://rubygems.org/gems/rails_best_practices) TODO check link (internet connection is bad now)
 * Twitter (TODO links)
     * @flyerhzm
     * @railsbp
+* [Guard integration](https://github.com/logankoester/guard-rails_best_practices)
+* Jenkins integration TODO link
