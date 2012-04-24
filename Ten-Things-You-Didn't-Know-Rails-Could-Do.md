@@ -1,4 +1,4 @@
-**Presenter:** James Edward Gray II
+**Presenter:** James Edward Gray II (@jeg2)
 
 ## Bio
 
@@ -13,6 +13,8 @@
 > In this talk, I'll dig into the extras of Rails and see if I can't turn up some features that you don't see all of the time, but that might just be handy to know about anyway.  I'll make sure you come out of this able to impress your friends at the hackfest.
 
 ## Notes
+
+Really, 42 things.
 
 ### From @james\_gary
 
@@ -33,6 +35,22 @@ TODO
 * Sanbox `rails console`
     * DB changes reverted
     * `rails c --sandbox`
+* Helper methods in console
+    * `helper` objecdt
+* Non-webrick servers in dev: `rails s thin`
+* In Railties: tap into `config`
+    * `require` first
+
+#### Database
+
+* Migration shorthand
+    * `string` by default, limits in `{}`)
+    * Indexes at command line `name:index`
+    * Associations: `user:references` or `user:belongs_to`, column, `add_index`, and association (`belongs_to`)
+    * `rake db:migrate:status` tells you whether a migration is applied
+* CSV
+    * Import CSV data (see slide).  @jeg2 gets this all the time
+    * CSV in database (use `load` and `dump` for `serialize`)
 
 ### From @danbernier
 
