@@ -68,13 +68,18 @@
     * Chef/Puppet, etc
 * Chef
     * (Basics of chef here; going to leave that for someone else.  Links welcome!)
+    * Runs continually against nodes
+    * Can use locally with `vagrant`
+    * They have a "Hobo Jungle" for vagrant files (instead of their app's code)
 
 ### From @james_gary
 
 ## Discussion
 
 * What about feature toggles?  @benjaminoakes
+* Reasons for keeping vagrant files outside of app code?  @benjaminoakes
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Chef](http://www.opscode.com/chef)
+* [Vagrant](http://vagantup.com/)
