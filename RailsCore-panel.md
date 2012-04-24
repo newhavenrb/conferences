@@ -22,3 +22,8 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
     * Lotta work
     * Hard
     * Interface written
+
+* Public Pivotal Tracker for Rails Core?
+    * Most people fix stuff they need.  Mostly random.  Except @tenderlove (and @spastorino? maybe?).  - @wycats
+    * GitHub issues -> dartboard - @tenderlove
+    * Pivotal isn't meant for projects like Rails.  - @wycats
