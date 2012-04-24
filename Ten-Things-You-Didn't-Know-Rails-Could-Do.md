@@ -1,4 +1,4 @@
-**Presenter:** James Edward Gray II
+**Presenter:** James Edward Gray II (@jeg2)
 
 ## Bio
 
@@ -13,6 +13,8 @@
 > In this talk, I'll dig into the extras of Rails and see if I can't turn up some features that you don't see all of the time, but that might just be handy to know about anyway.  I'll make sure you come out of this able to impress your friends at the hackfest.
 
 ## Notes
+
+Really, 42 things.
 
 ### From @james\_gary
 
@@ -102,7 +104,81 @@
 
 ### From @benjaminoakes
 
-TODO
+* Who
+    * He's on Ruby Rogues
+    * Rubyist for 8 years
+    * Ruby code/documentation
+    * CSV
+* Rails 3.2.3
+* Rails app in a single file
+* `rake notes` for `TODO`, `FIXME`, `OPTIMIZE`
+    * `rake notes:custom` ...
+    * TextMate bundle
+* Sanbox `rails console`
+    * DB changes reverted
+    * `rails c --sandbox`
+* Helper methods in console
+    * `helper` objecdt
+* Non-webrick servers in dev: `rails s thin`
+* In Railties: tap into `config`
+    * `require` first
+
+#### Database
+
+* Migration shorthand
+    * `string` by default, limits in `{}`)
+    * Indexes at command line `name:index`
+    * Associations: `user:references` or `user:belongs_to`, column, `add_index`, and association (`belongs_to`)
+    * `rake db:migrate:status` tells you whether a migration is applied
+* CSV
+    * Import CSV data (see slide).  @jeg2 gets this all the time
+    * CSV in database (use `load` and `dump` for `serialize`)
+* Pluck
+    * `Foo.select(;email).map(&:email)` same as `Foo.pluck(:email)`
+* Records in groups `Foo.group(:bar).count`
+* Override associations: `def foo=`
+* Instatiate records without a DB: tell its id, etc `Foo.instantiate('id' => 1)` #evil
+* Limitless strings in PostgeSQL (rather than a text field?  I'm confused)  FIXME
+* Full text search in PostgreSQL: `t.column :search, "tsvector"` SQL: `gin(search)` (same as what Sphinx uses)
+    * Too quick; see slides  FIXME
+    * Does stemming, case insensitive
+* User in own database
+    * SQLite is good for this
+    * Uses `ActiveRecord.establish_connection` (he made a library... `user_database`?) TODO
+    * Need a `before_filter` or similar
+    * Could trigger by by subdomain
+    * Not fighting with other users
+
+#### Ruby
+
+* `File.atomic_write` (makes a tempfile and moves it into place at the end; not good on NFS)
+* Merge nested hashes:  `Hash#deep_merge` in Rails
+* Remove keys from a Hash: `Hash#except(:foo, :bar)`
+* `Hash#merge` overwrites; not good for `params`, so for defaults, use `Hash#reverse_merge`
+* Predicates on strings.  Familiar example: `Rails.env.development`.  `"foo".inquiry.magic?`.  Works well with `validates_inclusion_of`
+
+#### Views
+
+* HTML coments or ERb comments.  Slower using ERb, but not visible.
+* Shorthand ERb:  `erubis` broke: `% if foo.bar?`.  @Jeg2 has a pull request for this.   TODO link
+* Blocks to avoid assignemnts (`each` and `tap`, or write a helper method that takes a block)
+* Multiple tags at once with `content_tag` FIXME I think this isn't quite right
+* Render any object using `Foo#to_partial_path` using `render partial: @foo`
+* Group menu entries: `select_tag(...)` FIXME missed option name
+* Make your own form builder (`ActionView::Helpers::FormBuilder`).  See also `default_form_builder` and `field_error_proc`
+* @tenderlove's theme song (on YouTube)  TODO link
+
+#### Actions
+
+* Route exceptions to any Rack app
+* `match '/404', to: 'foo'`
+* Route to Sinatra.  Example:  Resque's interface.  `mount Foo, at: 'bar/baz'`
+* Stream CSV to users:  `format.csv` and `headers["Content-Disposition"]` for filename.  ANything that responds to `each` and `<<`.  Use something like `Foo.find_each` to prevent defeating the purpose.  :)
+* Background work: `Queue.new` (threadsafe) and `Thread.new`.  Then find the queue and then append something that has `run` (e.g., a lambda)
+* Publish a static site using Rails.  Page cache everything.  `cache_page(...)`
+    * Too fast FIXME fill in from slides
+    * Spiders and writes everything out
+    * Then `rsync`
 
 ### From @danbernier
 
@@ -110,4 +186,5 @@ TODO
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Friday hugs](http://fridayhug.com)
+* Slides TODO (from Twitter)
