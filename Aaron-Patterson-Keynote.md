@@ -26,6 +26,10 @@ This talk is about failure
     * Good for students; don't have to worry about dependencies
     * Good for teachers too; he used to teach Ruby at U. Washington
     * Good for all developers
+        * Time is important
+        * Shared objects, `dlopen`, `otool`, etc... what are these things?
+        * If you're building and you have a problem with one of these, you need to know how they work
+        * Do you want to spend time on this?
 
 ### From @danbernier
 
