@@ -33,9 +33,13 @@
         * Can suggest things like "use scope access", "use model association", or "use query attribute")
     * A code review service?
         * railsbp.com
-        * Integrates with GitHub (service hook)
+        * Integrates with GitHub (service hook); looks similar to Travis CI if you've used that
         * Tracks history
         * Configurble
+        * Gives analysis in web UI
+        * Configuration
+        * Cost: unclear (TODO check site)
+        * Plugins are possible (e.g., for `try()`)
 
 ## External Links
 
