@@ -14,6 +14,9 @@
     * Browser isn't supported
     * Uses IE on a VM; still not supported
     * Needs to be IE7
+    * Uses a Mac server
+    * SSH tunnel to his laptop for VPN
+    * "Rube Goldberg Network Architecture"
 
 ### From @danbernier
 
