@@ -7,7 +7,3 @@
 ## Notes
 
 * IRB exercises from Ch4
-
-## External Links
-
-* [Some related website](http://www.example.com/)

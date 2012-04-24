@@ -47,11 +47,38 @@ A discussion of Rails internals;  specifically, a look at how ActionController a
     * Recommends José Valim's _Crafting Rails Applications_
 * `Journey`
     * Rails routing layer  FIXME I'm confused on this.  It might be for Rack.
+    * Seperable router.  Can use with bare Rack or Sinatra (I assume)
+* Summary
+    * Knowing how it works is good
+    * Might lead to improvements in Rails
 
 ### From @james\_gary
 
-TODO
+* Warning: Not exactly production-ready code, just for fun
+* So why talk about it? To experiment, to inspire, for fun
+* Rails is big and has many part and complicated
+* Rails 3.0 is more modular
+* Easier to learn now than before
+* How to learn?
+  * Take minimal working version from Rails, recreate or extend it
+* Example: I want to check how ActionController works
+  * ~30 includes
+  * Digs deep and plays around
+  * gist.github.com/2482523
+* Good design: reusable and decoupled
+  * A lot of APIs in Rails is just syntactic sugar over other APIs
+  * > Design is about pulling things apart - Rich Hickey
+* Example: I want to check how ActionView works
+  * A lot of things here
+  * Where to start?
+  * AbstractController::Rendering
+  * ActionView::LookupContext
+    * Responsible for templates lookup
+* Read the code. Just read it.
+* Use a debugger
+* Play with the code. Experiment.
+* Super helpful when doing crazy stuff: Crafting Rails Applications by Jose Valim
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://bit.ly/using-rails-without-rails)
