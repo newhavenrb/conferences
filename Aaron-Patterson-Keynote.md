@@ -53,6 +53,10 @@ This talk is about failure
         * "I'd like to see Rails 4 be the driving force"
 
 * Failure to lead (fear of features)
+    * Less tolerance for techical debt
+    * `tolerance = value / time`
+    * Younger: bad at predicting maintenance time; more tolerance
+    * New developers more likely to merge without thinking about maintenance cost
 
 ### From @danbernier
 
