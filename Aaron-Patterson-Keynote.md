@@ -40,6 +40,8 @@ This talk is about failure
     * Why do we have **ActionMailer**?  Sending emails, obviously...
     * Done synchronously (blocking; bad if slow)
     * Could get exception
+    * Best case: slow, worst case: errors
+    * Need to do in a backround job, etc (producer/consumer pattern)
 
 ### From @danbernier
 
