@@ -63,6 +63,9 @@ TODO
 * User in own database
     * SQLite is good for this
     * Uses `ActiveRecord.establish_connection` (he made a library... `user_database`?) TODO
+    * Need a `before_filter` or similar
+    * Could trigger by by subdomain
+    * Not fighting with other users
 
 ### From @danbernier
 
