@@ -49,6 +49,9 @@ Who: @tenderlove, @wycats, @jimweirich, @spastorino
     * Need bug busting days. (not sure who said)
     * Need canned responses.  - @tenderlove
     * Close and ask for more info.  - @wycats
+    * Community triage.  - @tenderlove
+    * Everybody triage 3 tickets.  - Evan
+    * (We'd need rules)
 
 Coloring books!
 
