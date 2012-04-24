@@ -143,7 +143,7 @@ cap jenkins:delete
 
 * Works for CustomInk
     * Since 1999
-    * 40+ milion request to app servers each week
+    * 40+ million request to app servers each week
 * Used to
     * Have one team
     * Two-week sprints
@@ -218,7 +218,7 @@ cap jenkins:delete
 ## Discussion
 
 * What about feature toggles?  @benjaminoakes
-    * He loves them; they use them a lot
+    * I asked.  He said he loves them; they use them a lot.  @benjaminoakes
 * Reasons for keeping vagrant files outside of app code?  @benjaminoakes
 * Should there be more configuration rather than hard-coding?  @benjaminoakes
 
