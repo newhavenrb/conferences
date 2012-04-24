@@ -75,6 +75,11 @@ TODO
 * `Hash#merge` overwrites; not good for `params`, so for defaults, use `Hash#reverse_merge`
 * Predicates on strings.  Familiar example: `Rails.env.development`.  `"foo".inquiry.magic?`.  Works well with `validates_inclusion_of`
 
+#### Views
+
+* HTML coments or ERb comments.  Slower using ERb, but not visible.
+* Shorthand ERb:  `erubis` broke: `% if foo.bar?`.  @Jeg2 has a pull request for this.   TODO link
+
 ### From @danbernier
 
 TODO
