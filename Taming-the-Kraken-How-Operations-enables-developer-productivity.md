@@ -33,9 +33,11 @@
 >   * Pair programing infrastructure automation
 >   * Keeping the process light and the communication flowing
 
-## Notes
+## Memorable Quotes
 
-### From @benjaminoakes
+* "A deploy is like a prom if..."
+
+## Notes
 
 ### From @james\_gary
 
@@ -137,6 +139,91 @@ cap jenkins:delete
 * Took about a year to go from Point A to Point B (but no reason you can't go faster)
 * Lots of manual testing for infrastructure testing (developing topic on Chef now)
 
+### From @benjaminoakes
+
+* Works for CustomInk
+    * Since 1999
+    * 40+ milion request to app servers each week
+* Used to
+    * Have one team
+    * Two-week sprints
+    * Worked well except
+    * Small changes sat for days waiting to deployed
+    * One problem rolled back a whole deploy
+    * A lot more developers now...
+* A deploy is like a prom if...
+    * ...it happens infrequently
+    * ...it build-up bigger than the result
+    * ...it has a lot of ceremony
+        * Hold on everybody, we're going to deploy a change!
+    * ...all hands are on deck
+    * ...pools for when rollback will happen
+* Deploy early, deploy often
+    * Ready to go?  It goes!
+    * Redefine "done"
+    * Kanban vs sprints
+    * Minimize work in progress
+    * Product managers prioritize queue
+    * Disposable servers; short lived staging instances
+    * Each topic branch gets a staging env
+    * Have to automate
+    * "Infrastructure as code"
+    * Scripting + Capistrano
+    * Chef/Puppet, etc
+* Chef
+    * (Basics of chef here; going to leave that for someone else.  Links welcome! TODO)
+    * Runs continually against nodes
+    * Can use locally with `vagrant`
+    * They have a "Hobo Jungle" for vagrant files (instead of their app's code)
+* CI
+    * They use Jenkins
+    * Green Screen (see their github -- TODO add link)
+* How many apps do you need for this shirt stuff?
+    * They have lots of services
+    * Number in the 20..25 range (see what I did there?  :) )
+* Deploying
+    * Lots of similar code
+    * Needed to streamline
+    * CapHub (TODO add link)
+    * Deploys queued up
+    * "merge build, deploy, verify, get out of the way"
+    * Has a topic in Campfire
+    * Product mangers for sequencing sometimes
+    * Announce deploy
+        * Blog, etc.  Try to automate
+    * Reducing friction is key
+    * Everyone deploys
+    * Developer -> QA (by the developer) -> deploy
+* How to get started
+    * Look at your process/culture
+    * Automate
+    * More tools (and the right tool for the job)
+* DevOps: a team
+    * Listen
+    * Culture + conversation + collaboration
+* Q&A
+    * Zero-downtime: approaching 100%
+    * They prefer deploys during business hours
+    * Their disposable servers are in EC2, but they have physical servers in a datacenter (since 1999)
+    * They aren't comfortable with total automation (CI deploying to production)
+    * How in depth are the staging environments?  Database has a copy of production data (shared DB).  Seems like they have the same infrastructure but in one VM.
+    * Overhead of developer time?  (Rather than building up a set of changes)
+    * Review via product managers... "fire teams".  Shared libs?  They don't have a good answer yet.
+    * How long it'd take to adopt this workflow?  1 yr or more, team grew, learned more Chef, etc.
+    * Why not use Chef for deploy?  Problem is shutting down multiple app servers.  But they do Chef searches in Capistrano.
+    * New prod environment via VMs then DNS switch to deploy?  They'd like that, but physical hardware makes that difficult.
+    * Server cruft happens.  They don't have a good answer yet.
+
+## Discussion
+
+* What about feature toggles?  @benjaminoakes
+    * He loves them; they use them a lot
+* Reasons for keeping vagrant files outside of app code?  @benjaminoakes
+* Should there be more configuration rather than hard-coding?  @benjaminoakes
+
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Chef](http://www.opscode.com/chef)
+* [Vagrant](http://vagantup.com/)
+* [Jenins](http://jenkins-ci.org)
+* GreenScreen TODO

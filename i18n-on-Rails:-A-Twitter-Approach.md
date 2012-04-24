@@ -2,7 +2,7 @@
 
 ## Bio
 
-> Cameron Dutro has worked for Twitter's International Team for about a year and a half, helping build and maintain the Translation Center, Twitter's crowdsourced translation platform.  Although he only started using Ruby and Rails a few years ago, he's a big fan of their extendibility and elegance.  Cameron is also the author of the twitter_cldr gem, an attempt to bring JDK-level internationalization capabilities to the Ruby community.
+> Cameron Dutro has worked for Twitter's International Team for about a year and a half, helping build and maintain the Translation Center, Twitter's crowdsourced translation platform.  Although he only started using Ruby and Rails a few years ago, he's a big fan of their extendibility and elegance.  Cameron is also the author of the [twitter_cldr](http://github.com/twitter/twitter-cldr-rb) gem, an attempt to bring JDK-level internationalization capabilities to the Ruby community.
 
 ## Abstract
 
@@ -252,7 +252,7 @@ Note: for some reason, Chrome can't display the "n" with the tilde accent, at le
 
 Why doesn't Ruby have support for these things?
 
-### Introducing TwitterCLDR
+### Introducing [TwitterCLDR](http://github.com/twitter/twitter-cldr-rb)
 
 CLDR = Common Locale Data Repository, published by the Unicode Consortium
 
