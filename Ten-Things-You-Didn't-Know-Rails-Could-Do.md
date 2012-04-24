@@ -383,11 +383,8 @@ ensure EVERYONE learned something from the talk.)
 
 Slides are coming online, at http://speakerdeck.com/u/jeg2
 
-
-
-
-
 ## External Links
 
 * [Friday hugs](http://fridayhug.com)
-* Slides TODO (from Twitter)
+* Slides TODO (will be at http://speakerdeck.com/u/jeg2)
+* [The Smallest Rails app](http://thesmallestrailsapp.com/)
