@@ -57,6 +57,14 @@ This talk is about failure
     * `tolerance = value / time`
     * Younger: bad at predicting maintenance time; more tolerance
     * New developers more likely to merge without thinking about maintenance cost
+    * Cosmetic
+        * Tagged logging
+        * Output: `[foo] [bar] omg!`
+        * Not thread safe, incompatibility
+    * 2nd one (I missed; had to shift focus :( )
+    * Course correcting
+        * "Asset pipeline" idea worked differently for every project in < 3.1
+        * Not perfect
 
 ### From @danbernier
 
