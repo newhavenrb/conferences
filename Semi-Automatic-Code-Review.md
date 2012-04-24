@@ -15,6 +15,8 @@
 ### From @benjaminoakes
 
 * He works on OpenFeint
+* Prefer automatic processes to manual processes (e.g., automatic testing)
+* Totally manual: code review
 
 ## External Links
 
