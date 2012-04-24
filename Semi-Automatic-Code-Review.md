@@ -12,11 +12,41 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* He works on OpenFeint
+* Prefer automatic processes to manual processes (e.g., automatic testing)
+* Totally manual: code review
+    * Automatic tests / manual verification
+    * Automated deploy via Capistrano
+    * But can you automate code review?
+* What is review?
+    * Easy 
+        * Coding guidelines
+        * Syntax
+        * Remove unused methods
+    * Difficult
+        * Performant
+        * Scalable
+    * Automate "easy"
+    * Gem: `rails_best_practices`
+        * Can suggest things like "use scope access", "use model association", or "use query attribute")
+    * A code review service?
+        * railsbp.com
+        * Integrates with GitHub (service hook); looks similar to Travis CI if you've used that
+        * Tracks history
+        * Configurble
+        * Gives analysis in web UI
+        * Configuration
+        * Cost: unclear (TODO check site)
+        * Plugins are possible (e.g., for `try()`)
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [`rails_best_practices` gem](http://rubygems.org/gems/rails_best_practices) TODO check link (internet connection is bad now)
+* Twitter (TODO links)
+    * @flyerhzm
+    * @railsbp
+* [`guard-rails_best_practices`](https://github.com/logankoester/guard-rails_best_practices) - Guard integration
+* Jenkins integration TODO link
+* [railsbp.com](http://railsbp.com) - online code review service, integrates with GitHub
