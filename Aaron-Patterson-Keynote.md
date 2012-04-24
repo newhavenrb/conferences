@@ -42,6 +42,11 @@ This talk is about failure
     * Could get exception
     * Best case: slow, worst case: errors
     * Need to do in a backround job, etc (producer/consumer pattern)
+    * Why do we have ActionMailer without a **Queue**?
+        * We do... but no one uses it (**ActiveQueue**)
+        * `queue << Runnable.new`
+    * `ActiveQueue` doesn't actually have an implementation ("0 lines")
+    * Lots of other options, but different interfaces
 
 ### From @danbernier
 
