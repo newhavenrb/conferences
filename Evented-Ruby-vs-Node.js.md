@@ -8,6 +8,10 @@
 
 > While Node.js is the hot new kid on the block, evented libraries like EventMachine for Ruby and Twisted for Python have existed for a long time. When does it make sense to use one over the other? What are the advantages and disadvantages to using node over ruby? In this talk, you will learn how to get the same power of concurrency enjoyed by Node.js while continuing to write in the language you know and love. Topics covered will include pubsub with redis or faye, building evented rack applications, and running evented applications alongside existing Rails apps.
 
+## Summary
+
+* Basic overview of the Reactor pattern, registering callbacks, and blocking vs non-blocking IO.
+
 ## Notes
 
 ### From @benjaminoakes
@@ -19,8 +23,12 @@
     * Evented programming: registering callback (e.g. in a click handler)
     * Reactor pattern (event loop, basically), e.g., the browser's event loop, game loop
     * Blocking I/O: ram (F18 jet) vs disk (slug)
-    * OS hides a lot of this in caching
-    * Node.js: On top of OS concurrency, IO managed at the app-layer
+* OS hides a lot of this in caching
+* Node.js: On top of OS concurrency, IO managed at the app-layer
+* Less blocking -> more concurrency
+* Rails concurrency is based around processes.  Lots of waste in terms of memory.  And each intance only handles one request at a time.
+* Node.js: register callbacks instead of waiting for network request, etc to finish
+* Latency vs concurrency; the disk, doesn't get faster :)
 
 ## External Links
 
