@@ -79,6 +79,11 @@ TODO
 
 * HTML coments or ERb comments.  Slower using ERb, but not visible.
 * Shorthand ERb:  `erubis` broke: `% if foo.bar?`.  @Jeg2 has a pull request for this.   TODO link
+* Blocks to avoid assignemnts (`each` and `tap`, or write a helper method that takes a block)
+* Multiple tags at once with `content_tag` FIXME I think this isn't quite right
+* Render any object using `Foo#to_partial_path` using `render partial: @foo`
+* Group menu entries: `select_tag(...)` FIXME missed option name
+* Make your own form builder (`ActionView::Helpers::FormBuilder`)
 
 ### From @danbernier
 
