@@ -94,6 +94,10 @@
     * Reducing friction is key
     * Everyone deploys
     * Developer -> QA (by the developer) -> deploy
+* How to get started
+    * Look at your process
+    * Automate
+    * More tools (and the right tool for the job)
 
 ### From @james_gary
 
