@@ -67,6 +67,14 @@ TODO
     * Could trigger by by subdomain
     * Not fighting with other users
 
+#### Ruby
+
+* `File.atomic_write` (makes a tempfile and moves it into place at the end; not good on NFS)
+* Merge nested hashes:  `Hash#deep_merge` in Rails
+* Remove keys from a Hash: `Hash#except(:foo, :bar)`
+* `Hash#merge` overwrites; not good for `params`, so for defaults, use `Hash#reverse_merge`
+* Predicates on strings.  Familiar example: `Rails.env.development`.  `"foo".inquiry.magic?`.  Works well with `validates_inclusion_of`
+
 ### From @danbernier
 
 TODO
