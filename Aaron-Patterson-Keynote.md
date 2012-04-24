@@ -52,6 +52,8 @@ This talk is about failure
         * Make it easy to switch
         * "I'd like to see Rails 4 be the driving force"
 
+* Failure to lead (fear of features)
+
 ### From @danbernier
 
 TODO
@@ -59,6 +61,10 @@ TODO
 ### From @jamesgary
 
 TODO
+
+## Discussion
+
+* He's talking about fear of features/change like DHH was... Maybe they discussed this at length?  What's the impetus of this?  (Have a link?) @benjaminoakes
 
 ## External Links
 
