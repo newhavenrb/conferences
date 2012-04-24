@@ -29,6 +29,14 @@
         * DCell
         * Reia
         * Unlimited Novelty blog
+    * Yoko Harada (yokolet)
+        * Nokogiri (JRuby)
+        * Misses some of this
+    * Sven Fuchs
+        * Internationalization
+        * Rails 2.2
+        * Wrote the RailsGuide for it
+        * Co-founder of Travis CI
 
 ## External Links
 
