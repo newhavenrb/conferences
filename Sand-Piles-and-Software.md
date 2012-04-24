@@ -23,10 +23,73 @@
 
 ### @danbernier's notes
 
+(Came in a bit late, sorry.)
+
+Example: adding methods to a class that subclasses Array. Accreting
+functionality. Just a wafer-thin bit...
+
+But software isn't linear. And it feeds back into itself - changes you
+make today are the base you change tomorrow. A previous change impacts
+future changes, like the Game of Life. Illustrations: The Butterfly
+Effect, the Lorenz Attractor.  "For want of a nail, the shoe was
+lost..." Tiny changes compound on themselves.
+
+*Bak, Tang, Wiesenfeld*
+
+3 guys working on dynamical systems. Microscopic changes can have
+macroscopic effects.
+
+Sandpiles: they pile up, until they slide.
+
+*Self-organized criticality*: a property of a system that has a
+critical state (point) as an attractor.
+
+Put antother way: systems can only sustain so much stress; a slide
+releases some of that stress.
+
+A trigger of _any size_ can cause a large-scale change. Predicting is
+hard.
+
+*For software* a critical point is a system that can no longer be
+added to as it is. Real software is _more_ interesting. It has _more_
+of everything.
+
+Teams often start rapidly, but then get halted quickly - their big
+pile of sand has a slide, because it reaches its critical point.
+
+Adding something to the system moves it closer to its critical point,
+its edge of chaos. You hit the critical point, slide down, move up,
+slide down...you bump against the critical point over & over. This is
+misconceived as pragmatic, because, while you're constantly adding
+features, you're also moving as slow as possible.
+
+Initially, it requires more effort to avoid the critical point, then
+to work towards it.
+
+#### How do we keep software aways from its critical point?
+
+Falling in love with Simplicity. Loathe (unnecessary) complexity.
+
+Values over Practices
+
+Refactoring doesn't just mean moving a method from a controller to a
+model - you have to identify concepts & abstractions.
+
+Values are at the core of your practices, and impact your practices.
+
+As you add anything on, you're making your app more complicated, more
+complex, and moving it towards its critical point.
+
+If we can afford ourselves the humility to accept it may help us be
+better served as curators and caretakers of our systems, much like a
+gardener with their garden.
+
 ### From @james\_gary
 
 TODO
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Sand Piles & Software in April PragPub](http://pragprog.com/magazines/2012-04/sand-piles-and-software)
+* http://continuousthinking.com
+* http://mutuallyhuman.com
