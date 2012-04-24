@@ -17,6 +17,7 @@
     * Uses a Mac server
     * SSH tunnel to his laptop for VPN
     * "Rube Goldberg Network Architecture"
+* Aaron Patterson's title is now "Corey Haines" :)
 
 ### From @danbernier
 
