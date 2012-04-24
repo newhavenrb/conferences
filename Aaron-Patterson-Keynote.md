@@ -65,6 +65,10 @@ This talk is about failure
     * Course correcting
         * "Asset pipeline" idea worked differently for every project in < 3.1
         * Not perfect
+        * We're doing more client side computation now (rather than server side).  JavaScript, etc.
+        * Asset Pipeline too big to fail
+        * No "technical debt" bailout
+        * We need to be prepared for this
 
 ### From @danbernier
 
