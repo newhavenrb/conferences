@@ -381,7 +381,7 @@ rake task that touches earch page on the site. (This one included to
 ensure EVERYONE learned something from the talk.)
 
 
-Slides are coming online. TODO ping him, since I missed the URL.
+Slides are coming online, at http://speakerdeck.com/u/jeg2
 
 
 
