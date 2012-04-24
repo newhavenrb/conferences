@@ -22,7 +22,56 @@
 
 ### From @james\_gary
 
-TODO
+* Past habits often predict future behavior
+* If you do something today, you'll probably do it tomorrow
+* If you don't do something today, you probably won't do it tomorrow
+* Thought software is unpredictable, programmers are generally pretty predictable
+* We fall into a rhythm, like a pendulum
+* Feedback
+  * Gut feel
+  * Peer review
+  * Tests
+  * Metrics
+  * Etc
+  * So much feedback, we tend to ignore a lot of it
+* Broken windows; momentum carries
+* Software is not linear
+* Spikes
+* Software feds back into itself ( Sx = ...(Sx-1) )
+* Previous change impacts future change (like Conway's Game of Life)
+* Butterfly Effect, chaos theory, etc
+* Bak-Tang-Wiesenfeld created Sand Pile Model
+  * Microscopic changes make macrospopic effect
+  * Sand piles up, landslides
+  * Self-organized criticality - A property of a system that has a critical state (point) as an attractor
+  * In other words, systems can only sustain so much stress
+  * Snowflake causing avalanche
+  * A trigger of any size can cause large-scale change
+* Predicting is hard
+* Adding functionality is like dropping a grain of sand
+* Adding a feature is like dropping a few grains of sand
+* The critical point represents a system that can no longer be added to as-is
+* System is crappy
+* Dev must stop and clean
+* Teams often get caught by starting out at a rapid pace only to be halted not too long thereafter
+  * We end up with a tall pile
+* The simple act of adding something to the system moves the system closer to its critical point; it's edge of chaos
+* After adding a lot offunctionality, cycle between house cleaning and adding some more
+* Misconception of Pragmatism: Cycle that feels like it's moving fast, but building towards crappy system
+* Initially, it requires more effort to avoid the critical point than to work towards it
+* Small apps can get away with this (since they never hit critical point)
+* Complex apps build complexity upon complexity
+* How do we keep software away from its critical point
+  * Fall in love with simplicity
+  * Loath (unnecesary) complication
+* Listen, feel, respond, learn from feedback
+* Values over practices
+* If you actively seek ways to exploit your values, practices will come naturally
+* Practices are important but values are at the core of your practices, and will impact everything you do
+* Values help determine how we drop our grains of sand
+* This idea may be hard to swallow
+* If we can afford ourselves the humility to accept, it may help us tbe better served as curators and caretakers of our systems, much like a gardener with their garden
+* How's the landscape of your software?
 
 ## External Links
 
