@@ -28,7 +28,14 @@
 * Less blocking -> more concurrency
 * Rails concurrency is based around processes.  Lots of waste in terms of memory.  And each intance only handles one request at a time.
 * Node.js: register callbacks instead of waiting for network request, etc to finish
-* Latency vs concurrency; the disk, doesn't get faster :)
+* Latency vs concurrency; the disk doesn't get faster :)
+* But the code is pretty ugly... lots of nesting.  "Callback spaghetti"
+* Evented Ruby
+    * We can mix and match
+    * Thin is evented (using EventMachine`)
+    * Passenger can be evented too
+    * `x = EM::HttpRequest.new(...).get; x.callback { }` has a smell
+    * `response = Faraday.get('...')` looks procedural, but can be made to be non-blocking
 
 ## External Links
 
