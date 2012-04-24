@@ -103,6 +103,7 @@
     * Culture + conversation + collaboration
 * Zero-downtime: approaching 100%
 * They prefer deploys during business hours
+* Their disposable servers are in EC2, but they have physical servers in a datacenter (since 1999)
 
 ### From @james_gary
 
