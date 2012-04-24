@@ -109,7 +109,8 @@
     * How in depth are the staging environments?  Database has a copy of production data (shared DB).  Seems like they have the same infrastructure but in one VM.
     * Overhead of developer time?  (Rather than building up a set of changes)
     * Review via product managers... "fire teams".  Shared libs?  They don't have a good answer yet.
-    * How long it'd take to adopt this workflow?  1 yr or more
+    * How long it'd take to adopt this workflow?  1 yr or more, team grew, learned more Chef, etc.
+    * Why not use Chef for deploy?  Problem is shutting down multiple app servers.  But they do Chef searches in Capistrano.
 
 ### From @james_gary
 
