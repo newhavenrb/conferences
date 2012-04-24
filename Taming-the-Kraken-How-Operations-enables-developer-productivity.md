@@ -74,6 +74,13 @@
 * CI
     * They use Jenkins
     * Green Screen (see their github -- TODO add link)
+* How many apps do you need for this shirt stuff?
+    * They have lots of services
+    * Number in the 20..25 range (see what I did there?  :) )
+* Deploying
+    * Lots of similar code
+    * Needed to streamline
+    * CapHub (TODO add link)
 
 ### From @james_gary
 
