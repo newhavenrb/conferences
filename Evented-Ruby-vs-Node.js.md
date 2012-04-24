@@ -17,7 +17,10 @@
 * Don't micro-optimize, but still keep your stuff fast.  Go for things that are simple to implement and maintain.
 * Overview
     * Evented programming: registering callback (e.g. in a click handler)
-    * Reactor pattern (event loop, basically)
+    * Reactor pattern (event loop, basically), e.g., the browser's event loop, game loop
+    * Blocking I/O: ram (F18 jet) vs disk (slug)
+    * OS hides a lot of this in caching
+    * Node.js: On top of OS concurrency, IO managed at the app-layer
 
 ## External Links
 
