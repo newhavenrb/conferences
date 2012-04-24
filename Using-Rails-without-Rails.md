@@ -12,7 +12,41 @@
 >
 > Although I will focus on using those parts standalone, this knowledge will most likely help you also build your apps if you ever need something sophisticated that requires modification of regular rails behavior.
 
+## Summary
+
+A discussion of Rails internals;  specifically, a look at how ActionController and ActionView work underneath.  Since they're separable, an example of using ActionView in another framework is presented (`WebMachine`).
+
 ## Notes
+
+### From @benjaminoakes
+
+* Who
+    * Polish
+    * He works for Mixbook
+* Maybe not ready for production use? (Having a hard time understanding)
+* Rails is complicated
+    * 3.0 is more modular
+    * Take something small, extend to see possibilities
+* `ActionController::Base`
+    * Lots of `include`s
+    * `AbstractController` doesn't get you much
+    * ...but if you `include AbstractController::Rendering`...  you get `render`
+    * `include AbstractController::Layouts`... layout support
+    * http://gist.github.com/2482523
+* Views
+    * `ActionView::LookupContext`
+    * `lookup_context.find(name, prefixes, partial)` (I've found this useful for doing mockups with our designer)
+    * `ActionView::Renderer#render, context, template: 'page')`
+    * Context...
+    * In `ActionView`, template is `LookupContext`, renderer is `Renderer`, context is `Context`
+* `WebMachine`... can you make it use the above?
+    * `WebMachine::Resource` using `ActionView::Base`, etc.
+* Techniques
+    * Read the code
+    * Use a debugger
+    * Recommends José Valim's _Crafting Rails Applications_
+* `Journey`
+    * Rails routing layer  FIXME I'm confused on this.  It might be for Rack.
 
 ### From @james\_gary
 

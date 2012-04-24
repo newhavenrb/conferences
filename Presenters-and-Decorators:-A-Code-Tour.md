@@ -53,7 +53,7 @@ views to expect.
 Presenter libraries like decorator, ActiveDecorator, help w/
 this. ActiveDecorator: every time an instance variable is passed to
 the view, it checks its class name, & looks for a class named
-#{class_name}Decorator, & wraps the variable in it.
+"#{class_name}Decorator", & wraps the variable in it.
 
 *Example*: type serialization. If you want custom type serialization,
 to have to put custom logic in your controller action render

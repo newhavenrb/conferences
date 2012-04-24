@@ -383,6 +383,76 @@ ensure EVERYONE learned something from the talk.)
 
 Slides are coming online, at http://speakerdeck.com/u/jeg2
 
+### @zachmorek
+
+42 things you didn't know
+
+On Rail 3.2.3
+
+1- Friday hugs
+
+Rails application in one File
+TODO / FIXME / OPTIMIZE - rake task
+Sandboxing console
+Non WEBrick Servers... `rails s thin`
+Tap into config
+
+rake db:migrate status
+User.uniq.pluck(:email)
+Event.group.count
+
+Full text search in postgres
+
+Different database for each user
+Atomic file writing - `file.atomic_write("#{id}.txt")`
+Deep merge of hashes
+someHash.except(:user\_id)
+Erb comments
+
+=======
+
+### From @skalnik
+
+* Annontated comments `rake notes`
+* Sandbox mode: `rails c --sandbox`
+* Shorthand migrations: `rails g resource user name email token:string{6}` =>
+  `rails g resource user:string name:string email:string …`
+* Specify indexes in command line migration `rails g`
+* `rails g resource article user:references` => Adds foreign key & index for ya
+  * Also understands `belongs_to` if you don't like `references`
+* rake db:migrate:status
+* Import CSV data by just converting each row into a hash
+* You can store CSV in DB if you create a simple serializer
+* `User.select(:email).map(&:email)` => `User.pluck(:email)`
+* You can override association methods and then invoke the normal one via `super`
+* Instantiate reocrds w/o DB if you want to set ID or something: User.instantiate(<# Hash>)
+* Postgres doesn't have to have a limit on string length, but Rails tries to use
+  one. Can be configured to turn off
+* Use full text search in postgres. Uses same algorithm as Sphinx!
+* Multi-DB apps are not too difficult (find link for code)
+* Write files atomically: `File.atomic_write`
+* Merge nested hash with `deep_merge`
+* ERB comments <%# %> disappear on compile (Users can never see it)
+* Shorter ERB syntax:
+  ```ruby
+    % if current_user.try(:admin?)
+      <%= render "edit_links" %>
+    % end
+  ```
+* Multiple tags at once with `content_tag_for(:div, @articles)`
+* `to_partial_path` in your object will allow you to change partial path for it
+* `grouped_options_for_select` lets you group select input
+* Can make custom form builders by inheirting from
+  `ActionView::Helpers::FormBuilder` and `config.action_view.default_form_builder`
+* Can route exceptions to a Rack app (That's how Rails does it internally!)
+* Can use `constraints` in routes to validate user is admin (Crafting Rails Apps)
+* Mount rack app like resque server
+* Do work in background by spawning off a thread that pulls from a simple in-app
+  queue (Crafting Rails Apps)
+* Generate static sites by telling it to cache ALL the things, then spider it &
+  dump files
+* "I feel so bad for the people trying to take notes"
+
 ## External Links
 
 * [Friday hugs](http://fridayhug.com)
