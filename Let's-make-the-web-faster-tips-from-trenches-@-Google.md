@@ -21,4 +21,5 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [WebPagetest](http://www.webpagetest.org/) - Free web page testing across different browsers and locations
+* [PageSpeed](https://developers.google.com/speed/pagespeed/) - Google web page performance tools
