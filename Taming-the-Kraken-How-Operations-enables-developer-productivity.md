@@ -33,7 +33,12 @@
 >   * Pair programing infrastructure automation
 >   * Keeping the process light and the communication flowing
 
-## @ZachMorek Notes
+## Memorable Quotes
+
+* "A deploy is like a prom if..."
+
+## Notes
+### @ZachMorek Notes
 
 * Founded in 99
 * 40+mm requests
@@ -118,9 +123,79 @@ Enable everyone - development team to take ownership of getting their code into 
 They need new relic impacts
 Use the right tools - listen, supporting culture, conversation, collaboration
 
+
+### From @benjaminoakes
+
+* Works for CustomInk
+    * Since 1999
+    * 40+ milion request to app servers each week
+* Used to
+    * Have one team
+    * Two-week sprints
+    * Worked well except
+    * Small changes sat for days waiting to deployed
+    * One problem rolled back a whole deploy
+    * A lot more developers now...
+* A deploy is like a prom if...
+    * ...it happens infrequently
+    * ...it build-up bigger than the result
+    * ...it has a lot of ceremony
+        * Hold on everybody, we're going to deploy a change!
+    * ...all hands are on deck
+    * ...pools for when rollback will happen
+* Deploy early, deploy often
+    * Ready to go?  It goes!
+    * Redefine "done"
+    * Kanban vs sprints
+    * Minimize work in progress
+    * Product managers prioritize queue
+    * Disposable servers; short lived staging instances
+    * Each topic branch gets a staging env
+    * Have to automate
+    * "Infrastructure as code"
+    * Scripting + Capistrano
+    * Chef/Puppet, etc
+* Chef
+    * (Basics of chef here; going to leave that for someone else.  Links welcome! TODO)
+    * Runs continually against nodes
+    * Can use locally with `vagrant`
+    * They have a "Hobo Jungle" for vagrant files (instead of their app's code)
+* CI
+    * They use Jenkins
+    * Green Screen (see their github -- TODO add link)
+* How many apps do you need for this shirt stuff?
+    * They have lots of services
+    * Number in the 20..25 range (see what I did there?  :) )
+* Deploying
+    * Lots of similar code
+    * Needed to streamline
+    * CapHub (TODO add link)
+    * Deploys queued up
+    * "merge build, deploy, verify, get out of the way"
+    * Has a topic in Campfire
+    * Product mangers for sequencing sometimes
+    * Announce deploy
+        * Blog, etc.  Try to automate
+    * Reducing friction is key
+    * Everyone deploys
+    * Developer -> QA (by the developer) -> deploy
+* How to get started
+    * Look at your process
+    * Automate
+    * More tools (and the right tool for the job)
+
+### From @james_gary
+
+## Discussion
+
+* What about feature toggles?  @benjaminoakes
+* Reasons for keeping vagrant files outside of app code?  @benjaminoakes
+* Should there be more configuration rather than hard-coding?  @benjaminoakes
+
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Chef](http://www.opscode.com/chef)
+* [Vagrant](http://vagantup.com/)
 http://vagrantup.com/
 http://www.customink.com/
 https://github.com/customink

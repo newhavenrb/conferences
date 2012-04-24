@@ -120,3 +120,4 @@
 
 * We use submodules, and run into similar synchronization issues (small hassle) @jamesgary
 * I liked the Engine vs Services, good questions to have before building something @jamesgary
+* Criticism I heard from some NZ devs was that GEM_PATH (gempath? It was verbal and I'm not sure) would have solved most of the problems dealt with in the presentation via symlinks and repository wrangling. @benwbrum

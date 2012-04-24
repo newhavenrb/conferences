@@ -56,4 +56,5 @@ Discount code: RailsConfCatlinSASS2012
 * http://github.com/hcatlin/libsass
 * http://github.com/hcatlin/sassc
 * http://github.com/hcatlin/sassruby
-
+* Notes elsewhere
+    * [TheRailsView](http://www.therailsview.com/2012/04/railsconf-2012-the-future-of-sass/)
