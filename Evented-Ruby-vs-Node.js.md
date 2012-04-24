@@ -12,8 +12,13 @@
 
 ### From @benjaminoakes
 
-TODO
+(missed the first part)
+
+* Don't micro-optimize, but still keep your stuff fast.  Go for things that are simple to implement and maintain.
+* Overview
+    * Evented programming: registering callback (e.g. in a click handler)
+    * Reactor pattern (event loop, basically)
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [node.js](http://nodejs.org/)
