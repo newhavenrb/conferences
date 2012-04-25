@@ -29,14 +29,15 @@
 * Painless Javascript with wind tunnel - _Koting Hatduklgg_
 * Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
-    * require_dependency is how you threadsafe-require lib/ files
-* `tenderlove.dup` - _@jremsikjr_
+    * `require_dependency` is how you threadsafe-`require` `lib/` files
+* `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
 * [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ???
-* Open Source Dev Model on Private Teams (via pull requests) - _@marksim_
+* Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
    * make your private team a distributed set of code reviewers
-* sidekiq (distributed message queue) - _@jwo_ TODO link
+* sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
+    * TODO link to github
 * Modeling on Rails - [_Akira Matsuda_](http://twitter.com/a_matsuda)
 
 ## External Links
