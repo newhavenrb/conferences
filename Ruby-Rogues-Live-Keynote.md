@@ -21,6 +21,11 @@
 >
 > All that AND we promise to wear amazing hats!
 
+## Quotes
+
+* "CoffeeScript writes better JavaScript than you do" - David Brady (FIXME right name?)
+* "Here's your new best practice: not everything is a best practice" - David Finch's wife (FIXME correct?)
+
 ## Notes
 
 * Send questions to panel@rubyrogues.com
@@ -46,6 +51,9 @@
     * Anti-patterns
     * Don't program another language in Ruby
     * Learn Ruby like its a whole new language
+    * Get to know JavaScript (and keep in mind it can be crap)
+    * Be a part of your local community
+    * Don't be a douchebag
 
 ### @danbernier
 
