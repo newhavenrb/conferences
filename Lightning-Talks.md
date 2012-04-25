@@ -20,10 +20,15 @@
 
 ### From @benjaminoakes
 
-* Toggle mirror displays: cmd-f1
-* Share one idea
+* @DrNic
+    * Toggle mirror displays: cmd-f1
+    * Share one idea
 
-* NSRails: Objective-C + Rails; Communicating w/rails from iOS/Mac OS - _Dan Hassin_
+* [NSRails](http://nsrails.com): Objective-C + Rails; Communicating w/rails from iOS/Mac OS - [_Dan Hassin_](http://twitter.com/2n4340)
+    * [On GitHub](https://github.com/dingbat/nsrails)
+* Painless Javascript with wind tunnel - _Koting Hatduklgg_
+* Threadsafe on! (`config.threadsafe!`) - _Tony Arcieri_
+    * [railsplugins.org](http://railsplugins.org) status of threadsafety
 
 ## External Links
 
