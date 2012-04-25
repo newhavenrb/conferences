@@ -187,6 +187,36 @@ Reach out, teach people, and make them our skunks-works, our
 moles. Then, we'll have more devs, more companies who'll train devs,
 etc. As you do this, speak up at http://parlay.rubyrogues.com.
 
+## @jamesgary's notes (just key takeaways)
+
+* > All code is experimental - Dan Kubb
+* GPS invented after series of possibly unrelated events (sputnik, nuclear subs, etc)
+* Asperger's guy make "Journal of Best Practices" to emulate empathy
+  * Goes overboard, obsessively writes all mistakes and new rules
+  * Wife says: "Here's your new best practice: Not everything is a best practice"
+* Try to see past what she is, and on to what she can be: Freedom - Malcolm Renalds
+* Mindful coding
+  * "Shut up and code" can be acceptable in the team room
+  * "Shut up and code" is poison online
+  * Thank goodness they (Kent Beck, Martin Fowler, etc) didn't shut up and code
+  * > A pattern is something an expert does over and over - Kent Beck
+  * Give names to the decisions you make
+    * Write code
+    * Think about writing code
+    * Explain it to someone else
+    * Not just what, not just how, but why you made the choices you made.
+* Prudence
+  * Future: Where our code where spend the rest of its life
+  * We have a limited budget for risk in our projects
+  * I hate having other people spend my risk budget for me
+  * Be regular and orderly in your life like a bourgeois, so that you may be violently original in your work - Gustave Flaubert
+    * Rails should be simple, predictable, reliable
+    * Now when you need to do something extreme, you're doing it on something solid
+* It's the community's responsibility to help newbies pick up Rails (not the responsibility of Ruby/Rails)
+  * Need to convince other developers to try Rails
+  * We need to keep up our momentum
+  * Companies need to be able to find Rails developers
+
 ## External Links
 
 * [Ruby Rogues, group for reaching out to other communities](http://parlay.rubyrogues.com)
