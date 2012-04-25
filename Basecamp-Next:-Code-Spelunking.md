@@ -72,6 +72,12 @@
         * rails/strong\_parameters: uses `FooController#document_params`
             * It's a controller not a model problem (vs `attr_accessiblei`
             * Status codes belong in controller
+        * HTTP 204
+    * Logging
+        * A lot
+        * `???::TaggedLogger` (new in Rails 3.2) FIXME replace ???
+        * literals or lambdas
+        * Can use Rack environment for sharing data through this
 
 ## Discussion
 
