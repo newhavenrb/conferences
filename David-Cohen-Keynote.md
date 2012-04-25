@@ -17,6 +17,10 @@ Not planning on taking tons of notes.
 * Tips on what they've learned
 * Stuff about TechStars
 
+### From @jamesgary
+
+TODO
+
 ## External Links
 
 * [Some related website](http://www.example.com/)
