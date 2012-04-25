@@ -80,6 +80,12 @@
     * "Try a new language every year" - David Thomas
     * Making a closed mailing list ($10/yr?): http://parle.rubyrogues.com.  Not quite ready yet.
 
+#### Quotes
+
+* Rich Hickey keynote
+    * Object oriented vs functional
+    * Different approach
+
 ### @danbernier
 
 ## External Links
