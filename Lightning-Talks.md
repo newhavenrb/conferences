@@ -159,6 +159,47 @@ require 'sidekid/capistrano'
   * Why not OSX users too?
   * This is for me and you, not just for noobs
   * But it will help noobs too
+* Usergroups! @ryanbrunner
+  * Get to know more people in your community
+  * Recruitment is way easier (put yourself on the map)
+  * It's way less nerve-wracking than talking at RailsConf :)
+    * Talk with friends/colleagues first
+  * Not everyone can make it to big conferences
+    * Talk about what you learned at big confs
+  * It's less hard than you think it is
+  * Strong dev communities are great - and you can make this happen
+  * Spread the Rails love
+  * Talk/pub/hack nights
+  * Hack and tell
+  * Teaching ruby to kids/non-hackers/university students
+* Railcar - Mike Scally
+  * An isolated, compiler-optional Rails environment
+  * http://railcar.info
+  * Install binaries of essentials
+  * Nice GUI
+  * And can be CLI-driven
+  * Moviation: Easy transition for noobs
+  * Written in MacRuby
+  * Next steps
+    * http://www.bingems.org
+    * http://github.com/arcturo/Railcar
+* Why you don't get hired - @dacat Felix Dominguez
+  * You are not a beautiful and unique snowflake
+  * Spoke to a bunch of people
+  * Everything you were told about resumes is wrong
+  * Display your skills first
+    * I used foo to solve bar
+  * Limit or remove business type statements (unless your're applying for mgt)
+  * Don't be arrogant!
+  * Be humble
+  * Don't use the front door, get in through the back door (contact recruiter for company)
+  * Be honest
+  * Know what you want
+  * Talk to people all the time
+  * Document what you do today
+  * Big or small, publish something
+  * Be passionate about something
+  * Ask questions
 
 ### From @benjaminoakes
 
