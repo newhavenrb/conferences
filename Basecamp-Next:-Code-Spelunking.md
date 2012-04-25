@@ -24,8 +24,20 @@
 
 ### From @benjaminoakes
 
-TODO
+* Who
+    * In Buffalo, NY (was in Boston)
+    * 37signals
+* New version Basecamp
+    * Architecture
+        * Rails -> databases: [Elastic Search, Redis, MySQL Memcached] services: [Depot, porfolio, Launchpad, Queenbee (where the honey is made; does billing)]
+        * "Rainbows" (does polling, related to Unicorn)
+        * Only thing you need locally is Rails and MySQL.  They wrote (and use) Pow
+            * launchpad + portfolio
+    * Testing
+        * test/unit, mocha, capybara, qrush/m
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Pow](http://pow.cx/) - Mac only :(
+* Github TODO links
+    * qrush/m Runs tests by line number
