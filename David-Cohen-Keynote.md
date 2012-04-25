@@ -25,6 +25,46 @@ Not planning on taking tons of notes.
 
 TODO
 
+### From @skalnik
+
+* Developers are the new investor
+* They pick where they want to work. They decide where their talent goes, and
+  who benefits from it
+* TechStars is growing, and not just young folk
+* TechStars is a mentorship
+* TechStars had a reality show (wow!)
+* Do More Faster
+* Should be from the community
+* 12 Tips:
+  12. Trust me, your idea is worthless - Tim Ferriss
+    * Everyone has tried to convince others of something
+    * 5 things they care about: team, team, team, market, idea
+  11. Turn work into Play - Howard Lindzon
+    * If you're not doing something you love, change it.
+  10. "Do or Do Not" - Brad Feld
+    * It's a frame of mind.
+    * Be determined
+    * "We will raise 1 million dollars" vs "We're in the market for 1 million in
+      investment"
+  9. "Be Tiny Until You Shouldn't Be" - Jeff Powers
+    * Occipital wanted to raise a bit of money, but then decided to stay tiny
+    * Bootstraped company themselves, and built the company on app
+  8. "Look for the Pain" - Isaac Sandana
+  7. "Avoid tunnel vision" - Bijan Sebet
+  6. "Engage Great Mentors" - Emily Olson
+    * How do you find them? Everyone in this room.
+    * Everyone is an expert in something
+  5. "Assume that you're wrong" - Howard Diamond
+    * "I'm wrong and need to get data to prove I'm right"
+  4. "Be open to randomness" - David Cohen
+    * Initial funding for TechStars came from VC having "random days"
+    * Meet with anyone for 15 minutes
+  3. "Show, Don't Tell" - Brad Feld
+    * Your product speaks more than your words
+    * Show the thing, don't talk
+  2. "Quality over Quantity" - Andy Smith
+  1. "Usage is like Oxygen for ideas" - Matt Mullenweg
+
 ## External Links
 
 * [_Do More Faster_ book](http://wwww.domorefasterbook.com)
