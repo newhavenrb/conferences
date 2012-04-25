@@ -45,6 +45,7 @@
 * David Brady (FIXME not sure of the name)
     * Anti-patterns
     * Don't program another language in Ruby
+    * Learn Ruby like its a whole new language
 
 ### @danbernier
 
