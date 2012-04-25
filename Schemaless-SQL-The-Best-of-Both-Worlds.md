@@ -23,4 +23,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://ssql-railsconf.herokuapp.com)
