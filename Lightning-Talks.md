@@ -201,7 +201,7 @@ require 'sidekid/capistrano'
   * Be passionate about something
   * Ask questions
 
-### someone's notes...
+### From @benjaminoakes
 
 * @DrNic
     * Toggle mirror displays: cmd-f1
@@ -235,6 +235,21 @@ require 'sidekid/capistrano'
 * Tokaido - [_Yehuda Katz_](http://twitter.com/wycats)
     * Make dependencies easier.
     * Terminal-based workflow.  Doesn't try to be a GUI.
+    * Ubuntu uses prebuilt binaries... why does OS X?  Are we Gentoo?
+    * For everyone.  Not an Easy Bake Oven.
+* Why you should participate in your local user group - [_@ryanbrunner_](http://twitter.com/ryanbrunner), [_@torontorb_](http://twitter.com/torontorb)
+    * TODO twitter links
+    * Interesting people
+    * Recruiting developers easier
+    * Less nerve-wracking than talking at RailsConf :)
+    * Not everyone can make it to confs
+    * Not as hard as you'd think
+    * Strong communites == better
+    * Spread Rails love
+    * Emulate what you think is cool
+* RailCar [_@skalnik](http://twitter.com/skalnik)
+    * [railcar.info](http://railcar.info)
+* Why you don't get hired - @dacat
 
 ## External Links
 
