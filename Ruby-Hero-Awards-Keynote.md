@@ -37,7 +37,7 @@
         * Rails 2.2
         * Wrote the RailsGuide for it
         * Co-founder of Travis CI
-    * Frederick Cheung
+    * Frederick Cheung (fglc2)
         * IRC / Google Group / Stack Overflow
         * Lots of contribs (8641)
         * Lots of OSS too
