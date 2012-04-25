@@ -139,11 +139,10 @@ gardener with their garden.
 
 ## External Links
 
+* [Slides!](http://speakerdeck.com/u/zdennis/p/sand-piles-and-software-railsconf-2012)
 * [Sand Piles & Software in April PragPub](http://pragprog.com/magazines/2012-04/sand-piles-and-software)
 * http://continuousthinking.com
 * http://mutuallyhuman.com
-
-
 
 ## Discussion
 
