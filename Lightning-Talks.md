@@ -35,7 +35,7 @@
 * Json + Webworkers = win! - _John Krueger_
 * [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ??
 * Open Source Dev Model on Private Teams (via pull requests) - _@marksim_
-
+   * make your private team a distributed set of code reviewers
 ## External Links
 
 * [Speakers](https://gist.github.com/2491946)
