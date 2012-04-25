@@ -38,7 +38,7 @@ TODO
 * 12 Tips:
   12. Trust me, your idea is worthless - Tim Ferriss
     * Everyone has tried to convince others of something
-    * 5 things they care about: team, team, team, market, <missed>
+    * 5 things they care about: team, team, team, market, idea
   11. Turn work into Play - Howard Lindzon
     * If you're not doing something you love, change it.
   10. "Do or Do Not" - Brad Feld
