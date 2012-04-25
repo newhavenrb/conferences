@@ -25,4 +25,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://www.slideshare.net/jdwyah/patella-railsconf-2012)
