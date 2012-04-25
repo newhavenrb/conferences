@@ -50,6 +50,13 @@
 * Tokaido - [_Yehuda Katz_](http://twitter.com/wycats)
     * Make dependencies easier.
     * Terminal-based workflow.  Doesn't try to be a GUI.
+    * Ubuntu uses prebuilt binaries... why does OS X?  Are we Gentoo?
+    * For everyone.  Not an Easy Bake Oven.
+* Why you should participate in your local user group - [_@ryanbrunner_](http://twitter.com/ryanbrunner), [_@torontorb_](http://twitter.com/torontorb)
+    * TODO twitter links
+    * Interesting people
+    * Recruiting developers easier
+    * Less nerve-wracking than talking at RailsConf :)
 
 ## External Links
 
