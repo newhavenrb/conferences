@@ -88,6 +88,8 @@
     * Object oriented vs functional
     * Different approach
 
+* "All sufficiently large, complex, and successful systems become object-oriented systems." - @avdi
+
 ### @danbernier
 
 #### @jeg2
