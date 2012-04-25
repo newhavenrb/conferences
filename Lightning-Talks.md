@@ -48,7 +48,10 @@
 * 1 min, 1 year of hacking on open source - [_@gregbell_](http://twitter.com/gregbell)
 * Integration testing engines - _Ryan Bigg_
     * Routes belong in the engine
-    * `visit spree.products_path`
+    * Example: `visit spree.products_path`
+* Tokaido - [_Yehuda Katz_](http://twitter.com/wycats)
+    * Make dependencies easier.
+    * Terminal-based workflow.  Doesn't try to be a GUI.
 
 ## External Links
 
