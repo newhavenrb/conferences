@@ -18,6 +18,150 @@
 
 ## Notes
 
+### From @james_gary
+
+* Command+F1 to toggle mirror displays
+* gist.github.com/22491946
+* NSRails - Dan Hassin @2nf340
+  * Senior in high school!
+  * iOS developer
+  * Need to bridge teh gap between Objective-C and Rails
+    * RestKit (not as integrated w/ Rails as I wanted)
+    * ObjectiveResource (intrusive)
+  * High-level APIs that give your Objective-C classes
+  * Super simple drop-in framework
+  * http://github.com/dingbat/nsrails
+  * http://nsrails.com
+* Wind Tunnel - Javascript testing w/o the hassle
+  * Simulated DOM using jsdom
+  * Run each test modularly
+  * Supports Coffeescript
+  * Super duper fast (like .42s for a whole suite)
+  * https://github.com/thatdutchguy/windtunnel
+* config.threadsafe! JUST DO IT - Tony Arcieri @bascule
+  * Most Rails apps can only do one thing at a time
+  * Very few people use threadsafe
+  * Super easy to enable
+  * Most Rubyists see threads SUSPICIOUSLY (not curious)
+  * Concurrency: You're probably already doing it
+  * Your DB uses threads, your app should too
+  * I/O automatically releases the GIL, so that's not an issue
+  * Are my gems thread-safe?
+    * http://www.RailsPlugins.org tracks thread safety
+  * Earger Loading
+    * `lib/` can be a pain since it doesn't load it first
+    * Require your dependencies with `require_dependency`
+  * Threads are more efficient
+  * Why use N VMs when you can use 1 with threads?
+* @tenderlove.dup
+  * We want more Aarons (people who work for companies to do full time OSS)
+  * Small shops can't afford to do what AT&T does
+  * We can unite multiple small shops to support one OSS guy!
+* Javascript: importScripts('blah.js') // neat!
+* Megan from NZ
+  * New devs at company
+  * Lotsa resources to learn Rails
+  * But no list of comprehensive resources
+  * Until NOW!
+  * http://www.iwanttolearnruby.com
+* what private teams can learn from open surce - @marksim
+  * what/how/why to adopt
+  * OSS provides a model for private dev
+  * No other dev method reduces more bugs is... **code review**! (from code complete)
+  * Process:
+    * Fork on github
+    * Submit pull request
+    * Let the whole team review
+    * Merge
+  * Con
+    * more complicated, slow
+  * Pro
+    * All code is reviewed
+    * Everyone sees problem solutions
+    * Gets input
+    * Sees coding styles
+  * Better talent pool
+    * OSS is distributed from the start
+    * What is your team simply acted distributed?
+    * Campfire, skype, google hangout to see face
+    * Mailing list or message board
+    * Just make it open
+    * Internal blogs
+    * Con
+      * more discipline
+      * more intentionality
+      * could reduce personal interaaction (but not what we found)
+    * Pro
+      * all com logged
+      * everyone can review or catch up
+      * anyone cab e added from anywhere
+* sidekiq
+``` ruby
+# console
+bundle exec sidekiq
+ruby demo
+# That's it!
+# in Rails 3 app
+require 'sidekid/capistrano'
+```
+* DB modeling on Rails using erd
+  * UML for eclipse & visual studio
+  * Most everyone uses vim or emacs
+  * Visualizing Rails DB
+    * Most just use a whiteboard
+    * pdf generation
+      * rails-erd and railroad
+      * Too static
+  * erd (made during Railsconf)
+    * require it
+    * and go to localhost:3000/erd
+    * Can change table names dynamically and create migration files for you
+    * easy!
+* Jonathan Wallace - row
+  * Instead of trading time for money, trade results for money
+* Interviewing sucks @micahjgates @canweriotnow
+  * http://github.com/ruby-jokes/job_interview
+  * FizzBuzz, Fibonacci, quine, primes
+  * Use a library instead o reinventing the wheel
+  * Generates BS answers for personality questions
+* Greg Bell
+  * ActiveAdmin
+  * Don't use the merge pull request button on github
+  * TravisCI rocks
+  * Design has a front-end
+  * Depend on less
+  * Documentation
+  * Build a community
+  * Just do it!
+* Integration engine testing - manning.com/katz
+  * Strongly disagrees with earlier talk
+  * Don't do this: Rails.application.routes.draw
+  * Do this: Your::Engine.routes.draw
+  * isolate_namespace so everything's properly namespaced so you can have routes in your engine
+  * Now you can do your_engine.people_path or my_app.people_path
+* Tokaido (formerly Rails.app) - Yehuda Katz
+  * Precompiled Ruby
+  * No hardcoded paths in the binary
+  * Terminal based workflow
+  * Precompiled binary gems
+  * Code and app health (flog and flay)
+  * Pow-like DNS hijaciking
+  * Ruby Toolbox integration
+  * rails://
+  * Goals
+    * Precompile everything (get others to precompile too)
+    * Eliminate failure scenarios
+    * Free Ruby devs from the tyranny of compilation failures
+    * Avoid unrecoverable system-wide failures
+    * Core usable on ther platforms (sm!)
+    * Use this enviornemnt myself (not an easy-bake oven)
+  * Ubuntu users use prebuilt binaries
+  * Why not OSX users too?
+  * This is for me and you, not just for noobs
+  * But it will help noobs too
+
+### someone's notes...
+
 * @DrNic
     * Toggle mirror displays: cmd-f1
     * Share one idea
