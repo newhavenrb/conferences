@@ -456,5 +456,5 @@ Erb comments
 ## External Links
 
 * [Friday hugs](http://fridayhug.com)
-* Slides TODO (will be at http://speakerdeck.com/u/jeg2)
+* [Slides](http://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do)
 * [The Smallest Rails app](http://thesmallestrailsapp.com/)
