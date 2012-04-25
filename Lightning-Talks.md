@@ -18,8 +18,6 @@
 
 ## Notes
 
-### From @benjaminoakes
-
 * @DrNic
     * Toggle mirror displays: cmd-f1
     * Share one idea
