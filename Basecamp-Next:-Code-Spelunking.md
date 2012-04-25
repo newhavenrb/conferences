@@ -88,7 +88,8 @@
 
 * Slides TODO
 * [Pow](http://pow.cx/) - Mac only :(
-* Github TODO links
+* http://httpstatus.es/204
+* Github TODO make into links
     * qrush/m - Runs tests by line number
     * xing/wysihtml5 - Rich text editor
     * josh/rails-behaviors
@@ -96,4 +97,5 @@
     * 37signals/bcx-api - their API docs, Markdown
     * rails/jbuilder - Renders JSON response
     * rails/strong\_parameters - filters parameters ("avoids the GitHub mess")
-    * http://httpstatus.es/204
+    * 37signals/marginalia - released yesterday; adds info at end of query log messages
+
