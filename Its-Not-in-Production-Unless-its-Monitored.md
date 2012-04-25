@@ -12,8 +12,16 @@
 
 ### From @benjaminoakes
 
-TODO
+* Evite
+    * Started in 1998
+    * Grig Gheorghi said (paraphrased) It's not in production until it's monitored (TODO twitter link"
+* SaaS 2002: Everything on your own hardware
+* SaaS 2032: outsourced to the cloud
+    * less than (or equal to) 1 ops person
+    * OSS
+    * Server instances come and go; "ephemeral infrastructure"
+    * More change, worse tools
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [@josephruscio on Twitter](http://twitter.com/josephruscio)
