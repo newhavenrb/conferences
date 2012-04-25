@@ -25,6 +25,9 @@
 
 * "CoffeeScript writes better JavaScript than you do" - David Brady (FIXME right name?)
 * "Here's your new best practice: not everything is a best practice" - David Finch's wife (FIXME correct?)
+* "Loss aversion is the pillar of conservatism" - @dhh
+* "Experience developers have a lower tolerance for technical debt" - @tenderlove
+* "I hate other people spending my risk budget" - Josh Susser
 
 ## Notes
 
@@ -54,6 +57,15 @@
     * Get to know JavaScript (and keep in mind it can be crap)
     * Be a part of your local community
     * Don't be a douchebag
+* Josh Susser
+    * Prudence is important
+    * Most of the cost of code is maintenance
+    * DHH said "fear Rails 4"
+    * "Loss aversion is the pillar of conservatism" - @dhh
+    * "Experience developers have a lower tolerance for technical debt" - @tenderlove
+    * Limited budget for risk
+    * "Other people spending my risk budget"
+    * Gustave Flaubert quote
 
 ### @danbernier
 
