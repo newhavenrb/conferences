@@ -346,7 +346,13 @@ require 'sidekid/capistrano'
 * How I Saved The World with Nokogiri - _Rod Paddock_
 * Wizards from WTF to wicked - @Schneems 
   * https://github.com/schneems/wicked
-
+* Hacking the airlines
+  1. pick an airline, and its partners
+  2. fly a lot, to random places, for a day (mileage running) flyertalk.com
+  3. take the long way ITA matrix airline search
+  4. VDB/IDB (bump) earns you vouchers
+  5. Credit cards with mileage signup bulks
+  6. Earn 'em and burn 'em, these things depreciate like crazy
 ## External Links
 
 * [Speakers](https://gist.github.com/2491946)
