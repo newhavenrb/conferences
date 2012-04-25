@@ -28,6 +28,7 @@
 * "Loss aversion is the pillar of conservatism" - @dhh
 * "Experience developers have a lower tolerance for technical debt" - @tenderlove
 * "I hate other people spending my risk budget" - Josh Susser
+* "Try a new language every year" - David Thomas
 
 ## Notes
 
@@ -74,6 +75,9 @@
     * Let's convert people :)  Get people to try Ruby/Rails
     * "Be there for the assist"
     * Grassroots
+    * Don't abandon Rails.  We need to mint more Rails devs.
+    * Get people to try it.
+    * "Try a new language every year" - David Thomas
 
 ### @danbernier
 
