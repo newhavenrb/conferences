@@ -249,7 +249,7 @@ require 'sidekid/capistrano'
     * Strong communites == better
     * Spread Rails love
     * Emulate what you think is cool
-* RailCar [_@skalnik](http://twitter.com/skalnik)
+* RailCar [_@skalnik_](http://twitter.com/skalnik)
     * [railcar.info](http://railcar.info)
 * Why you don't get hired - @dacat
 * Rails Encryption: Encrypting passwords and data in support of PCI compliance. - _Unknown_ FIXME Who was this?
