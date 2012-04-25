@@ -299,7 +299,9 @@ require 'sidekid/capistrano'
 * Why you don't get hired - @dacat
 * Rails Encryption: Encrypting passwords and data in support of PCI compliance. - _Unknown_ FIXME Who was this?
 * Distributed Continuous Integration with Tddium - _Jay Monthi_
-
+* How I Saved The World with Nokogiri - _Rod Paddock_
+* Wizards from WTF to wicked - @Schneems 
+  * https://github.com/schneems/wicked
 
 ## External Links
 
