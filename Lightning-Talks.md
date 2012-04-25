@@ -30,6 +30,7 @@
 * Threadsafe on! (`config.threadsafe!`) - _Tony Arcieri_
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
     * require_dependency is how you threadsafe-require lib/ files
+* iwanttolearnruby.com
 
 ## External Links
 
