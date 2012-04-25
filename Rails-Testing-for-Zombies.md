@@ -14,10 +14,24 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### @ZachMorek
+
+* Testing Philosophy
+No testing
+Verification Testing
+Test First
+Strict Test Driven Design
+
+* Unit Testing
+Test individual parts in isolation
+Easy to debug
+Developer documentation - examples of how to use the application
+
+* Why Test::Unit
+rails uses Test::Unit, so understanding rails tests
+
+require "test/unit"
+class 
 
 ## External Links
 
