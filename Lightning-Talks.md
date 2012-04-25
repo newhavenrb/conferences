@@ -211,6 +211,7 @@ require 'sidekid/capistrano'
     * [On GitHub](https://github.com/dingbat/nsrails)
 * Painless Javascript with wind tunnel - _Koting Hatduklgg_
 * Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
+    * [Slides](http://speakerdeck.com/u/tarcieri/p/configthreadsafe-just-do-it)
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
     * `require_dependency` is how you threadsafe-`require` `lib/` files
 * `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
