@@ -33,10 +33,11 @@
 * `tenderlove.dup` - _@jremsikjr_
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
-* [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ??
+* [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ???
 * Open Source Dev Model on Private Teams (via pull requests) - _@marksim_
+   * make your private team a distributed set of code reviewers
 * sidekiq (distributed message queue) - _@jwo_ TODO link
-* Modeling on Rails - _Akira Matsuda_
+* Modeling on Rails - [_Akira Matsuda_](http://twitter.com/a_matsuda)
 
 ## External Links
 
