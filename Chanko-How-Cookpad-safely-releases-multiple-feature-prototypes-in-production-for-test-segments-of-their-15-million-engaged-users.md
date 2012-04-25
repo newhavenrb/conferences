@@ -14,11 +14,50 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### from @james_gary
+
+* Cookpad
+  * 15m monthly unique users
+  * 500m monthly page views
+  * 40 engineers
+  * Running Ruby REE, Rails 3.0
+  * AWS
+* Chanko overview
+  * Before chanko
+    * Big ceremony before big public release
+    * Difficult to evaluate value of things they built
+    * After Chanko, they used lean and continuous deployment
+    * Company thought releasing code could be low quality, break functionality
+  * Three requirements
+    * Stability
+    * Quality
+    * Faster development
+  * How can we ensure these 3 requirements?
+  * Chanko!
+* What can Chanko do?
+  * Release new features
+  * If any errors raised, automatically rollbacked
+  * rails generate chanko feature_name
+    * app/units/feature_name/[\*.rb, assets, specs, views]
+  * = invoke(:new_feature, :old_fallback_feature)
+  * Staff sees new feature first, then users
+* Live demo
+  * Generated a new feature
+  * Demonstrated it works
+  * Added bug
+  * Failed while in developer mode
+  * Changed config to failover
+  * Gracefully failover to previous functionality
+  * See [Chanko on Github](https://github.com/cookpad/chanko) for more
+* Differences from Engine
+  * Chanko overwrites existing app feature
+  * Engine provides independent feature
+* Chanko at Cookpad
+  * Unit Manager - High level view of different features in use
+  * Able to cache with Varnish
+  * Errors logged to database, can view based on features
+* Tweet at @mrkn or @shingo (main contributor) if you have any questions
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Chanko on Github](https://github.com/cookpad/chanko)

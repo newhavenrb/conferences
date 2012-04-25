@@ -1,7 +1,5 @@
 **Presenter:** [Nathen Harvey](http://twitter.com/nathenharvey)
 
-[Slides on Speakerdeck](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity)
-
 ## Bio
 
 > Nathen Harvey is the manager of Web Operations for CustomInk.com, a website that allows you to design and purchase custom apparel for your group or special event. Nathen is the co-organizer of the Washington DC MongoDB Users' Group and DevOps DC. Nathen contributes to open source projects including the Opscode Chef framework.  When not working or hosting meetups, Nathen enjoys going to concerts, drinking craft beer, and over sharing on sites like twitter, untappd, and foursquare.
@@ -306,16 +304,21 @@ cap jenkins:delete
 
 * What about feature toggles?  @benjaminoakes
     * I asked.  He said he loves them; they use them a lot.  @benjaminoakes
+    * We've used "feature toggles" at the apache tier, directing specific users to specific app server ([@nathenharvey](http://twitter.com/nathenharvey))
+    * We use a combination of custom feature flags and vanity, too. ([@nathenharvey](http://twitter.com/nathenharvey))
 * Reasons for keeping vagrant files outside of app code?  @benjaminoakes
+    * No real good reason.  Could just as easily be stored in the apps themselves.  Either would work well.  In fact, we've recently been discussing the merits of each approach.  ([@nathenharvey](http://twitter.com/nathenharvey))
 * Should there be more configuration rather than hard-coding?  @benjaminoakes
+    * Hmmm, by configuration do you mean automation?  Or something like Chef searches instead of hard-coding values?  In both cases the answer is "Yes!".  ([@nathenharvey](http://twitter.com/nathenharvey))
 
 ## External Links
 
+* [Slides](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity)
+* [Rate the talk](http://speakerrate.com/talks/9580-taming-the-kraken-how-operations-enables-developer-productivity)
 * [Chef](http://www.opscode.com/chef)
 * [Vagrant](http://vagantup.com/)
-http://www.customink.com/
-https://github.com/customink
-https://github.com/railsware/caphub
-http://www.opscode.com/
+* [CapHub](https://github.com/railsware/caphub)
 * [Jenkins](http://jenkins-ci.org)
-* [Greenscreen](https://github.com/customink/greenscreen)
+* [CustomInk's GitHub](https://github.com/customink)
+    * [Greenscreen](https://github.com/customink/greenscreen)
+* [CustomInk](http://www.customink.com/)

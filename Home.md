@@ -85,16 +85,17 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 * [[Using Rails without Rails]] (Piotr Sarnacki, 4:00 pm, Salon K)
 * (TODO needs notes/slides) [[Zero downtime deploys for Rails apps]] (Pedro Belo, 4:00 pm, Salon J)
 * (TODO needs notes/slides) [[Powerful Interfaces]] (Caike Souza, 4:30 pm, Room 616)
+* [[RailsCore panel]]
 * [[David Cohen Keynote]] (David Cohen, 7:00 pm, Salon HJK)
 
 ## Wednesday 2012-04-25
 
 * [[Ruby Rogues Live Keynote]] (Ruby Rogues Live, 9:00 am, Salon HJK)
 * [[COOKPAD Keynote]] (COOKPAD, 9:50 am, Salon HJK)
-* [[Rails: The Next Five Years]] (Yehuda Katz, 10:30 am, Salon J)
+* [[Rails: The Next Five Years]] (Yehuda Katz, 10:30 am, Salon H)
 * [[Redis Application Patterns in Rails]] (Obie Fernandez, 10:30 am, Salon K)
 * [[Rails Testing for Zombies]] (Gregg Pollack, 10:30 am, Room 616)
-* [[Its Not in Production Unless its Monitored]] (Joseph Ruscio, 10:30 am, Salon H)
+* [[Its Not in Production Unless its Monitored]] (Joseph Ruscio, 10:30 am, Salon J)
 * [[What a long Strange Trip it has been.]] (Ezra Zygmuntowicz, 11:30 am, Salon K)
 * [[Basecamp Next: Code Spelunking]] (Nick Quaranto, 11:30 am, Salon J)
 * [[Chanko How Cookpad safely releases multiple feature prototypes in production for test segments of their 15 million engaged users]] (Kenta Murata, 11:30 am, Salon H)
@@ -105,6 +106,8 @@ Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and
 * [[Deconstructing Travis]] (Josh Kalderimis, 2:30 pm, Salon H)
 * [[Extending Ruby with Ruby]] (Michael Fairley, 2:30 pm, Salon J)
 * [[Introduction to RSpec]] (Jon "Lark" Larkowski, 3:00 pm, Room 616)
+
+Next RailsConf is in May in Portland, OR.
 
 ## See Also
 

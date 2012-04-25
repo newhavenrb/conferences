@@ -18,11 +18,198 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @james_gary
+
+* Command+F1 to toggle mirror displays
+* gist.github.com/22491946
+* NSRails - Dan Hassin @2nf340
+  * Senior in high school!
+  * iOS developer
+  * Need to bridge teh gap between Objective-C and Rails
+    * RestKit (not as integrated w/ Rails as I wanted)
+    * ObjectiveResource (intrusive)
+  * High-level APIs that give your Objective-C classes
+  * Super simple drop-in framework
+  * http://github.com/dingbat/nsrails
+  * http://nsrails.com
+* Wind Tunnel - Javascript testing w/o the hassle
+  * Simulated DOM using jsdom
+  * Run each test modularly
+  * Supports Coffeescript
+  * Super duper fast (like .42s for a whole suite)
+  * https://github.com/thatdutchguy/windtunnel
+* config.threadsafe! JUST DO IT - Tony Arcieri @bascule
+  * Most Rails apps can only do one thing at a time
+  * Very few people use threadsafe
+  * Super easy to enable
+  * Most Rubyists see threads SUSPICIOUSLY (not curious)
+  * Concurrency: You're probably already doing it
+  * Your DB uses threads, your app should too
+  * I/O automatically releases the GIL, so that's not an issue
+  * Are my gems thread-safe?
+    * http://www.RailsPlugins.org tracks thread safety
+  * Earger Loading
+    * `lib/` can be a pain since it doesn't load it first
+    * Require your dependencies with `require_dependency`
+  * Threads are more efficient
+  * Why use N VMs when you can use 1 with threads?
+* @tenderlove.dup
+  * We want more Aarons (people who work for companies to do full time OSS)
+  * Small shops can't afford to do what AT&T does
+  * We can unite multiple small shops to support one OSS guy!
+* Javascript: importScripts('blah.js') // neat!
+* Megan from NZ
+  * New devs at company
+  * Lotsa resources to learn Rails
+  * But no list of comprehensive resources
+  * Until NOW!
+  * http://www.iwanttolearnruby.com
+* what private teams can learn from open surce - @marksim
+  * what/how/why to adopt
+  * OSS provides a model for private dev
+  * No other dev method reduces more bugs is... **code review**! (from code complete)
+  * Process:
+    * Fork on github
+    * Submit pull request
+    * Let the whole team review
+    * Merge
+  * Con
+    * more complicated, slow
+  * Pro
+    * All code is reviewed
+    * Everyone sees problem solutions
+    * Gets input
+    * Sees coding styles
+  * Better talent pool
+    * OSS is distributed from the start
+    * What is your team simply acted distributed?
+    * Campfire, skype, google hangout to see face
+    * Mailing list or message board
+    * Just make it open
+    * Internal blogs
+    * Con
+      * more discipline
+      * more intentionality
+      * could reduce personal interaaction (but not what we found)
+    * Pro
+      * all com logged
+      * everyone can review or catch up
+      * anyone cab e added from anywhere
+* sidekiq
+``` ruby
+# console
+bundle exec sidekiq
+ruby demo
+# That's it!
+# in Rails 3 app
+require 'sidekid/capistrano'
+```
+* DB modeling on Rails using erd
+  * UML for eclipse & visual studio
+  * Most everyone uses vim or emacs
+  * Visualizing Rails DB
+    * Most just use a whiteboard
+    * pdf generation
+      * rails-erd and railroad
+      * Too static
+  * erd (made during Railsconf)
+    * require it
+    * and go to localhost:3000/erd
+    * Can change table names dynamically and create migration files for you
+    * easy!
+* Jonathan Wallace - row
+  * Instead of trading time for money, trade results for money
+* Interviewing sucks @micahjgates @canweriotnow
+  * http://github.com/ruby-jokes/job_interview
+  * FizzBuzz, Fibonacci, quine, primes
+  * Use a library instead o reinventing the wheel
+  * Generates BS answers for personality questions
+* Greg Bell
+  * ActiveAdmin
+  * Don't use the merge pull request button on github
+  * TravisCI rocks
+  * Design has a front-end
+  * Depend on less
+  * Documentation
+  * Build a community
+  * Just do it!
+* Integration engine testing - manning.com/katz
+  * Strongly disagrees with earlier talk
+  * Don't do this: Rails.application.routes.draw
+  * Do this: Your::Engine.routes.draw
+  * isolate_namespace so everything's properly namespaced so you can have routes in your engine
+  * Now you can do your_engine.people_path or my_app.people_path
+* Tokaido (formerly Rails.app) - Yehuda Katz
+  * Precompiled Ruby
+  * No hardcoded paths in the binary
+  * Terminal based workflow
+  * Precompiled binary gems
+  * Code and app health (flog and flay)
+  * Pow-like DNS hijaciking
+  * Ruby Toolbox integration
+  * rails://
+  * Goals
+    * Precompile everything (get others to precompile too)
+    * Eliminate failure scenarios
+    * Free Ruby devs from the tyranny of compilation failures
+    * Avoid unrecoverable system-wide failures
+    * Core usable on ther platforms (sm!)
+    * Use this enviornemnt myself (not an easy-bake oven)
+  * Ubuntu users use prebuilt binaries
+  * Why not OSX users too?
+  * This is for me and you, not just for noobs
+  * But it will help noobs too
+
+### From @benjaminoakes
+
+* @DrNic
+    * Toggle mirror displays: cmd-f1
+    * Share one idea
+
+* [NSRails](http://nsrails.com): Objective-C + Rails; Communicating w/rails from iOS/Mac OS - [_Dan Hassin_](http://twitter.com/2n4340)
+    * [On GitHub](https://github.com/dingbat/nsrails)
+* Painless Javascript with wind tunnel - _Koting Hatduklgg_
+* Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
+    * [railsplugins.org](http://railsplugins.org) status of threadsafety
+    * `require_dependency` is how you threadsafe-`require` `lib/` files
+* `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
+    * Wants to get more RailsCore fulltimers by working together with other shops
+* Json + Webworkers = win! - _John Krueger_
+* [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ???
+* Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
+   * make your private team a distributed set of code reviewers
+* sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
+    * TODO link to github
+* Modeling on Rails - [_Akira Matsuda_](http://twitter.com/a_matsuda)
+    * Modeling via web interface; can generate migrations
+* What it means to be ROWE(awesome) - [_@jonathonwallace_](http://twitter.com/jonathonwallace)
+    * Just get done with goals for a week, not 40 hrs.
+* JOB INTERVIEW - THE GEMS - [M GATES](http://twitter.com/micahjgates) + [J LEWIS](http://twitter.com/canweriotnow)
+    * `require 'job_interview`: `foo.fizz_buzz`
+    * [`job_interview` gem](http://rubygems.org/gems/job_interview)
+* 1 min, 1 year of hacking on open source - [_@gregbell_](http://twitter.com/gregbell)
+* Integration testing engines - _Ryan Bigg_
+    * Routes belong in the engine
+    * Example: `visit spree.products_path`
+* Tokaido - [_Yehuda Katz_](http://twitter.com/wycats)
+    * Make dependencies easier.
+    * Terminal-based workflow.  Doesn't try to be a GUI.
+    * Ubuntu uses prebuilt binaries... why does OS X?  Are we Gentoo?
+    * For everyone.  Not an Easy Bake Oven.
+* Why you should participate in your local user group - [_@ryanbrunner_](http://twitter.com/ryanbrunner), [_@torontorb_](http://twitter.com/torontorb)
+    * TODO twitter links
+    * Interesting people
+    * Recruiting developers easier
+    * Less nerve-wracking than talking at RailsConf :)
+    * Not everyone can make it to confs
+    * Not as hard as you'd think
+    * Strong communites == better
+    * Spread Rails love
+    * Emulate what you think is cool
+* RailCar [_@skalnik](http://twitter.com/skalnik)
+    * [railcar.info](http://railcar.info)
+* Why you don't get hired - @dacat
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Speakers](https://gist.github.com/2491946)
