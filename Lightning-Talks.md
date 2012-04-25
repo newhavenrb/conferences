@@ -36,6 +36,7 @@
 * [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ??
 * Open Source Dev Model on Private Teams (via pull requests) - _@marksim_
 * sidekiq (distributed message queue) - _@jwo_ TODO link
+* Modeling on Rails - _Akira Matsuda_
 
 ## External Links
 
