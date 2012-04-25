@@ -251,6 +251,9 @@ require 'sidekid/capistrano'
 * RailCar [_@skalnik](http://twitter.com/skalnik)
     * [railcar.info](http://railcar.info)
 * Why you don't get hired - @dacat
+* Rails Encryption: Encrypting passwords and data in support of PCI compliance. - _Unknown_ FIXME Who was this?
+* Distributed Continuous Integration with Tddium - _Jay Monthi_
+
 
 ## External Links
 
