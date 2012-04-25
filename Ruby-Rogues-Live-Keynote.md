@@ -29,10 +29,19 @@
 
 * @stevenzeiler won a ticket to next year
 * A full year of RR
-* What should Rails developers care about
-* Best moment: "All code is experimental" - Dan Kubb
-* How Sputnik was invented
-    * Reverse engineer the path... led to GPS
+* @jeg2
+    * What should Rails developers care about
+    * Best moment: "All code is experimental" - Dan Kubb
+    * How Sputnik was invented
+        * Reverse engineer the path... led to GPS
+    * Imitating proper behavior: "The Journal of Best Practices" (David Finch) - dealing with Asperger's
+    * "Here's your new best practice: not everything is a best practice"
+* Avdi
+    * Why him?  Not an expert or prolific at OSS
+    * Giving names to things; mindful coding
+    * WikiWiki http://c2.com/wiki - read it
+    * Don't "shut up and code
+    * Give names to your decisions; introspect
 
 ### @danbernier
 
