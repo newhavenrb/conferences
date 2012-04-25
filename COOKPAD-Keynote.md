@@ -1,19 +1,21 @@
 **Presenter:** COOKPAD
 
-## Bio
+## Abstract
 
 > Thank you to the Rails community, from Cookpad and 15 million families.
 
-## Abstract
+## Quotes
 
-> TBD
+* "What would Aaaron Patterson do?"  (WWAPD)
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### From @benjaminoakes
+
+* "What would Aaaron Patterson do?"  (WWAPD)
+* Biggest Rails website you've never heard of
+* Summary of what Cookpad does and that lots of people use it in Japan
+* They sponsored RailsConf to give back
 
 ## External Links
 
