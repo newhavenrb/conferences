@@ -237,6 +237,7 @@ recommendify
 
 ## External Links
 
+* [Slides](http://www.slideshare.net/ryanstout/practical-machine-learning-and-rails-part1)
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 * [Stamford's Machine Learning Class](http://ml-class.org)
 * [Ryan Stout's example, on github](https://github.com/ryanstout/mlexample)
