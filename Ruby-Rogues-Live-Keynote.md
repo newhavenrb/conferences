@@ -66,6 +66,10 @@
     * Limited budget for risk
     * "Other people spending my risk budget"
     * Gustave Flaubert quote
+* Max Wood
+    * LivingSocial eating up the krill (sp?) like a whele
+    * Languagees like a religion (Mormons in picture)
+    * Let's convert people :)  Get people to try Ruby/Rails
 
 ### @danbernier
 
