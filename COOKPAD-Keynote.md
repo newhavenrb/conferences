@@ -16,7 +16,3 @@
 * Biggest Rails website you've never heard of
 * Summary of what Cookpad does and that lots of people use it in Japan
 * They sponsored RailsConf to give back
-
-## External Links
-
-* [Some related website](http://www.example.com/)

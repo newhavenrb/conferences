@@ -241,6 +241,7 @@ require 'sidekid/capistrano'
     * [On GitHub](https://github.com/dingbat/nsrails)
 * Painless Javascript with wind tunnel - _Koting Hatduklgg_
 * Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
+    * [Slides](http://speakerdeck.com/u/tarcieri/p/configthreadsafe-just-do-it)
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
     * `require_dependency` is how you threadsafe-`require` `lib/` files
 * `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
@@ -256,6 +257,7 @@ require 'sidekid/capistrano'
 * What it means to be ROWE(awesome) - [_@jonathonwallace_](http://twitter.com/jonathonwallace)
     * Just get done with goals for a week, not 40 hrs.
 * JOB INTERVIEW - THE GEMS - [M GATES](http://twitter.com/micahjgates) + [J LEWIS](http://twitter.com/canweriotnow)
+    * [Slides](http://ruby-jokes.github.com/job_interview/pres.html)
     * `require 'job_interview`: `foo.fizz_buzz`
     * [`job_interview` gem](http://rubygems.org/gems/job_interview)
 * 1 min, 1 year of hacking on open source - [_@gregbell_](http://twitter.com/gregbell)
@@ -277,9 +279,12 @@ require 'sidekid/capistrano'
     * Strong communites == better
     * Spread Rails love
     * Emulate what you think is cool
-* RailCar [_@skalnik](http://twitter.com/skalnik)
+* RailCar [_@skalnik_](http://twitter.com/skalnik)
     * [railcar.info](http://railcar.info)
 * Why you don't get hired - @dacat
+* Rails Encryption: Encrypting passwords and data in support of PCI compliance. - _Unknown_ FIXME Who was this?
+* Distributed Continuous Integration with Tddium - _Jay Monthi_
+
 
 ## External Links
 
