@@ -16,6 +16,7 @@ TODO
 
 * "Monitoring is to operations as unit tests are to development." - @josephruscio
 * "New code gets monitoring the same way new code gets tests." - @josephruscio
+* "monitoring == tests" - @josephruscio
 
 ## Notes
 
@@ -79,6 +80,21 @@ TODO
     * Now collection and storage is cheap... how do you use it?
     * Metrics -> annotations
     * Allow for arbitrary combinations of data
+* Dashboards
+    * Like a wiki for shared understanding
+    * Everybody on same page
+    * Good if on a wall people see
+    * Shameless plug: I wrote a Chrome Extension called TabCarousel for something like this
+* Alerts
+    * Tuning alerts
+    * Threshold is imporant: trigger, cancel, rearm
+    * Aberrant Behavior:  "???-Withers algorithm" TODO not sure of name
+        * "Triple-exponential smoothing"
+* Takeaways
+    * monitoring == tests
+    * Arbitrary correlations
+    * Dashboards
+    * Alerts
 
 ## External Links
 
