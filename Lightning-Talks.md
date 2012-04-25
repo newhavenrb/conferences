@@ -286,6 +286,7 @@ require 'sidekid/capistrano'
 * Distributed Continuous Integration with Tddium - _Jay Monthi_
 * How I Saved The World with Nokogiri - _Rod Paddock_
 * Wizards from WTF to wicked - @Schneems 
+  * gem install 'wicked_wizard'
 
 ## External Links
 
