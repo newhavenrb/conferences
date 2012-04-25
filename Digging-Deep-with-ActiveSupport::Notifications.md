@@ -127,4 +127,4 @@ backgrounding for certain tasks...
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://speakerdeck.com/u/nextmat/p/digging-deep-with-activesupportnotifications)
