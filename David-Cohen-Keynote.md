@@ -6,6 +6,10 @@
 >
 > David is a active startup advocate, advisor, board member, and technology advisor who comments on these topics on his blog at <a href="http://www.davidgcohen.com/">DavidGCohen.com</a>. He recently co-authored <a href="http://domorefasterbook.com/"><em>Do More Faster</em></a> with Brad Feld.  He is also very active at the <a href="http://www.colorado.edu/">University of Colorado</a>, serving as a member of the Board of Advisors of the <a href="http://www.cs.colorado.edu/">Computer Science Department</a>, the <a href="http://www.silicon-flatirons.org/people.php?id=EntrepreneurialBoardMember">Entrepreneurial Advisory Board at Silicon Flatirons</a>, and the Board of Advisors of the <a href="http://leeds.colorado.edu/Deming/interior.aspx?id=548">Deming Center</a> Venture Fund. He is a member of the selection committee for <a href="http://www.vcintherockies.com/">Venture Capital in the Rockies</a>, and runs the Colorado chapter of the <a href="http://www.openangelforum.com/">Open Angel Forum</a>. His hobbies are technology, software/web startups, business history, and tennis. He is married to the <a href="http://www.jilato.com/">coolest girl</a> he's ever met and has three amazing kids who always seem to be teaching him something new.
 
+## Summary
+
+A summary of 12 chapters of his "Do More Faster" book.
+
 ## Notes
 
 ### From @benjaminoakes
@@ -23,4 +27,4 @@ TODO
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [_Do More Faster_ book](http://wwww.domorefasterbook.com)
