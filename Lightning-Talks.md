@@ -57,6 +57,10 @@
     * Interesting people
     * Recruiting developers easier
     * Less nerve-wracking than talking at RailsConf :)
+    * Not everyone can make it to confs
+    * Not as hard as you'd think
+    * Strong communites == better
+    * Spread Rails love
 
 ## External Links
 
