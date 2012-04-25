@@ -102,3 +102,4 @@
     * rails/strong\_parameters - filters parameters ("avoids the GitHub mess")
     * 37signals/marginalia - released yesterday; adds info at end of query log messages
     * ???/statsd TODO replace ???
+    * ???/resque-statds TODO replace ???
