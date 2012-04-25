@@ -200,6 +200,36 @@ require 'sidekid/capistrano'
   * Big or small, publish something
   * Be passionate about something
   * Ask questions
+* Rails Encryption using symmetric-encryption - @reidmorrison
+  * What's sensitive?
+    * Senitive data in db
+    * Passwords in config files
+  * `SymmetricEncryption.encrypt("asdf")`
+  * `SymmetricEncryption.decrypt('qpowigjalsjgh')`
+  * `attr_encrypted` (or `:encrypted => true` for mongo)
+  * in config.yml
+    * password: <%= Symmetiric Encryption.try_decrypt "fjoqiwjglaskdg" %>
+  * PCI Compliance requirements
+    * Remove encryption key from source code and development team access
+  * Change encryption keys every 12 months
+    * Re-encrypt existing data
+      * Zero downtime
+      * Decrypt, Encrypt with new key, destroy old key
+* _sorry missed this 1-minute talk :(_
+* Jay Moorthi - @tddium: Secure parallel Hosted Testing and Continuous Deployment
+  * Change is coming
+  * Manage risk
+  * Be prudent
+  * Aaaand all about fun
+  * How do we connect these?
+  * automated tests are an extension of your product
+  * The customer is (future) you and everyone you interact with
+  * Make your test suites as fast as you can
+    * Instant feedback is important
+    * Losing focus is a terrible waste of your time
+  * Test every branch
+    * Can't merge without a green build
+* 
 
 ### From @benjaminoakes
 
