@@ -29,6 +29,7 @@
 * Painless Javascript with wind tunnel - _Koting Hatduklgg_
 * Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
+    * require_dependency is how you threadsafe-require lib/ files
 * `tenderlove.dup` - _jremsikjr_
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
