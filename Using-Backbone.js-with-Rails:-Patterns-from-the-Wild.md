@@ -37,4 +37,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides (with notes)](http://speakerdeck.com/u/sarahmei/p/using-backbonejs-with-rails)
