@@ -98,7 +98,7 @@ TODO
 
 ## External Links
 
-* Slides TODO
+* [Slides] (http://speakerdeck.com/u/josephruscio/p/its-not-in-production-unless-its-monitored)
 * [@josephruscio on Twitter](http://twitter.com/josephruscio)
 * Projects TODO turn into github links
     * Logging
