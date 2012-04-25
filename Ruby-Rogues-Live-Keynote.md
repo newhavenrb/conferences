@@ -34,6 +34,8 @@
 * How Sputnik was invented
     * Reverse engineer the path... led to GPS
 
+### @danbernier
+
 ## External Links
 
 * Podcast episode TODO
