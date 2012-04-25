@@ -239,12 +239,56 @@ require 'sidekid/capistrano'
   * `include wicked`
   * Add steps
   * `render_wizard`
-* flash_s3_rails by Sam Woodard
+  * https://github.com/schneems/wicked
+* flash_s3_rails by Sam Woodard @samhwoodard
   * Direct upload to s3
   * Multi-file upload
   * Easy usage
   * Progress bar
   * http://github.com/shwoodard/flash_s3_rails
+* Charles Lull @cowboyd - One man in the name of embedding js in ruby
+  * therubyracer, therubyrhino
+  * Can share code
+  * Tap into exploding js ecosystem
+  * Wants to be not 'one man', but 'many people'
+  * In ten years, every serious language will ship with out of the box js interop
+  * What should it look like to call js from ruby? and vice versa
+  * What does a prototype chain look like in ruby?
+  * javascript-and-friends@googlegroups.com - Join the discussion!
+* Hacking the Airlines: Sit in F, Pay for Y @MatRogish
+  * Not a talk about actual hacking
+  * Use your miles to redeem
+  * Pick an airline (one and only one)
+  * Fly a lot. To random places. For a day.
+  * flyertalk.com (this will probably explain better than my notes will) :)
+* 10 reasons you should probably quit your job @bwilken
+  * Whatever you wanna do, you should
+  * Assumptions
+    * You're good
+  * You are underpaid
+    * Money isn't everything, but it buys boats
+  * Too much commute
+    * Fuck that
+  * Not enough vacation
+  * The market is SICK
+    * I could find a job in an hour
+  * Too much overtime
+    * You suck at programming after 8 hours of coding
+  * You are better than everyone else
+    * Quit and join a smarter team
+  * Your code form last year sucks
+    * Might as well change jobs and let someone else manage that pile of shit
+* Monitoring with Graphite - @mattconway
+  * Graphite does Scalable Realtime Graphing
+  * Doesn't do the data collection
+  * Stores time series data
+  * URL API
+    * Generates graph images or json
+  * Web app
+    * Visually build graphs
+    * Store collections of graphs in dashboards
+  * Better than munin for lotsa reasons
+  * https://github.com/wr0ngway/rubber
 
 ### From @benjaminoakes
 
