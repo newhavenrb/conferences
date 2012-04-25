@@ -21,13 +21,64 @@
 >
 > All that AND we promise to wear amazing hats!
 
+## Quotes
+
+* "CoffeeScript writes better JavaScript than you do" - David Brady (FIXME right name?)
+* "Here's your new best practice: not everything is a best practice" - David Finch's wife (FIXME correct?)
+* "Loss aversion is the pillar of conservatism" - @dhh
+* "Experience developers have a lower tolerance for technical debt" - @tenderlove
+* "I hate other people spending my risk budget" - Josh Susser
+* "Try a new language every year" - David Thomas
+
 ## Notes
 
 * Send questions to panel@rubyrogues.com
 
 ### From @benjaminoakes
 
-TODO
+* @stevenzeiler won a ticket to next year
+* A full year of RR
+* @jeg2
+    * What should Rails developers care about
+    * Best moment: "All code is experimental" - Dan Kubb
+    * How Sputnik was invented
+        * Reverse engineer the path... led to GPS
+    * Imitating proper behavior: "The Journal of Best Practices" (David Finch) - dealing with Asperger's
+    * "Here's your new best practice: not everything is a best practice"
+* Avdi
+    * Why him?  Not an expert or prolific at OSS
+    * Giving names to things; mindful coding
+    * WikiWiki http://c2.com/wiki - read it
+    * Don't "shut up and code
+    * Give names to your decisions; introspect
+* David Brady (FIXME not sure of the name)
+    * Anti-patterns
+    * Don't program another language in Ruby
+    * Learn Ruby like its a whole new language
+    * Get to know JavaScript (and keep in mind it can be crap)
+    * Be a part of your local community
+    * Don't be a douchebag
+* Josh Susser
+    * Prudence is important
+    * Most of the cost of code is maintenance
+    * DHH said "fear Rails 4"
+    * "Loss aversion is the pillar of conservatism" - @dhh
+    * "Experience developers have a lower tolerance for technical debt" - @tenderlove
+    * Limited budget for risk
+    * "Other people spending my risk budget"
+    * Gustave Flaubert quote
+* Max Wood
+    * LivingSocial eating up the krill (sp?) like a whele
+    * Lots of people looking for Rails devs
+    * Not enough to go around
+    * Languagees like a religion (Mormons in picture)
+    * Let's convert people :)  Get people to try Ruby/Rails
+    * "Be there for the assist"
+    * Grassroots
+    * Don't abandon Rails.  We need to mint more Rails devs.
+    * Get people to try it.
+    * "Try a new language every year" - David Thomas
+    * Making a closed mailing list ($10/yr?): http://parle.rubyrogues.com.  Not quite ready yet.
 
 ### @danbernier
 
@@ -129,3 +180,80 @@ etc. As you do this, speak up at http://parlay.rubyrogues.com.
 ## External Links
 
 * [Ruby Rogues, group for reaching out to other communities](http://parlay.rubyrogues.com)
+* Podcast episode TODO
+* Video TODO
+
+## Q&A
+
+* What about Rich Hickey's comments, about simplicity? Wouldn't that
+mean lots of naked information?
+
+JEG2: Yep. Simple + simple + simple doesn't guarantee simple.
+
+JS: Rich was talking FP, and that's a fundamentally different
+thing. I'm done waiting for it to become popular.
+
+* What's a bad use of instance_exec?
+
+* I think we need to do more evangelizing & teaching
+
+CMW: Yeah, teaching ladies to code, etc...lots of good programs out
+there. We should open our companies up, too, so people can see what we
+do.
+
+JS: Rails bridge is teaching new rails devs, esp. women. Go volunteer
+for Rails Bridge!
+
+DB: get away from programming water-holes, talk to non-devs. Start-up
+weekends, etc. People w/ biz ideas who can't program.
+
+JEG2: Yep. Sometimes just set up a wiki for a group like that.
+
+* WHen is the Rails community gonna be half-women?
+
+JS: yeah, that's important - we're trying.
+
+CMW: respect is kind of the baseline. Rails bridge really gets it. But
+be friendly - women like other people like them.
+
+JEG2: Angela's Rogues episode is everyone's favorite.
+
+Evan Phoenix: How many of us got started programming in highschool or
+earlier? (lots) We should try to get kids involved.
+
+* What are some good examples of cross-pollination between langs?
+
+JEG2: lots of examples between ruby, javascript, coffeescript,
+bash...ruby does a pretty good job of using different langs for their
+strengths.
+
+JS: Ruby has taken lots from java & python, and it's also lisp +
+smalltalk, with perl.
+
+* Sarah from Rails bridge: I'm bringing women into the rails community
+because the men are awesome. We get 1/2 devs from other langs, & 1/2
+totally new to programming. We want to get them to know the people in
+the community, to encourage them to come to confs.
+
+JEG2: when will you be coming on the podcast?
+
+* There was a question about FP not succeeding since the 50's, but why
+should we care about OO paradigm - shouldn't we care about Ruby or
+Rails paradigm?
+
+CMW: yeah, we need to use the FP & OOP parts in balance.
+
+AG: all sufficiently systems evolve into OO systems. Evidence: look at
+the architecture of a large system, it's all boxes & arrows, with
+well-defined protocols between them. That encapsulation keeps us
+sane. The question is, shouldn't we have that cellular structure at
+lower levels, too?
+
+DB: Good FP & good OO keep things encapsulated - immutability, & info
+hiding. You can use that stuff in Ruby, it's pretty seamless,
+switching between them.
+
+JS: Ruby seems better at the FP/OO blend than JavaScript does.
+
+AG: GOOSGBT talks about this blend - method internals are functional,
+and the interface is more about mutable state.
