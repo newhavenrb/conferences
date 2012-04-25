@@ -31,4 +31,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://speakerdeck.com/u/czarneckid/p/railsconf-2012-stack-smashing-cornflower-blue)
