@@ -54,6 +54,6 @@ Where to start
 
 
 ## External Links
-* [Slides for the talk](bit.ly/faster-rails)
+* [Slides for the talk](http://bit.ly/faster-rails)
 * [WebPagetest](http://www.webpagetest.org/) - Free web page testing across different browsers and locations
 * [PageSpeed](https://developers.google.com/speed/pagespeed/) - Google web page performance tools
