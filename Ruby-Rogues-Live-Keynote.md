@@ -42,6 +42,9 @@
     * WikiWiki http://c2.com/wiki - read it
     * Don't "shut up and code
     * Give names to your decisions; introspect
+* David Brady (FIXME not sure of the name)
+    * Anti-patterns
+    * Don't program another language in Ruby
 
 ### @danbernier
 
