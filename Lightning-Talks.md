@@ -160,7 +160,7 @@ require 'sidekid/capistrano'
   * This is for me and you, not just for noobs
   * But it will help noobs too
 
-### someone's notes...
+### From @benjaminoakes
 
 * @DrNic
     * Toggle mirror displays: cmd-f1
