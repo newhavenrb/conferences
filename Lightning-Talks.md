@@ -29,6 +29,7 @@
 * Painless Javascript with wind tunnel - _Koting Hatduklgg_
 * Threadsafe on! (`config.threadsafe!`) - _Tony Arcieri_
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
+    * require_dependency is how you threadsafe-require lib/ files
 
 ## External Links
 
