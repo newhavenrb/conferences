@@ -205,6 +205,7 @@ require 'sidekid/capistrano'
     * Not as hard as you'd think
     * Strong communites == better
     * Spread Rails love
+    * Emulate what you think is cool
 
 ## External Links
 
