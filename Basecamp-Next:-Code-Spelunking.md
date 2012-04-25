@@ -78,6 +78,9 @@
         * `???::TaggedLogger` (new in Rails 3.2) FIXME replace ???
         * literals or lambdas
         * Can use Rack environment for sharing data through this
+    * Stats
+        * `statsd`
+        * See `ActiveSupport::NOtifications.instrument`
 
 ## Discussion
 
@@ -98,4 +101,4 @@
     * rails/jbuilder - Renders JSON response
     * rails/strong\_parameters - filters parameters ("avoids the GitHub mess")
     * 37signals/marginalia - released yesterday; adds info at end of query log messages
-
+    * ???/statsd TODO replace ???
