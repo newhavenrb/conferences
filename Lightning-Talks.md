@@ -229,7 +229,22 @@ require 'sidekid/capistrano'
     * Losing focus is a terrible waste of your time
   * Test every branch
     * Can't merge without a green build
-* 
+* How I saved the world with ruby and nokogiri @rodpaddock
+  * Backstory: Buddy was a blogger who got screwed over by huffpo
+  * Rod was able to scrape a bunch of articles for a buddy in about 15 minutes
+  * Ruby and nokogiri saved the day!
+  * [Article](losttechies.com)
+* @schneems at heroku
+  * Step by step Wizards gem called: Wicked
+  * `include wicked`
+  * Add steps
+  * `render_wizard`
+* flash_s3_rails by Sam Woodard
+  * Direct upload to s3
+  * Multi-file upload
+  * Easy usage
+  * Progress bar
+  * http://github.com/shwoodard/flash_s3_rails
 
 ### From @benjaminoakes
 
