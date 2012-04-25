@@ -35,9 +35,59 @@
             * launchpad + portfolio
     * Testing
         * test/unit, mocha, capybara, qrush/m
+        * ...
+    * Development setup
+        * "All apps need to have reset button"
+        * They call it `script/setup`.  (We call it `./configure`, like for a C project, etc.)
+    * `module YourConcern; extend ActiveSupport::Concern` pattern (interesting?)
+        * Include a bunch of concerns in a controller
+        * Adding stuff directly feels gross
+        * 50/50 CoffeeScript/Ruby
+    * wysihtml5 for rich editors
+    * JS
+        * jQuery plugins
+        * Patterns:
+            * extend jQuery: `$.fn.highlight = -> # ...`
+    * Stacker
+        * Replaces page
+        * Incercepts clicks on `<a>`
+        * Does `$.ajax`
+        * Handles errors
+        * based on History.js
+        * Hooks
+            * `page:*`
+    * JS console mastery
+        * `console.count('foo')`
+        * `warn`, `error`
+        * `group`, `groupEnd` (clumping)
+        * `profile`, `profileEnd` (profiling even with a name -- goes in "Profiles" tab, looks awesome)
+        * `debugger`, `console.trace` (stack trace)
+        * `chrome.csi()` how long since page load
+    * API Building
+        * repo for docs: 37signals/bcx-api
+        * rails/jbuilder
+            * "view data in the views"
+            * vs. ugly `as_json` vs `to_json` dance
+            * "public JSON"
+        * rails/strong\_parameters: uses `FooController#document_params`
+            * It's a controller not a model problem (vs `attr_accessiblei`
+            * Status codes belong in controller
+
+## Discussion
+
+* `./configure` vs `script/setup`.  One is a convention outside Ruby projects, the other isn't.  Preference? @benjaminoakes
+* `Rails.env` in js via `.coffee.erb`.  Hard to do when asset compiling though, right?  It's always in production.  @benjaminoakes
 
 ## External Links
 
+* Slides TODO
 * [Pow](http://pow.cx/) - Mac only :(
 * Github TODO links
-    * qrush/m Runs tests by line number
+    * qrush/m - Runs tests by line number
+    * xing/wysihtml5 - Rich text editor
+    * josh/rails-behaviors
+    * balupton/History.js - Abstracts history API
+    * 37signals/bcx-api - their API docs, Markdown
+    * rails/jbuilder - Renders JSON response
+    * rails/strong\_parameters - filters parameters ("avoids the GitHub mess")
+    * http://httpstatus.es/204
