@@ -113,6 +113,7 @@
 
 ## External Links
 
+* [Slides](http://speakerdeck.com/u/bob_p/p/securing-your-site)
 * Rails' security page
 * [rorsecurity.info](rorsecurity.info)
 * [brakemanscanner.org](brakemanscanner.org)
