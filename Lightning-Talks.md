@@ -206,6 +206,9 @@ require 'sidekid/capistrano'
     * Strong communites == better
     * Spread Rails love
     * Emulate what you think is cool
+* RailCar [_@skalnik](http://twitter.com/skalnik)
+    * [railcar.info](http://railcar.info)
+* Why you don't get hired - @dacat
 
 ## External Links
 
