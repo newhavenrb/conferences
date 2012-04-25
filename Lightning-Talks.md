@@ -44,7 +44,8 @@
     * Just get done with goals for a week, not 40 hrs.
 * JOB INTERVIEW - THE GEMS - [M GATES](http://twitter.com/micahjgates) + [J LEWIS](http://twitter.com/canweriotnow)
     * `require 'job_interview`: `foo.fizz_buzz`
-    * [gem](http://rubygems.org/gems/job_interview)
+    * [`job_interview_ gem](http://rubygems.org/gems/job_interview)
+* 1 min, 1 year of hacking on open source - [_@gregbell_](http://twitter.com/gregbell)
 
 ## External Links
 
