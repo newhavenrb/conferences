@@ -304,8 +304,12 @@ cap jenkins:delete
 
 * What about feature toggles?  @benjaminoakes
     * I asked.  He said he loves them; they use them a lot.  @benjaminoakes
+    * We've used "feature toggles" at the apache tier, directing specific users to specific app server ([@nathenharvey](http://twitter.com/nathenharvey))
+    * We use a combination of custom feature flags and vanity, too. ([@nathenharvey](http://twitter.com/nathenharvey))
 * Reasons for keeping vagrant files outside of app code?  @benjaminoakes
+    * No real good reason.  Could just as easily be stored in the apps themselves.  Either would work well.  In fact, we've recently been discussing the merits of each approach.  ([@nathenharvey](http://twitter.com/nathenharvey))
 * Should there be more configuration rather than hard-coding?  @benjaminoakes
+    * Hmmm, by configuration do you mean automation?  Or something like Chef searches instead of hard-coding values?  In both cases the answer is "Yes!".  ([@nathenharvey](http://twitter.com/nathenharvey))
 
 ## External Links
 

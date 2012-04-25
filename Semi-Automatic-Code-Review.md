@@ -48,6 +48,7 @@ Automation of tasks is important.  This talk discussed the speaker's open-source
 
 ## External Links
 
+* [Slides](http://www.slideshare.net/flyerhzm/semi-automatic-code-review)
 * [`rails_best_practices` gem](http://rubygems.org/gems/rails_best_practices) TODO check link (internet connection is bad now)
 * Twitter (TODO links)
     * @flyerhzm
