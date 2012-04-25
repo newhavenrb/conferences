@@ -89,7 +89,7 @@
 
 ## External Links
 
-* Slides TODO
+* [Slides](http://speakerdeck.com/u/qrush/p/basecamp-next-code-spelunking)
 * [Pow](http://pow.cx/) - Mac only :(
 * http://httpstatus.es/204
 * Github TODO make into links
