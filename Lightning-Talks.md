@@ -30,11 +30,12 @@
 * Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
     * [railsplugins.org](http://railsplugins.org) status of threadsafety
     * require_dependency is how you threadsafe-require lib/ files
-* `tenderlove.dup` - _jremsikjr_
+* `tenderlove.dup` - _@jremsikjr_
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
 * [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ??
 * Open Source Dev Model on Private Teams (via pull requests) - _@marksim_
+* sidekiq (distributed message queue) - _@jwo_ TODO link
 
 ## External Links
 
