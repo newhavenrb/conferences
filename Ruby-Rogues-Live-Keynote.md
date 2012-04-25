@@ -27,8 +27,14 @@
 
 ### From @benjaminoakes
 
-TODO
+* @stevenzeiler won a ticket to next year
+* A full year of RR
+* What should Rails developers care about
+* Best moment: "All code is experimental" - Dan Kubb
+* How Sputnik was invented
+    * Reverse engineer the path... led to GPS
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* Podcast episode TODO
+* Video TODO
