@@ -160,6 +160,41 @@ require 'sidekid/capistrano'
   * This is for me and you, not just for noobs
   * But it will help noobs too
 
+### someone's notes...
+
+* @DrNic
+    * Toggle mirror displays: cmd-f1
+    * Share one idea
+
+* [NSRails](http://nsrails.com): Objective-C + Rails; Communicating w/rails from iOS/Mac OS - [_Dan Hassin_](http://twitter.com/2n4340)
+    * [On GitHub](https://github.com/dingbat/nsrails)
+* Painless Javascript with wind tunnel - _Koting Hatduklgg_
+* Threadsafe on! (`config.threadsafe!`) - [_Tony Arcieri_](http://twitter.com/bascule)
+    * [railsplugins.org](http://railsplugins.org) status of threadsafety
+    * `require_dependency` is how you threadsafe-`require` `lib/` files
+* `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
+    * Wants to get more RailsCore fulltimers by working together with other shops
+* Json + Webworkers = win! - _John Krueger_
+* [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ???
+* Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
+   * make your private team a distributed set of code reviewers
+* sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
+    * TODO link to github
+* Modeling on Rails - [_Akira Matsuda_](http://twitter.com/a_matsuda)
+    * Modeling via web interface; can generate migrations
+* What it means to be ROWE(awesome) - [_@jonathonwallace_](http://twitter.com/jonathonwallace)
+    * Just get done with goals for a week, not 40 hrs.
+* JOB INTERVIEW - THE GEMS - [M GATES](http://twitter.com/micahjgates) + [J LEWIS](http://twitter.com/canweriotnow)
+    * `require 'job_interview`: `foo.fizz_buzz`
+    * [`job_interview` gem](http://rubygems.org/gems/job_interview)
+* 1 min, 1 year of hacking on open source - [_@gregbell_](http://twitter.com/gregbell)
+* Integration testing engines - _Ryan Bigg_
+    * Routes belong in the engine
+    * Example: `visit spree.products_path`
+* Tokaido - [_Yehuda Katz_](http://twitter.com/wycats)
+    * Make dependencies easier.
+    * Terminal-based workflow.  Doesn't try to be a GUI.
+
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Speakers](https://gist.github.com/2491946)
