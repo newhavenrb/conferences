@@ -1,4 +1,4 @@
-If your Internet connection is good, all you need is a web-browser.
+If your Internet connection is good, all you need is a web browser.
 
 To work offline, you'll at least need `git` and a text editor.
 
