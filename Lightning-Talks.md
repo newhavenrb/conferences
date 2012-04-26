@@ -307,6 +307,7 @@ require 'sidekid/capistrano'
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
 * [iwanttolearnruby.com](http://iwanttolearnruby.com) OSS - _Amanda Wagener_  [_@a_wagener_](http://twitter.com/a_wagener)
+    * [Code on GitHub](https://github.com/awagener/iwanttolearnruby)
 * Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
    * make your private team a distributed set of code reviewers
 * sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
