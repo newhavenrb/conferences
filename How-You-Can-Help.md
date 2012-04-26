@@ -14,7 +14,7 @@ You can make any improvement that you'd like, but here are some ideas:
 
 ### For Anyone
 
-If you feel like you need to coordinate on a task, consider adding a bullet point below with your GitHub username.
+If you feel like you need to coordinate on a task, consider adding a bullet point below with your GitHub username.  We may start using GitHub issues, if appropriate.
 
 #### Easy
 
