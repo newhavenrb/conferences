@@ -58,7 +58,7 @@
   * Small shops can't afford to do what AT&T does
   * We can unite multiple small shops to support one OSS guy!
 * Javascript: importScripts('blah.js') // neat!
-* Megan from NZ
+* Amanda from NZ
   * New devs at company
   * Lotsa resources to learn Rails
   * But no list of comprehensive resources
@@ -306,7 +306,7 @@ require 'sidekid/capistrano'
 * `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
-* [iwantolearnruby.com](http://iwantolearnruby.com) OSS - _Amanda ???_  FIXME replace ???
+* [iwanttolearnruby.com](http://iwanttolearnruby.com) OSS - _Amanda Wagener_  [_@a_wagener_](http://twitter.com/a_wagener)
 * Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
    * make your private team a distributed set of code reviewers
 * sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
