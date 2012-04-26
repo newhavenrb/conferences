@@ -5,14 +5,16 @@
 * Jim Weirich ([@jimweirich](http://twitter.com/jimweirich))
 * S. Pastorino ([@spastorino](http://twitter.com/spastorino)) TODO full name
 
+**Host:** Evan Phoenix ([@evanphx](http://twitter.com/evanphx))
+
 ## Summary
 
 A panel of RailsCore members took questions about Rails and its future.
 
 ## Quotes
 
-* "Fuck you if you use `unless ... else`" - _Evan Pheonix_
-* "GitHub needs an issue bankruptcy button." - _Evan Pheonix_
+* "Fuck you if you use `unless ... else`" - _@evanphx_
+* "GitHub needs an issue bankruptcy button." - _@evanphx_
 * "Failure of leadership!" - Some guy in the audience TODO name
 
 ## Notes
@@ -48,19 +50,19 @@ A panel of RailsCore members took questions about Rails and its future.
 * Concurrency better?  `autoload` bad (not thread-safe)?
     * Gonna remove.  - _@tenderlove_
     * No. - _@wycats_
-    * Long question.  - _Evan_
+    * Long question.  - _@evanphx_
     * `autoload` makes it so we don't need `require` as much. Eager load everything in production... (cut off) - _@wycats_
     * I have doubts.  - _@tenderlove_
     * move on...
 * @tenderlove Abrupt ending?  No hugs?  - _@abelmartin_
     * Can't top last year.  Kept it real.  Critical of Rails because I care. - _@tenderlove_
 * So many open issues on GitHub?
-    * "GitHub needs an issue bankruptcy button." - _Evan_
+    * "GitHub needs an issue bankruptcy button." - _@evanphx_
     * Need bug busting days. FIXME not sure who said
     * Need canned responses.  - _@tenderlove_
     * Close and ask for more info.  - _@wycats_
     * Community triage.  - _@tenderlove_
-    * Everybody triage 3 tickets.  - _Evan_
+    * Everybody triage 3 tickets.  - _@evanphx_
     * (We'd need rules, @benjaminoakes thinks.)
     * Tag with version of Rails it's for. - _@spastorino_
 * Evan: Rubinius? - _@tenderlove_
