@@ -6,7 +6,7 @@ Run into a problem?  Contact [newhaven.rb on Twitter](http://twitter.com/newhave
 
 * Most easy changes can be made via the web interface.
 * If you want to work with a local clone, there's a [[software]] list that might help you out.
-* If you're not a member of the [newhavenrb](https://github.com/newhavenrb) organization, you can't `git push` to the wiki repository.  We'll be happy to give you this access to contribute, but another option is [forking and making a pull request](https://github.com/newhavenrb/railsconf2012).  NOTE: the "code" repository may be out of date.
+* If you're not a member of the [newhavenrb](https://github.com/newhavenrb) organization, you can't `git push` to the wiki repository.  We'll be happy to give you this access to contribute, but another option is [forking and making a pull request](https://github.com/newhavenrb/railsconf2012).  NOTE: the "code" repository may be out of date relative to the "wiki" repository.
 
 ## Things You Can Do
 
