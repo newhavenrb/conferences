@@ -12,6 +12,11 @@
 * Here are the takeaways.
 * "This page in a nutshell."
 
+## Memorable Quotes
+
+* This section applies sometimes.
+* "Android is the new IE." - _[[John Bender|Progressive Enhancement on the Mobile Web]]_
+
 ## Notes
 
 * This layout is just a suggestion.
