@@ -353,6 +353,7 @@ require 'sidekid/capistrano'
   4. VDB/IDB (bump) earns you vouchers
   5. Credit cards with mileage signup bulks
   6. Earn 'em and burn 'em, these things depreciate like crazy
+
 ## External Links
 
 * [Speakers](https://gist.github.com/2491946)
