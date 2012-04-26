@@ -1,4 +1,4 @@
-Crowd-sourced RailsConf wiki!  Working together is better.  :)
+A crowd-sourced RailsConf wiki!  Working together is better.  :)
 
 ## The Idea
 
