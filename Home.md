@@ -9,7 +9,7 @@ Crowd-sourced RailsConf notes!  Working together is better.  :)
 
 ## What you can do
 
-* Please pass the word along!  More eyes and contributors == more better.
+* Please pass the word along!  (More eyes and contributors == more better.)  Tweet, email, word of mouth, or carrier pigeon; up to you.
 * Read the notes; fix typos, awkward wording as necessary
 * Add links; links to slides, related sites, videos, etc. are very desirable.
 * Have notes for something we don't have?  We want them.
