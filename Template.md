@@ -2,6 +2,8 @@
 
 ## Bio
 
+> What it says about this talk on the [RailsConf Program](http://railsconf2012.com/sessions)
+
 ## Abstract
 
 > What it says about this talk on the [RailsConf Program](http://railsconf2012.com/sessions)
