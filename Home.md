@@ -7,6 +7,8 @@ A crowd-sourced RailsConf wiki!  Working together is better.  :)
 * Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
 * It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  We've got your back.
 
+## We Need Your Help
+
 If you like the idea of a RailsConf wiki, please consider [[helping us|How you can help]]!  It can be as simple as sharing a link for the wiki (e.g., on Twitter), fixing a typo you happen to find, or [[any of our other ideas|How you can help]].
 
 ## Talks
