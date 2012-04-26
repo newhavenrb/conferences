@@ -1,32 +1,12 @@
-Crowd-sourced RailsConf notes!  Working together is better.  :)
+Crowd-sourced RailsConf wiki!  Working together is better.  :)
 
 ## The Idea
 
+* This is like Wikipedia, but for RailsConf.
 * Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
-* This is like Wikipedia, but for RailsConf notes.
-* We want to share.  All contributions are welcome (notes, summaries, discussions, slide links, related links, etc.).
-* Miss a talk?  We've got your back.
+* It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  We've got your back.
 
-## What you can do
-
-* Please pass the word along!  (More eyes and contributors == more better.)  Tweet, email, word of mouth, or carrier pigeon; up to you.
-* Read the notes; fix typos, awkward wording as necessary
-* Add links; links to slides, related sites, videos, etc. are very desirable.
-* Have notes for something we don't have?  We want them.
-* Have notes for something we **do** have?  We want those too.  Either add them in a separate section or integrate them with existing notes.
-* Write/improve a talk summary
-* Look for "TODO", "FIXME" for (simple) tasks.
-* Anything else that you feel makes an improvement.  :)
-
-## Other Stuff
-
-* Please add a section for your notes (e.g. `### From @yourname`) in the notes section to help reduce merge conflicts
-* You don't have to fork (actually, GitHub doesn't handle forking wikis all that well); just [clone](https://github.com/newhavenrb/railsconf2012/wiki/_access), make your changes, commit, and push like you would for code.
-* This is an index page.  It has a list of talks, each of which can have their own page(s).
-* It's just a suggestion, but here's a [[template]] for notes.
-* Beyond `git` and a text editor, there's a [[software]] list that might help you out.
-
-Not a member of the [newhavenrb](https://github.com/newhavenrb) organization and want to contribute?  You should be able to edit via the web interface and make a clone (but not push).  But if you run into a problem, send us a message via GitHub or [Twitter](http://twitter.com/newhavenrb), or if you just want to make a small contribution, [fork and make a pull request](https://github.com/newhavenrb/railsconf2012).
+If you find this useful, please consider [[helping us|How you can help]]!  It can be as simple as sharing a link for this wiki (e.g., on Twitter), fixing a typo you happen to find, or [[any of our other ideas|How you can help]].
 
 ## Talks
 

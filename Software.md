@@ -1,6 +1,8 @@
-# Software
+If your Internet connection is good, all you need is a web-browser.
 
-Recommended plugins and such.  Others are welcome.
+To work offline, you'll at least need `git` and a text editor.
+
+## Plugins
 
 * `gollum`
     * [gollum](https://github.com/github/gollum): what GitHub made for `git`-based wikis.  (See also: [Fix `undefined method 'new' for Redcarpet:Module`](https://github.com/github/gollum/pull/271))
