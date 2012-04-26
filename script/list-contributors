@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git log --format='%aN' | sort -u | sed 's/^/* /'
