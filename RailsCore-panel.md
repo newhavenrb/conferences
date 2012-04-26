@@ -1,10 +1,19 @@
-Who: @tenderlove, @wycats, @jimweirich, @spastorino
+**Presenters:** RailsCore members:
+
+* Aaron Patterson ([@tenderlove](http://twitter.com/tenderlove))
+* Yehuda Katz ([@wycats](http://twitter.co/wycats))
+* Jim Weirich ([@jimweirich](http://twitter.com/jimweirich))
+* S. Pastorino ([@spastorino](http://twitter.com/spastorino)) TODO full name
+
+## Summary
+
+A panel of RailsCore members took questions about Rails and its future.
 
 ## Quotes
 
-* "Fuck you if you use `unless` / `else`" - Evan
-* "GitHub needs an issue bankruptcy button." - Evan
-* "Failure of leadership"
+* "Fuck you if you use `unless` / `else`" - Evan Pheonix
+* "GitHub needs an issue bankruptcy button." - Evan Pheonix
+* "Failure of leadership!" - Some guy in the audience TODO name
 
 ## Notes
 
