@@ -17,4 +17,5 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Jared Ning](http://redningja.com/)
+* [Click-to-advance QuickTime movie (AKA slides)](http://code-ningja.posterous.com/railsconf-2012-minitest-slides)
