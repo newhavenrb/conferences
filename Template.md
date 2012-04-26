@@ -1,8 +1,8 @@
-**Presenter:** Twitter handle, real name, etc
+**Presenter:** Real name, @twitter\_username
 
 ## Bio
 
-> What it says about this talk on the [RailsConf Program](http://railsconf2012.com/sessions)
+> What it says about this person on the [RailsConf Program](http://railsconf2012.com/sessions)
 
 ## Abstract
 
