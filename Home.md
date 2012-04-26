@@ -80,7 +80,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[Basecamp Next: Code Spelunking]] (Nick Quaranto, 11:30 am, Salon J)
 * [[Chanko How Cookpad safely releases multiple feature prototypes in production for test segments of their 15 million engaged users]] (Kenta Murata, 11:30 am, Salon H)
 * (TODO needs notes/slides) [[Complex Made Simple: Sleep Better with TorqueBox]] (Lance Ball, 1:30 pm, Salon H)
-* (TODO needs notes/slides) [[MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1]] (Jared Ning, 1:30 pm, Salon J)
+* (TODO needs notes) [[MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1]] (Jared Ning, 1:30 pm, Salon J)
 * [[Lightning Talks]] (Dr Nic Williams, 1:30 pm, Salon K)
 * (TODO needs notes/slides) [[Testing Best Practices, or The Five Habits of Highly Effective Tests]] (Noel Rappin, 2:30 pm, Room 616)
 * (TODO needs notes/slides) [[Deconstructing Travis]] (Josh Kalderimis, 2:30 pm, Salon H)
