@@ -121,3 +121,4 @@
 * We use submodules, and run into similar synchronization issues (small hassle) @jamesgary
 * I liked the Engine vs Services, good questions to have before building something @jamesgary
 * Criticism I heard from some NZ devs was that GEM_PATH (gempath? It was verbal and I'm not sure) would have solved most of the problems dealt with in the presentation via symlinks and repository wrangling. @benwbrum
+  * When developing engines locally, we set `:path => '../local_engine_directory'` in our Gemfile (see towards the bottom of [http://gembundler.com/gemfile.html](http://gembundler.com/gemfile.html) ). This local change is never committed, and can be reverted to a standard gem dependency when the engine isn't under development.
