@@ -62,7 +62,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[Digging Deep with ActiveSupport::Notifications]] (Matt Sanders, 2:30 pm)
 * [[Sustainable Productivity with Rails]] (Xavier Shay, 2:30 pm)
 * (TODO needs notes/slides) [[How to Find Valuable Gems]] (Nathaniel Bibler, 3:00 pm)
-* (TODO needs notes/slides) [[Stack Smashing]] (David Czarnecki, 4:00 pm)
+* (TODO needs notes) [[Stack Smashing]] (David Czarnecki, 4:00 pm)
 * [[Securing the Rails]] (Aaron Bedra, 4:00 pm)
 * [[Using Rails without Rails]] (Piotr Sarnacki, 4:00 pm)
 * (TODO needs notes/slides) [[Zero downtime deploys for Rails apps]] (Pedro Belo, 4:00 pm)
