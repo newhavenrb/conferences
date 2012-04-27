@@ -18,7 +18,7 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 
 #### Easy
 
-* **Pass the word along!**  The more eyes and contributors, the better.  Examples:  tweet, blog, email, tell a coworker.
+* **Pass the word along!**  The more eyes and contributors, the better.  Examples:  tweet, blog, email, tell a coworker, tell a Ruby podcast/blog.
 * **Click the "watch" button.**  It's a little like saying "thank you" in GitHub-ese.  :)
 * **Read wiki pages you're interested in.**  Fixing typos, awkward/confusing wording comes naturally.
 * **Check spelling.**  We have some problems with spelling.  Many of these notes were written quickly without a spell checker (e.g., in `vim` without having done `:set spell`).  The programs `aspell` and `ispell` might be useful also.
