@@ -309,6 +309,7 @@ require 'sidekid/capistrano'
 * `tenderlove.dup` - [_@jremsikjr_](http://twitter.com/jremsikjr)
     * Wants to get more RailsCore fulltimers by working together with other shops
 * Json + Webworkers = win! - _John Krueger_
+    * [Code](https://github.com/jtmkrueger/webworker_demo)
 * [iwanttolearnruby.com](http://iwanttolearnruby.com) OSS - _Amanda Wagener_  [_@a_wagener_](http://twitter.com/a_wagener)
     * [Code on GitHub](https://github.com/awagener/iwanttolearnruby)
 * Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
