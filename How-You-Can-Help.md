@@ -31,7 +31,6 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 * **Contribute missing notes.**  Talks missing notes are marked with "TODO" on the [[index|Home]].
 * **Add notes you've taken yourself.**  Please add a section (`### From @username`) if you're adding a large block of notes to help reduce merge conflicts, or just integrate with the existing notes.
 * **Improve a talk summary.**  A summary writting by one person might not be entirely accurate.
-* **Find more notes.**  Search for "railsconf" or "railsconf2012" on GitHub (or even Google for blog posts) for people who may be interested in contributing.  Keep in mind that they need to be fine licensing their  work under the Creative Commons license that we use.
 * **Look for TODOs.**  Search for "TODO", "FIXME" in the wiki pages for (simple) tasks.
 
 This is a generated list of files with "TODO" or "FIXME".  See `script/list-todos`.
@@ -61,6 +60,7 @@ As of 2012-04-26:
 
 * **Write a talk summary.**  Some of the abstracts are a bit long, and sometimes not entirely accurate.  Having 3-4 sentences/bullets to summarize would be nice.  Also, see the [[template]].
 * **Work toward a single layout.**  Adjust existing notes to fit the suggested [[template]], if it makes sense to do so.
+* **Find more notes.**  Search for "railsconf" or "railsconf2012" on GitHub (or even Google for blog posts) for people who may be interested in contributing.  Keep in mind that they need to be fine licensing their  work under the Creative Commons license that we use.
 
 #### Hard
 
