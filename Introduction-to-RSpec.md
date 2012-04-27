@@ -13,4 +13,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://speakerdeck.com/u/l4rk/p/introduction-to-rspec)
