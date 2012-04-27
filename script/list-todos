@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 # List TODOs for the "How you can help" page
 
+echo '<!-- begin `script/list-todos` -->'
+echo
+echo "As of $(date +'%Y-%m-%d'):"
+echo
+
 grep -ril -P '(TODO|FIXME)' *.md |
   # More human readable, but still compatible with `gollum`
   sed 's/-/ /g' |
@@ -8,3 +13,6 @@ grep -ril -P '(TODO|FIXME)' *.md |
   sed 's/\.md$//g' |
   # Markdown-ize
   sed 's/^\(.*\)$/* [[\1]]/g'
+
+echo
+echo '<!-- end `script/list-todos` -->'
