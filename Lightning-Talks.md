@@ -312,7 +312,8 @@ require 'sidekid/capistrano'
 * [iwanttolearnruby.com](http://iwanttolearnruby.com) OSS - _Amanda Wagener_  [_@a_wagener_](http://twitter.com/a_wagener)
     * [Code on GitHub](https://github.com/awagener/iwanttolearnruby)
 * Open Source Dev Model on Private Teams (via pull requests) - [_@marksim_](http://twitter.com/marksim)
-   * make your private team a distributed set of code reviewers
+   * [Slides](http://speakerdeck.com/u/marksim/p/what-private-teams-can-learn-from-open-source)
+   * Make your private team a distributed set of code reviewers
 * sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
     * TODO link to github
 * Modeling on Rails - [_Akira Matsuda_](http://twitter.com/a_matsuda)
