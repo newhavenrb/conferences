@@ -20,7 +20,7 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 
 * **Pass the word along!**  The more eyes and contributors, the better.  Examples:  tweet, blog, email, tell a coworker.
 * **Click the "watch" button.**  It's a little like saying "thank you" in GitHub-ese.  :)
-* **Read the notes.**  Fixing typos, awkward/confusing wording comes naturally.
+* **Read wiki pages you're interested in.**  Fixing typos, awkward/confusing wording comes naturally.
 * **Check spelling.**  We have some problems with spelling.  Many of these notes were written quickly without a spell checker (e.g., in `vim` without having done `:set spell`).  The programs `aspell` and `ispell` might be useful also.
 * **Fix formatting.**  Know Markdown?  A lot of this wiki was written offline, so some of the formatting doesn't look right on the web.  It'll be obvious when you see it.  :)
 
