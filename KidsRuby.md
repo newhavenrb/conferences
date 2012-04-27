@@ -8,11 +8,10 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+* [Ron Evans](http://twitter.com/deadprogram) taught a session with [Kidsruby](https://github.com/hybridgroup/kidsruby) and turtle graphics
+* A local high school taught a class using [Scratch](http://scratch.mit.edu/), a visual programming language
+* Rich Kilmer talked to high school students about domain modeling, and the importance of modeling for your target domain, rather than exposing programming design artifacts.
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [kidsruby](http://kidsruby.com/)
