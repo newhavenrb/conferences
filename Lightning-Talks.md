@@ -104,7 +104,7 @@ ruby demo
 # in Rails 3 app
 require 'sidekid/capistrano'
 ```
-* modeling on Rails using "erd" gem - @a_matsuda
+* modeling on Rails using ["erd" gem](https://rubygems.org/gems/erd) - @a_matsuda
   * ERD for eclipse & visual studio
   * Most everyone uses vim or emacs
   * Rails dev tools are optimized for CLI
