@@ -107,6 +107,4 @@ Next RailsConf is in May in Portland, OR.
 * [RailsConf 2012 Community Events](http://railsconf.austinonrails.org/) ([source code](https://github.com/austinonrails/railsconf))
     * [RailsConf 2012 Party Registration](http://railsconf2012party.eventbrite.com/)
     * [Ignite RailsConf Registration](http://ignite-railsconf2012.eventbrite.com/)
-* [Confreaks](http://confreaks.com/events) ([confirmation](http://blog.confreaks.net/2012/02/what-is-pending-in-the-queue/)) - RailsConf isn't typically included, but it's not an O'Reilly event this time.
-
-<!-- TODO: change to http://confreaks.com/events/railsconf2012 (or the appropriate URL) once videos are posted -->
+* [Confreaks](http://www.confreaks.com/events/railsconf2012) - RailsConf isn't typically included, but it's not an O'Reilly event this time.
