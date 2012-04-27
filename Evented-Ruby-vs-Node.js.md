@@ -56,6 +56,6 @@
 
 ## External Links
 
-* [Slides](https://github.com/jch/railsconf2012)
+* [Slides](https://github.com/jch/railsconf2012) (or [as PDF](http://speakerdeck.com/u/jch/p/evented-ruby-vs-nodejs))
 * [His Twitter](http://www.twitter.com/whatcodecraves)
 * [node.js](http://nodejs.org/)
