@@ -73,6 +73,7 @@
 
 ## External Links
 
+* [Slides](http://speakerdeck.com/u/cwabbott/p/rororoomba-ruby-on-rails-on-roomba-railsconf-2012)
 * [Ruby Arduino Development](http://rad.rubyforge.org/)
 * [Simon Stevin](http://en.wikipedia.org/wiki/Simon_Stevin)
 * [tokyorails/rrroomba](http://github.com/tokyorails/rrroomba)
