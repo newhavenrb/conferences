@@ -13,4 +13,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* TODO [Slides](http://www.example.com/)
