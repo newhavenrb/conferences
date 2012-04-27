@@ -3,7 +3,7 @@ A crowd-sourced RailsConf wiki!  Working together is better.  :)
 ## "Let's make this the most public RailsConf ever!"
 
 * This is like Wikipedia, but for RailsConf.
-* Internet access generally sucks at events like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
+* Internet access generally sucks at conferences like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
 * It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
 
 ## [[We Need Your Help|How you can help]]
