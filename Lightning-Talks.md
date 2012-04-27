@@ -104,19 +104,22 @@ ruby demo
 # in Rails 3 app
 require 'sidekid/capistrano'
 ```
-* DB modeling on Rails using erd
-  * UML for eclipse & visual studio
+* modeling on Rails using "erd" gem - @a_matsuda
+  * ERD for eclipse & visual studio
   * Most everyone uses vim or emacs
+  * Rails dev tools are optimized for CLI
+  * Rails has generator and migration
   * Visualizing Rails DB
     * Most just use a whiteboard
     * pdf generation
       * rails-erd and railroad
       * Too static
   * erd (made during Railsconf)
-    * require it
+    * bundle 'erd' gem
     * and go to localhost:3000/erd
-    * Can change table names dynamically and create migration files for you
+    * Can dynamically edit DB schema (change table names, change column types, etc) and create migration files for you
     * easy!
+    * https://github.com/amatsuda/erd
 * Jonathan Wallace - row
   * Instead of trading time for money, trade results for money
 * Interviewing sucks @micahjgates @canweriotnow
