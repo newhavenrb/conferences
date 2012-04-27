@@ -140,7 +140,7 @@ From [here](http://railsconf.austinonrails.org/ignite).
 * We have a lot of metrics, but most only analyze snapshots
 * eazyBI: Multidimensional Analysis
 * Measuring by Dimensions, measures, Time
-* easyBI.com/help/git
+* http://easyBI.com/help/git
 * **Kinda silly, fun look at how RoR commiters commit. Might be entertaining to check out**
 
 ## [Chris Holland](http://twitter.com/slamgauge) - Synth Geek
