@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# List TODOs for the "How you can help" page
+
+grep -ril -P '(TODO|FIXME)' *.md |
+  # More human readable, but still compatible with `gollum`
+  sed 's/-/ /g' |
+  # Remove extension
+  sed 's/\.md$//g' |
+  # Markdown-ize
+  sed 's/^\(.*\)$/* [[\1]]/g'
