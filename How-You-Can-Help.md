@@ -27,6 +27,7 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 #### Medium
 
 * **Add links.**  One of our goals is to have a comprehensive list of links to slides, gems, related sites, videos, etc.
+    * **For videos,** please see [RailsConf 2012 on Confreaks](http://www.confreaks.com/events/railsconf2012).
 * **Start a discussion.**  Anything relating to the talk is fair game.  One example of this is [[the DHH keynote|David Heinemeier Hansson Keynote]].  Also, see the [[template]].
 * **Contribute missing notes.**  Talks missing notes are marked with "TODO" on the [[index|Home]].
 * **Add notes you've taken yourself.**  Please add a section (`### From @username`) if you're adding a large block of notes to help reduce merge conflicts, or just integrate with the existing notes.
