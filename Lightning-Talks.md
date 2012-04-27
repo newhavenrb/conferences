@@ -360,4 +360,4 @@ require 'sidekid/capistrano'
 
 ## External Links
 
-* [Speakers](https://gist.github.com/2491946)
+* [Speakers Gist](https://gist.github.com/2491946)
