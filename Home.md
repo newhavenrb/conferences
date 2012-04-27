@@ -8,7 +8,7 @@ A crowd-sourced RailsConf wiki!  Working together is better.  :)
 
 ## [[We Need Your Help|How you can help]]
 
-If you like the idea of a RailsConf wiki, please consider [[helping us|How you can help]]!  It can be as simple as sharing a link for the wiki (e.g., on Twitter), fixing a typo you happen to find, or [[any of our other ideas|How you can help]].
+If you like the idea of a RailsConf wiki, please consider [[helping us|How you can help]]!  It can be as simple as **sharing a link for the wiki** (e.g., on Twitter), fixing a typo you happen to find, or [[any of our other ideas|How you can help]].
 
 ## Talks
 
