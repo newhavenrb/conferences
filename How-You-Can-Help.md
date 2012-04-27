@@ -34,6 +34,30 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 * **Find more notes.**  Search for "railsconf" or "railsconf2012" on GitHub (or even Google for blog posts) for people who may be interested in contributing.  Keep in mind that they need to be fine licensing their  work under the Creative Commons license that we use.
 * **Look for TODOs.**  Search for "TODO", "FIXME" in the wiki pages for (simple) tasks.
 
+This is a generated list of files with "TODO" or "FIXME".  See `script/list-todos`.
+
+<!-- begin `script/list-todos` -->
+
+As of 2012-04-26:
+
+* [[Basecamp Next: Code Spelunking]]
+* [[CoffeeScript for the Rubyist]]
+* [[Home]]
+* [[How you can help]]
+* [[Its Not in Production Unless its Monitored]]
+* [[Lightning Talks]]
+* [[Practical Machine Learning and Rails]]
+* [[RailsCore panel]]
+* [[Rich Hickey Keynote]]
+* [[Ruby Rogues Live Keynote]]
+* [[Semi Automatic Code Review]]
+* [[Taming the Kraken How Operations enables developer productivity]]
+* [[Ten Things You Didn't Know Rails Could Do]]
+* [[Using Rails without Rails]]
+* [[software]]
+
+<!-- end `script/list-todos` -->
+
 #### Medium-Hard
 
 * **Write a talk summary.**  Some of the abstracts are a bit long, and sometimes not entirely accurate.  Having 3-4 sentences/bullets to summarize would be nice.  Also, see the [[template]].
