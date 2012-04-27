@@ -27,7 +27,7 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 #### Medium
 
 * **Add links.**  One of our goals is to have a comprehensive list of links to slides, gems, related sites, videos, etc.
-    * **For slides,** some are on [Speaker Deck searching for "railsconf"](http://speakerdeck.com/search?q=railsconf), but aren't categorized too well.  Others only show up in a [Twitter search](https://twitter.com/#!/search/%23RailsConf%20slides).
+    * **For slides,** some are on [Speaker Deck searching for "railsconf"](http://speakerdeck.com/search?q=railsconf), but aren't categorized too well.  Others only show up in a [Twitter search](https://twitter.com/#!/search/%23RailsConf%20slides).  There might be more on [SpeakerRate](http://speakerrate.com/talks/9580-taming-the-kraken-how-operations-enables-developer-productivity) too.
     * **For videos,** please see [RailsConf 2012 on Confreaks](http://www.confreaks.com/events/railsconf2012).
 * **Start a discussion.**  Anything relating to the talk is fair game.  One example of this is [[the DHH keynote|David Heinemeier Hansson Keynote]].  Also, see the [[template]].
 * **Contribute missing notes.**  Talks missing notes are marked with "TODO" on the [[index|Home]].
