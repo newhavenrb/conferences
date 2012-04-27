@@ -6,9 +6,11 @@ echo
 echo "As of $(date +'%Y-%m-%d'):"
 echo
 
-grep -ril -P '(TODO|FIXME)' *.md |
+grep --recursive --ignore-case --files-with-matches --perl-regexp '(TODO|FIXME)' *.md |
   # More human readable, but still compatible with `gollum`
   sed 's/-/ /g' |
+  # Don't include "How you can help"
+  grep --invert-match --ignore-case 'How you can help' |
   # Remove extension
   sed 's/\.md$//g' |
   # Markdown-ize

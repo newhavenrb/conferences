@@ -43,7 +43,6 @@ As of 2012-04-26:
 * [[Basecamp Next: Code Spelunking]]
 * [[CoffeeScript for the Rubyist]]
 * [[Home]]
-* [[How you can help]]
 * [[Its Not in Production Unless its Monitored]]
 * [[Lightning Talks]]
 * [[Practical Machine Learning and Rails]]
