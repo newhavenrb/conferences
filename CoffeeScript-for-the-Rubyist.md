@@ -50,7 +50,7 @@
 
 ## External Links
 
-* Slides (TODO, but he said he'd post them)
+* [Slides](http://www.slideshare.net/markykang/coffeescript-for-the-rubyist)
 * [Mark Bates' site](http://www.markbates.com/)
     * [His Twitter](http://twitter.com/markbates)
     * [Books](http://metabates.com/books.html)
