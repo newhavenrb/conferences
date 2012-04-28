@@ -120,7 +120,7 @@ require 'sidekid/capistrano'
     * Can dynamically edit DB schema (change table names, change column types, etc) and create migration files for you
     * easy!
     * https://github.com/amatsuda/erd
-* Jonathan Wallace - row
+* Jonathan Wallace - ROWE
   * Instead of trading time for money, trade results for money
 * Interviewing sucks @micahjgates @canweriotnow
   * http://github.com/ruby-jokes/job_interview
