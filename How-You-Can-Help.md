@@ -67,6 +67,8 @@ As of 2012-04-26:
 #### Hard
 
 * **Combine notes.**  Many talks had notes taken by multiple people.  It would make sense to merge them.  This shouldn't be too bad, but will require more thought than the above tasks.
+* **Categorize pages.**  There's not a built in category system like in MediaWiki, so this might need some thought.  See below.
+    * Category pages with links to pages within that category might be all we need.  Picking categories would be all that's left. - _@benjaminoakes_
 * **Make a single "Ruby conference" wiki.**  This would need some discussion.  See below.
     * I wrote some notes for RubyConf and RailsConf in 2011, which was how this wiki was originally created.  :)  It might make sense to rename this wiki, move the content here (from anyone who will allow it), and have it all in one place. - _@benjaminoakes_
 
