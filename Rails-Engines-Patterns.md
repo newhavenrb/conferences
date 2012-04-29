@@ -114,7 +114,8 @@
 
 ## External Links
 
-* [Slides](http://www.slideshare.net/AndyMaleh/rails-engine-patterns)
+* [His blog post](http://andymaleh.blogspot.com/2012/04/railsconf-2012-my-talk-slides.html)
+    * [Slides](http://www.slideshare.net/AndyMaleh/rails-engine-patterns)
 
 ## Discussion
 
