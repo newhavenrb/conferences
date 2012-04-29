@@ -2,4 +2,4 @@
 
 <!-- Google Anaytics Tracking for newhaven.rb account.  Interested in the results?  Contact @newhavenrb on Twitter. -->
 <!-- GitHub (understandably) doesn't allow `<script>` tags, so this is about the best we can do. -->
-<img src="/ga.php?utmac=UA-25562138-3&amp;utmn=887708452&amp;utmr=-&amp;guid=ON" />t
+<img src="http://www.google-analytics.com/__utm.gif?utmac=UA-25562138-3&amp;utmn=887708452&amp;utmr=-&amp;guid=ON" />
