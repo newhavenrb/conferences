@@ -67,5 +67,5 @@
 
 ## External Links
 
-* [Slides on SpeakerDeck](http://speakerdeck.com/u/dazuma/p/getting-down-to-earth-geospatial-analysis-with-rails)
+* [Slides](http://speakerdeck.com/u/dazuma/p/getting-down-to-earth-geospatial-analysis-with-rails)
 * [Other links and resources on Daniel's Blog](http://daniel-azuma.com/railsconf2012)
