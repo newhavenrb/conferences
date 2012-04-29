@@ -5,10 +5,10 @@ names=`git log --format='%aN' | sort -u`
 count=`echo "$names" | wc -l | sed 's/ //g'`
 bullets=`echo "$names" | sed 's/^/* /'`
 
-echo '<!-- begin `script/list-todos` -->'
+echo "<!-- begin \`$0\` -->"
 echo
 echo "Contributor count: $count"
 echo
 echo "$bullets"
 echo
-echo '<!-- end `script/list-todos` -->'
+echo "<!-- end \`$0\` -->"

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # List TODOs for the "How you can help" page
 
-echo '<!-- begin `script/list-todos` -->'
+echo "<!-- begin \`$0\` -->"
 echo
 echo "As of $(date +'%Y-%m-%d'):"
 echo
@@ -17,4 +17,4 @@ grep --recursive --ignore-case --files-with-matches --perl-regexp '(TODO|FIXME)'
   sed 's/^\(.*\)$/* [[\1]]/g'
 
 echo
-echo '<!-- end `script/list-todos` -->'
+echo "<!-- end \`$0\` -->"
