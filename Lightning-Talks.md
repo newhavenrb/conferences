@@ -318,6 +318,7 @@ require 'sidekid/capistrano'
 * sidekiq (distributed message queue) - [_@jwo_](http://twitter.com/jwo)
     * TODO link to github
 * Modeling on Rails - [_Akira Matsuda_](http://twitter.com/a_matsuda)
+    * [Slides](http://speakerdeck.com/u/a_matsuda/p/modeling-on-rails)
     * Modeling via web interface; can generate migrations
 * What it means to be ROWE(awesome) - [_@jonathonwallace_](http://twitter.com/jonathonwallace)
     * Just get done with goals for a week, not 40 hrs.
