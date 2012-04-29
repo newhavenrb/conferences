@@ -65,6 +65,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * (TODO needs notes) [[Stack Smashing]] (David Czarnecki, 4:00 pm)
 * [[Securing the Rails]] (Aaron Bedra, 4:00 pm)
 * [[Using Rails without Rails]] (Piotr Sarnacki, 4:00 pm)
+* (TODO needs notes) [[Using XMPP as an Asynchronous Communication Layer Between Ruby and JavaScript]]  (Andrew Carter and Steve Jang, 4:00 pm)
 * (TODO needs notes/slides) [[Zero downtime deploys for Rails apps]] (Pedro Belo, 4:00 pm)
 * (TODO needs notes/slides) [[Powerful Interfaces]] (Caike Souza, 4:30 pm)
 * [[RailsCore panel]] (RailsCore, 5:00 pm)
