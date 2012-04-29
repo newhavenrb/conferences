@@ -51,6 +51,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[Presenters and Decorators: A Code Tour]] (Mike Moore, 10:30 am)
 * (TODO needs notes/slides) [[Rails for Zombies 2 (AKA Intro to Rails Part 2)]] (Gregg Pollack, 10:30 am)
 * (TODO needs notes/slides) [[Patella: It's Memoization into Memcached calculated in the background with Resque.]] (Jeff Dwyer, 10:30 am)
+* [[Preparing for Rapid Growth - Tips for Enabling Your Rails App and Team to Grow Quickly]] (Patrick Leonard, 10:30 am)
 * [[Semi Automatic Code Review]] (Richard Huang, 11:30 am)
 * [[Sand Piles and Software]] (Zach Dennis, 11:30 am)
 * [[Let's make the web faster tips from trenches @ Google]] (Ilya Grigorik, 11:30 am)
