@@ -53,4 +53,4 @@ Top - 2 - Hide AR::Base classes from controller
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://speakerdeck.com/u/caike/p/powerful-interfaces)
