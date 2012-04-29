@@ -217,12 +217,6 @@ etc. As you do this, speak up at http://parlay.rubyrogues.com.
   * We need to keep up our momentum
   * Companies need to be able to find Rails developers
 
-## External Links
-
-* [Ruby Rogues, group for reaching out to other communities](http://parlay.rubyrogues.com)
-* Podcast episode TODO
-* Video TODO
-
 ## Q&A
 
 * What about Rich Hickey's comments, about simplicity? Wouldn't that
@@ -297,3 +291,11 @@ JS: Ruby seems better at the FP/OO blend than JavaScript does.
 
 AG: GOOSGBT talks about this blend - method internals are functional,
 and the interface is more about mutable state.
+
+## External Links
+
+* Slides
+    * [Josh Susser's](http://speakerdeck.com/u/joshsusser/p/ruby-rogues-live)
+* [Ruby Rogues, group for reaching out to other communities](http://parlay.rubyrogues.com)
+* Podcast episode TODO
+* Video TODO
