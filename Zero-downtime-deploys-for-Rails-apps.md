@@ -21,4 +21,5 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](http://www.slideshare.net/pedrobelo/zero-downtime-deploys-for-rails-apps)
+* [Presenter's Twitter](http://twitter.com/ped)

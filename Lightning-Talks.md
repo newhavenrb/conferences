@@ -321,12 +321,14 @@ require 'sidekid/capistrano'
     * [Slides](http://speakerdeck.com/u/a_matsuda/p/modeling-on-rails)
     * Modeling via web interface; can generate migrations
 * What it means to be ROWE(awesome) - [_@jonathonwallace_](http://twitter.com/jonathonwallace)
+    * [Slides](http://speakerdeck.com/u/jwallace/p/what-it-means-to-be-roweawesome) (not used)
     * Just get done with goals for a week, not 40 hrs.
 * JOB INTERVIEW - THE GEMS - [M GATES](http://twitter.com/micahjgates) + [J LEWIS](http://twitter.com/canweriotnow)
     * [Slides](http://ruby-jokes.github.com/job_interview/pres.html)
     * `require 'job_interview`: `foo.fizz_buzz`
     * [`job_interview` gem](http://rubygems.org/gems/job_interview)
 * 1 min, 1 year of hacking on open source - [_@gregbell_](http://twitter.com/gregbell)
+    * [Slides](http://speakerdeck.com/u/gregbell/p/7-lessons-learned-from-running-an-open-source-project)
 * Integration testing engines - _Ryan Bigg_
     * Routes belong in the engine
     * Example: `visit spree.products_path`
