@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Pull and push to the "wiki" and "code" repos.
+#
+# This depends on remotes being set up appropriately using `git remote`.
+
+# For wiki repo:
+git pull &&
+  git push &&
+  # For code repo:
+  git pull code master &&
+  git push code master &&
+  # If we merged a pull request, we need to push again.
+  git pull &&
+  git push
