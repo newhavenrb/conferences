@@ -1,4 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a> Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 <!-- Google Anaytics Tracking for newhaven.rb account.  Interested in the results?  Contact @newhavenrb on Twitter. -->
-<script src="https://ssl.google-analytics.com/ga.js"></script>
+<!-- GitHub (understandably) doesn't allow `<script>` tags, so this is about the best we can do. -->
+<img src="/ga.php?utmac=UA-25562138-3&amp;utmn=887708452&amp;utmr=-&amp;guid=ON" />t
