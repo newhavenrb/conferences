@@ -22,7 +22,7 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
 * **Click the "watch" button.**  It's a little like saying "thank you" in GitHub-ese.  :)
 * **Read wiki pages you're interested in.**  Fixing typos, awkward/confusing wording comes naturally.
 * **Check spelling.**  We have some problems with spelling.  Many of these notes were written quickly without a spell checker.  Useful tools:
-    * Most browsers have a spell checker, but you might have to do something to show misspelled words.  (For example, in Chrome right click -> Spelling and Grammar -> Show Spelling and Grammar.)
+    * Most modern browsers have a spell checker, but you might have to do something to show misspelled words.  (For example, in Chrome right click -> Spelling and Grammar -> Show Spelling and Grammar.)
     * `vim`: turn on the spell checker with `:set spell`
     * `emacs`: a quick search brought up the [Checking and Correcting Spelling manual entry](http://www.gnu.org/software/emacs/manual/html_node/emacs/Spelling.html)
     * TextMate: turn on the spell checker via Edit -> Spelling -> Check Spelling as You Type (or opt-cmd-;)
