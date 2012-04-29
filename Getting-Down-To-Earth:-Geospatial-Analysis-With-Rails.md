@@ -68,4 +68,7 @@
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/dazuma/p/getting-down-to-earth-geospatial-analysis-with-rails)
-* [Other links and resources on Daniel's Blog](http://daniel-azuma.com/railsconf2012)
+* On Daniel's blog
+    * [Geo-Rails part 1: A Call To Revolution](http://www.daniel-azuma.com/blog/archives/60)
+    * [Geo-Rails part 2: Setting Up a Geospatial Rails App](http://www.daniel-azuma.com/blog/archives/69)
+    * [Other links and resources](http://daniel-azuma.com/railsconf2012)
