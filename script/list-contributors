@@ -1,2 +1,14 @@
 #!/usr/bin/env bash
-git log --format='%aN' | sort -u | sed 's/^/* /'
+# List contributor names for the README.
+
+names=`git log --format='%aN' | sort -u`
+count=`echo "$names" | wc -l | sed 's/ //g'`
+bullets=`echo "$names" | sed 's/^/* /'`
+
+echo '<!-- begin `script/list-todos` -->'
+echo
+echo "Contributor count: $count"
+echo
+echo "$bullets"
+echo
+echo '<!-- end `script/list-todos` -->'
