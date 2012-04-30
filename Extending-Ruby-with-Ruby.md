@@ -41,6 +41,8 @@ List(1, 2, 3).reduce(_ + _ * 2)
 
 ### Lazy Evaluation
 
+Haskell doesn't evaluate functions until their results are needed.  He makes a `Lazy` class for Ruby to do this same type of thing.
+
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/michaelfairley/p/extending-ruby-with-ruby) (has speaker notes)
