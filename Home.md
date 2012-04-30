@@ -88,7 +88,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[Lightning Talks]] (Dr Nic Williams, 1:30 pm)
 * (TODO needs notes) [[Testing Best Practices, or The Five Habits of Highly Effective Tests]] (Noel Rappin, 2:30 pm)
 * (TODO needs notes/slides) [[Deconstructing Travis]] (Josh Kalderimis, 2:30 pm)
-* (TODO needs slides) [[Extending Ruby with Ruby]] (Michael Fairley, 2:30 pm)
+* [[Extending Ruby with Ruby]] (Michael Fairley, 2:30 pm)
 * (TODO needs notes) [[Introduction to RSpec]] (Jon "Lark" Larkowski, 3:00 pm)
 
 Next RailsConf is in May in Portland, OR.
