@@ -12,7 +12,7 @@
 
 ## Notes
 
-### `method_decorators`
+### Method Decorators
 
 Like function decorators (`@memoize`) in Python.  Example from the [README](https://github.com/michaelfairley/method_decorators):
 
@@ -30,6 +30,16 @@ class Math
   end
 end
 ```
+
+### Partial Application
+
+An attempt at adding Scala-like syntax to Ruby.  Example in Scala:
+
+```scala
+List(1, 2, 3).reduce(_ + _ * 2)
+```
+
+### Lazy Evaluation
 
 ## External Links
 
