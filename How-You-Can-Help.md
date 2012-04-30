@@ -85,6 +85,6 @@ As of 2012-04-26:
 ### For newhaven.rb Organization Members
 
 * **Merge pull requests.**  If there are any, we need to at least get back to the contributor with a comment.
-* **Update the "code" repository.**  Conceptually, as simple as `git pull wiki && git push code master`.  We may want to automate this.
+* **Update the "code" repository.**  `script/update`.  We may want to automate this.
 * **Add analytics.**  Figure out if we can use our existing Google Analytics account with this wiki (e.g. via `_Footer.md`).  GitHub doesn't provide great analytics on a page-by-page level.
     * Our options seem limited.  See ["Add Google Analytics to Github wiki pages"](http://stackoverflow.com/questions/4376560/add-google-analytics-to-github-wiki-pages).  - _@benjaminoakes_
