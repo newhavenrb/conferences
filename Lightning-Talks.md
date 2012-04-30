@@ -322,6 +322,7 @@ require 'sidekid/capistrano'
     * Modeling via web interface; can generate migrations
 * What it means to be ROWE(awesome) - [_@jonathonwallace_](http://twitter.com/jonathonwallace)
     * [Slides](http://speakerdeck.com/u/jwallace/p/what-it-means-to-be-roweawesome) (not used)
+    * [Video](http://vimeo.com/41167689)
     * Just get done with goals for a week, not 40 hrs.
 * JOB INTERVIEW - THE GEMS - [M GATES](http://twitter.com/micahjgates) + [J LEWIS](http://twitter.com/canweriotnow)
     * [Slides](http://ruby-jokes.github.com/job_interview/pres.html)
