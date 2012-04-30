@@ -14,7 +14,7 @@
 
 ### `method_decorators`
 
-Example from the [README](https://github.com/michaelfairley/method_decorators):
+Like function decorators (`@memoize`) in Python.  Example from the [README](https://github.com/michaelfairley/method_decorators):
 
 ```ruby
 class Math
@@ -34,4 +34,6 @@ end
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/michaelfairley/p/extending-ruby-with-ruby) (has speaker notes)
-* [`method_decorators`](https://github.com/michaelfairley/method_decorators)
+* `method_decorators`
+    * [Code on GitHub](https://github.com/michaelfairley/method_decorators)
+    * [RubyGem](https://rubygems.org/gems/method_decorators)
