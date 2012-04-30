@@ -12,11 +12,26 @@
 
 ## Notes
 
-* This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
-* If you're interested in the generator code, see the "generator" directory.
-* This layout is just a suggestion.
-* Bullet points might work well.  Paragraphs too.  Up to you.  :)
+### `method_decorators`
+
+Example:
+
+```ruby
+class Math
+  extend MethodDecorators
+
+  +Memoized
+  def fib(n)
+    if n <= 1
+      1
+    else
+      fib(n - 1) * fib(n - 2)
+    end
+  end
+end
+```
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* Slides TODO
+* [`method_decorators`](https://github.com/michaelfairley/method_decorators)
