@@ -28,4 +28,4 @@
 
 ## External Links
 
-* [Some related website](http://www.example.com/)
+* [Slides](https://github.com/obie/redis_on_rails/blob/master/doc/RC2012.pdf?raw=true)
