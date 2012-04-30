@@ -14,7 +14,7 @@
 
 ### `method_decorators`
 
-Example:
+Example from the [README](https://github.com/michaelfairley/method_decorators):
 
 ```ruby
 class Math
