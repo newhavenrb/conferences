@@ -33,5 +33,5 @@ end
 
 ## External Links
 
-* [Slides](http://speakerdeck.com/u/michaelfairley/p/extending-ruby-with-ruby)
+* [Slides](http://speakerdeck.com/u/michaelfairley/p/extending-ruby-with-ruby) (has speaker notes)
 * [`method_decorators`](https://github.com/michaelfairley/method_decorators)
