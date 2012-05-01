@@ -9,7 +9,7 @@ This is a RailsConf Markdown generator.  It uses the official JSON.
 
 ## Usage
 
-Check `rake --tasks`.  At least these two are of interest:
+Check `rake --tasks`.  At least these are of interest:
 
     rake clean     # Clean up generated files
     rake generate  # Generate Markdown files in "output"
