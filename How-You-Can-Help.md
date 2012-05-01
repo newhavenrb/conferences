@@ -39,6 +39,7 @@ If you feel like you need to coordinate on a task, consider adding a bullet poin
         * [SpeakerRate](http://speakerrate.com/talks/9580-taming-the-kraken-how-operations-enables-developer-productivity)  (maybe some we don't have)
         * [Lanyrd](http://lanyrd.com/2012/railsconf/)
     * **For videos,** please see [RailsConf 2012 on Confreaks](http://www.confreaks.com/events/railsconf2012).
+    * **For Twitter accounts,** Mario Zaizar was nice enough to make [a list](https://twitter.com/#!/MarioZaizar/railsconf-2012).
 * **Start a discussion.**  Anything relating to the talk is fair game.  One example of this is [[the DHH keynote|David Heinemeier Hansson Keynote]].  Also, see the [[template]].
 * **Contribute missing notes.**  Talks missing notes are marked with "TODO" on the [[index|Home]].
 * **Add notes you've taken yourself.**  Please add a section (`### From @username`) if you're adding a large block of notes to help reduce merge conflicts, or just integrate with the existing notes.
