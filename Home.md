@@ -105,6 +105,11 @@ If you're looking for just one thing to do, here are some simple ideas:
 
 Next RailsConf is in May in Portland, OR.
 
+## Speakers on Twitter
+
+#### [Full speakers list](_Speakers-On-Twitter.md)  
+It includes Twitter username and bio, or you can just follow the [list](http://goo.gl/2x3jl).
+
 ## See Also
 
 * RailsConf 2011 Notes
