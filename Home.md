@@ -10,6 +10,15 @@ A crowd-sourced RailsConf wiki!  Working together is better.  :)
 
 If you like the idea of a RailsConf wiki, please consider [[helping us|How you can help]]!  It can be *as simple as sharing a link for the wiki* (e.g., on Twitter), fixing a typo you happen to find, or [[any of our other ideas|How you can help]].
 
+### Priorities
+
+If you're looking for just one thing to do, here are some simple ideas:
+
+* Share a link to this wiki
+* Add [video links](http://www.confreaks.com/events/railsconf2012)
+* Write summaries
+* Anything you feel makes an improvement  :)
+
 ## Talks
 
 ## Sunday 2012-04-22
