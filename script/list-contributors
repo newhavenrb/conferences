@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # List contributor names for the README.
 
-names=`git log --format='[%aN](%ae),' | sort -u`
+names=`git log --format='[%aN](mailto:%ae),' | sort -u`
 count=`echo "$names" | wc -l | sed 's/ //g'`
-bullets=`echo "$names" | sed 's/^/ /'`
+bullets=`echo "$names" | sed 's/^//'`
 
 echo "<!-- begin \`$0\` -->"
 echo
