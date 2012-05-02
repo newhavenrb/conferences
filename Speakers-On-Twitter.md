@@ -1,4 +1,3 @@
-# Speakers on Twitter
 **RailsConf 2012 speakers on Twitter**, including name, user and bio.  
 *(Showing from the last to the first one)*
 
