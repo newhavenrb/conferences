@@ -13,6 +13,7 @@ Working together is better.  :)
 
 ---
 
+* [[Software]]
 * [Offline Access](https://github.com/newhavenrb/railsconf2012/wiki/_access)
 * [Contributors](https://github.com/newhavenrb/railsconf2012/graphs/contributors)
 * [Code Frequency](https://github.com/newhavenrb/railsconf2012/graphs/code-frequency)
