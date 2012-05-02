@@ -7,11 +7,11 @@ Working together is better.  :)
 * [[Main Page|Home]]
 * [[How You Can Help]]
 
-<hr>
+---
 
 * [[Speakers on Twitter]]
 
-<hr>
+---
 
 * [Offline Access](https://github.com/newhavenrb/railsconf2012/wiki/_access)
 * [Contributors](https://github.com/newhavenrb/railsconf2012/graphs/contributors)
