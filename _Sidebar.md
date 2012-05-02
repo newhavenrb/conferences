@@ -10,3 +10,8 @@ Working together is better.  :)
 <hr>
 
 * [[Speakers on Twitter]]
+
+<hr>
+
+* [Contributors](https://github.com/newhavenrb/railsconf2012/graphs/contributors)
+* [Code Frequency](https://github.com/newhavenrb/railsconf2012/graphs/code-frequency)
