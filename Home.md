@@ -102,7 +102,7 @@ Next RailsConf is in May in Portland, OR.
 
 ## Speakers on Twitter
 
-#### [Full speakers list](_Speakers-On-Twitter.md)  
+#### [[Full speakers list|Speakers on Twitter]]
 It includes Twitter username and bio, or you can just follow the [list](http://goo.gl/2x3jl).
 
 ## See Also
