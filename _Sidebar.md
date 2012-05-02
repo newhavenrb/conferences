@@ -1,5 +1,7 @@
-[ [[urgetopunt_welcome.jpg|width=230px]] ](Home)
+[[urgetopunt_welcome.jpg|width=230px]]
 <br /><small>Photo: [John Parker (urgetopunt)](http://www.flickr.com/photos/urgetopunt/7132805385/in/set-72157629578123510/) (CC BY-NC-SA 2.0)</small>
+
+<!-- TODO link the above image to Home.  Harder than it would seem.  :S -->
 
 A crowd-sourced RailsConf wiki!<br />
 Working together is better.  :)
