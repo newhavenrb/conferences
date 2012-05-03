@@ -11,7 +11,7 @@
 
 ## Summary
 
-* [libsass](https://github.com/hcatlin/libsass) and its Ruby wrapper [SassC](http://github.com/hcatlin/sassc)
+* [libsass](https://github.com/hcatlin/libsass) and its Ruby wrapper [sassruby](http://github.com/hcatlin/sassruby)
 
 ## Notes
 
