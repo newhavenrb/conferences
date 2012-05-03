@@ -92,7 +92,10 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[Extending Ruby with Ruby]] (Michael Fairley, 2:30 pm)
 * (TODO needs notes) [[Introduction to RSpec]] (Jon "Lark" Larkowski, 3:00 pm)
 
-Next RailsConf is in May in Portland, OR.
+## Upcoming Conferences
+
+* RubyConf 2012 will be in Denver, CO October 25th
+* Next RailsConf is in May in Portland, OR.
 
 ## See Also
 
