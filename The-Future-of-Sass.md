@@ -9,6 +9,10 @@
 
 > A glimpse of some of the features coming to Sass in the pending 3.2 release. Plus, a huge announcement about the project that's been months in the making as we have secretly toiled away on something that we think will be awesome. Hear it first at this talk. Repositories will be made public when the talk is over. Shh! Its a secret!
 
+## Summary
+
+* [libsass](https://github.com/hcatlin/libsass) and its Ruby wrapper [SassC](http://github.com/hcatlin/sassc)
+
 ## Notes
 
 ### @danbernier's notes
@@ -50,6 +54,9 @@ What can you do?
 
 Discount code: RailsConfCatlinSASS2012
 
+## Discussion
+
+* Hampton Caitlin typically announces new things at RailsConf.  I assume that `libsass` is the big announcement this time?  (I wasn't in the talk.)  It would make sense because having a C version could drive adoption of Sass in general.  - _benjaminoakes_
 
 ## External Links
 
