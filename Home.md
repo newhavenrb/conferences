@@ -42,7 +42,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * (TODO needs notes) [[RVM Essential Rails Development Tools]] (Olivier Lacan, 4:00 pm)
 * [[The Future of Sass]] (Hampton Catlin, 4:00 pm)
 * (TODO needs notes) [[ActiveRecord Scopes and Arel]] (Jacob Swanner, 4:30 pm)
-* [[Rich Hickey Keynote]] (Rich Hickey, 5:30 pm)
+* [[Rich Hickey Keynote]] "Simplicity Matters" (Rich Hickey, 5:30 pm)
 
 ## Tuesday 2012-04-24
 
