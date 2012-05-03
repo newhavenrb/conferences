@@ -1,7 +1,3 @@
-
-* RubyConf 2012 will be in Denver, CO October 25th
-
-
 **Presenter:** Rich Hickey
 
 **Title:** Simplicity Matters
