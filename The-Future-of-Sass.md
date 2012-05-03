@@ -56,7 +56,7 @@ Discount code: RailsConfCatlinSASS2012
 
 ## Discussion
 
-* Hampton Caitlin typically announces new things at RailsConf.  I assume that `libsass` is the big announcement this time?  (I wasn't in the talk.)  It would make sense because having a C version could drive adoption of Sass in general.  - _benjaminoakes_
+* Hampton Caitlin typically announces new things at RailsConf (previous examples of Haml, etc).  I assume that `libsass` is the big announcement this time?  (I wasn't in the talk.)  It would make sense because having a C version could drive adoption of Sass in general.  - _benjaminoakes_
 
 ## External Links
 
