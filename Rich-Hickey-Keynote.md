@@ -6,6 +6,10 @@
 
 > Rich Hickey (@richhickey), the author of <a href="http://clojure.org/">Clojure</a> and designer of <a href="http://datomic.com/">Datomic</a>, is a software developer with over 20 years of experience in various domains. Rich has worked on scheduling systems, broadcast automation, audio analysis and fingerprinting, database design, yield management, exit poll systems, and machine listening, in a variety of languages.
 
+## Summary
+
+TODO
+
 ## Memorable Quotes
 
 * "Simplicity is prerequisite for reliability."  - Dijsktra
