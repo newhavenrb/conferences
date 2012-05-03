@@ -1,3 +1,5 @@
+[[banner.jpg|alt=Images of RailsConf in Austin, TX]]
+
 ## "Let's make this the most public RailsConf ever!"
 
 * This is like Wikipedia, but for RailsConf.
