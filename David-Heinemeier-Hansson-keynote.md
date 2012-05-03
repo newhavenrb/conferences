@@ -156,23 +156,22 @@ less painful.
 
 ## Discussion
 
-* This kind of seems like Suzuki's "Beginner's Mind" concept @benjaminoakes
-* What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified ("made more safe")?  Does that mean we'll have people with fewer programming skills?  @benjaminoakes
-  * I think it's possible for something to be both. A goal of programming is to hide complexity. A tremendously powerful tool like Rails or \*nix can have a simple API that's easy to pick up, and have that may be easy or hard to hack on. @jamesgary
-    * I think this isn't a perfect equivalency, at least in the case of OSX: the basic things are simplified, but the more powerful operations are still available. If you make the 80% of work you do easy and let yourself focus on the 20% that's truly difficult, it strikes me that you'll be able to focus on the actual problems easier. @robyurkowski
-* It reminds me of decluttering/minimalizing.  It's hard to get rid of some things, but it can be worth it.  @benjaminoakes
+* This kind of seems like Suzuki's "Beginner's Mind" concept.  - _benjaminoakes_
+* What does this mean for the iPad, OS X Mountain Lion, etc. which are simplified ("made more safe")?  Does that mean we'll have people with fewer programming skills?  - _benjaminoakes_
+  * I think it's possible for something to be both. A goal of programming is to hide complexity. A tremendously powerful tool like Rails or \*nix can have a simple API that's easy to pick up, and have that may be easy or hard to hack on.  - _jamesgary_
+    * I think this isn't a perfect equivalency, at least in the case of OSX: the basic things are simplified, but the more powerful operations are still available. If you make the 80% of work you do easy and let yourself focus on the 20% that's truly difficult, it strikes me that you'll be able to focus on the actual problems easier.  - _robyurkowski_
+* It reminds me of decluttering/minimalizing.  It's hard to get rid of some things, but it can be worth it.  - _benjaminoakes_
 
-* Dick Gabriel: "Fear of failure is fear of death."
-  http://dreamsongs.com/MobSoftware.html
+* Dick Gabriel: "Fear of failure is fear of death." http://dreamsongs.com/MobSoftware.html  - _danbernier_
 
 * This is a pretty bland talk: of course we need real tech, and of
 course that can be dangerous, but OTOH, of course we need to encourage
 & welcome newbies, and it's a balance between the two, and we need to
-find the right dial setting.
+find the right dial setting. - _danbernier_
 
-* @robyurkowski: Particularly irritating to me was the equivalency presented between power and difficulty. 
-    * Per DHH's easybake example, the oven is not actually substantially more complicated to use—you still turn a knob, put food in, and take it out when it's done. You do have a depth of other options available to you with an oven, but using an easybake isn't much different from using an oven — it just has a limited instruction set. Just because we have a powerful tool doesn't mean it has to be hard to use or confusing to learn. That's not to say that we should impede progress for this reason, but we have to keep in mind that increasing the complexity of our patterns and utilities will push us in the much-maligned Java direction.
-    * It's also worth considering that the more time we waste on answering the same questions again and again, the less time we have to spend focusing on the real problems.
+* Particularly irritating to me was the equivalency presented between power and difficulty. - _robyurkowski_
+    * Per DHH's easybake example, the oven is not actually substantially more complicated to use—you still turn a knob, put food in, and take it out when it's done. You do have a depth of other options available to you with an oven, but using an easybake isn't much different from using an oven — it just has a limited instruction set. Just because we have a powerful tool doesn't mean it has to be hard to use or confusing to learn. That's not to say that we should impede progress for this reason, but we have to keep in mind that increasing the complexity of our patterns and utilities will push us in the much-maligned Java direction. - _robyurkowski_
+    * It's also worth considering that the more time we waste on answering the same questions again and again, the less time we have to spend focusing on the real problems. - _robyurkowski_
 
 ## External Links
 
