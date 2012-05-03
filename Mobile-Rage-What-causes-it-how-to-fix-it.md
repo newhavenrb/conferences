@@ -24,3 +24,4 @@
 ## External Links
 
 * [Slides](http://www.slideshare.net/wndxlori/mobile-rage)
+* [Talk on SpeakerRate](http://speakerrate.com/talks/9579-mobile-rage-what-causes-it-how-to-fix-it)
