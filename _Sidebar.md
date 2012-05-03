@@ -6,6 +6,7 @@ Working together is better.  :)
 
 * [[Main Page|Home]]
 * [[How You Can Help]]
+* [[Template]]
 
 ---
 
