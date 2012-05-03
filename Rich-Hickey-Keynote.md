@@ -391,6 +391,10 @@ opportunity.
     * Be aware of entanglement and how to be sensitive about it
     * Tools don't do this (e.g., tests)
 
+## Discussion
+
+* Isn't simplicity relative?  What's your take on what he meant in a less abstract situation?  - _benjaminoakes_
+
 ## External Links
 
 * [Clojure](http://clojure.org/)
