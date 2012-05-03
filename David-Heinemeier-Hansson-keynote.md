@@ -115,7 +115,7 @@ less painful.
     * "Stay young, stay curious, stay hippie"
 
 
-### From @jamesgary's
+### From @jamesgary
   * Everyone likes progress! Universally agreed upon progress, that is.
   * How much do you _really_ like progress?
   * REST wasn't looked as good progress at first.
