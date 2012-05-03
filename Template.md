@@ -30,7 +30,7 @@
 
 * If some stuff is controversial, thought provoking, etc, we can have something like this.
 * Kind of like "Talk" pages on Wikipedia.
-* Maybe sign it with your GitHub username.  @benjaminoakes 
+* Sign it with your GitHub username, please.  - _benjaminoakes_
 
 ## External Links
 
