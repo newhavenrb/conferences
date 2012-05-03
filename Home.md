@@ -111,3 +111,5 @@ Next RailsConf is in May in Portland, OR.
     * [RailsConf 2012 Party Registration](http://railsconf2012party.eventbrite.com/)
     * [Ignite RailsConf Registration](http://ignite-railsconf2012.eventbrite.com/)
 * [Confreaks](http://www.confreaks.com/events/railsconf2012) - RailsConf isn't typically included, but it's not an O'Reilly event this time.
+* Blog posts
+    * [RailsConf 2012 Wrap Up](http://accidentaltechnologist.com/ruby-on-rails/railsconf-2012/) by _Rob Bazinet_
