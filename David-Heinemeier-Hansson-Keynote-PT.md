@@ -7,3 +7,4 @@ TODO
 ## Noutras Línguas
 
 * [[English|David Heinemeier Hansson Keynote]]
+* [[Español|David Heinemeier Hansson Keynote ES]]
