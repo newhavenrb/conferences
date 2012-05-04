@@ -314,6 +314,7 @@ cap jenkins:delete
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity)
+* [Video](http://www.confreaks.com/videos/882-railsconf2012-taming-the-kraken-how-operations-enables-developer-productivity)
 * [Rate the talk](http://speakerrate.com/talks/9580-taming-the-kraken-how-operations-enables-developer-productivity)
 * [Chef](http://www.opscode.com/chef)
 * [Vagrant](http://vagantup.com/)
