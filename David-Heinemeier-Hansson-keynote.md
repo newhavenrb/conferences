@@ -183,4 +183,5 @@ find the right dial setting. - _danbernier_
 ## Other Languages
 
 * [[Español|David Heinemeier Hansson Keynote ES]]
+* [[日本語|David Heinemeier Hansson Keynote JA]]
 * [[Português | David Heinemeier Hansson keynote PT]]
