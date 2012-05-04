@@ -182,4 +182,5 @@ find the right dial setting. - _danbernier_
 
 ## Other Languages
 
+* [[Español|David Heinemeier Hansson Keynote ES]]
 * [[Português | David Heinemeier Hansson keynote PT]]
