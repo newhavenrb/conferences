@@ -25,6 +25,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
     * [[Español|David Heinemeier Hansson Keynote ES]]
     * [[日本語|David Heinemeier Hansson Keynote JA]]
     * [[Português|David Heinemeier Hansson Keynote PT]]
+    * [[Русский|David Heinemeier Hansson Keynote RU]]
 * (TODO needs notes/slides) [[Rails for Zombies (AKA Intro to Rails Part 1)]] (Gregg Pollack, 10:30 am)
 * [[Designing Hypermedia APIs]] (Steve Klabnik, 10:30 am)
 * [[i18n on Rails: A Twitter Approach]] (Cameron Dutro, 10:30 am)
