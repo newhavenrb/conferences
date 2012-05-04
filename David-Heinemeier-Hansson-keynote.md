@@ -178,4 +178,8 @@ find the right dial setting. - _danbernier_
 * [Video](http://www.confreaks.com/videos/854-railsconf2012-keynote-progress)
 * Notes elsewhere
     * [TheRailsView](https://github.com/newhavenrb/railsconf2012/wiki/David-Heinemeier-Hansson-keynote)
-    * [technorcalnotes - lo res audio of talk with text notes](http://www.technorcalnotes.com/2012/04/27/dhh-keynote-at-railsconf-2012) 
+    * [technorcalnotes - lo res audio of talk with text notes](http://www.technorcalnotes.com/2012/04/27/dhh-keynote-at-railsconf-2012)
+
+## Other Languages
+
+* [[Português | David Heinemeier Hansson keynote PT]]
