@@ -8,7 +8,7 @@
 >
 > Ele também é criador do Ruby on Rails.
 
-## Sumário
+## Notas
 
 * O progresso, enquanto conceito abstrato é agradável a todo mundo, mas as coisas não são tão simples quando isso é posto em prática
 * É claro que nem tudo que é novo é melhor, mas podemos medir objetivamente o progresso
