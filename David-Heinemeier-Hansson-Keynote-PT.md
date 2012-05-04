@@ -37,3 +37,4 @@ Tema: Progresso
 
 * [[English|David Heinemeier Hansson Keynote]]
 * [[Español| David Heinemeier Hansson keynote ES]]
+* [[日本語|David Heinemeier Hansson Keynote JA]]
