@@ -10,6 +10,10 @@
 
 ## Notas
 
+Tema: Progresso
+
+### Notas de @badosu
+
 * O progresso, enquanto conceito abstrato é agradável a todo mundo, mas as coisas não são tão simples quando isso é posto em prática
 * É claro que nem tudo que é novo é melhor, mas podemos medir objetivamente o progresso
 * Ser cético é legal, mas não migre do estado de constante curiosidade para constante suspeita
