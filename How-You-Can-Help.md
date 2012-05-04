@@ -72,6 +72,7 @@ As of 2012-04-26:
 #### Medium-Hard
 
 * **Write a talk summary.**  Some of the abstracts are a bit long, and sometimes not entirely accurate.  Having 3-4 sentences/bullets to summarize would be nice.  Also, see the [[template]].
+* **Summarize a talk in a language other than English.**  This could make RailsConf useful to a larger group of people.  See the [[DHH keynote|David Heinemeier Hansson Keynote PT]] as an example.
 * **Work toward a single layout.**  Adjust existing notes to fit the suggested [[template]], if it makes sense to do so.
 * **Find more notes.**  Search for "railsconf" or "railsconf2012" on GitHub (or even Google for blog posts) for people who may be interested in contributing.  Keep in mind that they need to be fine licensing their  work under the Creative Commons license that we use.
 
