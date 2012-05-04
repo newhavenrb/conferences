@@ -1,3 +1,3 @@
 ## Ligações Externas
 
-* [Original Gist](https://gist.github.com/2593696)
+* [Gist](https://gist.github.com/2593696)
