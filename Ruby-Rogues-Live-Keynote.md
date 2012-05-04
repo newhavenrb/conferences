@@ -297,5 +297,5 @@ and the interface is more about mutable state.
 * Slides
     * [Josh Susser's](http://speakerdeck.com/u/joshsusser/p/ruby-rogues-live)
 * [Ruby Rogues, group for reaching out to other communities](http://parlay.rubyrogues.com)
-* Podcast episode TODO
+* [Podcast episode](http://rubyrogues.com/052-live-from-railsconf-2012)
 * Video TODO
