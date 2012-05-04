@@ -9,3 +9,4 @@ TODO
 * [[English|David Heinemeier Hansson Keynote]]
 * [[Español| David Heinemeier Hansson keynote ES]]
 * [[Português|David Heinemeier Hansson Keynote PT]]
+* [[Русский|David Heinemeier Hansson Keynote RU]]
