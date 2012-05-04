@@ -186,4 +186,5 @@ find the right dial setting. - _danbernier_
 ## En otros idiomas
 
 * [[English|David Heinemeier Hansson Keynote]]
+* [[日本語|David Heinemeier Hansson Keynote JA]]
 * [[Português|David Heinemeier Hansson Keynote PT]]
