@@ -7,7 +7,7 @@
 * This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access) (which is great for conferences.  It's just a `git` repo full of Markdown files.
 * It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
 
-Our goal is to be a **community resource**, making this information as widely usable as possible.  This means having search engine-friendly text, summaries for humans, as well as resources for the deaf, hard of hearing, and speakers of non-English languages (e.g., [[Portugese|David Heinemeier Hansson Keynote PT]]).
+Our goal is to be a **community resource**, making this information as widely usable as possible.  This means having search engine-friendly text, summaries for humans, as well as resources for the deaf, hard of hearing, and speakers of non-English languages (for example, [[summaries in Portugese|David Heinemeier Hansson Keynote PT]]).
 
 ## [[Want to help?|How you can help]]
 
@@ -49,18 +49,10 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[The Future of Sass]] (Hampton Catlin, 4:00 pm)
 * (TODO needs notes) [[ActiveRecord Scopes and Arel]] (Jacob Swanner, 4:30 pm)
 * [[Rich Hickey Keynote]] "Simplicity Matters" (Rich Hickey, 5:30 pm)
-    * [[Español|Rich Hickey Keynote ES]]
-    * [[日本語|Rich Hickey Keynote JA]]
-    * [[Português|Rich Hickey Keynote PT]]
-    * [[Русский|Rich Hickey Keynote RU]]
 
 ## Tuesday 2012-04-24
 
 * [[Aaron Patterson Keynote]] (Aaron Patterson, 9:00 am)
-    * [[Español|Aaron Patterson Keynote ES]]
-    * [[日本語|Aaron Patterson Keynote JA]]
-    * [[Português|Aaron Patterson Keynote PT]]
-    * [[Русский|Aaron Patterson Keynote RU]]
 * [[Ruby Hero Awards Keynote]] (Ruby Hero Awards, 9:30 am)
 * [[Taming the Kraken How Operations enables developer productivity]] (Nathen Harvey, 10:30 am)
 * [[Presenters and Decorators: A Code Tour]] (Mike Moore, 10:30 am)
