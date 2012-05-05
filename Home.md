@@ -4,8 +4,10 @@
 ## "Let's make this the most public RailsConf ever!"
 
 * This is like Wikipedia, but for RailsConf.
-* Internet access generally sucks at conferences like this.  This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access); it's just a `git` repo full of Markdown files.
-* It's more than just notes; we have summaries, translations (e.g., [[to Portuguese|David Heinemeier Hansson Keynote PT]]), discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
+* This wiki [works offline](https://github.com/newhavenrb/railsconf2012/wiki/_access) (which is great for conferences.  It's just a `git` repo full of Markdown files.
+* It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
+
+Our goal is to be a **community resource**, making this information as widely usable as possible.  This means having search engine-friendly text, summaries for humans, as well as resources for the deaf, hard of hearing, and speakers of non-English languages (e.g., [[Portugese|David Heinemeier Hansson Keynote PT]]).
 
 ## [[Want to help?|How you can help]]
 
