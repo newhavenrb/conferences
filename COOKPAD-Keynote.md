@@ -9,6 +9,12 @@
 
 > Thank you to the Rails community, from Cookpad and 15 million families.
 
+## Summary
+
+* Cookpad is probably "the biggest Rails site you never heard of"
+* A summary of what Cookpad does and that lots of people use it in Japan
+* They sponsored RailsConf to give back
+
 ## Memorable Quotes
 
 * "What would Aaron Patterson do?" (WWAPD)
