@@ -9,6 +9,10 @@
 
 > Thank you to the Rails community, from Cookpad and 15 million families.
 
+## Memorable Quotes
+
+* "What would Aaron Patterson do?" (WWAPD)
+
 ## What is COOKPAD?
 
 * Cookpad is probably the biggest Rails site you never heard of
@@ -77,10 +81,6 @@ you can help with
 * Thanks to everyone here, the Rails community
 * and a special thank you to Leah, Ben, Ruby Central, and everone else
   involved in organizing this great event
-
-## Memorable Quotes
-
-* "What would Aaron Patterson do?" (WWAPD)
 
 ## External Links
 
