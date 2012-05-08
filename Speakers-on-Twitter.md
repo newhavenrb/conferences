@@ -1,10 +1,4 @@
-**RailsConf 2012 speakers on Twitter**, including name, user and bio.  
-*(Showing from the last to the first one)*
-
-There is a [twitter list](http://goo.gl/2x3jl) too.  
-(please report any mistake)
-
----
+*(from the last to the first one)*
 
 - **Dr Nic** [@drnic](http://twitter.com/@drnic)  
   *Rails/Ruby/JavaScript developer. A developer's developer. VP Developer Evangelism, Engine Yard*
