@@ -190,3 +190,7 @@ moving to the browser.
 ## External Links
 
 * [Tokaido railsapp kickstarter project](http://www.kickstarter.com/projects/1397300529/railsapp/posts)
+
+## Other Languages
+
+* [[日本語|Aaron Patterson Keynote JA]]
