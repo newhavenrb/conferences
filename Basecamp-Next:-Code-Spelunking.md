@@ -34,7 +34,7 @@
         * Only thing you need locally is Rails and MySQL.  They wrote (and use) Pow
             * launchpad + portfolio
     * Testing
-        * test/unit, mocha, capybara, qrush/m
+        * test/unit, mocha, [capybara](http://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Matchers) ("makes `assert_select` obsolete"), qrush/m
         * ...
     * Development setup
         * "All apps need to have reset button"
