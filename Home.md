@@ -53,6 +53,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 ## Tuesday 2012-04-24
 
 * [[Aaron Patterson Keynote]] (Aaron Patterson, 9:00 am)
+    * [[日本語|Aaron Patterson Keynote JA]]
 * [[Ruby Hero Awards Keynote]] (Ruby Hero Awards, 9:30 am)
 * [[Taming the Kraken How Operations enables developer productivity]] (Nathen Harvey, 10:30 am)
 * [[Presenters and Decorators: A Code Tour]] (Mike Moore, 10:30 am)
