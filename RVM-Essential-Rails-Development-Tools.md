@@ -14,3 +14,4 @@
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/olivierlacan/p/essential-rails-tools)
+* [Blog post](http://blog.olivierlacan.com/posts/essential-rails-tools/)
