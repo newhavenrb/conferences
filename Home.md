@@ -38,6 +38,7 @@ If you like the idea of a RailsConf wiki, please consider [[helping us|How you c
 * [[Rails Engines Patterns]] (Andy Maleh, 1:30 pm)
 * (TODO needs notes) [[Mobile Rage What causes it how to fix it]] (Lori M Olson, 1:30 pm)
 * [[RoRoRoomba Ruby on Rails on Roomba]] (Charles Abbot, 1:30 pm)
+    * [[日本語|RoRoRoomba Ruby on Rails on Roomba JA]]
 * [[Progressive Enhancement on the Mobile Web]] (John Bender, 2:30 pm)
 * [[From Rails Rumble to 50,000,000 results]] (Mikel Lindsaar, 2:30 pm)
 * [[ActiveSupport and ActiveModel]] (Bryan Liles, 2:30 pm)
