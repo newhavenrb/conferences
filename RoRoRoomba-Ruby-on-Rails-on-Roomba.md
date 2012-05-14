@@ -77,3 +77,7 @@
 * [Ruby Arduino Development](http://rad.rubyforge.org/)
 * [Simon Stevin](http://en.wikipedia.org/wiki/Simon_Stevin)
 * [tokyorails/rrroomba](http://github.com/tokyorails/rrroomba)
+
+## Other Languages
+
+* [[日本語|RoRoRoomba Ruby on Rails on Roomba JA]]
