@@ -9,3 +9,7 @@ To work offline, you'll at least need `git` and a text editor.
 * `vim`
     * [vim-markdown](https://github.com/tpope/vim-markdown): syntax, etc
     * [wikilink](https://github.com/mmai/wikilink): wiki navigation in `vim`
+
+## Utilities
+
+* [SparkleShare](https://github.com/hbons/sparkleshare) - Like Dropbox, but working with git repositories.  Makes wiki "live blogging" easier.
