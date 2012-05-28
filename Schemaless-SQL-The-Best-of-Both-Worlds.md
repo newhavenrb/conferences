@@ -14,6 +14,10 @@
 >
 > We will explore the power of hstore and PLV8, explain how to use them in your project today, and examine their role in the future of data.
 
+## Summary
+
+TODO
+
 ## Notes
 
 * This is a file generated from the RailsConf JSON.  Please remove this notice when adding notes.
