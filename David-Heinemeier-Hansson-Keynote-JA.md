@@ -1,5 +1,3 @@
-TODO Summary of content (or whatever you'd like to contribute).  [[Example in Portuguese|David Heinemeier Hansson Keynote PT]]
-
 **プレゼンター:** David Heinemeier Hansson
 
 ## 摘要
