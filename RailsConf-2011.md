@@ -1,7 +1,5 @@
 ## Talks
 
-TODO: move content from [benjaminoakes](https://github.com/benjaminoakes/railsconf2011/wiki) into this git repo
-
 These are just in alphabetical order:
 
 * [[Confident Code]]
