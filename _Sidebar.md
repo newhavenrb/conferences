@@ -1,3 +1,5 @@
+[[[Ruby_logo.png|width=200px]]](https://github.com/newhavenrb/conferences/wiki)
+
 A crowd-sourced Ruby conference wiki!<br />
 Working together is better.  :)
 

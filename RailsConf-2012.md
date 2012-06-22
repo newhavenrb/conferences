@@ -1,6 +1,3 @@
-[[[urgetopunt_welcome.jpg]](https://github.com/newhavenrb/conferences/wiki)
-<br /><small>Photo: [John Parker (urgetopunt)](http://www.flickr.com/photos/urgetopunt/7132805385/in/set-72157629578123510/) (CC BY-NC-SA 2.0)</small>
-
 [[banner.png|alt=Images of RailsConf in Austin, TX]]
 <br /><small>Photos: [John Parker (urgetopunt)](http://www.flickr.com/photos/urgetopunt/sets/72157629578123510/with/7132805385/) (CC BY-NC-SA 2.0)</small>
 
