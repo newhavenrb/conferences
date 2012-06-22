@@ -19,13 +19,8 @@ If you like the idea of a Ruby conference wiki, please consider [[helping us|How
 
 ### 2011
 
-TODO: Move this content inside this git repo.
-
-* RailsConf 2011 Notes
-    * [benhamill](https://github.com/benhamill/railsconf_2011)
-    * [benjaminoakes](https://github.com/benjaminoakes/railsconf2011/wiki)
-    * [trevmex](http://trevmex.com/post/5656565549/railsconf-notes-from-trevor-lalish-menagh-trevmex?ff286a60)
-* [RubyConf 2011 Notes](https://github.com/benjaminoakes/rubyconf2011/wiki) (from several people in @hedgeyedev)
+* [[RailsConf 2011]]
+* [[RubyConf 2011]]
 
 ### Older
 
