@@ -1,6 +1,6 @@
 ## Talks
 
-We need your help.  Please contribute any notes, links, etc. you would find useful!
+We need your help.  Please contribute any notes, links, etc. you think others would find useful!
 
 * [[Hexagonal Rails]]
 * [[Deployment - the difference between the 1st month and the next 59]]
