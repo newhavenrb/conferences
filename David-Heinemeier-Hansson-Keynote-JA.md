@@ -24,6 +24,7 @@ Theme: 進歩
 ## 外部リンク
 
 * [映像信号 (英語)](http://www.confreaks.com/videos/854-railsconf2012-keynote-progress)
+* [誰かDHH氏のキーノートを翻訳しませんか？](http://d.hatena.ne.jp/JunichiIto/20120508/1336420985)
 
 ## 他の言語
 
