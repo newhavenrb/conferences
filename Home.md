@@ -14,13 +14,13 @@ If you like the idea of a Ruby conference wiki, please consider [[helping us|How
 
 ### 2012
 
-* [[RailsConf 2012]] - April - Austin, TX
 * [[Goruco 2012]] - June 23 - New York, NY
+* [[RailsConf 2012]] - April - Austin, TX
 
 ### 2011
 
-* [[RailsConf 2011]]
-* [[RubyConf 2011]]
+* [[RubyConf 2011]] - New Orleans, LA
+* [[RailsConf 2011]] - Baltimore, MD
 
 ### Older
 
