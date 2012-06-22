@@ -1,5 +1,7 @@
 ## Talks
 
+We need your help.  Please contribute any notes, links, etc. you would find useful!
+
 * [[Hexagonal Rails]]
 * [[Deployment - the difference between the 1st month and the next 59]]
 * [[Power Rake]]
