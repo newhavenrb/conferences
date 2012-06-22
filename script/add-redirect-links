@@ -1,0 +1,58 @@
+#!/usr/bin/env bash
+# Based on [Is it possible to redirect in Gollum wiki (GitHub wiki) pages?](http://stackoverflow.com/questions/11138802/is-it-possible-to-redirect-in-gollum-wiki-github-wiki-pages)
+#
+# Question:
+# > At RailsConf 2012, our local Ruby group created a [crowd-sourced wiki](https://github.com/newhavenrb/railsconf2012/wiki).  We're very happy with how well it was received (218 watchers as of today).
+# > 
+# > Some members are attending Goruco 2012, and we'd like to do something similar for that conference.  The current plan is to have one big git-based wiki of Ruby conferences.  We have content for the last couple of years (RubyConf 2011, RailsConf 2011, 2012, and now Goruco 2012), so we'd like to combine it into one place.  The RailsConf 2012 wiki has gotten the most watchers by far, and we'd like to retain those.  The simplest way would seem to be renaming the repository like so:
+# > 
+# > * Old: https://github.com/newhavenrb/railsconf2012/wiki
+# > * New: https://github.com/newhavenrb/conferences/wiki (doesn't exist yet)
+# > 
+# > The "Home" page would then have a listing of conferences by year.
+# > 
+# > But because it's become a community resource, we don't want to break any links from blogs, Twitter, etc.  What's the easiest way of doing this?  Does [Gollum](https://github.com/github/gollum) support any kind of redirect?  (Or do we need to come up with a creative solution?)
+#
+# Answer:
+# > Since no one has come out of the woodwork, here's what I'm planning to do:
+# > 
+# > * Clone the existing wiki
+# > * Run script
+# > 
+# > <!-- language-all: lang-bash -->
+# > 
+# >     for f in *.md; do
+# >       cat <<EOF > $f
+# >     We've Moved!
+# >     ------------
+# > 
+# >     The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
+# >     
+# >     Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/$(basename $f .md)
+# >     EOF
+# >     done
+# > 
+# > That would make Markdown like this:
+# > 
+# > > We've Moved!
+# > > ------------
+# > > 
+# > > The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
+# > > 
+# > > Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/Rich-Hickey-Keynote
+# > 
+# > * Commit the changes (except `Home.md`; it would be wrong)
+# > * Rename the existing wiki to `conferences`
+# > * Make new repo named `railsconf2012`
+# > * Push "We've Moved!" content to the new `railsconf2012` repo
+
+for f in *.md; do
+  cat <<EOF > $f
+We've Moved!
+------------
+
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
+
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/$(basename $f .md)
+EOF
+done
