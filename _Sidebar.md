@@ -1,4 +1,4 @@
-[[[Ruby_logo.png]]](https://github.com/newhavenrb/conferences/wiki)
+[[[/images/Ruby_logo.png|align=center]]](https://github.com/newhavenrb/conferences/wiki)
 
 A crowd-sourced Ruby conference wiki!<br />
 Working together is better.  :)
