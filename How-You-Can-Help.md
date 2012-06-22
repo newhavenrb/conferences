@@ -6,7 +6,7 @@ Run into a problem?  Contact [newhaven.rb on Twitter](http://twitter.com/newhave
 
 * The **web interface** can handle most easy changes.
 * If you want to work with a **local clone**, there's a [[software]] list that might help you out.
-* **You can't push by default** if you're not a member of the [newhaven.rb](https://github.com/newhavenrb) organization.  We'll be happy to give you this access to contribute, but another option is **[forking and making a pull request](https://github.com/newhavenrb/railsconf2012)**.  NOTE: the "code" repository may be out of date relative to the "wiki" repository.
+* **You can't push by default** if you're not a member of the [newhaven.rb](https://github.com/newhavenrb) organization.  We'll be happy to give you this access to contribute, but another option is **[forking and making a pull request](https://github.com/newhavenrb/conferences)**.  NOTE: the "code" repository may be out of date relative to the "wiki" repository.
 
 ## Things You Can Do
 
