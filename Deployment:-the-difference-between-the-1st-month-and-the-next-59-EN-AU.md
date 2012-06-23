@@ -7,3 +7,5 @@ A typical American geek's impression of Australian English:
 > * Australian with Spoon: *This* is a knife. 
 > * Bart: [confused] That's not a knife, that's a spoon. 
 > * Australian with Spoon: Alright, alright you win. I see you've played knifey-spoony before. 
+
+:P
