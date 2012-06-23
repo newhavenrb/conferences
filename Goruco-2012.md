@@ -3,7 +3,7 @@
 We need your help.  Please contribute any notes, links, etc. you think others would find useful!
 
 * [[Hexagonal Rails]]
-* [[Deployment - the difference between the 1st month and the next 59]]
+* [[Deployment: the difference between the 1st month and the next 59]]
 * [[Power Rake]]
 * [[Why Hashes Will Be Faster in Ruby 2.0]]
 * [[Organizing and Packaging Rich Javascript Apps with Ruby]]
