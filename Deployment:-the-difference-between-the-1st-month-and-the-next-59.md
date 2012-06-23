@@ -37,10 +37,16 @@ TODO
 
 TODO
 
+From @username1:
+
 * This layout is just a suggestion.
 * It's kinda based on how Wikipedia is organized (e.g. an "External Links" section)
 * Bullet points might work well.  Paragraphs too.  Up to you.  :)
 * This section is probably enough, but just in case here are some other ideas...
+
+From @username2:
+
+* It's best to leave "username dividers" to prevent merge conflicts later.
 
 ## Discussion
 
