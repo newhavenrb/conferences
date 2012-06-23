@@ -28,10 +28,7 @@ TODO
 
 ## Memorable Quotes
 
-TODO
-
-* This section applies sometimes.
-* "Android is the new IE." - _[[John Bender|Progressive Enhancement on the Mobile Web]]_
+* "Our tools shape our thinking"
 
 ## Notes
 
