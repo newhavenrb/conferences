@@ -10,14 +10,14 @@ We need your help.  Please contribute any notes, links, etc. you think others wo
     * [[中文|Deployment: the difference between the 1st month and the next 59 ZH]]
 * (TODO Needs notes, links) [[Hexagonal Rails]] - _Matt Wynne_
 * (TODO Needs notes, links) [[The Front-End Future]] - _Francis Hwang_
-* Micro Talks: Luke Melia, Haris Amin, Matt Duncan, Pat Shaughnessy
+* **Micro Talks:**
     * (TODO Needs notes, links) [[Organizing and Packaging Rich Javascript Apps with Ruby]] - _Luke Melia_
     * (TODO Needs notes, links) [[Your Face in 10 minutes...with Macruby!]] - _Haris Amin_
     * (TODO Needs notes, links) [[High Performance Caching with Rails]] - _Matt Duncan_
     * (TODO Needs notes, links) [[Why Hashes Will Be Faster in Ruby 2.0]] - _Pat Shaughnessy_
 * (TODO Needs notes, links) [[Sensible Testing]] - _Justin Leitgeb_
 * (TODO Needs notes, links) [[Maintaining Balance while Reducing Duplication Part II]] - _David Chelimsky_
-* (TODO Needs notes, links) [[Micro Talks: Jeff Casimir, Daniel Doubrovkine, Sebastian Delmont]]
+* **Micro Talks:**
     * (TODO Needs notes, links) [[Building Developers Lessons Learned from Hungry Academy]] - _Jeff Casimir_
     * (TODO Needs notes, links) [[From Zero to API Cache w/ Grape and MongoDB in 10 Minutes]] - _Daniel Doubrovkine_
     * (TODO Needs notes, links) [[Maps want to be free!]] - _Sebastian Delmont_
