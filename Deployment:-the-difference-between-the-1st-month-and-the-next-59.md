@@ -60,7 +60,7 @@ TODO
 
 TODO
 
-[Dr. Nic's website] (http://www.drnicwilliams.com)
+* [Dr. Nic's website] (http://www.drnicwilliams.com)
 * [Slides](http://www.example.com/)
 * [Video](http://www.example.com/)
 * [Some related website](http://www.example.com/)
