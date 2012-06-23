@@ -15,6 +15,8 @@ Working together is better.  :)
     * [[Goruco 2012]]
     * [[RailsConf 2012]]
 
+<!-- Most recent 2 or 3 conferences are listed above -->
+
 ---
 
 * [[Software]]
