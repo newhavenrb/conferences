@@ -25,10 +25,15 @@ TODO
 * Don't have time to read the whole thing?
 * Here are the takeaways.
 * "This page in a nutshell."
+* We expect a lot from deployment - we should stop expecting things from tools that don't do what we want them too. 
+* When we deploy a system we need to realize it's not just about getting the code up, it's about living with it, should deploy systems in small batches and isolate ruby so if we want to upgrade the app to Ruby 1.4 but not god then we can. 
+* Want to isolate technologies so we can rebuild the same system 3 years from now.
 
 ## Memorable Quotes
 
 * "Our tools shape our thinking"
+* "Tools should help, not get in the way."
+* "Any change to a production system is deployment."
 
 ## Notes
 
@@ -63,6 +68,8 @@ TODO
 TODO
 
 * [Dr. Nic's website] (http://www.drnicwilliams.com)
+* [@drnic] (http://www.twitter.com/drnic)
+* [Chef Conf Slides from Anthony Shortland on Chef] (http://www.slideshare.net/AnthonyShortland/dto-chefconf2012)
 * [Slides](http://www.example.com/)
 * [Video](http://www.example.com/)
 * [Some related website](http://www.example.com/)
