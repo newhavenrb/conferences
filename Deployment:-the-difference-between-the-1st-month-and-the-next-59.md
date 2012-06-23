@@ -48,6 +48,11 @@ From @username2:
 
 * It's best to leave "username dividers" to prevent merge conflicts later.
 
+From @benjaminoakes:
+
+* Gems
+    * [bosh](https://github.com/cloudfoundry/bosh)
+
 ## Discussion
 
 TODO
