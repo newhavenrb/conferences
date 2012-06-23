@@ -2,11 +2,11 @@
 
 ## Bio
 
-> What it says about this person on the [RailsConf Program](http://railsconf2012.com/sessions)
+> What it says about this person in the schedule.
 
 ## Abstract
 
-> What it says about this talk on the [RailsConf Program](http://railsconf2012.com/sessions)
+> What it says about this talk on the schedule
 
 ## Summary
 
