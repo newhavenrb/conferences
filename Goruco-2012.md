@@ -19,7 +19,7 @@ We need your help.  Please contribute any notes, links, etc. you think others wo
 * (TODO Needs notes, links) [[Maintaining Balance while Reducing Duplication Part II]] - _David Chelimsky_
 * **Micro Talks:**
     * (TODO Needs notes, links) [[Building Developers Lessons Learned from Hungry Academy]] - _Jeff Casimir_
-    * (TODO Needs notes, links) [[From Zero to API Cache w/ Grape and MongoDB in 10 Minutes]] - _Daniel Doubrovkine_
+    * (TODO Needs notes, links) [[From Zero to API Cache with Grape and MongoDB in 10 Minutes]] - _Daniel Doubrovkine_
     * (TODO Needs notes, links) [[Maps want to be free!]] - _Sebastian Delmont_
 * (TODO Needs notes, links) [[Power Rake]] - _Jim Weirich_
 
