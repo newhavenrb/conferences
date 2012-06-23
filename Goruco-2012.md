@@ -2,7 +2,8 @@
 
 We need your help.  Please contribute any notes, links, etc. you think others would find useful!
 
-* (TODO Needs notes, links) [[Deployment: the difference between the 1st month and the next 59]]
+* [[Deployment: the difference between the 1st month and the next 59]]
+    * [[中文|Deployment: the difference between the 1st month and the next 59 ZH]]
 * (TODO Needs notes, links) [[Hexagonal Rails]]
 * (TODO Needs notes, links) [[The Front-End Future]]
 * (TODO Needs notes, links) [[Power Rake]]
