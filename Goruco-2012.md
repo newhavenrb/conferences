@@ -6,7 +6,7 @@ We need your help.  Please contribute any notes, links, etc. you think others wo
     * [[Australian English|Deployment: the difference between the 1st month and the next 59 EN AU]]
     * [[Español|Deployment: the difference between the 1st month and the next 59 ES]]
     * [[日本語|Deployment: the difference between the 1st month and the next 59 JA]]
-    * [[Português|Deployment: the difference between the 1st month and the next 59 PT]
+    * [[Português|Deployment: the difference between the 1st month and the next 59 PT]]
     * [[中文|Deployment: the difference between the 1st month and the next 59 ZH]]
 * (TODO Needs notes, links) [[Hexagonal Rails]]
 * (TODO Needs notes, links) [[The Front-End Future]]
