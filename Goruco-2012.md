@@ -2,7 +2,7 @@
 
 We need your help.  Please contribute any notes, links, etc. you think others would find useful!
 
-* [[Deployment: the difference between the 1st month and the next 59]] - Dr. Nic_
+* [[Deployment: the difference between the 1st month and the next 59]] - _Dr. Nic_
     * [[Australian English|Deployment: the difference between the 1st month and the next 59 EN AU]]
     * [[Español|Deployment: the difference between the 1st month and the next 59 ES]]
     * [[日本語|Deployment: the difference between the 1st month and the next 59 JA]]
