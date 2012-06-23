@@ -1,3 +1,5 @@
+From [[Goruco 2012]]
+
 **Presenter:** Dr. Nic Williams
 
 ## Bio
