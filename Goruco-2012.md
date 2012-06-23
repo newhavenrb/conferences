@@ -26,3 +26,5 @@ We need your help.  Please contribute any notes, links, etc. you think others wo
 * [Schedule](http://goruco.com/schedule/)
 * [Speakers](http://goruco.com/speakers/) - TODO: Quote abstracts
 * [Livestream](http://goruco.com/live/)
+* Photos
+    * By [Sebastian Delmont](http://www.flickr.com/photos/sd/sets/72157630250391884)
