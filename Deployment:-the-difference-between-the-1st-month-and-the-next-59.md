@@ -39,6 +39,23 @@ TODO
 
 TODO
 
+From @ZachMorek:
+
+* In this talk, Dr Nic describes what he believes would make a better deployment cycle
+* Back in Black
+* Visa fun
+* Awesome deploy process in month 1, but what about the next 5 years?
+* Migrating databases?
+* We will change both code and infrastructure (DB's etc.) and architecture (SOA)
+* Using gentoo 6 years ago because it worked, and then they're stuck with it
+* Our tools shape our thinking
+* "These aren't solutions, they're tools"
+* Living with our systems
+* Bootstrapping new developers can shape how they feel about the environment
+* "It's my data not Google's"
+* "I want to be able to build up an entire universe from scratch"
+* Virtual machine count should be an attribute just like which version of ruby you're using
+
 From @username1:
 
 * This layout is just a suggestion.
