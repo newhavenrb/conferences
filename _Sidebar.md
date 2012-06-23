@@ -11,6 +11,10 @@ Working together is better.  :)
 ---
 
 * [[Speakers on Twitter]]
+* Recent Conferences
+    * [[Goruco 2012]]
+    * [[RailsConf 2012]]
+    * [[Older|Home]]
 
 ---
 
