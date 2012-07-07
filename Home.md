@@ -12,6 +12,10 @@ If you like the idea of a Ruby conference wiki, please consider [[helping us|How
 
 ## Conferences
 
+### 2013
+
+* Upcoming: [[The British Ruby Conference 2013]] - March 15–16 - Manchester, UK
+
 ### 2012
 
 * Upcoming: [[Gogaruco 2012]] - September 14–15 - San Francisco, CA
