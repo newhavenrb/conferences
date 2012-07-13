@@ -18,4 +18,4 @@
 ## External Links
 
 * [Jared Ning](http://redningja.com/)
-* [Click-to-advance QuickTime movie (AKA slides)](http://code-ningja.posterous.com/railsconf-2012-minitest-slides)
+* [Video](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
