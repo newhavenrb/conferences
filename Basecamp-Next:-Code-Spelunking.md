@@ -92,14 +92,14 @@
 * [Slides](http://speakerdeck.com/u/qrush/p/basecamp-next-code-spelunking)
 * [Pow](http://pow.cx/) - Mac only :(
 * http://httpstatus.es/204
-* Github TODO make into links
-    * qrush/m - Runs tests by line number
-    * xing/wysihtml5 - Rich text editor
-    * josh/rails-behaviors
-    * balupton/History.js - Abstracts history API
-    * 37signals/bcx-api - their API docs, Markdown
-    * rails/jbuilder - Renders JSON response
-    * rails/strong\_parameters - filters parameters ("avoids the GitHub mess")
-    * 37signals/marginalia - released yesterday; adds info at end of query log messages
-    * ???/statsd TODO replace ???
-    * ???/resque-statds TODO replace ???
+* Github
+    * [qrush/m](https://github.com/qrush/m) - Runs tests by line number
+    * [xing/wysihtml5](https://github.com/xing/wysihtml5) - Rich text editor
+    * [josh/rails-behaviors](https://github.com/josh/rails-behaviors)
+    * [balupton/History.js](https://github.com/balupton/History.js) - Abstracts history API
+    * [37signals/bcx-api](https://github.com/37signals/bcx-api) - their API docs, Markdown
+    * [rails/jbuilder](https://github.com/rails/jbuilder) - Renders JSON response
+    * [rails/strong\_parameters](https://github.com/rails/strong\_parameters) - filters parameters ("avoids the GitHub mess")
+    * [37signals/marginalia](https://github.com/37signals/marginalia) - released yesterday; adds info at end of query log messages
+    * [etsy/statsd](https://github.com/etsy/statsd)
+    * [jamster/resque-statds](https://github.com/jamster/resque-statds)
