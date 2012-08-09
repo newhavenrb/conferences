@@ -1,6 +1,6 @@
 ## An open resource for an open community
 
-* This is like Wikipedia, but for Ruby conferences.
+* This is like Wikipedia, but for conferences.
 * This wiki [works offline](https://github.com/newhavenrb/conferences/wiki/_access) (which is great for conferences).  It's just a `git` repo full of Markdown files.
 * It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
 
