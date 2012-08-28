@@ -32,3 +32,7 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 ### Older
 
 Have anything you'd like to share?
+
+## External Links
+
+* [Ruby There](http://rubythere.com/) - Events of interest to Rubyists around the world
