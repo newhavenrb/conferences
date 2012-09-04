@@ -15,7 +15,7 @@
 * [[WindyCityRails 2012 Lightning Talks]]
 * [[Development and Philosophy]] ([[Steve Klabnik]], 2:15pm) @steveklabnik
 * [[Choose Your Own Adventure!]] ([[Aaron Kalin]], 3:15pm) @martinisoft
-* [[Use Rails for Your Next Clien]]tSide App - ([[Yehuda Katz]], 4:15pm) @wycats
+* [[Use Rails for Your Next Client-Side App]] - ([[Yehuda Katz]], 4:15pm) @wycats
 
 ## External Links
 
