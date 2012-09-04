@@ -2,7 +2,7 @@
 
 * This is like Wikipedia, but for conferences.
 * This wiki [works offline](https://github.com/newhavenrb/conferences/wiki/_access) (which is great for conferences).  It's just a `git` repo full of Markdown files.
-* It's more than just notes; we have summaries, discussions, slide/video/presenter links, mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
+* It's more than just notes; we have summaries, discussions, slide/video links, [[presenter info|Yehuda Katz]], mentioned gems, and more.  Miss a talk?  Can't remember the name of something?  We've got your back.
 
 Our goal is to be a **community resource**, making this information as widely usable as possible.  This means having search engine-friendly text, summaries for humans, as well as resources for the deaf, hard of hearing, and speakers of non-English languages (for example, [[summaries in Portugese|David Heinemeier Hansson Keynote PT]] and [[Japanese|David Heinemeier Hansson Keynote JA]]).
 
