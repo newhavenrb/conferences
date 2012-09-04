@@ -5,7 +5,7 @@
 * [[WindyCityRails 2012 Lightning Talks]]
 * [[Essentials of Product Development]] ([[Ryan Singer]], 2:15pm) @rjs
 * [[ruby -pi.bak -e]] - ([[Bryan Liles]], 3:15) @bryanl
-* [[Being an Excellent Software Developer]] ([[Michael "Doc" Norton]], 4:15) @docondev
+* [[Being an Excellent Software Developer]] ([[Michael Norton]], 4:15) @docondev
 
 ## Friday 2012-09-07
 
