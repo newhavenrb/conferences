@@ -1,6 +1,6 @@
 ## Thursday 2012-09-06
 
-* [[Frustration Driven Development]] ([[Evan Light]], 10:00am) @elight
+* [[Frustration Driven Development]] ([[Evan Light]], 10:00am)
 * [[Let's Make Testing Fun Again]] ([[Noel Rappin]], 11:00am) @noelrap
 * [[WindyCityRails 2012 Lightning Talks]]
 * [[Essentials of Product Development]] ([[Ryan Singer]], 2:15pm) @rjs
