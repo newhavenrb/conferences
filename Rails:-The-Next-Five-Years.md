@@ -1,4 +1,4 @@
-**Presenter:** Yehuda Katz
+**Presenter:** [[Yehuda Katz]]
 
 ## Bio
 
