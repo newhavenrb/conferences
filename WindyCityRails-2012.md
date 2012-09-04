@@ -4,8 +4,8 @@
 * [[Let's Make Testing Fun Again]] ([[Noel Rappin]], 11:00am)
 * [[WindyCityRails 2012 Lightning Talks]]
 * [[Essentials of Product Development]] ([[Ryan Singer]], 2:15pm)
-* [[ruby -pi.bak -e]] - ([[Bryan Liles]], 3:15)
-* [[Being an Excellent Software Developer]] ([[Michael Norton]], 4:15)
+* [[ruby -pi.bak -e]] - ([[Bryan Liles]], 3:15pm)
+* [[Being an Excellent Software Developer]] ([[Michael Norton]], 4:15pm)
 
 ## Friday 2012-09-07
 
