@@ -73,7 +73,7 @@
 
 * [[Ruby Rogues Live Keynote]] (Ruby Rogues Live, 9:00 am)
 * [[COOKPAD Keynote]] (COOKPAD, 9:50 am)
-* [[Rails: The Next Five Years]] (Yehuda Katz, 10:30 am)
+* [[Rails: The Next Five Years]] ([[Yehuda Katz]], 10:30 am)
 * (TODO needs notes) [[Redis Application Patterns in Rails]] (Obie Fernandez, 10:30 am)
 * [[Rails Testing for Zombies]] (Gregg Pollack, 10:30 am)
 * [[Its Not in Production Unless its Monitored]] (Joseph Ruscio, 10:30 am)
