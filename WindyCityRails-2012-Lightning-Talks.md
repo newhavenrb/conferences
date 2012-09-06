@@ -17,4 +17,4 @@ by [[Arthur Shagall]]
 by [[Turiy Dybskiy]]
 
 * [7 Principles of Meteor](http://docs.meteor.com/#sevenprinciples)
-* Live coding
+* Live coding (had a few problems)
