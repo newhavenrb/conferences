@@ -57,3 +57,4 @@ How much work for a C extension?
 
 * In Burma
 * Very little technology penetration
+* "Lemons and all that"
