@@ -33,7 +33,9 @@ From @benjaminoakes:
 
 * Problems he sees often:
     * Refactoring:  Extract Method (and extract classes in the process)
-      * "Separate nouns and verbs"
+        * "Separate nouns and verbs"
+    * The all knowing `User` class
+        * More modules?  That makes it worse!
 
 
 ## Discussion
