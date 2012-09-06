@@ -27,3 +27,6 @@ From @benjaminoakes:
         * Inquire
         * Delegate
         * Joker
+* 6 Thinking hats
+    * Edward DiBono
+    * White, Red, Black, Yellow, Green, Blue -- each represents a basic modality of thought
