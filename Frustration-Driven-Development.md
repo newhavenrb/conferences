@@ -10,6 +10,13 @@ From [[WindyCityRails 2012]]
 > 
 > We make life decisions, define new features, or refactor code when we get too annoyed by current circumstances. This is where Evan admits that he has a low tolerance for frustration. Having been frustrated a great deal during his career, Evan will discuss several anti-patterns that he has seen in code and how to use the Dark Side of the Force (frustration, anger, and rage) to escape from them.
 
+## Summary
+
+* Evan cleans up a lot of code
+* Things you should know how to do:
+    * Refactor:  extract methods, etc
+    * Delegate more (instead of splitting out modules just to `include` them again)
+
 ## Memorable Quotes
 
 * TATFT: Test All The Fucking Time
