@@ -18,3 +18,4 @@ From @benjaminoakes:
 
 * Kent Beck: "Programmers Love Writing Tests"
 * Noel liked doing JUnit, etc
+* We get satisfaction from solving problems well, but do we love writing tests?
