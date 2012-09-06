@@ -22,7 +22,7 @@ by [[Turiy Dybskiy]]
 
 ### PgPower: Rails Postrges for Power Users
 
-by [[Mike Sandler]] @stealthmk
+by [[Mike Sandler]]
 
 * At same company as [[Arthur Shagall]] (TMXCredit)
 * Schema dumping becomes hard when doing migrations with raw SQL
