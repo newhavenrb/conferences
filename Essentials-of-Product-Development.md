@@ -27,3 +27,9 @@ From @benjaminoakes:
     * 1 hr a week
     * No admin!  Has to do `User.create(...)`, but it's pretty meaningless user-value-wise
     * How do you decide what to do, if you only have an hour?
+
+What to do:
+
+* Break into pieces
+* Determine their value
+* Bring the roles together...
