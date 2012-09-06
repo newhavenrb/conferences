@@ -8,5 +8,5 @@ From @benjaminoakes:
 
 by [[Arthur Shagall]]
 
-* Enums with slugs, basically
+* ActiveRecord with slug lookup, basically
 * `Something[:foo]` gives you an `ActiveRecord` instance
