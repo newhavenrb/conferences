@@ -15,3 +15,7 @@ by [[Arthur Shagall]]
 ### Build your next app using Meteor
 
 by [[Turiy Dybskiy]]
+
+* 7 Principles of Meteor
+
+Live coding
