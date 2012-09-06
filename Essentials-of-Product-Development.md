@@ -25,3 +25,4 @@ From @benjaminoakes:
     * People didn't like posting events...
     * But now it's something they do.
     * 1 hr a week
+    * No admin!  Has to do `User.create(...)`, but it's pretty meaningless user-value-wise
