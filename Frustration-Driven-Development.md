@@ -19,19 +19,20 @@ From [[WindyCityRails 2012]]
 From @benjaminoakes:
 
 * What he does:
-  * Job: "Freelance Code Janitor"
-  * Ruby DCamp
-  * Ruby Freelancers
-  * Previously: gov't contractor, startups, etc
-  * Lately: freelancing
-  * Has seen a lot of shit
+    * Job: "Freelance Code Janitor"
+    * Ruby DCamp
+    * Ruby Freelancers
+    * Previously: gov't contractor, startups, etc
+    * Lately: freelancing
+    * Has seen a lot of shit
 
 * We love TDD
-  * Most Rubyists don't write tests (at all?)
-  * TATFT: Test All The Fucking Time
-  * Red Green Refactor... Most Rubyists don't refactor
+    * Most Rubyists don't write tests (at all?)
+    * TATFT: Test All The Fucking Time
+    * Red Green Refactor... Most Rubyists don't refactor
 
 * Refactoring tips (from _Refactoring_ and _Working with Legacy Code_)
+    * Extract Method
 
 ## Discussion
 
