@@ -10,4 +10,4 @@ From [[WindyCityRails 2012]]
 
 From @benjaminoakes:
 
-* TODO
+* Hard to talk about product development; not tangible
