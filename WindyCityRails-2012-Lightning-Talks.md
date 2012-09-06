@@ -51,4 +51,4 @@ How much work for a C extension?
 * Ruby-to-C interface (Ruby provides a lib)
 * Do some type conversion, etc
 
-bitly.comd/under_the_c
+http://bitly.comd/under_the_c
