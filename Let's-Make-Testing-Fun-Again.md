@@ -30,3 +30,4 @@ Good Rspec habits:
 
 * Name by behavior
 * Take small steps
+* Test one thing at a time; good when your business logic changes
