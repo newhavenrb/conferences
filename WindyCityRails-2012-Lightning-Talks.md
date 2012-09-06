@@ -34,6 +34,8 @@ by [[Mike Sandler]]
 
 by [[Mike Laurence]]
 
+[Slides](http://under-the-c.deepworldgame.com/)
+
 Why?
 
 * Low level C libs
@@ -51,4 +53,4 @@ How much work for a C extension?
 * Ruby-to-C interface (Ruby provides a lib)
 * Do some type conversion, etc
 
-http://bitly.comd/under_the_c
+### Coding Without Electricity
