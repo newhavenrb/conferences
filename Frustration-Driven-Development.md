@@ -32,8 +32,8 @@ From @benjaminoakes:
     * Red Green Refactor... Most Rubyists don't refactor
 
 * Refactoring tips (from _Refactoring_ and _Working with Legacy Code_)
-    * Extract Method
-    * "Separate nouns and verbs"
+    * Extract Method (and extract classes in the process)
+      * "Separate nouns and verbs"
 
 ## Discussion
 
