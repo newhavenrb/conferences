@@ -14,4 +14,7 @@ From [[WindyCityRails 2012]]
 
 From @benjaminoakes:
 
-* Job: "Freelance Code Janitor"
+* What he does:
+  * Job: "Freelance Code Janitor"
+  * Ruby DCamp
+  * Ruby Freelancers
