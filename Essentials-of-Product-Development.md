@@ -34,5 +34,4 @@ What to do:
 * Determine their value
 * Bring the roles together...
 
-
-Not:  here, designer design these screens.  Programmer, implement those designs.
+**Not:**  Here, designer design these screens.  Programmer, implement those designs.
