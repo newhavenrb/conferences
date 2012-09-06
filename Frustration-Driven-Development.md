@@ -20,3 +20,7 @@ From @benjaminoakes:
   * Ruby Freelancers
   * Previously: gov't contractor, startups, etc
   * Lately: freelancing
+  * Has seen a lot of shit
+
+* We love TDD
+  * Most Rubyists don't write tests (at all?)
