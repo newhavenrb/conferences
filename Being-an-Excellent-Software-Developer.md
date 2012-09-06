@@ -13,6 +13,7 @@ From @benjaminoakes:
     * Then everything is internalized
 
 * Polyglot:  we're polyglots because of the various tools, etc we use as Rubyists
+* Collegial
 * T-Shaped people:  deep vertical skills, empathy with the rest of the team
 * Personalities (Myers-Briggs)
 * Fist to 5
@@ -34,3 +35,9 @@ From @benjaminoakes:
     * Everyone can wear the same hat at the same time
     * Look at it from other angles
     * Helps remove conflict
+
+You're never done; keep getting better.
+
+> Anyone who stops learning is old, whether at twenty or eighty.
+
+&mdash; Henry Ford
