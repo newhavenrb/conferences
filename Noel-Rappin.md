@@ -10,3 +10,7 @@ From [WindyCityRails](http://windycityrails.org/sessions/#rappin):
 > Noel has authored five technical books including “Rails Test Prescriptions” and a forthcoming JavaScript book.
 > 
 > Noel has a Ph.D. in Educational Technology and User-Centered design from the the Georgia Institute of Technology, and has taught about web development topics around the country.
+
+## Talks
+
+* [[Let's Make Testing Fun Again]]
