@@ -41,3 +41,4 @@ Good Rspec habits:
    * Slow
    * Find ways to make just enough objects
 * Remove noise
+   * Complicated setup?  Maybe your code is too complicated to begin with
