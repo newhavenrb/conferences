@@ -33,6 +33,7 @@ From @benjaminoakes:
 
 * Refactoring tips (from _Refactoring_ and _Working with Legacy Code_)
     * Extract Method
+    * "Separate nouns and verbs"
 
 ## Discussion
 
