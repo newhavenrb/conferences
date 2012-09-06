@@ -55,6 +55,15 @@ How much work for a C extension?
 
 ### Coding Without Electricity
 
+by [[Kyle Crum]]
+
 * In Burma
 * Very little technology penetration
 * "Lemons and all that"
+* "Libraries and books... weird"
+
+Tips for life:
+
+1. Do something scary hard
+2. Fix the problem -- do what you need to and move on
+3. Look up (from your computer)
