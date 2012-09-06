@@ -26,3 +26,4 @@ From @benjaminoakes:
     * But now it's something they do.
     * 1 hr a week
     * No admin!  Has to do `User.create(...)`, but it's pretty meaningless user-value-wise
+    * How do you decide what to do, if you only have an hour?
