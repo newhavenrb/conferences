@@ -42,3 +42,4 @@ Good Rspec Habits:
    * Find ways to make just enough objects
 * Remove noise
    * Complicated setup?  Maybe your code is too complicated to begin with
+* Don't use Cucumber for unit tests
