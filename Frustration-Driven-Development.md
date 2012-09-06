@@ -20,6 +20,8 @@ From [[WindyCityRails 2012]]
     * Delegate more (instead of splitting out modules just to `include` them again)
     * Views that aren't stupid
     * Monkey patching:  bad!
+    * Demeter
+    * Don't be too clever
 
 ## Memorable Quotes
 
@@ -27,6 +29,7 @@ From [[WindyCityRails 2012]]
 
 * TATFT: Test All The Fucking Time
 * Demeter: "Don't play with your friend's privates"
+* "Be a hero in private, play nice with others"
 
 ## Notes
 
@@ -65,6 +68,11 @@ From @benjaminoakes:
     * Demeter
        * "Don't play with your friend's privates"
        * Loose coupling generally a good thing
+       * Long lines = bad sign
+    * Don't be too clever
+       * "Be a hero in private, play nice with others"
+    * Be conventional
+       * Don't get too far away from RESTful controllers, etc
 
 ## Discussion
 

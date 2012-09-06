@@ -20,4 +20,5 @@
 ## External Links
 
 * [Website](http://windycityrails.org/)
-    * [Schedule](http://windycityrails.org/schedule/)
+* [Schedule](http://windycityrails.org/schedule/)
+* [Twitter](https://twitter.com/windycityrails)
