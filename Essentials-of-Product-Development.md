@@ -20,7 +20,7 @@ From @benjaminoakes:
     * Have to break out into indiv. pieces, but still have the same co-dependence
 * How do you take on changes to something you already have?
 * When does the feature stop?
-* Diamond Way Buddhism event app (firewheel?)
+* Firewheel: Diamond Way Buddhism event app
     * Allows embedding on other sites
     * People didn't like posting events...
     * But now it's something they do.
