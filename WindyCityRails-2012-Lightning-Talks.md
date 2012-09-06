@@ -34,5 +34,15 @@ by [[Mike Sandler]]
 
 by [[Mike Laurence]]
 
-* Why?  Low level C libs
+Why?
+
+* Low level C libs
 * Faster
+
+Why not?
+
+* Documentation kinda sucks
+* Intimidating
+* etc
+
+How much work for a C extension?
