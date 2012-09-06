@@ -13,3 +13,5 @@ by [[Arthur Shagall]]
 * Gem: [`power_enum`](http://rubygems.org/gems/power_enum)
 
 ### Build your next app using Meteor
+
+Turiy @dybskiy
