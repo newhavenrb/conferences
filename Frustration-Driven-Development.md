@@ -48,6 +48,8 @@ From @benjaminoakes:
         * Remove the logic
         * Could use `Helper`s
         * Don't just throw everything there...
+        * Presenters probably should not be your first shoice (not terribly different than helpers for a single method example)...
+        * Use Helpers first, then Presenters as it gets complex
 
 ## Discussion
 
