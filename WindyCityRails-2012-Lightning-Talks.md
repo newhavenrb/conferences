@@ -8,6 +8,7 @@ From @benjaminoakes:
 
 by [[Arthur Shagall]]
 
+* At same company as [[Mike Sandler]]
 * ActiveRecord with slug lookup, basically
 * `Something[:foo]` gives you an `ActiveRecord` instance
 * Gem: [`power_enum`](http://rubygems.org/gems/power_enum)
@@ -21,4 +22,9 @@ by [[Turiy Dybskiy]]
 
 ## PgPower: Rails Postrges for Power Users
 
-by [[Mike Sandler]] 
+by [[Mike Sandler]]
+
+* At same company as [[Arthur Shagall]]
+* Schema dumping becomes hard when doing migrations with raw SQL
+* PgPower helps out; augments the migrations DSL
+* Gem: [`pg_power`](http://rubygems.org/gems/pg_power)
