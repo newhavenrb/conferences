@@ -54,6 +54,7 @@ From @benjaminoakes:
         * Use Helpers first, then Presenters as it gets complex
         * His gem: `modest_presenter`
     * Monkey patching: bad!
+        * Don't mokney patch Resque, etc.
         * Dependency injection can be a better choice sometimes...
 
 ## Discussion
