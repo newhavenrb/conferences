@@ -14,4 +14,4 @@ by [[Arthur Shagall]]
 
 ### Build your next app using Meteor
 
-Turiy @dybskiy
+Turiy Dybskiy
