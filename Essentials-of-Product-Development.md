@@ -19,3 +19,4 @@ From @benjaminoakes:
     * None exist in a vacuum
     * Have to break out into indiv. pieces, but still have the same co-dependence
 * How do you take on changes to something you already have?
+* When does the feature stop?
