@@ -85,7 +85,7 @@ From @benjaminoakes:
 ## Discussion
 
 * TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  - _@benjaminoakes_
-   * Depends on business value too _@elight_ (during QA)
+   * Depends on business value too. _@elight_ (during QA)
 * Other benefit for Presenters:  faster, Corey Haines-style tests - _@benjaminoakes_
 
 <blockquote class="twitter-tweet"><p>Thanks @<a href="https://twitter.com/elight">elight</a> for giving me an excuse to link to my Boring Software Manifesto: <a href="http://t.co/86BsDgrY" title="http://pathfindersoftware.com/2007/09/agile-the-contr/">pathfindersoftware.com/2007/09/agile-…</a></p>&mdash; Noel Rappin (@noelrap) <a href="https://twitter.com/noelrap/status/243733090445447169" data-datetime="2012-09-06T15:31:11+00:00">September 6, 2012</a></blockquote>
