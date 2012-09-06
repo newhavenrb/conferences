@@ -30,6 +30,7 @@ From [[WindyCityRails 2012]]
 * TATFT: Test All The Fucking Time
 * Demeter: "Don't play with your friend's privates"
 * "Be a hero in private, play nice with others"
+* "Frustration is just life's way of telling you you're doing something wrong"
 
 ## Notes
 
