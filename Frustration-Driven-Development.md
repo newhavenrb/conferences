@@ -22,6 +22,7 @@ From [[WindyCityRails 2012]]
 ## Memorable Quotes
 
 * TATFT: Test All The Fucking Time
+* Demeter: "Don't play with your friend's privates"
 
 ## Notes
 
@@ -57,8 +58,12 @@ From @benjaminoakes:
         * Don't mokney patch Resque, etc.
         * Dependency injection can be a better choice sometimes...
         * Do the right thing (fork, pull request, etc.)
+    * Demeter
+       * "Don't play with your friend's privates"
 
 ## Discussion
 
 * TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  - _@benjaminoakes_
 * Other benefit for Presenters:  faster, Corey Haines-style tests - _@benjaminoakes_
+
+https://twitter.com/tablexi/status/243730388650979328
