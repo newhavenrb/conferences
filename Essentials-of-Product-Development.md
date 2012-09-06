@@ -11,3 +11,4 @@ From [[WindyCityRails 2012]]
 From @benjaminoakes:
 
 * Hard to talk about product development; not tangible
+* Not satisfying until you can go into the app as a user and experience it
