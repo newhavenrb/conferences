@@ -22,6 +22,7 @@ From [[WindyCityRails 2012]]
     * Monkey patching:  bad!
     * Demeter
     * Don't be too clever
+    * Be conventional
 
 ## Memorable Quotes
 
