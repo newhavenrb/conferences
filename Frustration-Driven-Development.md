@@ -18,3 +18,5 @@ From @benjaminoakes:
   * Job: "Freelance Code Janitor"
   * Ruby DCamp
   * Ruby Freelancers
+  * Previously: gov't contractor, startups, etc
+  * Lately: freelancing
