@@ -44,6 +44,7 @@ From @benjaminoakes:
     * The all knowing `User` class
         * More modules?  That makes it worse!
         * "Get a lackey"  **Delegate!**  `SimpleDelegator`
+    * Views that aren't stupid
 
 ## Discussion
 
