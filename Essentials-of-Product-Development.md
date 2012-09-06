@@ -15,3 +15,4 @@ From @benjaminoakes:
 * How do we bring developers, designers, and product together and always have them be awesome?
     * "Not ready to ship yet..."
 * Needs to be fun
+* Lots of roles... almost like an org chart
