@@ -52,3 +52,5 @@ What to do:
 * They use Basecamp todos...
 
 Project management isn't about Agile or Gantt charts, it's about working together to make your process works better
+
+1 designer, 1 or 2 developers
