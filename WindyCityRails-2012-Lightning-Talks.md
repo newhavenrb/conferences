@@ -32,3 +32,6 @@ by [[Mike Sandler]]
 ### Under the C: Ruby C Extensions
 
 by [[Mike Laurence]]
+
+* Why?  Low level C libs
+* Faster
