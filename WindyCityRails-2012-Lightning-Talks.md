@@ -28,3 +28,7 @@ by [[Mike Sandler]]
 * Schema dumping becomes hard when doing migrations with raw SQL
 * PgPower helps out; augments the migrations DSL
 * Gem: [`pg_power`](http://rubygems.org/gems/pg_power)
+
+### Under the C: Ruby C Extensions
+
+by [[Mike Laurence]]
