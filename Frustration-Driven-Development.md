@@ -23,6 +23,7 @@ From [[WindyCityRails 2012]]
     * Demeter
     * Don't be too clever
     * Be conventional
+    * Do what you care about
 
 ## Memorable Quotes
 
@@ -68,15 +69,16 @@ From @benjaminoakes:
         * Dependency injection can be a better choice sometimes...
         * Do the right thing (fork, pull request, etc.)
     * Demeter
-       * "Don't play with your friend's privates"
-       * Loose coupling generally a good thing
-       * Long lines = bad sign
+        * "Don't play with your friend's privates"
+        * Loose coupling generally a good thing
+        * Long lines = bad sign
     * Don't be too clever
-       * "Be a hero in private, play nice with others"
+        * "Be a hero in private, play nice with others"
     * Be conventional
-       * Don't get too far away from RESTful controllers, etc
-       * Make meaningful names, not just combinations of words you already use
-
+        * Don't get too far away from RESTful controllers, etc
+        * Make meaningful names, not just combinations of words you already use
+    * Do what you care about
+        * **Damien Katz:** worked on CouchDB, got laid off (had to sell house, etc), kept working on CouchDB, and it worked out...  worked on what he believes in.
 ## Discussion
 
 * TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  - _@benjaminoakes_
