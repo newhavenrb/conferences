@@ -36,4 +36,4 @@ From @benjaminoakes:
 
 ## Discussion
 
-* TATFT... Aren't there times that it doesn't make sense to test?  Isn't that one of the things Kent Beck says?  _@benjaminoakes_
+* TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  _@benjaminoakes_
