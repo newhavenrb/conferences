@@ -21,3 +21,7 @@ From @benjaminoakes:
 * How do you take on changes to something you already have?
 * When does the feature stop?
 * Diamond Way Buddhism event app (firewheel?)
+    * Allows embedding on other sites
+    * People didn't like posting events...
+    * But now it's something they do.
+    * 1 hr a week
