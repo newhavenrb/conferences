@@ -32,3 +32,4 @@ From @benjaminoakes:
     * White, Red, Black, Yellow, Green, Blue -- each represents a basic modality of thought
     * Works because it is less offensive
     * Everyone can wear the same hat at the same time
+    * Look at it from other angles
