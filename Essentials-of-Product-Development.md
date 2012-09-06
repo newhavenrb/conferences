@@ -47,3 +47,4 @@ What to do:
 
 * Instead, focus on one thing.
 * Maybe don't split out by role...
+* ...split it out by what value you're providing
