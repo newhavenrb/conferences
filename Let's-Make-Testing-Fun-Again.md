@@ -40,3 +40,4 @@ Good Rspec habits:
 * Don't make too many objects (e.g. make 100 to make sure #101 acts differently)
    * Slow
    * Find ways to make just enough objects
+* Remove noise
