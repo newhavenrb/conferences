@@ -16,4 +16,6 @@ From @benjaminoakes:
 * T-Shaped people:  deep vertical skills, empathy with the rest of the team
 * Personalities (Myers-Briggs)
 * Fist to 5
-   * You throw out your vote (0 - 5) on the count of three.
+    * You throw out your vote (0 - 5) on the count of three.
+* Collaboration 8
+    * 8 levels of how much you care, you vote separately on what you want yourself
