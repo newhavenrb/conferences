@@ -46,6 +46,7 @@ From @benjaminoakes:
         * "Get a lackey"  **Delegate!**  `SimpleDelegator`
     * Views that aren't stupid
         * Remove the logic
+        * Could use `Helper`s
 
 ## Discussion
 
