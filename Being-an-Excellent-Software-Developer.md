@@ -33,3 +33,4 @@ From @benjaminoakes:
     * Works because it is less offensive
     * Everyone can wear the same hat at the same time
     * Look at it from other angles
+    * Helps remove conflict
