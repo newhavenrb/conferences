@@ -12,6 +12,12 @@ From [[WindyCityRails 2012]]
 
 ## Summary
 
+* Testing best practices
+
+## Memorable Quotes
+
+* "Correctness is a side effect" - Kent Beck
+
 ## Notes
 
 From @benjaminoakes:
