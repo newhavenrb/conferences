@@ -73,6 +73,7 @@ From @benjaminoakes:
        * "Be a hero in private, play nice with others"
     * Be conventional
        * Don't get too far away from RESTful controllers, etc
+       * Make meaningful names, not just combinations of words you already use
 
 ## Discussion
 
