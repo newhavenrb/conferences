@@ -42,3 +42,4 @@ What to do:
 
 * Here, designer design these screens.  Programmer, implement those designs.
 * "Scratch the ground in a bunch of places and you get nowhere.  Focus in one place, and you make a hole."
+* Instead, focus on one thing.
