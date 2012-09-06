@@ -20,3 +20,8 @@ From @benjaminoakes:
 * Noel liked doing JUnit, etc
 * We get satisfaction from solving problems well, but do we love writing tests?
     * Do we just love saying we wrote tests?
+
+What makes testing nice:
+
+* Feedback
+* Communication (longer term)
