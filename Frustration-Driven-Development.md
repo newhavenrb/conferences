@@ -31,6 +31,8 @@ From @benjaminoakes:
   * TATFT: Test All The Fucking Time
   * Red Green Refactor... Most Rubyists don't refactor
 
+* Refactoring tips (from _Refactoring_ and _Working with Legacy Code_)
+
 ## Discussion
 
 * TATFT... Aren't there times that it doesn't make sense to test?  Isn't that one of the things Kent Beck says?  _@benjaminoakes_
