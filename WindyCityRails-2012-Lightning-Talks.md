@@ -4,4 +4,8 @@ From [[WindyCityRails 2012]]
 
 From @benjaminoakes:
 
-### PowerEnum - [[Arthur Shagall]]
+### PowerEnum 
+
+by [[Arthur Shagall]]
+
+
