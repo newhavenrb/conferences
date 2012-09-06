@@ -21,6 +21,8 @@ From [[WindyCityRails 2012]]
 
 ## Memorable Quotes
 
+<blockquote class="twitter-tweet"><p>"test, refactor, delegate" - @<a href="https://twitter.com/elight">elight</a> <a href="https://twitter.com/search/%23windycityrails">#windycityrails</a> <a href="https://twitter.com/search/%23frustrationdrivendevelopment">#frustrationdrivendevelopment</a></p>&mdash; Table XI (@tablexi) <a href="https://twitter.com/tablexi/status/243730388650979328" data-datetime="2012-09-06T15:20:27+00:00">September 6, 2012</a></blockquote>
+
 * TATFT: Test All The Fucking Time
 * Demeter: "Don't play with your friend's privates"
 
@@ -65,5 +67,3 @@ From @benjaminoakes:
 
 * TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  - _@benjaminoakes_
 * Other benefit for Presenters:  faster, Corey Haines-style tests - _@benjaminoakes_
-
-<blockquote class="twitter-tweet"><p>"test, refactor, delegate" - @<a href="https://twitter.com/elight">elight</a> <a href="https://twitter.com/search/%23windycityrails">#windycityrails</a> <a href="https://twitter.com/search/%23frustrationdrivendevelopment">#frustrationdrivendevelopment</a></p>&mdash; Table XI (@tablexi) <a href="https://twitter.com/tablexi/status/243730388650979328" data-datetime="2012-09-06T15:20:27+00:00">September 6, 2012</a></blockquote>
