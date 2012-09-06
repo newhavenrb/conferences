@@ -44,3 +44,7 @@ Good Rspec Habits:
    * Complicated setup?  Maybe your code is too complicated to begin with
 * Don't use Cucumber for unit tests
 * Make single assertions... when it makes sense
+
+### External Links
+
+* [Slides](https://speakerdeck.com/u/noelrap/p/lets-make-testing-fun-again)
