@@ -18,3 +18,4 @@ From @benjaminoakes:
 * Lots of roles (design, dev, marketing, etc)... almost like an org chart
     * None exist in a vacuum
     * Have to break out into indiv. pieces, but still have the same co-dependence
+* How do you take on changes to something you already have?
