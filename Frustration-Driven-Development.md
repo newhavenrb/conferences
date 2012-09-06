@@ -2,6 +2,8 @@ From [[WindyCityRails 2012]]
 
 **Presenter:** [[Evan Light]]
 
+**Presentation:** http://elight.github.com/fdd/
+
 ## Abstract
 
 > Everyone draws inspiration and motivation from different sources.
