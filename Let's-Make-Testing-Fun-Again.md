@@ -23,5 +23,5 @@ From @benjaminoakes:
 
 What makes testing nice:
 
-* Feedback
+* Feedback:  learn something about your code
 * Communication (longer term)
