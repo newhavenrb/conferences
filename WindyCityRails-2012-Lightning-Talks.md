@@ -46,3 +46,5 @@ Why not?
 * etc
 
 How much work for a C extension?
+
+* `extconf.rb`, `mkmf` (happens as a part of the gem install)
