@@ -19,3 +19,11 @@ From @benjaminoakes:
     * You throw out your vote (0 - 5) on the count of three.
 * Collaboration 8
     * 8 levels of how much you care, you vote separately on what you want yourself
+        * Tell
+        * Sell
+        * Consult
+        * Agree
+        * Advise
+        * Inquire
+        * Delegate
+        * Joker
