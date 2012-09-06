@@ -12,7 +12,7 @@ Working together is better.  :)
 
 * [[Speakers on Twitter]]
 * Recent Conferences
-    * Next: [[WindyCityRails 2012]]
+    * Now: [[WindyCityRails 2012]]
     * [[Goruco 2012]]
     * [[RailsConf 2012]]
 
