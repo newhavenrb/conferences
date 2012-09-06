@@ -29,6 +29,7 @@ From @benjaminoakes:
 * We love TDD
   * Most Rubyists don't write tests (at all?)
   * TATFT: Test All The Fucking Time
+  * Red Green Refactor... Most Rubyists don't refactor
 
 ## Discussion
 
