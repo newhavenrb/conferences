@@ -33,3 +33,6 @@ What to do:
 * Break into pieces
 * Determine their value
 * Bring the roles together...
+
+
+Not:  here, designer design these screens.  Programmer, implement those designs.
