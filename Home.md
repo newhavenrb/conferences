@@ -20,7 +20,7 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 
 * Upcoming: [[BarcampICR 2012]] - Iowa City, IA
 * Upcoming: [[Gogaruco 2012]] - September 14–15 - San Francisco, CA
-* **Tomorrow!** [[WindyCityRails 2012]] - September 6-7 - Chicago, IL
+* **Today!** [[WindyCityRails 2012]] - September 6-7 - Chicago, IL
 * [[Goruco 2012]] - June 23 - New York, NY
 * [[RailsConf 2012]] - April - Austin, TX
 
