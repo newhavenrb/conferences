@@ -10,8 +10,10 @@ From [[WindyCityRails 2012]]
 > 
 > Let’s fix that. We’ll show some notorious testing joy-killers, like slow tests, hard to read tests, tests that paper over bad designs rather than driving new ones. And we’ll squash them, and regain testing delight.
 
+## Summary
+
 ## Notes
 
 From @benjaminoakes:
 
-* TODO
+* Kent Beck: "Programmers Love Writing Tests"
