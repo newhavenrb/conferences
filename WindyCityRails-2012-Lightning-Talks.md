@@ -55,4 +55,5 @@ How much work for a C extension?
 
 ### Coding Without Electricity
 
-
+* In Burma
+* Very little technology penetration
