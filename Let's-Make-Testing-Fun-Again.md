@@ -26,6 +26,7 @@ What makes testing nice:
 * Feedback:  learn something about your code
 * Communication (longer term)
 
-Rspec habits:
+Good Rspec habits:
 
-* Best: name by behavior
+* Name by behavior
+* Take small steps
