@@ -13,3 +13,4 @@ From @benjaminoakes:
 * Hard to talk about product development; not tangible
 * Not satisfying until you can go into the app as a user and experience it
 * How do we bring developers, designers, and product together and always have them be awesome?
+    * "Not ready to ship yet..."
