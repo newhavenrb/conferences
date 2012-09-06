@@ -50,3 +50,5 @@ What to do:
 * ...split it out by what value you're providing
 * + discipline
 * They use Basecamp todos...
+
+Project management isn't about Agile or Gantt charts, it's about working together to make your process works better
