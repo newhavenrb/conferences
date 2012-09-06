@@ -16,3 +16,5 @@ From @benjaminoakes:
     * "Not ready to ship yet..."
 * Needs to be fun
 * Lots of roles (design, dev, marketing, etc)... almost like an org chart
+    * None exist in a vacuum
+    * Have to break out into indiv. pieces, but still have the same co-dependence
