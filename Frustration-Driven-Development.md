@@ -14,4 +14,4 @@ From [[WindyCityRails 2012]]
 
 From @benjaminoakes:
 
-* TODO
+* Job: "Freelance Code Janitor"
