@@ -8,7 +8,7 @@ From @benjaminoakes:
 
 by [[Arthur Shagall]]
 
-* At same company as [[Mike Sandler]]
+* At same company as [[Mike Sandler]] (TMXCredit)
 * ActiveRecord with slug lookup, basically
 * `Something[:foo]` gives you an `ActiveRecord` instance
 * Gem: [`power_enum`](http://rubygems.org/gems/power_enum)
