@@ -88,5 +88,3 @@ TODO
 * [@drnic] (http://www.twitter.com/drnic)
 * [Chef Conf Slides from Anthony Shortland on Chef] (http://www.slideshare.net/AnthonyShortland/dto-chefconf2012)
 * [Slides]https://speakerdeck.com/u/drnic/p/future-of-deployment-goruco-2012)
-* [Video](http://www.example.com/)
-* [Some related website](http://www.example.com/)
