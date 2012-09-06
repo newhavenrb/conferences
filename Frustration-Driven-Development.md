@@ -45,6 +45,7 @@ From @benjaminoakes:
         * More modules?  That makes it worse!
         * "Get a lackey"  **Delegate!**  `SimpleDelegator`
     * Views that aren't stupid
+        * Remove the logic
 
 ## Discussion
 
