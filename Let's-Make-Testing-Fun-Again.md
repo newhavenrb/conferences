@@ -32,7 +32,7 @@ What makes testing nice:
 * Feedback:  learn something about your code
 * Communication (longer term)
 
-Good Rspec habits:
+Good Rspec Habits:
 
 * Name by behavior
 * Take small steps
