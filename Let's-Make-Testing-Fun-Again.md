@@ -31,6 +31,6 @@ Good Rspec habits:
 * Name by behavior
 * Take small steps
 * Test one thing at a time; good when your business logic changes
-* Don't make too many objects (e.g. make 100 to make sure 101 acts differently)
+* Don't make too many objects (e.g. make 100 to make sure #101 acts differently)
    * Slow
    * Find ways to make just enough objects
