@@ -30,3 +30,5 @@ From @benjaminoakes:
 * 6 Thinking hats
     * Edward DiBono
     * White, Red, Black, Yellow, Green, Blue -- each represents a basic modality of thought
+    * Works because it is less offensive
+    * Everyone wears the same hat at the same time
