@@ -22,9 +22,9 @@ by [[Turiy Dybskiy]]
 
 ### PgPower: Rails Postrges for Power Users
 
-by [[Mike Sandler]]
+by [[Mike Sandler]] @stealthmk
 
-* At same company as [[Arthur Shagall]]
+* At same company as [[Arthur Shagall]] (TMXCredit)
 * Schema dumping becomes hard when doing migrations with raw SQL
 * PgPower helps out; augments the migrations DSL
 * Gem: [`pg_power`](http://rubygems.org/gems/pg_power)
