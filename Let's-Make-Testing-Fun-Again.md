@@ -17,3 +17,4 @@ From [[WindyCityRails 2012]]
 From @benjaminoakes:
 
 * Kent Beck: "Programmers Love Writing Tests"
+* Liked doing JUnit, etc
