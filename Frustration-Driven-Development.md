@@ -33,6 +33,7 @@ From [[WindyCityRails 2012]]
 * Demeter: "Don't play with your friend's privates"
 * "Be a hero in private, play nice with others"
 * "Frustration is just life's way of telling you you're doing something wrong"
+* "Keep Flying and Stay Shiny" (Firefly)
 
 ## Notes
 
@@ -63,7 +64,7 @@ From @benjaminoakes:
         * Don't just throw everything there...
         * Presenters probably should not be your first shoice (not terribly different than helpers for a single method example)...
         * Use Helpers first, then Presenters as it gets complex
-        * His gem: `modest_presenter`
+        * His gem: [`modest_presenter`](https://github.com/elight/modest_presenter)
     * Monkey patching: bad!
         * Don't mokney patch Resque, etc.
         * Dependency injection can be a better choice sometimes...
@@ -79,7 +80,11 @@ From @benjaminoakes:
         * Make meaningful names, not just combinations of words you already use
     * Do what you care about
         * **Damien Katz:** worked on CouchDB, got laid off (had to sell house, etc), kept working on CouchDB, and it worked out...  worked on what he believes in.
+        * Love what you do
+
 ## Discussion
 
 * TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  - _@benjaminoakes_
 * Other benefit for Presenters:  faster, Corey Haines-style tests - _@benjaminoakes_
+
+<blockquote class="twitter-tweet"><p>Thanks @<a href="https://twitter.com/elight">elight</a> for giving me an excuse to link to my Boring Software Manifesto: <a href="http://t.co/86BsDgrY" title="http://pathfindersoftware.com/2007/09/agile-the-contr/">pathfindersoftware.com/2007/09/agile-…</a></p>&mdash; Noel Rappin (@noelrap) <a href="https://twitter.com/noelrap/status/243733090445447169" data-datetime="2012-09-06T15:31:11+00:00">September 6, 2012</a></blockquote>
