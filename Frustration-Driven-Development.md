@@ -16,6 +16,8 @@ From [[WindyCityRails 2012]]
 * Things you should know how to do:
     * Refactor:  extract methods, etc
     * Delegate more (instead of splitting out modules just to `include` them again)
+    * Views that aren't stupid
+    * Monkey patching:  bad!
 
 ## Memorable Quotes
 
@@ -50,7 +52,10 @@ From @benjaminoakes:
         * Don't just throw everything there...
         * Presenters probably should not be your first shoice (not terribly different than helpers for a single method example)...
         * Use Helpers first, then Presenters as it gets complex
+        * His gem: `modest_presenter`
+    * Monkey patching: bad!
 
 ## Discussion
 
-* TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  _@benjaminoakes_
+* TATFT... Aren't there times that it doesn't make sense to test?  (Isn't that one of the things Kent Beck says?)  - _@benjaminoakes_
+* Other benefit for Presenters:  faster, Corey Haines-style tests - _@benjaminoakes_
