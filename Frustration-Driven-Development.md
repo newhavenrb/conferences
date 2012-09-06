@@ -56,6 +56,7 @@ From @benjaminoakes:
     * Monkey patching: bad!
         * Don't mokney patch Resque, etc.
         * Dependency injection can be a better choice sometimes...
+        * Do the right thing (fork, pull request, etc.)
 
 ## Discussion
 
