@@ -18,3 +18,7 @@ by [[Turiy Dybskiy]]
 
 * [7 Principles of Meteor](http://docs.meteor.com/#sevenprinciples)
 * Live coding (had a few problems)
+
+## PgPower: Rails Postrges for Power Users
+
+by [[Mike Sandler]] 
