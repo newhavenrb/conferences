@@ -36,6 +36,7 @@ From @benjaminoakes:
         * "Separate nouns and verbs"
     * The all knowing `User` class
         * More modules?  That makes it worse!
+        * "Get a lackey"  **Delegate!**  `SimpleDelegator`
 
 ## Discussion
 
