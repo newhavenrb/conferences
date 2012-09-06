@@ -64,6 +64,7 @@ From @benjaminoakes:
         * Do the right thing (fork, pull request, etc.)
     * Demeter
        * "Don't play with your friend's privates"
+       * Loose coupling generally a good thing
 
 ## Discussion
 
