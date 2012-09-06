@@ -47,6 +47,7 @@ From @benjaminoakes:
     * Views that aren't stupid
         * Remove the logic
         * Could use `Helper`s
+        * Don't just throw everything there...
 
 ## Discussion
 
