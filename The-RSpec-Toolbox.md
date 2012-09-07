@@ -90,5 +90,6 @@ end
 
 describe 'something that writes files', :fakefs => true edo
   # ...
+  # Or:  `include FakeFS::SpecHelpers`
 end
 ```
