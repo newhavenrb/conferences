@@ -17,4 +17,6 @@ From @benjaminoakes:
 
 How can we help beginners?
 
+* Context
 * Analogical thinking: give analogies
+* Transform what you know into what you don't know
