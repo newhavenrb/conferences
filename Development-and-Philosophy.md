@@ -2,6 +2,10 @@ From [[WindyCityRails 2012]]
 
 **Presenter:** [[Steve Klabnik]]
 
+## Memorable Quotes
+
+* "Logic'd!'
+
 ## Notes
 
 From @benjaminoakes:
@@ -21,3 +25,5 @@ Philosophy
     * We use Ruby 'cause it's beautiful
     * How can you be critical about this?  
 * Logic
+    * You committed a fallacy... "Logic'd!'
+    * Sometimes we care too much about this
