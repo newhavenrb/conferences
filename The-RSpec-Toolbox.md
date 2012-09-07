@@ -35,7 +35,7 @@ example = it 'does something' { }
     * Sometimes you don't want it to rerun everything again (e.g., if you TDD)... so, **focus**!
 
 ```ruby
-# FIXME: there's a config line that goes with this
+config.filter_run_including :focus => true
 
 it 'something', :focus => true do
 end
@@ -142,5 +142,4 @@ With `--options` at the command line, you can point to a file that has:
 (pro tip about how to organize; see slides)
 
 ### Expectations
-
 
