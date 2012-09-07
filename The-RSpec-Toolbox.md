@@ -35,6 +35,6 @@ example = it 'does something' { }
     * Sometimes you don't want it to rerun everything again (e.g., if you TDD)... so, **focus**!
 
 ```ruby
-it 'accepts deposits', focus: true do
+it 'accepts deposits', :focus => true do
 end
 ```
