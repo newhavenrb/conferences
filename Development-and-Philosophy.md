@@ -6,6 +6,7 @@ From [[WindyCityRails 2012]]
 
 * "Logic'd!'
 * "We aspire to be evil as well"
+* "You will be a total newb again"
 
 ## Notes
 
