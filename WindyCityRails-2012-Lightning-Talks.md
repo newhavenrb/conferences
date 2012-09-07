@@ -86,3 +86,5 @@ by [[Greg Baugues]]
 * Trained chef by a friend he met in a apt complex
 * Clean your space after you're done
 * Writing down your list is the best way to get organized
+* Done with his task:  ctrl-w all the way down and then start on the next task
+* Simple tools are better.  1 great knife.
