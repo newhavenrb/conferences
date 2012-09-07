@@ -38,3 +38,12 @@ example = it 'does something' { }
 it 'something', :focus => true do
 end
 ```
+
+Or exclude stuff:
+
+```rspec
+config.filter_run_excluding :slow => true
+
+it 'something', :slow => true do
+end
+```
