@@ -10,3 +10,7 @@ From @benjaminoakes:
 * Rspec2
     * Micronaut:  Each example has its own metadata
     * New basis for Rspec
+
+```ruby
+example_group = describe Something { }
+```
