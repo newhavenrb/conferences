@@ -18,3 +18,5 @@ example_group = describe Something { }
 ```ruby
 example = it 'does something' { }
 ```
+
+Used in output at command line, etc.
