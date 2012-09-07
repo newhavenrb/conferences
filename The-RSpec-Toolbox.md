@@ -114,11 +114,23 @@ rspec --tag ~slow:true
 rspec --tag ~slow:true --tag issue:123 # Might have been written down incorrectly
 ```
 
-Local options: `./.rspec
+#### Local options: `./.rspec`
 
 ```
 --color
 --order random
 --format progress
 --profile
+```
+
+#### Global options: `~/.rspec`
+
+Works the same way
+
+#### Single run options
+
+With `--options` at the command line, you can point to a file that has:
+
+```
+--tag issue:123
 ```
