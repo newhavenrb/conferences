@@ -36,3 +36,7 @@ What keeps you from learning?
 * Waiting to Receive... waiting for Rails 4
 
 Boils down to "fear"
+
+What to do:
+
+* Encourage them to learn something...  a playground
