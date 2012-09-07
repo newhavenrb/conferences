@@ -23,6 +23,5 @@ How can we help beginners?
 
 What keeps you from learning?
 
-* Doubt...
-    * "isn't Ruby just a scripting language"
-    * I'm not smart enough
+* Doubt...  "isn't Ruby just a scripting language"
+* Self-Exclusion...  I'm not smart enough
