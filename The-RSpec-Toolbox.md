@@ -96,3 +96,10 @@ end
 ```
 
 Can also alias `example` (as `it`, `xit`, `pending`, etc.)
+
+### Config stuff
+
+```ruby
+c.default_path = "./behavior" # normally "./spec"
+c.fail_fast = true
+```
