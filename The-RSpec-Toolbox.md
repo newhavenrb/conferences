@@ -4,3 +4,6 @@ From [[WindyCityRails 2012]]
 
 ## Notes
 
+From @benjaminoakes:
+
+* DRW Trading Group (hiring)
