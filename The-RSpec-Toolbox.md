@@ -19,4 +19,5 @@ example_group = describe Something { }
 example = it 'does something' { }
 ```
 
-Used in output at command line, etc.
+* Used in output at command line, etc.
+* rspec has formatter methods
