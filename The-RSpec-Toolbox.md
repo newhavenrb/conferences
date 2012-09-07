@@ -80,3 +80,15 @@ RSpec::configure do |c|
   # Gist: if in this path, include this behavior
 end
 ```
+
+Or just always use, say, `FakeFS`:
+
+```ruby
+RSpec.configure do |config|
+  config.include FakeFS::SpecHelpers, :fakefs
+end
+
+describe 'something that writes files', :fakefs => true edo
+  # ...
+end
+```
