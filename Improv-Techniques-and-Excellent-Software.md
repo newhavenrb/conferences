@@ -9,3 +9,4 @@ From @benjaminoakes:
 * Professional improv (he was on stage yesterday morning)
 * Doesn't have software experience, specifically
 * "Yes, and..."
+* 2 stories to the middle person
