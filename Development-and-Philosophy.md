@@ -8,3 +8,4 @@ From @benjaminoakes:
 
 * A lot of info can be found on Wikipedia (see there for more)
 * **Human**ities are important
+* Refinement -- you see more the second time you read something
