@@ -28,3 +28,11 @@ What keeps you from learning?
 * Skill piling... a list of acronyms.  Doing it for HR.
 * Real exclusion... the gender gap (from http://slideshare.net/pragdave/rubyconfx-keynote)
     * Even worse in FLOSS
+* Lack of Patience
+    * When's the last time you were given a math word-problem-style problem to solve with software?  (Exactly the right amount of information, no more no less.)  Almost never!
+    * Have to be patient
+* No Help
+* Losing Money
+* Waiting to Receive... waiting for Rails 4
+
+Boils down to "fear"
