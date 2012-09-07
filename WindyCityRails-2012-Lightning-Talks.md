@@ -18,15 +18,16 @@ by [[Arthur Shagall]]
 
 ### Build your next app using Meteor
 
-by [[Turiy Dybskiy]]
+by [Yuriy Dybskiy](http://dybskiy.com)
 
-* Live coding (had a few problems)
+* Live coding, created a simple demo app in under 1 minute
 
 #### External Links
 
-* [7 Principles of Meteor](http://docs.meteor.com/#sevenprinciples)
-* [Demo](http://wcr.meteor.com/)
+* [Meteor official site](http://www.meteor.com/)
+* [Demo App](http://wcr.meteor.com/)
 * [Slides](https://speakerdeck.com/u/dybskiy/p/windycityrails-dot-org-meteor-lightning-talk)
+* [Security in Meteor](http://britto.co/blog/security_with_meteor)
 
 ### PgPower: Rails Postrges for Power Users
 
