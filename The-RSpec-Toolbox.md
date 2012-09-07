@@ -21,3 +21,5 @@ example = it 'does something' { }
 
 * Used in output at command line, etc.
 * rspec has formatter methods (there's an protocol with an interface)
+    * Example formatters:
+        * documentation
