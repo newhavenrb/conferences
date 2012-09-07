@@ -140,3 +140,9 @@ by [[Tim Galeckas]]
     * Not changeable while running
     * Declarative (they use YAML)
     * Can be overridden (for passwords, etc)
+
+### What I learned in real-life software development
+
+by [[Marshall Shen]]
+
+* Went to University of Iowa :)
