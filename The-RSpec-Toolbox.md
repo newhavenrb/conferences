@@ -138,3 +138,5 @@ With `--options` at the command line, you can point to a file that has:
 ```
 --tag issue:123
 ```
+
+### Expectations
