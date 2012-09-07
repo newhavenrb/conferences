@@ -91,5 +91,6 @@ end
 describe 'something that writes files', :fakefs => true edo
   # ...
   # Or:  `include FakeFS::SpecHelpers`
+  # TODO: can you have it output something too?  Like in the `documentation` formatter?
 end
 ```
