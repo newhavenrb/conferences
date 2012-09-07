@@ -73,4 +73,10 @@ describe Thing, :if => ENV['GENERATE'] do
 end
 ```
 
-Can have specialized groups (what they do in `rspec-rails`):
+Can have specialized groups (what they do in `rspec-rails` -- look at it for examples):
+
+```ruby
+RSpec::configure do |c|
+  # Gist: if in this path, include this behavior
+end
+```
