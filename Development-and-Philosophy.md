@@ -17,3 +17,7 @@ Philosophy
 
 * "love of wisdom"
 * Get to the root causes of things -- _general and fundamental_ problems
+* Aestetics
+    * We use Ruby 'cause it's beautiful
+    * How can you be critical about this?  
+* Logic
