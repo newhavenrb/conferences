@@ -30,3 +30,8 @@ Philosophy
 * Epistomology (sp?)
     * What can we / can't we know?
     * Laplace's Demon: know all particles at state 0, all laws of physics, can you predict state N?  (Is the world deterministic?)
+* Metaphysics
+    * physics of physics
+    * What stuff is there?
+    * Abstract
+    * Ontology
