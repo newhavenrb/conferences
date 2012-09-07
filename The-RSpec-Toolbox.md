@@ -108,7 +108,9 @@ c.fail_fast = true
 
 `rspec` can be much faster than `rake` because of how `rake` loads (with a sub shell)
 
-tag is for filters
+#### Options
+
+`--tag` is for filters
 
 ```bash
 rspec --tag focus:true
