@@ -11,5 +11,6 @@ From @benjaminoakes:
 * "Yes, and..."
 * 2 stories to the middle person
 * One word story
+    * Guidelines make it easier
 
 etc (watch the video) :)
