@@ -147,3 +147,5 @@ by [[Marshall Shen]]
 
 * Went to University of Iowa :)
 * Not like a class...
+* Professor: assignment -> code -> defined solution
+* Now: more time doing customer stuff, figuring out what you need to do.  Takes discipline.
