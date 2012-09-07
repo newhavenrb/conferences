@@ -72,3 +72,5 @@ end
 describe Thing, :if => ENV['GENERATE'] do
 end
 ```
+
+Can have specialized groups (what they do in `rspec-rails`):
