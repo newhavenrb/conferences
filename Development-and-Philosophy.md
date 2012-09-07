@@ -5,3 +5,6 @@ From [[WindyCityRails 2012]]
 ## Notes
 
 From @benjaminoakes:
+
+* A lot of info can be found on Wikipedia (see there for more)
+* **Human**ities are important
