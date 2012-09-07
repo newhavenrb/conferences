@@ -8,7 +8,7 @@ From [[WindyCityRails 2012]]
 
 ## Summary
 
-https://twitter.com/elight/status/243797651517231105
+<blockquote class="twitter-tweet"><p>.@<a href="https://twitter.com/rjs">rjs</a>' message seems to be partially distillable down to focus on delivering minimum viable features, one at a time, that add business value</p>&mdash; Evan Light (@elight) <a href="https://twitter.com/elight/status/243797651517231105" data-datetime="2012-09-06T19:47:44+00:00">September 6, 2012</a></blockquote>
 
 ## Memorable Quotes
 
