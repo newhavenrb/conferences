@@ -62,3 +62,15 @@ end
 it 'something', :focus do
 end
 ```
+
+conditional filters
+
+```ruby
+describe Thing, :if => RUBY_VERSON >= "1.9" do
+end
+```
+
+```ruby
+describe Thing, :if => ENV['GENERATE'] do
+end
+```
