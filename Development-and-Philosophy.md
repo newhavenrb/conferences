@@ -12,3 +12,8 @@ From @benjaminoakes:
 * Rewarding to study this
 * Monocultures = death
     * Get out of your filter bubble
+
+Philosophy
+
+* "love of wisdom"
+* Get to the root causes of things -- _general and fundamental_ problems
