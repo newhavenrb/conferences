@@ -38,3 +38,4 @@ Philosophy
     * Ontology (used in NLP, etc): determine what types of things there are.  OOP is building an ontology.
     * Lots of work in whether a particular ontology is a good ontology... why don't we look at those 100s of years of work (as software people)?
 * Lots of philosophy, linguistics, thinking about thinking...  better to watch a video if available :)
+* "Protological control" (Google, Microsoft, Facebook, Twitter, etc)
