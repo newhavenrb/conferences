@@ -79,6 +79,8 @@ Tips for life:
 2. Fix the problem -- do what you need to and move on
 3. Look up (from your computer)
 
+---
+
 ### Work Clean: Code Like a Chef
 
 by [[Greg Baugues]]
