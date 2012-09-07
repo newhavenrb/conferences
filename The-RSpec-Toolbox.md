@@ -11,7 +11,7 @@ From @benjaminoakes:
     * Micronaut:  Each example has its own metadata
     * New basis for Rspec
 
-Command-like pattern:
+Basically the Command pattern:
 
 ```ruby
 example_group = describe Something { }
