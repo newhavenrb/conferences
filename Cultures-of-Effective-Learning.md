@@ -25,3 +25,4 @@ What keeps you from learning?
 
 * Doubt...  "isn't Ruby just a scripting language"
 * Self-Exclusion...  I'm not smart enough
+* Skill piling... a list of acronyms
