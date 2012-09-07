@@ -133,9 +133,10 @@ http://gist.github.com/3668333
 by [[Tim Galeckas]]
 
 * They've had probs with configuration (staging vs prod, etc)
-* He made a gem called `hierarchical_config`
+* He made a gem called `hierarchical_config` https://github.com/timgaleckas/hierarchical_config
 * Scalable is:
     * In source control...
     * Should be seen outside of where it's used
     * Not changeable while running
     * Declarative (they use YAML)
+    * Can be overridden (for passwords, etc)
