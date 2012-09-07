@@ -106,6 +106,8 @@ c.fail_fast = true
 
 ### Command Line
 
+`rspec` can be much faster than `rake` because of how `rake` loads (with a sub shell)
+
 tag is for filters
 
 ```bash
