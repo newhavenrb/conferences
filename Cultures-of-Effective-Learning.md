@@ -27,3 +27,4 @@ What keeps you from learning?
 * Self-Exclusion...  I'm not smart enough
 * Skill piling... a list of acronyms.  Doing it for HR.
 * Real exclusion... the gender gap (from http://slideshare.net/pragdave/rubyconfx-keynote)
+    * Even worse in FLOSS
