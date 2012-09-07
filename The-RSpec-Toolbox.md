@@ -106,4 +106,5 @@ c.fail_fast = true
 
 ### Command Line
 
+```ruby
 ```
