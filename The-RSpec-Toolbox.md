@@ -30,3 +30,5 @@ example = it 'does something' { }
             * `Instafail`: shows you error messages early
             * `Fuubar`
             * nyan cat
+* Focusing tools
+    * `autotest`, `guard` -- monitor changes to files and re-run specs
