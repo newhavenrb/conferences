@@ -26,3 +26,5 @@ example = it 'does something' { }
     * Example formatters:
         * Documentation
         * HTML
+        * 3rd party
+            * `Instafail`: shows you error messages early
