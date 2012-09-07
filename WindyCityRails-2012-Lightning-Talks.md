@@ -83,4 +83,6 @@ Tips for life:
 
 by [[Greg Baugues]]
 
-@greggyb #workclean #codelikeachef
+* Trained chef by a friend he met in a apt complex
+* Clean your space after you're done
+* Writing down your list is the best way to get organized
