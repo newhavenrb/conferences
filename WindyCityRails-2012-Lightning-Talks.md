@@ -88,3 +88,54 @@ by [[Greg Baugues]]
 * Writing down your list is the best way to get organized
 * Done with his task:  ctrl-w all the way down and then start on the next task
 * Simple tools are better.  1 great knife.
+* Execute well on simple ingredients => great result
+
+### Rules of 3
+
+by [[David Demaree]]
+
+* Refactoring vs prefactoring
+* They're doing an i18n project
+* Not sure how to approach well
+* DRY vs too much abstraction -- DRY is just a guideline!  (Repeating can be okay)
+* Don't design for what you think you're going to need (YAGNI)
+* The Rule of 3:  3 repetitions => maybe refactor
+* Organizing code can be a blessingGi
+* Don't make assumptions
+
+### Lean Development
+
+(his slides didn't work -- missed name, etc)
+
+* vs Agile
+* Lazy
+* Lean is a part of little-a agile: courage, people, customers... but kanban
+* Lean -- work efficiently
+* Lean is "pull"; waterfall, scrumm is "push"
+* seattle.newcoffee.org (sp?)
+
+### It's About Time
+
+by [[Benjamin Fleischer]]
+
+* UTC
+* Date formats...
+* `require 'time'` and you get more methods
+* RFCs
+* @avdi says use `iso8601`: human readable, machine sortable
+* Gotchas:  DST, localized times, leap seconds, different parsing in Ruby 1.8 / 1.9 (maybe `strptime`)
+* Don't scheudle cronjobs between 1 and 3 am -- time may not exist
+
+http://gist.github.com/3668333
+
+### Scalable Configuration
+
+by [[Tim Galeckas]]
+
+* They've had probs with configuration (staging vs prod, etc)
+* He made a gem called `hierarchical_config`
+* Scalable is:
+    * In source control...
+    * Should be seen outside of where it's used
+    * Not changeable while running
+    * Declarative (they use YAML)

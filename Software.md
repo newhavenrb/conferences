@@ -12,4 +12,4 @@ To work offline, you'll at least need `git` and a text editor.
 
 ## Utilities
 
-* [SparkleShare](https://github.com/hbons/sparkleshare) - Like Dropbox, but working with git repositories.  Makes wiki "live blogging" easier.
+* [SparkleShare](https://github.com/hbons/sparkleshare) - Like Dropbox, but working with git repositories.  Makes wiki "live blogging" easier (but with a lot of commits -- notice how @benjaminoakes has 800+)
