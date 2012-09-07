@@ -11,3 +11,4 @@ From @benjaminoakes:
 * Refinement -- you see more the second time you read something
 * Rewarding to study this
 * Monocultures = death
+    * Get out of your filter bubble
