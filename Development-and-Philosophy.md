@@ -34,4 +34,4 @@ Philosophy
     * physics of physics
     * What stuff is there?
     * Abstract
-    * Ontology
+    * Ontology (used in NLP, etc): determine what types of things there are.  OO is building an ontology.
