@@ -13,4 +13,4 @@ From [[WindyCityRails 2012]]
 From @benjaminoakes:
 
 * What can help you grow (as a tree)?  Knowing how CO2 works?  Or adding sunlight?
-* Was on MS
+* Was on the Microsoft platform
