@@ -14,3 +14,7 @@ From @benjaminoakes:
 ```ruby
 example_group = describe Something { }
 ```
+
+```ruby
+example = it 'does something' { }
+```
