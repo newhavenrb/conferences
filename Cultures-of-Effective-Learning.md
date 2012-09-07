@@ -40,3 +40,4 @@ Boils down to "fear"
 What to do:
 
 * Encourage them to learn something...  a playground
+* Build something real... not just theory (scales, etc in music)
