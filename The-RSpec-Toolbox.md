@@ -47,3 +47,16 @@ config.filter_run_excluding :slow => true
 it 'something', :slow => true do
 end
 ```
+
+Shorthand:
+
+```ruby
+# Will be default in the future...
+config.treat_symbols_as_metadata_keys_with_true_values = true
+
+it 'something', :slow do
+end
+
+it 'something', :focus do
+end
+```
