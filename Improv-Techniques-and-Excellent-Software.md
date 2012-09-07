@@ -7,4 +7,5 @@ From [[WindyCityRails 2012]]
 From @benjaminoakes:
 
 * Professional improv (he was on stage yesterday morning)
+* Doesn't have software experience, specifically
 * "Yes, and..."
