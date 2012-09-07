@@ -103,3 +103,7 @@ Can also alias `example` (as `it`, `xit`, `pending`, etc.)
 c.default_path = "./behavior" # normally "./spec"
 c.fail_fast = true
 ```
+
+### Command Line
+
+```
