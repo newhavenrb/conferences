@@ -35,3 +35,4 @@ Philosophy
     * What stuff is there?
     * Abstract
     * Ontology (used in NLP, etc): determine what types of things there are.  OOP is building an ontology.
+    * Lots of work in whether a particular ontology is a good ontology
