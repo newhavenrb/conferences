@@ -10,3 +10,6 @@ From @benjaminoakes:
 * Doesn't have software experience, specifically
 * "Yes, and..."
 * 2 stories to the middle person
+* One word story
+
+etc (watch the video) :)
