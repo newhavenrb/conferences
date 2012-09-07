@@ -35,6 +35,8 @@ example = it 'does something' { }
     * Sometimes you don't want it to rerun everything again (e.g., if you TDD)... so, **focus**!
 
 ```ruby
+# FIXME: there's a config line that goes with this
+
 it 'something', :focus => true do
 end
 ```
