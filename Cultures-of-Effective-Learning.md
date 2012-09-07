@@ -14,3 +14,7 @@ From @benjaminoakes:
 
 * What can help you grow (as a tree)?  Knowing how CO2 works?  Or adding sunlight?
 * Was on the Microsoft platform
+
+How can we help beginners?
+
+* Analogical thinking: give analogies
