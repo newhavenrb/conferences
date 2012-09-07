@@ -106,5 +106,9 @@ c.fail_fast = true
 
 ### Command Line
 
-```ruby
+tag is for filters
+
+```bash
+rspec --tag focus:true
+rspec --tag ~slow:true
 ```
