@@ -112,3 +112,13 @@ tag is for filters
 rspec --tag focus:true
 rspec --tag ~slow:true
 rspec --tag ~slow:true --tag issue:123 # Might have been written down incorrectly
+```
+
+Local options: `./.rspec
+
+```
+--color
+--order random
+--format progress
+--profile
+```
