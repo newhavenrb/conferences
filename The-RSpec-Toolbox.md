@@ -28,3 +28,5 @@ example = it 'does something' { }
         * HTML
         * 3rd party
             * `Instafail`: shows you error messages early
+            * `Fuubar`
+            * nyan cat
