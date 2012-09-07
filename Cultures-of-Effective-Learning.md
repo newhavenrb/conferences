@@ -20,3 +20,9 @@ How can we help beginners?
 * Context
 * Analogical thinking: give analogies
 * Transform what you know into what you don't know
+
+What keeps you from learning?
+
+* Doubt...
+    * "isn't Ruby just a scripting language"
+    * I'm not smart enough
