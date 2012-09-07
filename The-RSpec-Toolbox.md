@@ -94,3 +94,5 @@ describe 'something that writes files', :fakefs => true edo
   # TODO: can you have it output something too?  Like in the `documentation` formatter?
 end
 ```
+
+Can also alias `example` (as `it`, `xit`, `pending`, etc.)
