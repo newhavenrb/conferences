@@ -34,14 +34,14 @@ example = it 'does something' { }
     * `autotest`, `guard` -- monitor changes to files and re-run specs
     * Sometimes you don't want it to rerun everything again (e.g., if you TDD)... so, **focus**!
 
-```rspec
+```ruby
 it 'something', :focus => true do
 end
 ```
 
 Or exclude stuff:
 
-```rspec
+```ruby
 config.filter_run_excluding :slow => true
 
 it 'something', :slow => true do
