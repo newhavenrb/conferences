@@ -105,6 +105,10 @@ by [[David Demaree]]
 * Organizing code can be a blessingGi
 * Don't make assumptions
 
+#### External Links
+
+* [Slides](https://speakerdeck.com/u/ddemaree/p/rules-of-three)
+
 ### Lean Development
 
 (his slides didn't work -- missed name, etc)
