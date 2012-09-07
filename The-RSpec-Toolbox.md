@@ -32,3 +32,9 @@ example = it 'does something' { }
             * nyan cat
 * Focusing tools
     * `autotest`, `guard` -- monitor changes to files and re-run specs
+    * Sometimes you don't want it to rerun everything again (e.g., if you TDD)... so, **focus**!
+
+```ruby
+it 'accepts deposits', focus: true do
+end
+```
