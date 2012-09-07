@@ -2,8 +2,6 @@ From [[WindyCityRails 2012]]
 
 ## Notes
 
-From @benjaminoakes:
-
 ### PowerEnum 
 
 by [[Arthur Shagall]]
@@ -18,7 +16,7 @@ by [[Arthur Shagall]]
 
 ### Build your next app using Meteor
 
-by [Yuriy Dybskiy](http://dybskiy.com)
+by [[Yuriy Dybskiy]]
 
 * Live coding, created a simple demo app in under 1 minute
 
