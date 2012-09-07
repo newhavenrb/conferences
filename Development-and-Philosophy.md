@@ -5,6 +5,7 @@ From [[WindyCityRails 2012]]
 ## Memorable Quotes
 
 * "Logic'd!'
+* "We aspire to be evil as well"
 
 ## Notes
 
