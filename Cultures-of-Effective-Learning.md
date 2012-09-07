@@ -26,4 +26,4 @@ What keeps you from learning?
 * Doubt...  "isn't Ruby just a scripting language"
 * Self-Exclusion...  I'm not smart enough
 * Skill piling... a list of acronyms.  Doing it for HR.
-* Real exclusion... the gender gap (from slideshare.net/pragdave/rubyconfx-keynote
+* Real exclusion... the gender gap (from http://slideshare.net/pragdave/rubyconfx-keynote)
