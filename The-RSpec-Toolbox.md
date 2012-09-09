@@ -2,6 +2,10 @@ From [[WindyCityRails 2012]]
 
 **Presenter:** [[David Chelimsky]]
 
+## Summary
+
+Lots of tips and tricks for using RSpec, including some lesser known ones (like tags/filters) and easier command line usage.
+
 ## Notes
 
 From @benjaminoakes:
