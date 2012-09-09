@@ -6,6 +6,8 @@ From [[WindyCityRails 2012]]
 
 The software world doesn't exist in a void;  we can learn a lot by studying philosophy and related subjects.  This talk was wide ranging, and was more about planting the seed of knowledge than anything.
 
+Watching the video is encouraged, once available.
+
 ## Memorable Quotes
 
 * "Logic'd!'
