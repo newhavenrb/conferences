@@ -28,7 +28,7 @@ More `zsh`:
 
 Old school:
 
-* wc sed awk find awk (TODO and others?)
+* wc sed awk find awk (TODO and more?  I think there were 7)
 
 Others:
 
