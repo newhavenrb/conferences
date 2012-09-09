@@ -22,6 +22,7 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 * Upcoming: [[Gogaruco 2012]] - September 14–15 - San Francisco, CA
 * [[WindyCityRails 2012]] - September 6-7 - Chicago, IL
 * [[Goruco 2012]] - June 23 - New York, NY
+* [[RedDotRubyConf 2012]] - May - Singapore
 * [[RailsConf 2012]] - April - Austin, TX
 
 ### 2011
