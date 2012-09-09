@@ -30,6 +30,10 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 * [[RubyConf 2011]] - New Orleans, LA
 * [[RailsConf 2011]] - Baltimore, MD
 
+### 2010
+
+* [[RubyConf 2010]]
+
 ### Older
 
 Have anything you'd like to share?
