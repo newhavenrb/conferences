@@ -28,13 +28,13 @@ More `zsh`:
 
 Old school:
 
-* wc sed awk find awk (TODO and more?  I think there were 7)
+* `wc`, `sed`, `awk`, `find`, `awk` (TODO and more?  I think there were 7)
 
 Others:
 
-* pipebench
-* tcpdump
-* curl, httpie
+* `pipebench`
+* `tcpdump`
+* `curl`, `httpie`
 
 ## External Links
 
