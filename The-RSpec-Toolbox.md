@@ -33,7 +33,7 @@ example = it 'does something' { }
         * 3rd party
             * `Instafail`: shows you error messages early
             * `Fuubar`
-            * nyan cat
+            * [NyanCat](http://www.mattsears.com/articles/2011/11/16/nyan-cat-rspec-formatter)
 * Focusing tools
     * `autotest`, `guard` -- monitor changes to files and re-run specs
     * Sometimes you don't want it to rerun everything again (e.g., if you TDD)... so, **focus**!
