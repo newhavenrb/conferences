@@ -1,9 +1,5 @@
 **Presenter:** [[Yehuda Katz]]
 
-## Bio
-
-> Yehuda Katz is a member of the Ember.js, Ruby on Rails and jQuery Core Teams; he spends his daytime hours at the startup he founded, Tilde Inc.. Yehuda is the co-author of the best-selling jQuery in Action, Rails 3 in Action, and is a contributor to Ruby in Practice. He spends most of his time hacking on open source--his main projects, along with others, like Thor, Handlebars and Janus--or traveling the world doing evangelism work. He blogs at http://yehudakatz.com and can be found on Twitter as @wycats.
-
 ## Abstract
 
 > When Ruby on Rails burst onto the scene in 2004, it excited web developers by showing that you could build next generation apps quickly and efficiently. Rails was one of the first frameworks to embrace Ajax, giving everyone the power to do partial page updates and whiz-bang effects in a conventional, effortless way.
