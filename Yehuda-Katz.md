@@ -1,4 +1,3 @@
-* Name: Yehuda Katz
 * Twitter: [@wycats](http://twitter.com/wycats)
 * Website: http://yehudakatz.com
 
