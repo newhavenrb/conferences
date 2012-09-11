@@ -1,10 +1,4 @@
-**Presenter:** [Steve Klabnik](http://twitter.com/steveklabnik)
-
-## Bio
-
-> Steve is a Ruby Hero, software craftsman, and an aspiring digital humanities scholar. He spends most of his time contributing to Open Source projects, and maintains both Hackety Hack and Shoes. He also teaches classes with Jumpstart Lab.
-
-@steveklabnik, http://steveklabnik.com
+**Presenter:** [[Steve Klabnik]]
 
 ## Abstract
 
