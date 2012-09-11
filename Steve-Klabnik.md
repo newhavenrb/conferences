@@ -1,3 +1,5 @@
+![Gravatar](http://gravatar.com/avatar/233c279c012ebac792aaa805f966cbc7)
+
 * Twitter: [@steveklabnik](http://twitter.com/steveklabnik)
 * Website: http://steveklabnik.com
 
