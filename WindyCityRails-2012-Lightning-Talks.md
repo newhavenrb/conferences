@@ -38,6 +38,7 @@ by [[Mike Sandler]]
 #### External Links
 
 * Gem: [`pg_power`](http://rubygems.org/gems/pg_power)
+* [Slides](http://tmxcredit.com/tech-blog/pgpower-lightning-talk-slides-from-windycityrails-2012-are-up/)
 
 ### Under the C: Ruby C Extensions
 
