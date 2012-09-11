@@ -46,9 +46,6 @@ Haskell doesn't evaluate functions until their results are needed.  He makes a `
 ## External Links
 
 * [Slides](http://speakerdeck.com/u/michaelfairley/p/extending-ruby-with-ruby) (has speaker notes)
-* Speaker
-    * [GitHub](http://github.com/michaelfairley)
-    * [Twitter](http://twitter.com/michaelfairley)
 * `method_decorators`
     * [Code on GitHub](https://github.com/michaelfairley/method_decorators)
     * [RubyGem](https://rubygems.org/gems/method_decorators)
