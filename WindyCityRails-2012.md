@@ -1,3 +1,5 @@
+<!-- TODO: add Creative Commons photo http://windycityrails.org/theme/4c3cd16ddabe9d11a800014d/stylesheets/images/sscc-jeff-zoline-photo.jpg (see link from their page to Flickr) -->
+
 ## Thursday 2012-09-06
 
 * [[Frustration Driven Development]] ([[Evan Light]], 10:00am)
