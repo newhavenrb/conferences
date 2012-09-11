@@ -1,4 +1,4 @@
-**Presenter:** Michael Fairley
+**Presenter:** [[Michael Fairley]]
 
 ## Bio
 
