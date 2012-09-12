@@ -1,6 +1,8 @@
 If your Internet connection is good, all you need is a web browser.
 
-To work offline, you'll at least need `git` and a text editor.
+Otherwise, this wiki [works offline](https://github.com/newhavenrb/conferences/wiki/_access) (which is great for conferences). It's just a `git` repo full of Markdown files.
+
+At minimum, you just need `git` and your favorite text editor.
 
 ## Plugins
 
