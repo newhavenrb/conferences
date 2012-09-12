@@ -14,4 +14,4 @@ At minimum, you just need `git` and your favorite text editor.
 
 ## Utilities
 
-* [SparkleShare](https://github.com/hbons/sparkleshare) - Like Dropbox, but working with git repositories.  Makes wiki "live blogging" easier (but with a lot of commits -- notice how @benjaminoakes has 800+)
+* [SparkleShare](http://www.sparkleshare.org/) ([on GitHub](https://github.com/hbons/sparkleshare))- Like Dropbox, but working with git repositories.  Makes wiki "live blogging" easier (but with a lot of commits -- notice how @benjaminoakes has 800+)
