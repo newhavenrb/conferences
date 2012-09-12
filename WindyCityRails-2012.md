@@ -1,4 +1,5 @@
-<!-- TODO: add Creative Commons photo http://windycityrails.org/theme/4c3cd16ddabe9d11a800014d/stylesheets/images/sscc-jeff-zoline-photo.jpg (see link from their page to Flickr) -->
+[[zol87_south_shore_cultural_center_cc-by-nc-2.0.jpeg|alt=The South Shore Cultural Center in Austin, TX]]
+<br /><small>Photos: [Jeff Zoline](http://www.flickr.com/photos/zol87/) (CC BY-NC 2.0)</small>
 
 ## Thursday 2012-09-06
 
