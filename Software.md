@@ -1,8 +1,8 @@
 If your Internet connection is good, all you need is a web browser.
 
-Otherwise, this wiki [works offline](https://github.com/newhavenrb/conferences/wiki/_access) (which is great for conferences). It's just a `git` repo full of Markdown files.
+Otherwise, this wiki [works offline](https://github.com/newhavenrb/conferences/wiki/_access) (which is great for conferences -- you know how WiFi can be).
 
-At minimum, you just need `git` and your favorite text editor.
+It's just a `git` repo full of Markdown files.  At minimum, you just need `git` and your favorite text editor.  Just fork like normal and make a pull request (or request push access from newhavenrb).
 
 ## Plugins
 
