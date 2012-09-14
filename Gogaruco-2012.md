@@ -1,3 +1,5 @@
+## Friday 2012-09-14
+
 * [[People Patterns]] ([[Joe O'Brien]])
 * [[Writing a Rails Engine]] ([[Erik Michaels-Ober]])
 * [[Sugar-Free Ruby: An Experiment in Object-first Teaching]] ([[Steven Ragnarök]])
@@ -7,6 +9,8 @@
 * [[Go Ahead, Make a Mess]] ([[Sandi Metz]])
 * [[Why Is A Math Proof Like A Unit Test?]] ([[Daniela Wellisz]])
 * [[Cargo Cult Web Performance Optimization]] ([[Ilya Grigorik]])
+
+## Saturday 2012-09-15
 
 * [[Code to Joy]] ([[Avdi Grimm]])
 * [[Deploy, Scale and Sleep at Night with JRuby]] ([[Joe Kutner]])
