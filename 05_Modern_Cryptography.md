@@ -82,4 +82,3 @@ If all requests aren't behind ssl, an unprotected request can intercept
 a request and change the DOM.
 
 
-
