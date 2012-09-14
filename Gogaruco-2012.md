@@ -1,4 +1,4 @@
-**want to see an example?**  Take a look at [[windyCityRails 2012]] (just last week).
+**Want to see an example?**  Take a look at [[WindyCityRails 2012]] (just last week).
 
 ## Friday 2012-09-14
 
