@@ -11,3 +11,4 @@ From [[RailsConf 2012]]:
 
 * [[Rails: The Next Five Years]]
 * [[Use Rails for Your Next Client-Side App]]
+* [[Cruft and Technical Debt: A Long View]]
