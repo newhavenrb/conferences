@@ -14,14 +14,8 @@ Go Ahead, Make a Mess (Sandi Metz)
 Grasping Complexity with Both Hands (Glenn Vanderburg)
 Why Is A Math Proof Like A Unit Test? (Daniela Wellisz)
 RubyMotion: Rubyizing iOS development (Amit Kumar)
-5:30 – 6:00 PM	Cargo Cult Web Performance Optimization
-Ilya Grigorik	Mega Rails
-Jack Danger Canty
-6:00 PM and on	Afterparty!
-Hosted by Square	Afterparty!
-Hosted by Yammer
-
-
+Cargo Cult Web Performance Optimization (Ilya Grigorik)
+Mega Rails (Jack Danger Canty)
 
 ## External Links
 
