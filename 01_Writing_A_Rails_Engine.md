@@ -1,15 +1,14 @@
 # Writing a Rails Engine
-## Erik Michael-Ober
-## @sferik
+## Erik Michael-Ober [@sferik](https://twitter.com/sferik)
 
-## Introduction
+### Introduction
 All a rails app is a bootable rails engine
 Engines do not know how to start themselves, but are everything else, MVC
 Engines can plugin to engines
 
 Rails engines are fundamental building block of rails
 
-## History
+### History
 James Adam is creator of rails engines
 1st commit to engines plugin was 10/31/2005
 Rails 0.14.2
@@ -25,13 +24,12 @@ Slice out bits of functionality and use across multiple applications
 Rails and Merb merge on 12/23/2008
 Concepts of merb, including engines, were built into rails core
 
-The Russian Doll Pattern
-Carlhuda
+The Russian Doll Pattern by Carl Lerche and Yehuda Katz
 Apps within apps
 
 Ruby Summer of Code 2010
 Piotr Sarnacki used Russian Doll Pattern and implemented it in rails
-Mentor by Carl, Jose and Yahuda
+Mentored by Carl, Yehuda and Jose Valim 
 
 Bogdan Gaza rebuilt MerbAdmin
 
@@ -40,14 +38,14 @@ Painpoint was assets which had to be copied via rake task or generator
 
 Rails 3.1 Asset Pipeline, FTW
 Puts every engine in load path for assets
-Looks in all engines to load an assets
+Looks in all engines to load assets
 Engines became first class citizens!
 
 Rails 3.2 deprecates vendor/plugins
 The way forward is engines
 Rails 4, engines are the only way
 
-## Write a Rails engine
+### Write a Rails engine
 
 Easy, same as writing a rails app
 `$ rails plugin new my_engine --mountable`
@@ -63,20 +61,19 @@ very similar file system
  * Routes are defined in engine and engine is mounted in client app
    routes at a certain path
 
-## Testing a Rails engine
+### Testing a Rails engine
 
 Best practice is 
  1. to create a dummy app in test directory
  2. mount engine in dummy app
  3. test the dummy app
 
-For more info: guides.rubyonrails.org/engines.html
+For more info: http://guides.rubyonrails.org/engines.html
 
-## When should I write an engine?
+### When should I write an engine?
 
 1. If you are at a point and you have two apps which need to share logic,
 slice out the logic into a gem to be shared.
-
 2. A base like scaffolding, assets or template which can be mounted
 into multiple apps and reused
 
