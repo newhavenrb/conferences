@@ -76,3 +76,6 @@ From [[Gogaruco 2012]]
   * Invoke Dynamic improvements at VM-level
   * Compiler improvements at Ruby level
 
+## External Links
+
+* [An experiment in static compilation of Ruby: FASTRUBY!](http://blog.headius.com/2012/09/an-experiment-in-static-compilation-of.html)
