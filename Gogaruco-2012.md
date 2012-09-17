@@ -8,7 +8,7 @@
 * [[Linguistic Potluck: Crowdsourcing Localization in Rails]] ([[Heather Rivers]])
 * [[High Performance Ruby]] ([[Charles Nutter]])
 * [[Modern Cryptography]] ([[John Downey]])
-* [[Go Ahead, Make a Mess]] ([[Sandi Metz]])
+* [[Go Ahead Make a Mess]] ([[Sandi Metz]])
 * [[Why Is A Math Proof Like A Unit Test?]] ([[Daniela Wellisz]])
 * [[Cargo Cult Web Performance Optimization]] ([[Ilya Grigorik]])
 
