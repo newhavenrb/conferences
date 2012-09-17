@@ -2,6 +2,8 @@
 ## Carina C. Zona
 @cczona
 
+https://speakerdeck.com/u/cczona/p/gogaruco-2012-v1
+
 ## Intro
 Relationships are really hard!
 Facebook had to double its options
