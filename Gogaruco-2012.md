@@ -1,5 +1,3 @@
-**Want to see an example?**  Take a look at [[WindyCityRails 2012]] (just last week).
-
 ## Friday 2012-09-14
 
 * [[People Patterns]] ([[Joe O'Brien]])
