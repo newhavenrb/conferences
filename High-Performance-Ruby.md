@@ -79,3 +79,4 @@ From [[Gogaruco 2012]]
 ## External Links
 
 * [An experiment in static compilation of Ruby: FASTRUBY!](http://blog.headius.com/2012/09/an-experiment-in-static-compilation-of.html)
+* [Slides](http://www.slideshare.net/CharlesNutter/high-performance-ruby-golden-gate-rubyconf-2012) ([Alternate](https://speakerdeck.com/u/headius/p/high-performance-ruby-golden-gate-rubyconf))
