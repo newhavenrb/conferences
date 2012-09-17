@@ -4,7 +4,7 @@
 
 * [[People Patterns]] ([[Joe O'Brien]])
 * [[Writing a Rails Engine]] ([[Erik Michaels-Ober]])
-* [[Sugar-Free Ruby: An Experiment in Object-first Teaching]] ([[Steven Ragnarök]])
+* [[Sugar-Free Ruby An Experiment in Object-first Teaching]] ([[Steven Ragnarök]])
 * [[Linguistic Potluck: Crowdsourcing Localization in Rails]] ([[Heather Rivers]])
 * [[High Performance Ruby]] ([[Charles Nutter]])
 * [[Modern Cryptography]] ([[John Downey]])
