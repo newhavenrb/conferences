@@ -18,7 +18,7 @@ A problem we introduce is normally cleaned up by sysadmin
 This typically happens during deployment
 
 There problems are root in general architecture (see slides)
-Handle multiple HTTP requests with proxy infront of pool of resources
+Handle multiple HTTP requests with proxy in front of pool of resources
 Problems:
   1. Memory growth, more copies means heavier system
   2. Now we have to balance processes, introduce god to monitor and
@@ -34,7 +34,7 @@ Concurrency is hard! Matz eliminates it to keep developers happy.
 The JVM solves the Concurrency problem.
   Single process
   Single application instance
-  Multiple exection threads handle request
+  Multiple execution threads handle request
   More like train!
 
   This scales easier and is more performant (see slides for data)
@@ -49,7 +49,7 @@ How do I handle deployment?
   * Package entire application into a single file as a unit for
     deployment
   * Clustering
-  * 3 Stragties implemented by 3 different technologies: Warbler,
+  * 3 Strategies implemented by 3 different technologies: Warbler,
     Trinidad and Torquebox
 
 ### Warbler
@@ -57,14 +57,14 @@ war produces a war file which is a zip file that runs a bunch of conventions to 
 tomcat or jetty can run war files
 
 Inversion of control
-  Container is run and deploy applicationt to it
+  Container is run and deploy applications to it
   We can hot deploy without bringing down server!
-  Can deploy multiple applications into a single server which allows speration of conerns by small components
+  Can deploy multiple applications into a single server which allows separation of concerns by small components
 
 Pros
   War files are very portable!
   War files can be encrypted
-  Deployment process is quickier because there is no need for bundle install
+  Deployment process is quicker because there is no need for bundle install
   War files are very consistent
   
 Cons
@@ -82,10 +82,10 @@ Cons
   We aren't maximizing the JVM because it feels more like MRI
 
 ### Torquebox
-Feels comfortable and fimiliar but flexes the JVM
+Feels comfortable and familiar but flexes the JVM
 Installs as gem and gives you a tool
 Real power comes its subsystems which make it an application server
-It can run messaging or daemens; its not just for web apps
+It can run messaging or daemons; its not just for web apps
 The most powerful subsystem is a Cluster
 
 *Cluster is a set of servers running in parrallel and communicating with each other*

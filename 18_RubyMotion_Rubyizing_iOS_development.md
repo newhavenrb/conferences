@@ -12,7 +12,7 @@ Neighbors envy and developer happiness
 
 Fork of MacRuby
 Compiles into optimized machine code
-Automaice object memory allocation and reclaim
+Automatic object memory allocation and reclaim
 Compiles the interfaces built in Interface Builder of XCode
 Ruby-runtime tightly integrated 
 Share ancestors as Objective-C
@@ -26,7 +26,7 @@ Interact directly with SDK
 ## Myths
 Can I code using RubyMotion without the pain to learn Cocoa Framework?
 
-PhoneGap like tools ar emuch easier to learn what advantage do I get with RubyMotion?
+PhoneGap like tools are much easier to learn what advantage do I get with RubyMotion?
 PhoneGap
   Pros
     Very easy to get started because its fimiliar
@@ -68,7 +68,7 @@ MacBacon has almost all of RSpec API
   before/after blocks
   View testing
 
-## Continuos Integration
+## Continuous Integration
 Dev > GitHub web hook > Jenkins CI > Locally installed App Store > Install/update devices
 
 ## Using External Tools

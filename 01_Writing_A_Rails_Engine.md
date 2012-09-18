@@ -34,7 +34,7 @@ Mentored by Carl, Yehuda and Jose Valim
 Bogdan Gaza rebuilt MerbAdmin
 
 Rails 3.0 uses engines!  
-Painpoint was assets which had to be copied via rake task or generator
+Pain point was assets which had to be copied via rake task or generator
 
 Rails 3.1 Asset Pipeline, FTW  
 Puts every engine in load path for assets  

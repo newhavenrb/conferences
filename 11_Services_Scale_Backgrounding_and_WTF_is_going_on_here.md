@@ -3,9 +3,9 @@
 @davetron5000
 
 ## Introduction
-Story about developers making resonable decisions and move from monolithic app to services, but things will still go wrong!
+Story about developers making reasonable decisions and move from monolithic app to services, but things will still go wrong!
 Real world experience running payments on LivingSocial
-Syncronous Rails app moved to Async
+Synchronous Rails app moved to Async
 
 ## Business Example
 People signup with simple Controller!
@@ -23,7 +23,7 @@ We can scale and its flexible
 Resque.enqueue throws a timeout
 What is the state? 
   User account exists but can't be validated because email has not been sent
-  Constriant on user.email, so the user cant recreate their account
+  Constraint on user.email, so the user cant recreate their account
 How do we fix?
   $ bundle exec rails console production
 NO!!!
@@ -41,7 +41,7 @@ We can fix problem with retrying which is better(ish)
 *Acquisition*
 Their users will be our users!
 Send welcome emails to new users and validate emails
-After we create this person, we wan't to run business logic for sending email
+After we create this person, we want to run business logic for sending email
 We can use `after_create` hook and controller looses transaction block
 Nothing with this is wrong, but it feels like there is something better
 

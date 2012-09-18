@@ -5,7 +5,7 @@
 ## Simple
 We love simplicity
 We like simple code that does the task we require
-Simplier code and designs are easier to read, extend, change and debug
+Simpler code and designs are easier to read, extend, change and debug
 Its much harder to come up with simple designs!
 
 ## Binary
@@ -23,7 +23,7 @@ Reaction from a good programmer: Spots are generalizations of strips!
 
 ## Complex
 Sometimes we love complexity
-There is a certian type of complexity which don't have bounds
+There is a certain type of complexity which don't have bounds
 We have no hope of pinning down all contexts needed to solve the problem
 Even the best solutions have severe downsides and we must choose a bad solution
 We tend to coil from these complex problems
@@ -57,7 +57,7 @@ Electrical and Chemical Engineering are more iterative and like Software
 *Sucks - Rocks Dichotomy*
 We are so very black or white
 It must be one or the other
-We have a tendency to dismass a new idea as soon as we find one flaw with it
+We have a tendency to dismiss a new idea as soon as we find one flaw with it
 However, the new idea doesn't have to be perfect to be good
 TDD is not a proof; its for gaining more confidence in your system
 
@@ -71,7 +71,7 @@ You must include context
 *Giving up*
 We give up and resort to magic
 "We need to find good designers"
-You haven't taken time to understand someone elses objections
+You haven't taken time to understand someone else's objections
 
 ## Grasping Complexity
 Useful techniques for dealing with complexity so we can make good decisions even in the face of weak evidence
@@ -99,12 +99,12 @@ Find suboptimal solution for edge cases
 
 *Think in terms of costs and benefits*
 Is technical debt keeping you from doing stuff? Wrong Question.
-You can still get stuff done, but those solutions are more costly as compared to solutions without techincal debt
+You can still get stuff done, but those solutions are more costly as compared to solutions without technical debt
 
 *Exploit emergent phenomena*
 We have simple flawed rules which back each other up
 Look for small rules which exert themselves at higher scale
-Optimize for a good feeback loop and fix things when they go wrong instead of trying to make sure nothing goes wrong
+Optimize for a good feedback loop and fix things when they go wrong instead of trying to make sure nothing goes wrong
 Mistakes that get through a small scale have a chance to get cost higher on the scale (see XP slide)
 
 *Deeper analysis*

@@ -91,7 +91,7 @@ Helps student link in their minds exactly what is happening!
 Kernal.puts is better than puts since mixins are _too complicated_ for now  
 Keep the student on the narrative instead of going down a tangent  
 
-### What have we introducted at this point?
+### What have we introduced at this point?
 
 Objects have methods which accept and send messages  
 Introduce Classes except Class is a Class which creates new Classes

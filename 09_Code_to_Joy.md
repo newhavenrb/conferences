@@ -4,7 +4,7 @@
 
 ## These are a few of my favorite things
 Remote pair programming with various developers
-Thats so cool; I didnt know you could do that!
+Thats so cool; I didn't know you could do that!
 
 Ruby is designed to make programmers happy
 Ruby makes me smile
@@ -13,7 +13,7 @@ Writing "Confident Ruby"
 Can pay with a postcard which makes me happy
 
 ## Random walk through Ruby and StdLib
-Look at tools and idoims which make me happy
+Look at tools and idioms which make me happy
 
 ## Splat
 star or asterisk in Ruby
@@ -118,7 +118,7 @@ Enables us to implement a new type of message delegation
 
 ## MINASWAN
 Matz is nice and so we are nice
-To balance out techincal debt or drama, write joyful code!
+To balance out technical debt or drama, write joyful code!
 The only metric for joyful code is to share code
 Give someone a wow moment (share code) to feel joyful!
 

@@ -19,7 +19,7 @@ Allowing users to identify their relationships is for enhancing UX
 
 This happens when we throw more labels at the relationship is an indicator that the schema is wrong!
 
-Reltional databases cant model real life, a graph database is needed
+Relational databases cant model real life, a graph database is needed
 
 How do we bring modern relationships into a database?
 
@@ -34,7 +34,7 @@ How do we bring modern relationships into a database?
 What benefit will the user notice?
 You have to evaluate trade-offs
 
-Evaluating from the user perspecitive gives us focus
+Evaluating from the user perspective gives us focus
 
 (see slides for good examples of UX)
 

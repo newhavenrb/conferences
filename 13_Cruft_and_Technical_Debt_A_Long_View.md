@@ -9,9 +9,9 @@ Sandi told you how to contain the mess
 Katz will tell you how to clean it up
 
 ## Assumption mismatch
-Gap between assumptions and reality persumes more and more development time
+Gap between assumptions and reality presumes more and more development time
 Technical debt is taken on purpose and you imagine you'll pay it down
-Unlike techincal debt, assumption mismatch you can't be eliminated, you have to plan for it
+Unlike technical debt, assumption mismatch you can't be eliminated, you have to plan for it
 
 ## Open Source
 Good examples of assumption mismatch
@@ -31,7 +31,7 @@ We have to do it ourselves, but this will slowly drift
 "You can avoid all software problems but writing programs which do one thing and do one thing well"
 This misses the mark because this moves the complexity to rapidly evolving public APIs
 No matter how hard we try, we get the public APIs wrong
-Strawmen (sham) objection to Unix Philosophy
+Straw men (sham) objection to Unix Philosophy
 In other words, you force problem to the user, place an integration tax on user
 The Unix Philosophy requires a stable and well understood public API and interface
 
@@ -40,7 +40,7 @@ The Unix Philosophy requires a stable and well understood public API and interfa
 ## Supply Chains
 _...Supply chain management_
 
-When we first built cars, vertical integration was the choosen method
+When we first built cars, vertical integration was the chosen method
 Over time, vertical integration gives way to integrated systems
 This means we ended up with more stable and reliable supply chain
 
@@ -54,7 +54,7 @@ Because of this, you spend so much time building standards which don't reduce tr
 Rails was a vertically integrated supply chain
 Why was this the case? Why did we not have Rack?
 Answer: the cost to define Rack (standard) was high and there wasn't a marketplace for the standard
-Once little guys come along like sinatra and merb, standards emerge so we dont repeat ourselves
+Once little guys come along like sinatra and merb, standards emerge so we don't repeat ourselves
 
 Now we have a ton of standards!
 Now we have other integration costs
@@ -83,9 +83,9 @@ If we need to support something old, the assumption gap will not close
 When something which is old for sure, you do analysis of codebase and take a hard look at the assumptions to determine cost of removing cruft
 Wins can be gained by readjusting assumptions and starting assumptions from scratch
 
-What is the lifecycle of a project? (see slide)
+What is the life cycle of a project? (see slide)
 
-What is a better lifecycle? 
+What is a better life cycle? 
 *Track your cruft!!!*
 When you make an assumption, you should write down the assumption
 All assumptions should be visible to the entire team
@@ -101,7 +101,7 @@ QUESTIONS
 Can tests log cruft?
 NO! Assumptions must be documented in their own place
 Two sets of assumptions
-  1. IE6 dom issues, so write code
+  1. IE6 DOM issues, so write code
   2. Our user base is X
 
 

@@ -19,5 +19,5 @@ Writing the language was a lot of good little ideas which accumulated
 
 Having a bunch of decent ideas a different times is typical
 If you act on these ideas and build them up, you can succeed like Matz
-His genious was notices small problems and fixing them as he noticed them over a long period of time
-At somepoint, you might notice all the small parts are components which can be composed to solve large problems
+His genius was noticing small problems and fixing them as he noticed them over a long period of time
+At some point, you might notice all the small parts are components which can be composed to solve large problems

@@ -29,7 +29,7 @@ The developer is confused and we don't know enough about our app
 Object Oriented Design gives us hope!
   * helps you write code your future self will love
   * lets you stop worrying and love mess
-  * keeps statisfaction high!
+  * keeps satisfaction high!
 
 ## Object Oriented Design Examples
 
@@ -77,7 +77,7 @@ Use metaprogramming to _manufacture_ a class
 We just made a factory!
 We love Factories - something that manufactures an object is a factory
 
-Composition: it does not matter what is behing the interface
+Composition: it does not matter what is behind the interface
 
 ## Reprise
 Object Oriented Design is a set tools that tells you the consequences of

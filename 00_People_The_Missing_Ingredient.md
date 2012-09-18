@@ -27,7 +27,7 @@ People Patterns are a series of solutions that can be applied:
 
 2. **Voices In Your Head: They Don't Go Away**
 
-   Pyscological protection mechanisms   
+   Psychological protection mechanisms   
    Brain puts up barriers to make sure you don't get hurt   
    Don't listen to the voices   
    Once you get passed them, you'll be successful
@@ -47,7 +47,7 @@ People Patterns are a series of solutions that can be applied:
    3. Actual reality
 
    With reflection, you can see the actual reality   
-   Remove your coginitive biases   
+   Remove your cognitive biases  
    Look without emotion
 
 5. **Listen Without Agenda**
@@ -61,9 +61,9 @@ People Patterns are a series of solutions that can be applied:
 
    Bad news is an acid that sits on your brain
 
-   "Project is delayed because we forgot to implement a key componant"
+   "Project is delayed because we forgot to implement a key component"
 
-   What do you do? We sit and digust and try to fix.
+   What do you do? We sit and digest and try to fix.
 
    We never think about corollary and just get it out there!
 

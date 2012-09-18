@@ -52,7 +52,7 @@ Making a new VM competitive is *really really hard*
 ### JRuby choose JVM
 15 years of open source experience and super quick   
 Best GCs available   
-Rull parallel threading   
+Full parallel threading   
 Broad platform support so wide adoption   
 
 ### But Java Is Slow?
@@ -119,8 +119,8 @@ Now the path is cached and optimized!
 ### JVM opto 101
 JITs code bodies after 10k calls   
 Inlines up to two targets   
-Optimistics by making very aggressive decisions   
- * Makes optimistics decisions for a small system, but those decisions
+Optimistic by making very aggressive decisions   
+ * Makes optimistic decisions for a small system, but those decisions
  * Will have to be reversed for large systems
 Inlining optimizes and writes bytecode for a chunk of code instead of pieces
 
@@ -137,7 +137,7 @@ Significant gains for some folks
 ### What is next?
 Expand where JRuby optimizes such as super
 
-### Whacky stuff?
+### Wacky stuff?
 Optimize things like `respond_to?` or `method_missing`
 
 _Ruby flip-flops_

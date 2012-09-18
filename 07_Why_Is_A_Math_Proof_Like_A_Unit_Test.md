@@ -7,7 +7,7 @@ Name is from: Why is a raven like a writing desk?
 
 ## About Daniela
 Always wanted to be a mathematician
-Mathematicians dont need to think about reality
+Mathematicians don't need to think about reality
 Mathematicians live in the world of concept
 Care about context of problem, not necessarily a solution
 Transitioned into Rails very quickly because TDD from the very get-go

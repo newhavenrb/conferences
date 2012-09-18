@@ -3,7 +3,7 @@
 ## Jack Danger Canty
 
 ## Intro
-Common pattern from inception to hugh app
+Common pattern from inception to huge app
 
 1. Rails apps go in the same direction, but it can be corrected
 2. The problem is primarily about ownership
@@ -33,7 +33,7 @@ We get MonoRails because we keep on going and validating product in market
 ## What is the problem?
 Rails is optimized to getting up and going quickly
 Makes your first 30 days magical, but its not optimized for 3 years into development
-All software has tradeoffs
+All software has trade-offs
 
 (See Young & Mature slides)
 Postgres is super fast and doesn't have to do copy on write when adding a new column
@@ -49,7 +49,7 @@ Analyze your data not in production!
 
 ## Conway's Law
 "The shape of your people defines the shape of the products they make"
-There is a reason these Rails apps fail which is both techincal and emotional
+There is a reason these Rails apps fail which is both technical and emotional
 If you fail, you should take ownership and make amends
 Your effort combined with your skill, you can make it right
 Energy combined with skill produces success

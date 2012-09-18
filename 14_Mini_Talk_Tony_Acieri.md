@@ -8,7 +8,7 @@ Sidekiq is main project using Celluloid
 Combine OO and Actor model is like peanut butter and chocolate
 Provides Active Objects based on Actor model
 Actor model is easier than you think
-Celluloid isnt the first attempt to combine OO and Actors
+Celluloid isn't the first attempt to combine OO and Actors
 Another project is ATOM in Python
 Forgotten approach to concurrency is OO and Actors
 Celluloid makes it simple to write a concurrent program

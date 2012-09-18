@@ -52,7 +52,7 @@ With a secondary language, they aren't as emotionally involved.
 ### Get list of target languages
 
 * HTTP Headers
-* Google Analyitics
+* Google Analytics
 
 ### Linguistics
 
@@ -69,7 +69,7 @@ Ratio can be calculated for any language from Analytic to Synthetic
 Analytic is typically 1 to 1 ratio
 
 Synthetic is typically much higher like 2 to 9  
-Aword in a Synthetic language is a whole phrase in an Analytic language
+A word in a Synthetic language is a whole phrase in an Analytic language
 
 Ratio predicts how much agreement there is in languages
 
