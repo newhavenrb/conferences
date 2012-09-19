@@ -1,7 +1,7 @@
 # Code to Joy
 ## Avdi Grimm [@avdi](https://twitter.com/avdi)
 
-## These are a few of my favorite things   
+### These are a few of my favorite things   
 Remote pair programming with various developers   
 Thats so cool; I didn't know you could do that!
 
