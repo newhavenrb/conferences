@@ -1,4 +1,5 @@
 # Chris Eppstein
+## [@chriseppstein](https://twitter.com/chriseppstein)
 
 Happy of ignorance because you took a risk without really knowing it
 
