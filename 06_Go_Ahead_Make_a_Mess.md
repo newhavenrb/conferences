@@ -1,5 +1,5 @@
 # Go Ahead, Make a Mess
-## Sandi Metz
+## Sandi Metz [@sandimetz](https://twitter.com/sandimetz)
 
 https://speakerdeck.com/u/skmetz/p/go-ahead-make-a-mess
 
