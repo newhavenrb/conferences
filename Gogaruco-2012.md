@@ -26,3 +26,4 @@
 
 * [Website](http://gogaruco.com/)
 * [Schedule](http://gogaruco.com/schedule.html)
+* [Videos](http://www.confreaks.com/events/gogaruco2012)
