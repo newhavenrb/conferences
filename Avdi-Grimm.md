@@ -2,4 +2,6 @@
 
 ## Talks
 
+* [[Exceptional Ruby]]
+* [[Ruby Rogues Live Keynote]]
 * [[Code to Joy]]

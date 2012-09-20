@@ -2,7 +2,7 @@
 
 ## Abstract
 
-> Ruby's favorite podcast comes to RailsConf! Join the Ruby Rogues (David Brady, James Edward Gray II, Avdi Grimm, Josh Susser, and Charles Max Wood) for this live episode on What Rails Developers Should Care About.
+> Ruby's favorite podcast comes to RailsConf! Join the Ruby Rogues (David Brady, James Edward Gray II, [[Avdi Grimm]], Josh Susser, and Charles Max Wood) for this live episode on What Rails Developers Should Care About.
 >
 > If you've listened to the show, you probably know that the Rogues favor:
 >
@@ -45,7 +45,7 @@
         * Reverse engineer the path... led to GPS
     * Imitating proper behavior: "The Journal of Best Practices" (David Finch) - dealing with Asperger's
     * "Here's your new best practice: not everything is a best practice"
-* Avdi
+* [[Avdi Grimm]]
     * Why him?  Not an expert or prolific at OSS
     * Giving names to things; mindful coding
     * WikiWiki http://c2.com/wiki - read it

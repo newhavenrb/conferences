@@ -1,4 +1,4 @@
-Presenter: @avdi
+Presenter: [[Avdi Grimm]]
 
 * Nested exceptions: good for gems!
 * Circuit Breaker pattern
