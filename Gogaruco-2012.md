@@ -19,7 +19,7 @@
 * [[Cruft and Technical Debt A Long View]] ([[Yehuda Katz]])
 * Three Mini-talks: [[Mini Talk Tony Acieri]], [[Mini Talk Chris Eppstein]], [[Mini Talk Sarah Mei]]
 * [[Grasping Complexity with Both Hands]] ([[Glenn Vanderburg]])
-* [[RubyMotion: Rubyizing iOS development]] ([[Amit Kumar]])
+* [[RubyMotion Rubyizing iOS development]] ([[Amit Kumar]])
 * [[Mega Rails]] ([[Jack Danger Canty]])
 
 ## External Links
