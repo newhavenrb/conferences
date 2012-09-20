@@ -1,6 +1,6 @@
 From [[Gogaruco 2012]]
 
-**Presenter:** [[Steven Ragnarök]]
+**Presenter:** [[Steven Ragnarok]]
 
 ## Bio
 
