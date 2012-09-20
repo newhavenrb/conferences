@@ -1,3 +1,5 @@
+From [[Gogaruco 2012]]
+
 **Presenter:** [[Yehuda Katz]]
 
 ### Intro

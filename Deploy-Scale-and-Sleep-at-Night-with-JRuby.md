@@ -1,5 +1,6 @@
-# Deploy, Scale and Sleep at Night with JRuby
-## Joe Kutner [@codefinger](https://twitter.com/codefinger)
+From [[Gogaruco 2012]]
+
+**Presenter:** [[Joe Kutner]]
 
 **Difference between trains and cars is very similiar to difference between JRuby and MRI deployment systems**
 

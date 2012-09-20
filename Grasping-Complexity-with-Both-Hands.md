@@ -1,5 +1,6 @@
-# Grasping Complexity with Both Hands
-## Glenn Vanderburg [@glv](https://twitter.com/glv)
+From [[Gogaruco 2012]]
+
+**Presenter:** [[Glenn Vanderburg]]
 
 ### Simple
 We love simplicity   

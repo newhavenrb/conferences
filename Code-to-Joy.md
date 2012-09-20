@@ -1,5 +1,6 @@
-# Code to Joy
-## Avdi Grimm [@avdi](https://twitter.com/avdi)
+From [[Gogaruco 2012]]
+
+**Presenter:** [[Avdi Grimm]]
 
 ### These are a few of my favorite things   
 Remote pair programming with various developers   

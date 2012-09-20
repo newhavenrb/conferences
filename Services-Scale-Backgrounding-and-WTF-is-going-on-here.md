@@ -1,5 +1,6 @@
-# Services, Scale, Backgrounding and WTF is going on here?!??!
-## David Copeland [@davetron5000](https://twitter.com/davetron5000)
+From [[Gogaruco 2012]]
+
+**Presenter:** [[David Copeland]]
 
 http://davetron5000.github.com/services-wtf-gogaruco/
 

@@ -1,5 +1,6 @@
-# Why Is A Math Proof Like A Unit Test?
-## Daniela Wellisz [@alenia](https://twitter.com/alenia)
+From [[Gogaruco 2012]]
+
+**Presenter:** [[Daniela Wellisz]]
 
 http://math-tdd-slides.herokuapp.com/
 
