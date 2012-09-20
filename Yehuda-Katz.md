@@ -1,5 +1,6 @@
 * Twitter: [@wycats](http://twitter.com/wycats)
 * Website: http://yehudakatz.com
+* SpeakerDeck: https://speakerdeck.com/u/wycats
 
 ## Bio
 
