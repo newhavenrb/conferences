@@ -1,4 +1,4 @@
-* Twitter: cczona
+* Twitter: [@cczona](https://twitter.com/cczona)
 
 ## Talks
 

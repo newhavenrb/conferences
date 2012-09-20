@@ -1,4 +1,4 @@
-* Twitter: headius
+* Twitter: [@headius](https://twitter.com/headius)
 * Website: http://blog.headius.com/
 
 ## Talks
