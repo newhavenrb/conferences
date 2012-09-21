@@ -25,5 +25,5 @@ Working together is better.  :)
 
 * [[Software]]
 * [Offline Access](https://github.com/newhavenrb/conferences/wiki/_access)
-* [Contributors](https://github.com/newhavenrb/conferences/graphs/contributors) More than 50!
+* [Contributors](https://github.com/newhavenrb/conferences/graphs/contributors) (More than 50!)
 * [Code Frequency](https://github.com/newhavenrb/conferences/graphs/code-frequency)
