@@ -12,6 +12,6 @@ De [[RailsConf 2012]]:
 
 ## En otros idiomas
 
-* [[English|David Heinemeier Hansson Keynote]]
-* [[日本語|David Heinemeier Hansson Keynote JA]]
-* [[Português|David Heinemeier Hansson Keynote PT]]
+* [[English|David Heinemeier Hansson]]
+* [[日本語|David Heinemeier Hansson JA]]
+* [[Português|David Heinemeier Hansson PT]]
