@@ -2,7 +2,7 @@
 
 ## Bio
 
-From [[RailsConf 2012]]
+From [[RailsConf 2012]]:
 
 > David Heinemeier Hansson is a partner at <a href="http://37signals.com/">37signals</a>, a privately-held Chicago-based company committed to building the best web-based tools possible with the least number of features necessary.
 >
