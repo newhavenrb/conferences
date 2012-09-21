@@ -1,4 +1,4 @@
-Sometimes, we've merged notes from other people's repositories (not forks -- entirely separate repos).  This is a collection of permissions received.  Please don't merge from anyone who hasn't given their permission.
+Sometimes, we've merged notes from other people's repositories (not forks -- entirely separate repos).  This is a collection of permissions received.  Please don't merge from anyone who hasn't given their permission (if the license is unclear).
 
 ## [[Gogaruco 2012]]
 
