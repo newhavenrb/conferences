@@ -6,3 +6,8 @@
 >
 > 彼は、Ruby on Railsの創始者でもあります。
 
+## 他の言語
+
+* [[English|David Heinemeier Hansson]]
+* [[Español| David Heinemeier Hansson ES]]
+* [[Português|David Heinemeier Hansson PT]]
