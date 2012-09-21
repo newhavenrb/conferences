@@ -10,7 +10,10 @@ Working together is better.  :)
 
 ---
 
-* [[Speakers on Twitter]]
+* [[Speakers]], for example:
+    * [[Avdi Grimm]]
+    * [[Yehuda Katz]]
+    * [[Steve Klabnik]]
 * Recent Conferences
     * [[Gogaruco 2012]]
     * [[WindyCityRails 2012]]
