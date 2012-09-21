@@ -8,8 +8,6 @@
 >
 > 彼は、Ruby on Railsの創始者でもあります。
 
-## Talks
-
 * [[Keynote|David Heinemeier Hansson Keynote JA]]
 
 ## 他の言語
