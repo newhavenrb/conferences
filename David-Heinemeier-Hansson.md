@@ -10,6 +10,8 @@ From [[RailsConf 2012]]:
 >
 > He is also the creator of Ruby on Rails.
 
+## Talks
+
 ## Other Languages
 
 * [[Español|David Heinemeier Hansson ES]]
