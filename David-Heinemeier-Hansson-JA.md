@@ -1,3 +1,5 @@
+* Twitter: http://twiter.com/dhh
+
 ## 摘要
 
 > David Heinemeier Hanssonは、<a href="http://37signals.com/">37signals</a>のパートナーです。 37signalsは、必要最小限の機能で最高を実現するウェブアプリケーションの作成に特化したシカゴを中心とした非公開企業です。
