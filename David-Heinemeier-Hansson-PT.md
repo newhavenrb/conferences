@@ -6,7 +6,6 @@
 >
 > Ele também é criador do Ruby on Rails.
 
-* [[English|David Heinemeier Hansson Keynote]]
 * [[Keynote|David Heinemeier Hansson keynote PT]]
 
 ## Noutras Línguas
