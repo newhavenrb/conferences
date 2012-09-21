@@ -1,6 +1,6 @@
 TODO (ayuda por favor :) )
 
-**Ponente:** David Heinemeier Hansson
+**Ponente:** [[David Heinemeier Hansson|David Heinemeier Hansson ES]]
 
 ## Portafolio
 
