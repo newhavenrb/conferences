@@ -10,6 +10,8 @@ De [[RailsConf 2012]]:
 >
 > David es también el creador de Ruby on Rails.
 
+* [[Keynote|David Heinemeier Hansson keynote ES]]
+
 ## En otros idiomas
 
 * [[English|David Heinemeier Hansson]]
