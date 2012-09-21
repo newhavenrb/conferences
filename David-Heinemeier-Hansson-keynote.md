@@ -1,4 +1,4 @@
-**Presenter:** David Heinemeier Hansson
+**Presenter:** [[David Heinemeier Hansson]]
 
 ## Abstract
 
