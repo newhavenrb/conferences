@@ -9,3 +9,9 @@ De [[RailsConf 2012]]:
 > Los productos de 37signals' incluyen Basecamp, Highrise, Backpack, Campfire, Ta-da List, y Writeboard. Los productos de 37signals hacen menos que la competencia -- intencionadamente.
 >
 > David es también el creador de Ruby on Rails.
+
+## En otros idiomas
+
+* [[English|David Heinemeier Hansson Keynote]]
+* [[日本語|David Heinemeier Hansson Keynote JA]]
+* [[Português|David Heinemeier Hansson Keynote PT]]
