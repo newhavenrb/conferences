@@ -12,6 +12,8 @@ From [[RailsConf 2012]]:
 
 ## Talks
 
+* [[Keynote|David Heinemeier Hansson keynote]]
+
 ## Other Languages
 
 * [[Español|David Heinemeier Hansson ES]]
