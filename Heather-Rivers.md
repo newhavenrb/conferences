@@ -2,4 +2,4 @@
 
 ## Talks
 
-* [[Linguistic Potluck Crowdsourcing Localization in Rails]]
+* [[Linguistic Potluck: Crowdsourcing Localization in Rails]]
