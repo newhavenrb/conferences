@@ -1,7 +1,6 @@
 From [[Gogaruco 2012]]
 
 **Presenter:** [[Heather Rivers]]
-@HeatherRivers
 
 ### Introduction
 Bridge gap between computers language and ours
