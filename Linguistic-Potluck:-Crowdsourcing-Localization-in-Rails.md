@@ -1,6 +1,7 @@
 From [[Gogaruco 2012]]
 
 **Presenter:** [[Heather Rivers]]
+@HeatherRivers
 
 ### Introduction
 Bridge gap between computers language and ours
@@ -115,7 +116,7 @@ globalize3 gem
 YAML sucks, so store translations into persistent key/value store  
 Heavily cache translations!
 
-#### Croudsourcing
+#### Crowdsourcing
 _PROS:_ almost free, progressive enhancement and totally self monitoring
 
 #### Professional Translators
