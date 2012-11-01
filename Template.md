@@ -2,6 +2,8 @@ From [[Conference Page]]
 
 **Presenter:** [[Real Name]]
 
+(Use whatever sections fit your needs)
+
 ## Abstract
 
 > What it says about this talk on the schedule
