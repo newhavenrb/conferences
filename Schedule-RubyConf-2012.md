@@ -44,6 +44,9 @@ A schedule you can glance at with talk summary, not title
 
 ## Friday
 
+### 8:00
+* 5k/10k https://rubyconf2012race.eventbrite.com 
+
 ### 10:20
 * * [[Y Not -- Adventures in Functional Programming]] - [[Jim Weirich]]
 
@@ -74,7 +77,7 @@ A schedule you can glance at with talk summary, not title
 * Security priority zero, how to - [[Joshua Ballanco]]
 
 ### 17:30 - Lightning Talks
-* [[RubyConf 2012 Lightning Talks]]
+* [[RubyConf 2012 Lightning Talks]] http://rubyconf2012lightningtalks.herokuapp.com/lightning_talks http://rubyconf.org/lightningtalks
 
 ### 19:00
 * Party http://smore.com/hyxv Engine Yard and Factory Lab https://rubyconfbash.eventbrite.com
