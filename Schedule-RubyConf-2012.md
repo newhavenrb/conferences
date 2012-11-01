@@ -38,6 +38,10 @@ A schedule you can glance at with talk summary, not title
 * Tokaido - install ruby on osx - [[Yehuda Katz]]
 * CORS, secure - [[Michael Bleigh]]
 
+### 18:00
+* iTriage party http://theultimateitriagehoedown2012-rubyconf.eventbrite.com/
+
+
 ## Friday
 
 ### 10:20
@@ -54,28 +58,26 @@ A schedule you can glance at with talk summary, not title
 * Building internal tools - [[Keavy McMinn]]
 * DRb vs. EventMachine for communications - [[Davy Stevenson]]
 
-
-
 ### 14:30
 * Arduino w/ ruby and t-shirt gun - [[Austin Vance]]
 * What is deployment: app-centric, node-centric, system-centric - [[Dr Nic Williams]]
 * dRuby metaprogramming (pre-Rails) - [[Makoto Inoue]], [[Masatoshi Seki]]
-
 
 ### 15:30
 * Xiki: the Rubyfied Next-Generation Shell Console w/wiki - [[Craig Muth]]
 * Inside RubyMotion - [[Rich Kilmer]]
 * libgmalloc, gdb, fixing ruby - [[Joshua Ballanco]]
 
-
 ### 16:30
 * Celluload, actors, concurrents objectds - [[Tony Arcieri]]
 * RubyMotion dev process, fast - [[Tammer Saleh]]
 * Security priority zero, how to - [[Joshua Ballanco]]
 
-
 ### 17:30 - Lightning Talks
 * [[RubyConf 2012 Lightning Talks]]
+
+### 19:00
+* Party http://smore.com/hyxv Engine Yard and Factory Lab https://rubyconfbash.eventbrite.com
 
 ## Saturday
 
@@ -104,3 +106,8 @@ A schedule you can glance at with talk summary, not title
 
 ### 16:40
 * Intimate Chat with Matz -[[Yukihiro Matsumoto]]
+
+## Sunday
+
+### 8:30-16:00
+* Kids Code Camp http://kidscodecamp-rubyconf2012.eventbrite.com/
