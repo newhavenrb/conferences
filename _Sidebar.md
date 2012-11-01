@@ -15,7 +15,7 @@ Working together is better.  :)
     * [[Yehuda Katz]]
     * [[Steve Klabnik]]
 * Recent Conferences
-    * [[RubyConf 2012]]
+    * **Now:** [[RubyConf 2012]]
     * [[Gogaruco 2012]]
     * [[WindyCityRails 2012]]
 
