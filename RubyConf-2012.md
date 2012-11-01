@@ -31,6 +31,8 @@ Track 3:
 
 ## Friday 2012-11-02
 
+[[Y Not -- Adventures in Functional Programming]] - [[Jim Weirich]]
+
 ## Saturday 2012-11-03
 
 ## External Links
