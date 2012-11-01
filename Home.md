@@ -19,7 +19,7 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 ### 2012
 
 * Upcoming: [[BarcampICR 2012]] - Iowa City, IA
-* Now: [[RubyConf 2012]] - November 1-3 - Denver, CO
+* **Now:** [[RubyConf 2012]] - November 1-3 - Denver, CO
 * [[AlohaRubyConf 2012]] - October 8-9 - Honolulu, HI
 * [[Gogaruco 2012]] - September 14–15 - San Francisco, CA
 * [[WindyCityRails 2012]] - September 6-7 - Chicago, IL
