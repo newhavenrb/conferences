@@ -1,3 +1,5 @@
+**Note:** Need some structure for taking notes on a talk?  There's a [[template]] available for that.  Just copy its content in, and then take notes.  Or whatever you'd like.  :)
+
 ## Thursday 2012-11-01
 
 All tracks:
