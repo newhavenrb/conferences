@@ -1,3 +1,5 @@
+[Live Stream](http://www.justin.tv/confreaks#/w/4092827808)
+
 **Note:** Need some structure for taking notes on a talk?  There's a [[template]] available for that.  Just copy its content in, and then take notes.  Or whatever you'd like.  :)
 
 ## Thursday 2012-11-01
