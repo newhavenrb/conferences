@@ -1,5 +1,7 @@
 ## Thursday 2012-11-01
 
+All tracks:
+
 * [[Matz's RubyConf 2012 Keynote]] - [[Yukihiro Matsumoto]]
 
 Track 1:
@@ -31,7 +33,37 @@ Track 3:
 
 ## Friday 2012-11-02
 
+All tracks:
+
 * [[Y Not -- Adventures in Functional Programming]] - [[Jim Weirich]]
+
+Track 1:
+
+* [[Ruby vs. the world]] - [[Matt Aimonetti]]
+* [[Real Time Salami]] - [[Aaron Patterson]]
+* [[Arduino the Ruby way]] - [[Austin Vance]]
+* [[Xiki: the Rubyfied Next-Generation Shell Console]] - [[Craig Muth]]
+* [[The Celluloid Ecosystem]] - [[Tony Arcieri]]
+
+Track 2:
+
+* [[Grow Your Unix Beard Using Ruby]] - [[Jesse Storimer]]
+* [[How to build, use and grow internal tools]] - [[Keavy McMinn]]
+* [[Change your tools, change your outcome - the next frontier of deployment]] - [[Dr Nic Williams]]
+* [[Inside RubyMotion]] - [[Rich Kilmer]]
+* [[RubyMotion for Faster Client/Server Development]] - [[Tammer Saleh]]
+
+Track 3:
+
+* [[Asynchronous Processing for Fun and Profit]] - [[Mike Perham]]
+* [[DRb vs EventMachine Showdown]] - [[Davy Stevenson]]
+* [[Rails Is A Follower: what we can learn from dRuby's metaprogramming magic]] - [[Makoto Inoue]], [[Masatoshi Seki]]
+* [[There and Back Again -or- How I Set out to Benchmark an Algorithm and Ended Up Fixing Ruby]] - [[Joshua Ballanco]]
+* [[Making Security Priority Zero]] - [[Rein Henrichs]]
+
+All tracks:
+
+* [[RubyConf 2012 Lightning Talks]]
 
 ## Saturday 2012-11-03
 
