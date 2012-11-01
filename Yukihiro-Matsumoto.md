@@ -1,3 +1,4 @@
+![Matz](http://upload.wikimedia.org/wikipedia/commons/7/76/Yukihiro_Matsumoto.JPG)
 From [Wikipedia](http://en.wikipedia.org/wiki/Yukihiro_Matsumoto):
 > Yukihiro Matsumoto (松本行弘 (まつもとゆきひろ) Matsumoto Yukihiro?, a.k.a. Matz, born 14 April 1965) is a Japanese computer scientist and software programmer best known as the chief designer of the Ruby programming language and its reference implementation, Matz's Ruby Interpreter (MRI).
 >
