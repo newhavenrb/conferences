@@ -40,32 +40,42 @@ A schedule you can glance at with talk summary, not title
 
 ## Friday
 
+### 10:20
+* * [[Y Not -- Adventures in Functional Programming]] - [[Jim Weirich]]
+
 ### 11:30
-* Looking at other languages as a rubyist - Matt Aimonetti
-* Async, messages, gotchas + secrets - Mike Perham
-* Unix in Unicorn, fork - Jesse Storimer
+* Looking at other languages as a rubyist - [[Matt Aimonetti]]
+* Unix in Unicorn, fork - [[Jesse Storimer]]
+* Async, messages, gotchas + secrets - [[Mike Perham]]
+
 
 ### 13:30
-* DRb vs. EventMachine for communications - Davy Stevenson
-* Building internal tools - Keavy McMinn
-* Real time systems w/ salami - Aaron Patterson
+* Real time systems w/ salami - [[Aaron Patterson]]
+* Building internal tools - [[Keavy McMinn]]
+* DRb vs. EventMachine for communications - [[Davy Stevenson]]
+
+
 
 ### 14:30
-* Arduino w/ ruby and t-shirt gun - Austin Vance
-* dRuby metaprogramming (pre-Rails) - Mahoto Inoe, Masatoshi Seki
-* What is deployment: app-centric, node-centric, system-centric - Nic Williams
+* Arduino w/ ruby and t-shirt gun - [[Austin Vance]]
+* What is deployment: app-centric, node-centric, system-centric - [[Dr Nic Williams]]
+* dRuby metaprogramming (pre-Rails) - [[Makoto Inoue]], [[Masatoshi Seki]]
+
 
 ### 15:30
-* Xiki console with wiki - Craig Muth
-* libgmalloc, gdb, fixing ruby - Joshua Ballanco
-* Inside RubyMotion - Laurant Sansonetti
+* Xiki: the Rubyfied Next-Generation Shell Console w/wiki - [[Craig Muth]]
+* Inside RubyMotion - [[Rich Kilmer]]
+* libgmalloc, gdb, fixing ruby - [[Joshua Ballanco]]
+
 
 ### 16:30
-* Security priority zero, how to - Rein Heinrichs
-* Celluload, actors, concurrents objectds - Tony Arcieri
-* RubyMotion dev process, fast - Tammer Saleh
+* Celluload, actors, concurrents objectds - [[Tony Arcieri]]
+* RubyMotion dev process, fast - [[Tammer Saleh]]
+* Security priority zero, how to - [[Joshua Ballanco]]
+
 
 ### 17:30 - Lightning Talks
+* [[RubyConf 2012 Lightning Talks]]
 
 ## Saturday
 
