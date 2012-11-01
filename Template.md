@@ -1,8 +1,6 @@
-**Presenter:** Real name, @twitter\_username
+From [[Conference Page]]
 
-## Bio
-
-> What it says about this person in the schedule.
+**Presenter:** [[Real Name]]
 
 ## Abstract
 
@@ -20,6 +18,8 @@
 * "Android is the new IE." - _[[John Bender|Progressive Enhancement on the Mobile Web]]_
 
 ## Notes
+
+### From @YourGitHubUsername
 
 * This layout is just a suggestion.
 * It's kinda based on how Wikipedia is organized (e.g. an "External Links" section)
