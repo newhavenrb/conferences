@@ -1,6 +1,6 @@
 ## Thursday 2012-11-01
 
-* [[Title]] - [[Who]]
+* [[Matz's RubyConf 2012 Keynote]] - [[Yukihiro Matsumoto]]
 
 ## Friday 2012-11-02
 
