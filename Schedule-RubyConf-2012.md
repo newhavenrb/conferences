@@ -1,38 +1,42 @@
 # Schedule RubyConf 2012
 
-A schedule you can glance at
+A schedule you can glance at with talk summary, not title
 
 ## Thursday
 
+### 10:20 
+* Keynote - [[Yukihiro Matsumoto]]
+
 ### 11:30
-* MagLev - Jesse Cooke
-* Ruby HTTP Comparison - Hiroshi Nakamura
-* Custom Reverse Proxy - Nick Muerdter
+* MagLev - [[Jesse Cooke]]
+* Ruby HTTP Comparison - [[Hiroshi Nakamura]]
+* Custom Reverse Proxy - [[Nick Muerdter]]
+
 
 ### 13:30
-* Rhetoric - Joseph Wilka
-* SOA JRuby git -> cap deploy - Chris Hunt
-* Ruby 2.0 VM - Koichi Sasuda
+* Rhetoric -  [[Joseph Wilk]]
+* SOA JRuby git -> cap deploy - [[Chris Hunt]]
+* Ruby 2.0 VM - [[Koichi Sasada]]
 
 ### 14:30
-* Improvements in Ruby 2.0, on Rails - Akira Matsuda
-* Monitoring, Instrumenting, Visualizing - Joseph Ruscio - Librato
-* Experimental Learning through failure - Kerri Miller
+* Improvements in Ruby 2.0, on Rails - [[Akira Matsuda]]
+* Monitoring, Instrumenting, Visualizing - [[Joseph Ruscio]] - Librato
+* Experimental Learning through failure - [[Kerri Miller]]
 
 ### 15:30
-* Data Driven Products w/ Hadoop etc - Ryan Weald
-* Zero Downtime Deploy (db, gb, service) - Matt Duncan
-* Need for a ruby language design process - Brian Ford
+* Data Driven Products w/ Hadoop etc - [[Ryan Weald]]
+* Zero Downtime Deploy (db, gb, service) - [[Matt Duncan]]
+* Need for a ruby language design process - [[Brian Ford]]
 
 ### 16:30
-* Refactoring w LIVE CODING - Ben Orenstein
-* Tracking across apps, notifications, travis-ci - Josh Kalderimis
-* Jruby is the best, why? - Charles Nutter
+* Refactoring w LIVE CODING - [[Ben Orenstein]]
+* Tracking across apps, notifications, travis-ci - [[Josh Kalderimis]]
+* Jruby is the best, why? - [[Charles Nutter]], [[Tom Enebo]]
 
 ### 17:30
-* Ruby blocks: internals, meta class - Pat Shaughnessy
-* Tokaido - install ruby on osx - Yehuda Katz
-* CORS, secure - Michael Bleigh
+* Ruby blocks: internals, meta class - [[Pat Shaughnessy]]
+* Tokaido - install ruby on osx - [[Yehuda Katz]]
+* CORS, secure - [[Michael Bleigh]]
 
 ## Friday
 
@@ -90,4 +94,3 @@ A schedule you can glance at
 
 ### 16:40
 * Intimate Chat with Matz
-
