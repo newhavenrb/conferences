@@ -80,27 +80,27 @@ A schedule you can glance at with talk summary, not title
 ## Saturday
 
 ### 10:20
-* Insufficiency of Good Design - teams matter - Sarah Mei
+* Insufficiency of Good Design - teams matter - [[Sarah Mei]]
 
 ### 11:30
-* mRuby for embedded systems, e.g. ios / RTOS kernel - Masayoshi Takahashi, Yuichiro Masui, Yuir Yanse
-* Game Development in Ruby - Andrew Nordman
-* Testing should/must be fun - Noel Rappin
+* Game Development in Ruby - [[Andrew Nordman]]
+* Testing should/must be fun - [[Noel Rappin]]
+* mRuby for embedded systems, e.g. ios / RTOS kernel - [[Masayoshi Takahashi]], [[Yuichiro MASUI]], [[Yurie Yamane]]
 
 ### 13:30
-* krypt - Cryptography, needs a successor to OpenSSL - Martin Bosslet
-* jRuby and Sikuli UI -> interface testing -> diablo 3 bot - Rodrigo Fanco
-* Machine write test code? RubyCorrect - Loren Segal
+* jRuby and Sikuli UI -> interface testing -> diablo 3 bot - [[Rodrigo Franco]]
+* Machine write test code? RubyCorrect - [[Loren Segal]]
+* krypt - Cryptography, needs a successor to OpenSSL -[[Martin Boßlet]]
 
 ### 14:30
-* Boundaries / Isolation - Gary Bernhard
-* Simulating the real world with ruby models - Bryan Liles
-* High-performance calculation engine in ruby - Dennis Schoenmakers
+* Simulating the real world with ruby models - [[Bryan Liles]]
+* High-performance calculation engine in ruby - [[Dennis Schoenmakers]]
+* Boundaries / Isolation - [[Gary Bernhardt]]
 
 ### 15:30
-* Rapid prog lang protpyith Ruby and racc - Tom Lee
-* Machine Learninging - Chris Nelson
-* Objects in Ruy - Josh Susser
+* Objects in Ruy - [[Josh Susser]]
+* Machine Learninging - [[Chris Nelson]]
+* Rapid prog lang protpyith Ruby and racc - [[Tom Lee]]
 
 ### 16:40
-* Intimate Chat with Matz
+* Intimate Chat with Matz -[[Yukihiro Matsumoto]]
