@@ -67,6 +67,35 @@ All tracks:
 
 ## Saturday 2012-11-03
 
+All tracks:
+
+* [[The Insufficiency of Good Design]] - [[Sarah Mei]]
+
+Track 1:
+
+* [[Game Development and Ruby]] - [[Andrew Nordman]]
+* [[Interface testing: Creating a Diablo 3 bot using jRuby and Sikuli UI]] - [[Rodrigo Franco]]
+* [[Simulating the world with Ruby]] - [[Bryan Liles]]
+* [[Thinking in Objects]] - [[Josh Susser]]
+
+Track 2:
+
+* [[Testing Should Be Fun]] - [[Noel Rappin]]
+* [[Could a Machine Ever Write Tests For Our Code? New Verification Techniques For Ruby]] - [[Loren Segal]]
+* [[How we try to answer The Great Energy Questions with Ruby]] - [[Dennis Schoenmakers]]
+* [[Machine learning for fun and profit: the story of how my customer wrote my code]] - [[Chris Nelson]]
+
+Track 3:
+
+* [[mruby meets iOS and RTOS!]] - [[Masayoshi Takahashi]], [[Yuichiro MASUI]], [[Yurie Yamane]]
+* [[krypt - The next level of Ruby cryptography]] - [[Martin Boßlet]]
+* [[Boundaries]] - [[Gary Bernhardt]]
+* [[Rapid Programming Language Prototypes with Ruby & Racc]] - [[Tom Lee]]
+
+All tracks:
+
+* [[An Intimate Chat with Matz]] - [[Yukihiro Matsumoto]]
+
 ## External Links
 
 * [Website](http://rubyconf.org/)
