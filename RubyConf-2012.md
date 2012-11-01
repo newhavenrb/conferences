@@ -19,12 +19,14 @@
 * [[Toward a Design for Ruby]] - [[Brian Ford]]
 * [[Why JRuby Works]] - [[Charles Nutter]], [[Tom Enebo]]
 * [[Tokaido: Making Ruby Better on OSX]] - [[Yehuda Katz]]
+
 * [[Abstracting Features Into Custom Reverse Proxies (Or: Making Better Lemonade From Chaos)]] - [[Nick Muerdter]]
 * [[Service Oriented Architecture at Square]] - [[Chris Hunt]]
 * [[Ruby Monitoring State of the Union]] - [[Joseph Ruscio]]
 * [[Zero Downtime Deploys Made Easy]] - [[Matt Duncan]]
 * [[Your app is not a black box]] - [[Josh Kalderimis]]
 * [[Building modular, scalable web apps? Of CORS!]] - [[Michael Bleigh]]
+
 * [[Ruby HTTP clients comparison]] - [[Hiroshi Nakamura]]
 * [[Someone is Wrong]] - [[Joseph Wilk]]
 * [[Failure for Fun and Profit!]] - [[Kerri Miller]]
