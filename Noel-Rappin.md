@@ -14,3 +14,4 @@ From [WindyCityRails](http://windycityrails.org/sessions/#rappin):
 ## Talks
 
 * [[Let's Make Testing Fun Again]]
+* [[Testing Should Be Fun]]
