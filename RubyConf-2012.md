@@ -105,3 +105,7 @@ All tracks:
 * [Website](http://rubyconf.org/)
 * [Schedule](http://rubyconf2012.busyconf.com/schedule/full)
 * [Twitter](http://twitter.com/rubyconf)
+
+## Simplified Schedule
+
+* [[Schedule-RubyConf-2012]]
