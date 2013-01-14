@@ -14,8 +14,10 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 
 ### 2013
 
-* Upcoming: [[The British Ruby Conference 2013]] - March 15–16 - Manchester, UK
 * Upcoming (now 2013): [[BarcampICR 2012]] - Iowa City, IA
+* Upcoming: RubyConfAu - Feburary 21-22 - Melbourne, Australia
+* Upcoming: LARubyConf
+* Upcoming: Lone Star Ruby
 
 ### 2012
 
