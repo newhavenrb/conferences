@@ -48,3 +48,4 @@ Good Rspec Habits:
 ### External Links
 
 * [Slides](https://speakerdeck.com/u/noelrap/p/lets-make-testing-fun-again)
+* [Video](http://vimeo.com/49525644)
