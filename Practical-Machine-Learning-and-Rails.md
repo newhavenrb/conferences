@@ -240,7 +240,7 @@ recommendify
 * [Slides (part 1)](http://www.slideshare.net/ryanstout/practical-machine-learning-and-rails-part1)
 * [Slides (part 2)](http://www.slideshare.net/ryanstout/practical-machine-learning-and-rails-part2)
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
-* [Stamford's Machine Learning Class](http://ml-class.org)
+* [Stanford's Machine Learning Class](http://ml-class.org)
 * [Ryan Stout's example, on github](https://github.com/ryanstout/mlexample)
 * [Recommendify](https://github.com/paulasmuth/recommendify)
 
