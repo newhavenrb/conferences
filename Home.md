@@ -19,6 +19,7 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 * Upcoming: LARubyConf
 * Upcoming: Lone Star Ruby
 * Upcoming: [[RailsConf 2013]] - April 29 - May 2 - Portland, OR
+* Upcoming: [RubyNation](http://www.rubynation.org/) - June 13-15
 
 ### 2012
 
