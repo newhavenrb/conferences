@@ -1,4 +1,4 @@
-These are all of the notes [I](github.com/jamesgary) took for [RailsConf 2013](railsconf.com/2013/schedule) in one big page. If others start contributing, it's probably best to split them up into individual pages :)
+These are all of the notes [James Gary](http://github.com/jamesgary) took for [RailsConf 2013](http://railsconf.com/2013/schedule) in one big page. If others start contributing, it's probably best to split them up into individual pages :)
 
 ## Testing HTTP APIs in Ruby
 ### @shaiguitar
