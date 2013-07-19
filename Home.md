@@ -14,12 +14,9 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 
 ### 2013
 
-* Upcoming (now 2013): [[BarcampICR 2012]] - Iowa City, IA
-* Upcoming: RubyConfAu - Feburary 21-22 - Melbourne, Australia
-* Upcoming: LARubyConf
-* Upcoming: Lone Star Ruby
-* Upcoming: [[RailsConf 2013]] - April 29 - May 2 - Portland, OR
-* Upcoming: [RubyNation](http://www.rubynation.org/) - June 13-15
+* [[Lone Star Ruby 2013]]
+* [[RailsConf 2013]] - April 29 - May 2 - Portland, OR
+* [RubyNation](http://www.rubynation.org/) - June 13-15
 
 ### 2012
 
