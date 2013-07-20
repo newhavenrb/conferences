@@ -8,9 +8,10 @@
 * [[Elixir: Power of Erlang, Joy of Ruby]]
 * [[Smash the Monolith]]
 * [[Building a Culture of Quality]]
-* [[Placing Things into Other Things]]
 
 ### Saturday
+
+* [[Diary of a Mad Rails Engineer]]
 
 ### Unattended, but with slides posted
 [exnteral link](http://www.lonestarruby.org/2013/lsrc)
