@@ -15,6 +15,7 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 ### 2013
 
 * Upcoming: [[The British Ruby Conference 2013]] - March 15–16 - Manchester, UK
+* [[Lone Star Ruby Conference 2013]] - July 18-20 - Austin, Texas
 
 ### 2012
 
