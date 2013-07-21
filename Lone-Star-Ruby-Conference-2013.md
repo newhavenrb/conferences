@@ -2,6 +2,7 @@
 
 ### Friday
 
+* [[Advanced Ruby]]
 * [[Sandi Metz Keynote]]
 * [[Dissecting Ruby with Ruby]]
 * [[Pour Some Sugar on Me]]
