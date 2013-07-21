@@ -14,7 +14,6 @@ If you like the idea of a conference wiki, please consider [[helping us|How you 
 
 ### 2013
 
-* [[Lone Star Ruby 2013]]
 * [[Lone Star Ruby Conference 2013]] - July 18-20 - Austin, Texas
 * [[RailsConf 2013]] - April 29 - May 2 - Portland, OR
 * [RubyNation](http://www.rubynation.org/) - June 13-15
